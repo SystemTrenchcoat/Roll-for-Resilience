@@ -4,7 +4,7 @@
 
   
 
-Leadership:
+### Leadership
 
   
   
@@ -13,11 +13,11 @@ Leadership:
   
   
 
-Military Structure:
+### Military Structure
 
   
 
-Laws:
+### Laws
 
 - Curfews
     
@@ -35,7 +35,7 @@ Laws:
   
   
 
-Rich Nobles:
+### Rich Nobles
 
 - Rich nobles have heavy influence over the government’s decisions
     
@@ -65,7 +65,7 @@ Rich Nobles:
 
   
 
-Adventurer’s guild/Workers:
+### Adventurer’s guild/Workers
 
 - Jobs:
     
@@ -100,7 +100,7 @@ Adventurer’s guild/Workers:
 
   
 
-Commoners:
+### Commoners
 
 - Overcrowded housing
     
@@ -108,7 +108,7 @@ Commoners:
     
 - Flood prone areas
     
-- Jobs:
+#### - Jobs
     
 
 - Fishermen
@@ -129,7 +129,7 @@ Commoners:
 
   
 
-Underclass:
+### Underclass
 
 - Poverty
     
@@ -146,7 +146,7 @@ Underclass:
 
   
 
-Secret Society? (Pupils of the Spire)
+### Secret Society? (Pupils of the Spire)
 
 - A small group of select elites that know about the inner mechanics and purpose of the spire
     

@@ -21,7 +21,7 @@
 - Smugglers - Bring people and goods in and out, neither conservative nor rebel, only in it for the money
     
 
-- Players as….
+## Players as….
     
 
 - Merchants: trying to sell their wares to the city
@@ -35,7 +35,7 @@
 - Playing as the guards forcing the institution on others
     
 
-- Themes
+## Themes
     
 
 - "Thought crime" aka people monitor their own thoughts and feel fear despite towers being unable to see their thoughts -- only their actions
@@ -46,7 +46,7 @@
 - Doublespeak (or algospeak as we might call it) originated in part from doublethink. Intentional disguising, distortion, or reversal of words to make the truth more palatable. 
     
 
-- Possible Plot points:
+## Possible Plot points
     
 
 - Lesser maintained tower leads people to realize that 
@@ -67,16 +67,16 @@
 - If spies, probably some mission to sus out what guards would be willing to turn against the elites and which ones to steer clear of. Might have some missions around exposing the crimes of the nobility
     
 
-- Character ideas
+## Character ideas
     
 
-- Rebellion
+### Rebellion
     
 
 - Gruff no nonsense type
     
 
-- Guards
+### Guards
     
 
 - Kinda sleazy captain?
@@ -84,7 +84,7 @@
 - High ranking guard that is the epitome of discipline
     
 
-- Nobles
+### Nobles
     
 
 - Well spoken and egotistical
@@ -94,7 +94,7 @@
 
   
 
-- ### Narrative Idea: The Watchmen's Dilemma
+- ## Narrative Idea: The Watchmen's Dilemma
     
 
 - Players begin their journey as junior guards within the city's law enforcement.
