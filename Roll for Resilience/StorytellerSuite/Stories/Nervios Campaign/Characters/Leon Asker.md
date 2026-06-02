@@ -12,9 +12,12 @@ race: Human
 age: "36"
 height: 5' 7"
 id: mpwy9llxpu5enh
-currentLocationId: "[[Leon Asker]]"
+currentLocationId: "[[Nervios]]"
 _skipSync: true
 locations: Nervios
+locationHistory:
+  - locationId: "[[Nervios]]"
+    relationship: moved to
 ---
 
 ## Description
