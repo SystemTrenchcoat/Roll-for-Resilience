@@ -1,13 +1,19 @@
 {
   "stories": [
     {
-      "id": "mpwy9kn3o4bhth",
+      "id": "mpvmtgofdnkrh0",
       "name": "Nervios Campaign",
-      "created": "2026-06-02T18:07:19.743Z",
-      "description": "Discovered from filesystem"
+      "created": "2026-06-01T19:59:06.159Z",
+      "description": ""
+    },
+    {
+      "id": "mpvv6do06abs5c",
+      "name": "..",
+      "created": "2026-06-01T23:53:05.712Z",
+      "description": ""
     }
   ],
-  "activeStoryId": "mpwy9kn3o4bhth",
+  "activeStoryId": "mpvmtgofdnkrh0",
   "galleryUploadFolder": "StorytellerSuite/GalleryUploads",
   "galleryData": {
     "images": []
@@ -18,10 +24,16 @@
       "id": "mpvzyw3rvtu1t5",
       "storyId": "mpvmtgofdnkrh0",
       "name": "Rebels",
+      "description": "A group that hates the \"ever-watching eyes\" and wishes to bring Nervios freedom through contact with the outside world and the destruction of the eyes",
+      "members": [
+        {
+          "type": "character",
+          "id": "Jane Novia",
+          "name": "Jane Novia"
+        }
+      ],
       "groupType": "organization",
       "tags": [],
-      "members": [],
-      "description": "A group that hates the \"ever-watching eyes\" and wishes to bring Nervios freedom through contact with the outside world and the destruction of the eyes",
       "history": "",
       "structure": "",
       "goals": "",
@@ -31,10 +43,16 @@
       "id": "mpw00u343kto8i",
       "storyId": "mpvmtgofdnkrh0",
       "name": "Guards",
+      "description": "The guards of Nervios",
+      "members": [
+        {
+          "type": "character",
+          "id": "Jane Novia",
+          "name": "Jane Novia"
+        }
+      ],
       "groupType": "organization",
       "tags": [],
-      "members": [],
-      "description": "The guards of Nervios",
       "history": "",
       "structure": "",
       "goals": "",
@@ -101,16 +119,148 @@
   "analyticsEnabled": false,
   "writingSessions": [
     {
-      "id": "writing-1780424216633-84hkaj",
-      "startTime": "2026-06-02T18:16:56.633Z",
-      "endTime": "2026-06-02T18:17:07.164Z",
-      "wordsWritten": 17
+      "id": "writing-1780410362583-wquxp1",
+      "startTime": "2026-06-02T14:26:02.583Z",
+      "endTime": "2026-06-02T14:29:17.424Z",
+      "wordsWritten": 1,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Leon.md"
+      ]
     },
     {
-      "id": "writing-1780424304347-ys81m1",
-      "startTime": "2026-06-02T18:18:24.347Z",
-      "endTime": "2026-06-02T18:18:33.959Z",
-      "wordsWritten": 17
+      "id": "writing-1780410571842-8olkbw",
+      "startTime": "2026-06-02T14:29:31.842Z",
+      "endTime": "2026-06-02T14:43:07.493Z",
+      "wordsWritten": 36,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Leon.md"
+      ]
+    },
+    {
+      "id": "writing-1780411420465-vh00hl",
+      "startTime": "2026-06-02T14:43:40.465Z",
+      "endTime": "2026-06-02T14:43:46.756Z",
+      "wordsWritten": 37
+    },
+    {
+      "id": "writing-1780411435691-aesyg7",
+      "startTime": "2026-06-02T14:43:55.691Z",
+      "endTime": "2026-06-02T14:44:11.375Z",
+      "wordsWritten": 21
+    },
+    {
+      "id": "writing-1780411475620-d1bb60",
+      "startTime": "2026-06-02T14:44:35.620Z",
+      "endTime": "2026-06-02T14:45:01.166Z",
+      "wordsWritten": 1,
+      "filesEdited": [
+        "StorytellerSuite/Templates/Characters/Template Character.md"
+      ]
+    },
+    {
+      "id": "writing-1780411505965-y5mrrm",
+      "startTime": "2026-06-02T14:45:05.965Z",
+      "endTime": "2026-06-02T14:46:58.396Z",
+      "wordsWritten": 0,
+      "filesEdited": [
+        "StorytellerSuite/Templates/Characters/Template Character.md"
+      ]
+    },
+    {
+      "id": "writing-1780411668043-ubm5c8",
+      "startTime": "2026-06-02T14:47:48.043Z",
+      "endTime": "2026-06-02T15:00:56.352Z",
+      "wordsWritten": 6,
+      "filesEdited": [
+        "StorytellerSuite/Templates/Characters/Template Character.md"
+      ]
+    },
+    {
+      "id": "writing-1780412500378-rzlpb1",
+      "startTime": "2026-06-02T15:01:40.378Z",
+      "endTime": "2026-06-02T15:01:44.714Z",
+      "wordsWritten": 0
+    },
+    {
+      "id": "writing-1780412504741-qw5xxv",
+      "startTime": "2026-06-02T15:01:44.741Z",
+      "endTime": "2026-06-02T15:03:05.158Z",
+      "wordsWritten": 5,
+      "filesEdited": [
+        "StorytellerSuite/Templates/Characters/Template Character.md"
+      ]
+    },
+    {
+      "id": "writing-1780413105012-hkfv7h",
+      "startTime": "2026-06-02T15:11:45.012Z",
+      "endTime": "2026-06-02T15:24:00.174Z",
+      "wordsWritten": 8,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Leon Asker.md"
+      ]
+    },
+    {
+      "id": "writing-1780413842378-azma0x",
+      "startTime": "2026-06-02T15:24:02.378Z",
+      "endTime": "2026-06-02T15:40:34.420Z",
+      "wordsWritten": 180,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Leon Asker.md"
+      ]
+    },
+    {
+      "id": "writing-1780414838080-fse5es",
+      "startTime": "2026-06-02T15:40:38.080Z",
+      "endTime": "2026-06-02T15:45:23.732Z",
+      "wordsWritten": 49,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Leon Asker.md"
+      ]
+    },
+    {
+      "id": "writing-1780415137530-7di3s8",
+      "startTime": "2026-06-02T15:45:37.530Z",
+      "endTime": "2026-06-02T15:48:54.082Z",
+      "wordsWritten": 67,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Leon Asker.md"
+      ]
+    },
+    {
+      "id": "writing-1780415335792-zifdze",
+      "startTime": "2026-06-02T15:48:55.792Z",
+      "endTime": "2026-06-02T17:45:10.560Z",
+      "wordsWritten": 157,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Leon Asker.md"
+      ]
+    },
+    {
+      "id": "writing-1780422490191-gw9g63",
+      "startTime": "2026-06-02T17:48:10.191Z",
+      "endTime": "2026-06-02T17:56:40.602Z",
+      "wordsWritten": 14
+    },
+    {
+      "id": "writing-1780423548793-w289mu",
+      "startTime": "2026-06-02T18:05:48.793Z",
+      "endTime": "2026-06-02T18:05:56.171Z",
+      "wordsWritten": 0
+    },
+    {
+      "id": "writing-1780423561418-5gtqhc",
+      "startTime": "2026-06-02T18:06:01.418Z",
+      "endTime": "2026-06-02T18:06:10.778Z",
+      "wordsWritten": 448
+    },
+    {
+      "id": "writing-1780429972552-w0jwek",
+      "startTime": "2026-06-02T19:52:52.552Z",
+      "endTime": "2026-06-02T19:54:22.080Z",
+      "wordsWritten": 0,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Jane Novia .md"
+      ]
     }
   ],
   "trackWritingSessions": false,
@@ -140,13 +290,22 @@
   "countDeletionsForGoal": false,
   "dailyWritingStats": [
     {
-      "date": "2026-06-02",
-      "wordsWritten": 34,
+      "date": "2026-06-01",
+      "wordsWritten": 0,
       "wordsDeleted": 0,
-      "netWords": 34,
+      "netWords": 0,
       "timeSpent": 0,
       "scenesEdited": [],
       "goalMet": false
+    },
+    {
+      "date": "2026-06-02",
+      "wordsWritten": 1030,
+      "wordsDeleted": 43,
+      "netWords": 987,
+      "timeSpent": 0,
+      "scenesEdited": [],
+      "goalMet": true
     }
   ],
   "dashboardAccentBorders": false,
@@ -156,5 +315,10 @@
   "characterSheetTemplates": [],
   "defaultCharacterSheetTemplateId": "classic",
   "customCompileSteps": [],
-  "promptNewSceneFiles": true
+  "promptNewSceneFiles": true,
+  "networkGraphZoom": 0.27999999999999997,
+  "networkGraphPan": {
+    "x": 69.83999999999999,
+    "y": 322.6
+  }
 }

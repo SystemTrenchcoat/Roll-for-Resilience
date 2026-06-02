@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "10a0ad791284e666",
+            "id": "93c690f831a29f21",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StorytellerSuite/Stories/Nervios Campaign/Characters/Edward.md",
+                "file": "StorytellerSuite/Stories/Nervios Campaign/Characters/Jane Novia .md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Edward"
+              "title": "Jane Novia"
             }
           }
         ]
@@ -177,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 472.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,20 +193,22 @@
       "storyteller-suite:Apply template to story": false
     }
   },
-  "active": "10a0ad791284e666",
+  "active": "93c690f831a29f21",
   "lastOpenFiles": [
     "StorytellerSuite/Stories/Nervios Campaign/Characters/Leon Asker.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Edward.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Characters/Jane Novia .md",
+    "Nervios/Narrative.md",
     "mpvzbjbb75hp2u.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/RfR.md",
+    "Welcome.md",
     "StorytellerSuite/Templates/Characters/Template Character.md",
-    "StorytellerSuite/Templates/Characters/template-1780424033122-7xe9l30js.json",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Unnamed.md",
     "StorytellerSuite/Templates/Characters/template-1780417212820-9v7bsl82b.json",
-    "StorytellerSuite/Stories/Nervios Campaign/Books",
-    "StorytellerSuite/Templates/Characters/Template Character 1.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Leon.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Characters/Jane Novia.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Characters/Edward.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Characters/bobert.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Scenes",
+    "StorytellerSuite/Stories/Nervios Campaign/Chapters",
+    "StorytellerSuite/Stories/Nervios Campaign/References",
+    "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios.md",
     "Nervios/Worldbuilding/Culture.md",
     "StorytellerSuite/Stories/Nervios Campaign/MagicSystems",
     "StorytellerSuite/Stories/Nervios Campaign/Economies",
@@ -214,13 +216,10 @@
     "StorytellerSuite/Stories/Nervios Campaign/Maps",
     "StorytellerSuite/Stories/Nervios Campaign/Items",
     "StorytellerSuite/Stories/Nervios Campaign/Events",
-    "StorytellerSuite/Templates/Notes/References",
     "StorytellerSuite/Stories/Nervios Campaign/Groups/Guards.md",
     "StorytellerSuite/Stories/Nervios Campaign/Groups/Rebels.md",
-    "Nervios/Narrative.md",
     "Nervios/Mechanics.md",
     "Nervios/Worldbuilding/History.md",
-    "Welcome.md",
     "Nervios/Worldbuilding/Economy.md",
     "Nervios/Worldbuilding/Setting.md",
     "Nervios/Worldbuilding/Government.md"
