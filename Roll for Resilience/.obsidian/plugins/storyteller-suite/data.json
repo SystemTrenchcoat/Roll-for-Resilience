@@ -5,6 +5,12 @@
       "name": "Nervios Campaign",
       "created": "2026-06-01T19:59:06.159Z",
       "description": ""
+    },
+    {
+      "id": "mpvv6do06abs5c",
+      "name": "..",
+      "created": "2026-06-01T23:53:05.712Z",
+      "description": ""
     }
   ],
   "activeStoryId": "mpvmtgofdnkrh0",
@@ -13,7 +19,34 @@
     "images": []
   },
   "galleryWatchFolder": "",
-  "groups": [],
+  "groups": [
+    {
+      "id": "mpvzyw3rvtu1t5",
+      "storyId": "mpvmtgofdnkrh0",
+      "name": "Rebels",
+      "description": "A group that hates the \"ever-watching eyes\" and wishes to bring Nervios freedom through contact with the outside world and the destruction of the eyes",
+      "members": [],
+      "groupType": "organization",
+      "tags": [],
+      "history": "",
+      "structure": "",
+      "goals": "",
+      "resources": ""
+    },
+    {
+      "id": "mpw00u343kto8i",
+      "storyId": "mpvmtgofdnkrh0",
+      "name": "Guards",
+      "description": "The guards of Nervios",
+      "members": [],
+      "groupType": "organization",
+      "tags": [],
+      "history": "",
+      "structure": "",
+      "goals": "",
+      "resources": ""
+    }
+  ],
   "showTutorial": true,
   "hasCompletedOnboarding": true,
   "lastSeenReleaseNotesVersion": "1.8.7",

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nervios/Mechanics.md",
+                "file": "Nervios/Worldbuilding/Culture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mechanics"
+              "title": "Culture"
             }
           }
         ]
@@ -193,21 +193,26 @@
       "storyteller-suite:Apply template to story": false
     }
   },
-  "active": "93c690f831a29f21",
+  "active": "2ec9dadcfec6f2d2",
   "lastOpenFiles": [
+    "StorytellerSuite/Stories/Nervios Campaign/Groups/Guards.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Groups/Rebels.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Groups",
+    "StorytellerSuite/Stories/Nervios Campaign/Characters/Edward.md",
+    "StorytellerSuite/Stories/Nervios Campaign/MagicSystems",
+    "StorytellerSuite/Stories/Nervios Campaign/Compendium",
     "Nervios/Narrative.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios.md",
+    "StorytellerSuite/Scenes",
+    "StorytellerSuite/Chapters",
+    "StorytellerSuite/References",
+    "StorytellerSuite/Items",
+    "StorytellerSuite/Events",
+    "StorytellerSuite/Locations",
+    "StorytellerSuite/Characters",
+    "Nervios/Mechanics.md",
     "Nervios/Worldbuilding/History.md",
     "Welcome.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Economies",
-    "StorytellerSuite/Stories/Nervios Campaign/Cultures",
-    "StorytellerSuite/Stories/Nervios Campaign/Maps",
-    "StorytellerSuite/Stories/Nervios Campaign/Scenes",
-    "StorytellerSuite/Stories/Nervios Campaign/Chapters",
-    "StorytellerSuite/Stories/Nervios Campaign/References",
-    "StorytellerSuite/Stories/Nervios Campaign/Items",
-    "StorytellerSuite/Stories/Nervios Campaign/Events",
-    "StorytellerSuite/Stories/Nervios Campaign/Locations",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters",
     "Nervios/Worldbuilding/Culture.md",
     "Nervios/Worldbuilding/Economy.md",
     "Nervios/Worldbuilding/Setting.md",
