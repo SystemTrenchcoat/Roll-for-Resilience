@@ -111,6 +111,15 @@
       "startTime": "2026-06-02T18:18:24.347Z",
       "endTime": "2026-06-02T18:18:33.959Z",
       "wordsWritten": 17
+    },
+    {
+      "id": "writing-1780424627127-w7l0vp",
+      "startTime": "2026-06-02T18:23:47.127Z",
+      "endTime": "2026-06-02T21:49:45.746Z",
+      "wordsWritten": 0,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Edward.md"
+      ]
     }
   ],
   "trackWritingSessions": false,
@@ -142,8 +151,8 @@
     {
       "date": "2026-06-02",
       "wordsWritten": 34,
-      "wordsDeleted": 0,
-      "netWords": 34,
+      "wordsDeleted": 12,
+      "netWords": 22,
       "timeSpent": 0,
       "scenesEdited": [],
       "goalMet": false

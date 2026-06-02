@@ -2,9 +2,6 @@
 entityType: character
 name: Edward
 traits:
-  - Honorable
-  - Disciplined
-  - Stubborn
 gender: Male
 race: Human
 age: "27"
@@ -21,10 +18,10 @@ role: Squad Leader
 ---
 
 ## Description
-A disciplined, no nonsense guard leader who trains the guards to follow the rule to the letter.
+
 
 ## Backstory
-
+A native to [[Nervios]], Edward has never known true freedom. His days were haunted by the relentless eyes that watched over the entire city, just like everyone else.
 
 ## Motivations
 
