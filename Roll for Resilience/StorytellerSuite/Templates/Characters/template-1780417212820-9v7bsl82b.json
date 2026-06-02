@@ -9,7 +9,7 @@
   "isBuiltIn": false,
   "isEditable": true,
   "created": "2026-06-02T16:20:12.820Z",
-  "modified": "2026-06-02T16:44:01.800Z",
+  "modified": "2026-06-02T18:17:59.669Z",
   "tags": [],
   "entities": {
     "characters": [
@@ -17,7 +17,7 @@
         "templateId": "CHARACTER_1780417340723",
         "name": "Unnamed",
         "description": "",
-        "yamlContent": "name: \"RfR\"\ndescription: \"\"",
+        "yamlContent": "name: \"RfR\"\ndescription: \"\"\ncustomFields: {alignment: Unaligned}",
         "markdownContent": "## Motivations\n\n## Secrets\n\n## Physical Appearance"
       }
     ]

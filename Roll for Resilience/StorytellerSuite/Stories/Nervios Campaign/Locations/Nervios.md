@@ -8,6 +8,9 @@ entityRefs:
   - entityId: "[[Edward]]"
     entityType: character
     relationship: located
+  - entityId: "[[Leon Asker]]"
+    entityType: character
+    relationship: located
 _skipSync: true
 ---
 

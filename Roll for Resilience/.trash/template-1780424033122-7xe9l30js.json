@@ -1,0 +1,31 @@
+{
+  "id": "template-1780424033122-7xe9l30js",
+  "name": "_RfR Character Template",
+  "description": "A template for Roll for Resilience characters",
+  "genre": "fantasy",
+  "category": "single-entity",
+  "version": "1.0.0",
+  "author": "User",
+  "isBuiltIn": false,
+  "isEditable": true,
+  "created": "2026-06-02T18:13:53.122Z",
+  "modified": "2026-06-02T18:16:11.962Z",
+  "tags": [],
+  "entities": {
+    "characters": [
+      {
+        "templateId": "CHARACTER_1780424039527",
+        "name": "Unnamed",
+        "description": "",
+        "yamlContent": "name: \"\"\ndescription: \"\"\ncustomFields: {alignment: Unaligned}",
+        "markdownContent": "## Motivations\n\n## Secrets\n\n## Physical Appearance"
+      }
+    ]
+  },
+  "entityTypes": [
+    "character"
+  ],
+  "usageCount": 0,
+  "quickApplyEnabled": true,
+  "variables": []
+}
