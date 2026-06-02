@@ -105,7 +105,80 @@
   "enableAdvancedTimeline": false,
   "autoDetectConflicts": true,
   "analyticsEnabled": false,
-  "writingSessions": [],
+  "writingSessions": [
+    {
+      "id": "writing-1780410362583-wquxp1",
+      "startTime": "2026-06-02T14:26:02.583Z",
+      "endTime": "2026-06-02T14:29:17.424Z",
+      "wordsWritten": 1,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Leon.md"
+      ]
+    },
+    {
+      "id": "writing-1780410571842-8olkbw",
+      "startTime": "2026-06-02T14:29:31.842Z",
+      "endTime": "2026-06-02T14:43:07.493Z",
+      "wordsWritten": 36,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Leon.md"
+      ]
+    },
+    {
+      "id": "writing-1780411420465-vh00hl",
+      "startTime": "2026-06-02T14:43:40.465Z",
+      "endTime": "2026-06-02T14:43:46.756Z",
+      "wordsWritten": 37
+    },
+    {
+      "id": "writing-1780411435691-aesyg7",
+      "startTime": "2026-06-02T14:43:55.691Z",
+      "endTime": "2026-06-02T14:44:11.375Z",
+      "wordsWritten": 21
+    },
+    {
+      "id": "writing-1780411475620-d1bb60",
+      "startTime": "2026-06-02T14:44:35.620Z",
+      "endTime": "2026-06-02T14:45:01.166Z",
+      "wordsWritten": 1,
+      "filesEdited": [
+        "StorytellerSuite/Templates/Characters/Template Character.md"
+      ]
+    },
+    {
+      "id": "writing-1780411505965-y5mrrm",
+      "startTime": "2026-06-02T14:45:05.965Z",
+      "endTime": "2026-06-02T14:46:58.396Z",
+      "wordsWritten": 0,
+      "filesEdited": [
+        "StorytellerSuite/Templates/Characters/Template Character.md"
+      ]
+    },
+    {
+      "id": "writing-1780411668043-ubm5c8",
+      "startTime": "2026-06-02T14:47:48.043Z",
+      "endTime": "2026-06-02T15:00:56.352Z",
+      "wordsWritten": 6,
+      "filesEdited": [
+        "StorytellerSuite/Templates/Characters/Template Character.md"
+      ]
+    },
+    {
+      "id": "writing-1780412500378-rzlpb1",
+      "startTime": "2026-06-02T15:01:40.378Z",
+      "endTime": "2026-06-02T15:01:44.714Z",
+      "wordsWritten": 0
+    },
+    {
+      "id": "writing-1780412504741-qw5xxv",
+      "startTime": "2026-06-02T15:01:44.741Z",
+      "endTime": "2026-06-02T15:03:05.158Z",
+      "wordsWritten": 5,
+      "filesEdited": [
+        "StorytellerSuite/Templates/Characters/Template Character.md"
+      ]
+    }
+  ],
   "trackWritingSessions": false,
   "enableWorldBuilding": true,
   "cultureFolderPath": "",
@@ -140,6 +213,15 @@
       "timeSpent": 0,
       "scenesEdited": [],
       "goalMet": false
+    },
+    {
+      "date": "2026-06-02",
+      "wordsWritten": 107,
+      "wordsDeleted": 32,
+      "netWords": 75,
+      "timeSpent": 0,
+      "scenesEdited": [],
+      "goalMet": false
     }
   ],
   "dashboardAccentBorders": false,
@@ -149,5 +231,10 @@
   "characterSheetTemplates": [],
   "defaultCharacterSheetTemplateId": "classic",
   "customCompileSteps": [],
-  "promptNewSceneFiles": true
+  "promptNewSceneFiles": true,
+  "networkGraphZoom": 0.27999999999999997,
+  "networkGraphPan": {
+    "x": 69.83999999999999,
+    "y": 322.6
+  }
 }
