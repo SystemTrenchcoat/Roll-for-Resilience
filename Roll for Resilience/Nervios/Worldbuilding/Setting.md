@@ -71,7 +71,7 @@ Warm, Mediterranean climate.
 
 ### Merrene Manor
 
-The home of the [Merrene family](https://docs.google.com/document/d/1R_D1DRXA_JP3rCgcCUOHJ-oc1oI5eDVNAnGbkCC3MZ0/edit?tab=t.lbj2s3hoehka#bookmark=id.5b7n0ttcv60o), located on the small island directly south of the peninsula. The island exists outside the peering eyes of the government, and is guarded by a small group of elite soldiers dedicated to protecting the family. 
+The home of the [[Merrene Family]], located on the small island directly south of the peninsula. The island exists outside the peering eyes of the government, and is guarded by a small group of elite soldiers dedicated to protecting the family. 
 
 - Ports for personal shipping vessels
     

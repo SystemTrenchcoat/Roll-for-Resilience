@@ -15,6 +15,14 @@ entityRefs:
     entityType: character
     relationship: located
 _skipSync: true
+childLocationIds:
+  - "[[Rutmar Port]]"
+  - "[[The Broken Ravine]]"
+  - "[[Merrene Manor]]"
+  - "[[Watching Eye (Spire)]]"
+  - "[[Wavecrest Market]]"
+  - "[[Serenetti Castle]]"
+status: Active
 ---
 
 ## Description

@@ -73,23 +73,23 @@
 ### Rebellion
     
 
-- Gruff no nonsense type
+- ~~Gruff no nonsense type~~
     
 
 ### Guards
     
 
-- Kinda sleazy captain?
+- ~~Kinda sleazy captain?~~
     
-- High ranking guard that is the epitome of discipline
+- ~~High ranking guard that is the epitome of discipline~~
     
 
 ### Nobles
     
 
-- Well spoken and egotistical
+- ~~Well spoken and egotistical~~
     
-- Condescending and easily angered 
+- ~~Condescending and easily angered~~ 
     
 
   

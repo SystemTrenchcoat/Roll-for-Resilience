@@ -1,8 +1,8 @@
 ---
 entityType: character
 alignment: Unaligned
-role: Merchant/Noble
 name: Querion Droma
+role: Merchant/Noble
 traits:
   - Egotistical
   - Charismatic
