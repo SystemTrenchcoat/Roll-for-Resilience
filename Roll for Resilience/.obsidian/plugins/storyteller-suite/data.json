@@ -107,12 +107,12 @@
   "analyticsEnabled": false,
   "writingSessions": [
     {
-      "id": "writing-1780410362583-wquxp1",
-      "startTime": "2026-06-02T14:26:02.583Z",
-      "endTime": "2026-06-02T14:29:17.424Z",
-      "wordsWritten": 1,
+      "id": "writing-1780413105012-hkfv7h",
+      "startTime": "2026-06-02T15:11:45.012Z",
+      "endTime": "2026-06-02T15:24:00.174Z",
+      "wordsWritten": 8,
       "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Characters/Leon.md"
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Leon Asker.md"
       ]
     },
     {
@@ -209,10 +209,32 @@
       ]
     },
     {
-      "id": "writing-1780418643142-wxlqpa",
-      "startTime": "2026-06-02T16:44:03.142Z",
-      "endTime": "2026-06-02T16:44:05.810Z",
-      "wordsWritten": 17
+      "id": "writing-1780413842378-azma0x",
+      "startTime": "2026-06-02T15:24:02.378Z",
+      "endTime": "2026-06-02T15:40:34.420Z",
+      "wordsWritten": 180,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Leon Asker.md"
+      ]
+    },
+    {
+      "id": "writing-1780414838080-fse5es",
+      "startTime": "2026-06-02T15:40:38.080Z",
+      "endTime": "2026-06-02T15:45:23.732Z",
+      "wordsWritten": 49,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Leon Asker.md"
+      ]
+    },
+    {
+      "id": "writing-1780415137530-7di3s8",
+      "startTime": "2026-06-02T15:45:37.530Z",
+      "endTime": "2026-06-02T15:48:54.082Z",
+      "wordsWritten": 67,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Leon Asker.md"
+      ]
+>>>>>>> 9042197243d07efe1e221fad1bd8733cdca47de3
     }
   ],
   "trackWritingSessions": false,
@@ -254,9 +276,15 @@
     },
     {
       "date": "2026-06-02",
+<<<<<<< HEAD
       "wordsWritten": 155,
       "wordsDeleted": 33,
       "netWords": 122,
+=======
+      "wordsWritten": 411,
+      "wordsDeleted": 32,
+      "netWords": 379,
+>>>>>>> 9042197243d07efe1e221fad1bd8733cdca47de3
       "timeSpent": 0,
       "scenesEdited": [],
       "goalMet": false
