@@ -1,0 +1,32 @@
+{
+  "id": "template-1780417212820-9v7bsl82b",
+  "name": "_ RfR Character Template",
+  "description": "A character for RfR",
+  "genre": "fantasy",
+  "category": "single-entity",
+  "version": "1.0.0",
+  "author": "User",
+  "isBuiltIn": false,
+  "isEditable": true,
+  "created": "2026-06-02T16:20:12.820Z",
+  "modified": "2026-06-02T16:44:01.800Z",
+  "tags": [],
+  "entities": {
+    "characters": [
+      {
+        "templateId": "CHARACTER_1780417340723",
+        "name": "Unnamed",
+        "description": "",
+        "yamlContent": "name: \"RfR\"\ndescription: \"\"",
+        "markdownContent": "## Motivations\n\n## Secrets\n\n## Physical Appearance"
+      }
+    ]
+  },
+  "entityTypes": [
+    "character"
+  ],
+  "usageCount": 2,
+  "quickApplyEnabled": true,
+  "variables": [],
+  "lastUsed": "2026-06-02T16:41:19.235Z"
+}

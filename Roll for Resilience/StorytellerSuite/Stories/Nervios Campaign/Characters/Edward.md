@@ -17,3 +17,12 @@ currentLocationId: "[[Nervios]]"
 A disciplined, no nonsense guard leader who trains the guards to follow the rule to the letter.
 
 ## Backstory
+
+
+## Motivations
+
+
+## Secrets
+
+
+## Physical Appearance

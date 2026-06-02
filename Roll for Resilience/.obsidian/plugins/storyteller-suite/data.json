@@ -177,6 +177,42 @@
       "filesEdited": [
         "StorytellerSuite/Templates/Characters/Template Character.md"
       ]
+    },
+    {
+      "id": "writing-1780417370920-5hq0jt",
+      "startTime": "2026-06-02T16:22:50.920Z",
+      "endTime": "2026-06-02T16:22:57.606Z",
+      "wordsWritten": 7
+    },
+    {
+      "id": "writing-1780418208002-zf2box",
+      "startTime": "2026-06-02T16:36:48.002Z",
+      "endTime": "2026-06-02T16:37:04.715Z",
+      "wordsWritten": 17
+    },
+    {
+      "id": "writing-1780418486620-tcwoql",
+      "startTime": "2026-06-02T16:41:26.620Z",
+      "endTime": "2026-06-02T16:41:46.581Z",
+      "wordsWritten": 0,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/RfR.md"
+      ]
+    },
+    {
+      "id": "writing-1780418506682-dn9er1",
+      "startTime": "2026-06-02T16:41:46.682Z",
+      "endTime": "2026-06-02T16:44:03.070Z",
+      "wordsWritten": 7,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Edward.md"
+      ]
+    },
+    {
+      "id": "writing-1780418643142-wxlqpa",
+      "startTime": "2026-06-02T16:44:03.142Z",
+      "endTime": "2026-06-02T16:44:05.810Z",
+      "wordsWritten": 17
     }
   ],
   "trackWritingSessions": false,
@@ -186,7 +222,9 @@
   "factionFolderPath": "",
   "magicSystemFolderPath": "",
   "enableSensoryProfiles": true,
-  "hiddenDashboardTabs": [],
+  "hiddenDashboardTabs": [
+    "books"
+  ],
   "templateStorageFolder": "StorytellerSuite/Templates",
   "showBuiltInTemplates": true,
   "showCommunityTemplates": false,
@@ -216,9 +254,9 @@
     },
     {
       "date": "2026-06-02",
-      "wordsWritten": 107,
-      "wordsDeleted": 32,
-      "netWords": 75,
+      "wordsWritten": 155,
+      "wordsDeleted": 33,
+      "netWords": 122,
       "timeSpent": 0,
       "scenesEdited": [],
       "goalMet": false
