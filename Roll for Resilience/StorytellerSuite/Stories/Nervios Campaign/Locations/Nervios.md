@@ -5,7 +5,7 @@ locationType: City
 type: city
 id: mpvzob4sd6zoil
 entityRefs:
-  - entityId: "[[Edward]]"
+  - entityId: "[[Edward Krinok]]"
     entityType: character
     relationship: located
   - entityId: "[[Leon Asker]]"
