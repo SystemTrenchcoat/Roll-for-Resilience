@@ -4,6 +4,9 @@ storyteller-id: mpvzyw3rvtu1t5
 storyteller-story-id: mpvmtgofdnkrh0
 name: Rebels
 group-type: organization
+members:
+  - type: character
+    id: "[[Jane Novia]]"
 ---
 
 ## Description

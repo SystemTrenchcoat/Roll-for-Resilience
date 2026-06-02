@@ -20,7 +20,13 @@
       "name": "Rebels",
       "groupType": "organization",
       "tags": [],
-      "members": [],
+      "members": [
+        {
+          "type": "character",
+          "id": "mpx2158gl1jore",
+          "name": "Jane Novia"
+        }
+      ],
       "description": "A group that hates the \"ever-watching eyes\" and wishes to bring Nervios freedom through contact with the outside world and the destruction of the eyes",
       "history": "",
       "structure": "",
@@ -33,7 +39,13 @@
       "name": "Guards",
       "groupType": "organization",
       "tags": [],
-      "members": [],
+      "members": [
+        {
+          "type": "character",
+          "id": "mpx2158gl1jore",
+          "name": "Jane Novia"
+        }
+      ],
       "description": "The guards of Nervios",
       "history": "",
       "structure": "",
