@@ -66,9 +66,6 @@
           "name": "Merrene Manor"
         }
       ],
-      "groupType": "political",
-      "tags": [],
-      "description": "Lives on the manor on the small island off the shore of Nervios.\r\nWealthiest family in the city, controls and regulates trade (formal and underground)\r\nHeavily influences the government, pays off guards and gov’t officials, takes advantage of citizens and spies on them through corrupt guards\r\nDon’t control the tower, but utilize its presence to further instill fear and a feeling of surveillance\r\nOut of direct sightlines of the spire, family referred to as “the unseen” by locals\r\nDouble-edged sword: while corrupt, the family provides a plethora of jobs to the citizens and acts as the main source of wealth and income for the city.",
       "history": "",
       "structure": "",
       "goals": "",
@@ -235,6 +232,15 @@
       "wordsWritten": 907,
       "wordsDeleted": 12,
       "netWords": 895,
+      "timeSpent": 0,
+      "scenesEdited": [],
+      "goalMet": false
+    },
+    {
+      "date": "2026-06-03",
+      "wordsWritten": 0,
+      "wordsDeleted": 0,
+      "netWords": 0,
       "timeSpent": 0,
       "scenesEdited": [],
       "goalMet": false

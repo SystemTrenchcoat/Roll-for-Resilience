@@ -94,7 +94,9 @@
 
   
 
-- ## Narrative Idea: The Watchmen's Dilemma
+- ## Narrative Ideas
+
+### The Watchmen's Dilemma
     
 
 - Players begin their journey as junior guards within the city's law enforcement.
@@ -108,3 +110,10 @@
 - As they prove themselves, they are given a morally dubious mission that introduces them to the Rebel faction.
     
 - The party must choose to operate as double agents, using their guard status to map patrol routes and underground tunnels for the rebellion.
+
+### Misc.
+- Burglary
+- Violent Crime
+- Thought Crime
+- "Kidnapping" (Rebels helping someone flee)
+- 
