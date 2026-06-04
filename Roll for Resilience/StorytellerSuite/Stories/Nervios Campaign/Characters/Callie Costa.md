@@ -19,4 +19,4 @@ id: mpzt5vefkc622v
 A no-nonsense fishmonger who wants to do her job and remain unnoticed. While successful, she holds few personal connections due to her anxiety and desire to remain socially invisible.
 
 ## Backstory
-Callie has spent the majority of her life as a seafood merchant at Rutmar Port. She is a vicitm of the surviellance state and lives in a constant state of anxiety.
+Callie has spent the majority of her life as a seafood merchant at Rutmar Port. She is a victim of the surveillance state and lives in a constant state of anxiety.

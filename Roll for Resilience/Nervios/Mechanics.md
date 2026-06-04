@@ -26,3 +26,7 @@
 - The Scler Economy (Barter vs. Coin): In the upper city, transactions use Scler coins and are heavily monitored. Mechanical rule: buying items with Scler leaves a paper trail, potentially raising the Paranoia Tracker. In the underground, bartering with scavenged goods or favors doesn't raise Paranoia but requires successful Charisma/Honor checks to pull off.
 
 - Rumors. Each player makes 3 rumors about their character, 1 good, 1 bad, 1 false. Each player is given a rumor about another when the campaign starts
+
+- Favors. Each player may choose to claim an npc owes them a favor. The GM must agree that the favor and NPC owing the player a favor is reasonable. However, the GM can then request the same of a player later on. Each player can use this ability once (or only after they have completed their favor)
+
+- [[Backgrounds]]. Each player must choose one of the given backgrounds at character creation
