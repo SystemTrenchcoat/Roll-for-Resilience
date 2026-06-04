@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nervios/Narrative.md",
+                "file": "Nervios/Mechanics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Narrative"
+              "title": "Mechanics"
             }
           }
         ]
@@ -195,6 +195,7 @@
   },
   "active": "10a0ad791284e666",
   "lastOpenFiles": [
+    "Nervios/Narrative.md",
     "Nervios/Mechanics.md",
     "StorytellerSuite/Stories/Nervios Campaign/Groups/Guards.md",
     "StorytellerSuite/Stories/Nervios Campaign/Groups/Merrene Family.md",
@@ -212,7 +213,6 @@
     "StorytellerSuite/Stories/Nervios Campaign/Locations/The Broken Ravine.md",
     "StorytellerSuite/Stories/Nervios Campaign/Locations/Mansum Village.md",
     "StorytellerSuite/Stories/Nervios Campaign/Locations/Rutmar Port.md",
-    "Nervios/Narrative.md",
     "StorytellerSuite/Stories/Nervios Campaign/Characters/Querion Droma.md",
     "StorytellerSuite/Stories/Nervios Campaign/Characters/Edward Krinok.md",
     "StorytellerSuite/Stories/Nervios Campaign/Characters/Leon Asker.md",

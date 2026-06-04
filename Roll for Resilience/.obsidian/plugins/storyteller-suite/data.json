@@ -244,6 +244,15 @@
       "timeSpent": 0,
       "scenesEdited": [],
       "goalMet": false
+    },
+    {
+      "date": "2026-06-04",
+      "wordsWritten": 0,
+      "wordsDeleted": 0,
+      "netWords": 0,
+      "timeSpent": 0,
+      "scenesEdited": [],
+      "goalMet": false
     }
   ],
   "dashboardAccentBorders": false,

@@ -1,6 +1,5 @@
 
 - System agnostic in a polyhedral set (D4,6,8,10x2,12,20)
-    
 
 - Light crunch. Greater focus on narrative and characters rather than complicated and deep combat mechanics
     
@@ -25,3 +24,5 @@
 - Comfort Zone Anchors: Since characters gain XP for stepping out of their comfort zones, let them define one "Anchor" (an item, a specific NPC, or a location like a smuggler's den). Interacting with their Anchor allows them to safely shed large amounts of detrimental Stress, but if the Anchor is threatened by the Guards, it forces them into a high-stakes narrative choice.
     
 - The Scler Economy (Barter vs. Coin): In the upper city, transactions use Scler coins and are heavily monitored. Mechanical rule: buying items with Scler leaves a paper trail, potentially raising the Paranoia Tracker. In the underground, bartering with scavenged goods or favors doesn't raise Paranoia but requires successful Charisma/Honor checks to pull off.
+
+- Rumors. Each player makes 3 rumors about their character, 1 good, 1 bad, 1 false. Each player is given a rumor about another when the campaign starts
