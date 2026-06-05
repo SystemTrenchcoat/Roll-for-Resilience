@@ -14,6 +14,8 @@ traits:
   - Collected
   - Patient
 quirks: Grunts and communicates with hand signs, speaks only when absoulutely necessary, Permanently scowling
+groups:
+  - "[[Rebels]]"
 ---
 
 ## Description

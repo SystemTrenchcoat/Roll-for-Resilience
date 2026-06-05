@@ -70,6 +70,73 @@
       "structure": "",
       "goals": "",
       "resources": ""
+    },
+    {
+      "id": "mpw00u343kto8i__guards",
+      "storyId": "mpvmtgofdnkrh0",
+      "name": "Guards",
+      "groupType": "organization",
+      "tags": [],
+      "members": [
+        {
+          "type": "character",
+          "id": "mpx2158gl1jore",
+          "name": "Jane Novia"
+        }
+      ],
+      "description": "The guards of Nervios\n\n- Patrolling the city 24/7 on a schedule\n    \n- Guards move around in groups \n    \n- Respected by the general population, but also slightly feared\n    \n-   \n    \n- Different types of guards\n    \n\n- Internal Guards:\n    \n\n- Less trained than other branches of military with less powerful weaponry\n    \n- Underground tunnel system connecting towers\n    \n- Guard towers around the city on the walls\n    \n\n- Towers can’t be seen into from the outside\n    \n- Citizens don’t know if a tower is manned or not\n    \n\n- Guard towers throughout the interior of city\n    \n\n- Underground tunnels connecting them\n    \n\n- Maybe they have eyes that impose crippling fear on those who don't belong? (Poisoned in 5e)\n    \n\n- Allows for fast deployment of guards to any point in the city\n    \n- Outsiders can’t see in – acts as a panopticon\n    \n\n- Maintains the peace, even if a guard isn’t in that specific tower\n    \n\n- Nicknamed “Eyes” by locals/rebellion\n    \n- Tiers of guards:\n    \n\n- Junior\n    \n- Senior\n    \n- Captain \n    \n\n- Some loyal to the King, some the Government, some the rich, sizable amount are loyal to anyone who pays money\n\n\n- Army\n    \n\n- Snipers\n    \n- Infantry\n    \n\n- Navy\n    \n\n- Warships\n    \n\n  \n\n- Watchman:\n    \n\n- Guard the walls and docks from outside threats\n    \n- Controls who enters/exits the cities\n    \n- Thoroughly inspects incoming/exiting cargo \n    \n\n- Corrupted?\n    \n\n- Some guards might use their status and position to disobey laws or take advantage of others. \n    \n\n- Creates resentment and fear of all guards\n    \n- PLOTLINE: Players start as junior guards and witness a fellow guard breaking the law. They are put into a position where they must decide between what's morally right, and the approval/protection of their peers.\n    \n\n  \n\nDamaged old tower which falls apart/players explore and find out that not all towers are functional.",
+      "history": "",
+      "structure": "",
+      "goals": "",
+      "resources": ""
+    },
+    {
+      "id": "mq070fyrphyotg",
+      "storyId": "mpwy9kn3o4bhth",
+      "name": "Guards",
+      "description": "The guards of Nervios\n\n- Patrolling the city 24/7 on a schedule\n    \n- Guards move around in groups \n    \n- Respected by the general population, but also slightly feared\n    \n-   \n    \n- Different types of guards\n    \n\n- Internal Guards:\n    \n\n- Less trained than other branches of military with less powerful weaponry\n    \n- Underground tunnel system connecting towers\n    \n- Guard towers around the city on the walls\n    \n\n- Towers can’t be seen into from the outside\n    \n- Citizens don’t know if a tower is manned or not\n    \n\n- Guard towers throughout the interior of city\n    \n\n- Underground tunnels connecting them\n    \n\n- Maybe they have eyes that impose crippling fear on those who don't belong? (Poisoned in 5e)\n    \n\n- Allows for fast deployment of guards to any point in the city\n    \n- Outsiders can’t see in – acts as a panopticon\n    \n\n- Maintains the peace, even if a guard isn’t in that specific tower\n    \n\n- Nicknamed “Eyes” by locals/rebellion\n    \n- Tiers of guards:\n    \n\n- Junior\n    \n- Senior\n    \n- Captain \n    \n\n- Some loyal to the King, some the Government, some the rich, sizable amount are loyal to anyone who pays money\n\n\n- Army\n    \n\n- Snipers\n    \n- Infantry\n    \n\n- Navy\n    \n\n- Warships\n    \n\n  \n\n- Watchman:\n    \n\n- Guard the walls and docks from outside threats\n    \n- Controls who enters/exits the cities\n    \n- Thoroughly inspects incoming/exiting cargo \n    \n\n- Corrupted?\n    \n\n- Some guards might use their status and position to disobey laws or take advantage of others. \n    \n\n- Creates resentment and fear of all guards\n    \n- PLOTLINE: Players start as junior guards and witness a fellow guard breaking the law. They are put into a position where they must decide between what's morally right, and the approval/protection of their peers.\n    \n\n  \n\nDamaged old tower which falls apart/players explore and find out that not all towers are functional.",
+      "members": [
+        {
+          "type": "character",
+          "id": "mpvzbjbb75hp2u",
+          "name": "Edward Krinok"
+        },
+        {
+          "type": "character",
+          "id": "mpwy9llxpu5enh",
+          "name": "Leon Asker"
+        },
+        {
+          "type": "item",
+          "id": "Thought Detector",
+          "name": "Thought Detector"
+        }
+      ],
+      "groupType": "organization",
+      "tags": [],
+      "history": "",
+      "structure": "",
+      "goals": "",
+      "resources": ""
+    },
+    {
+      "id": "mq07178f98f74q",
+      "storyId": "mpwy9kn3o4bhth",
+      "name": "Rebels",
+      "description": "A group that hates the \"ever-watching eyes\" and wishes to bring Nervios freedom through contact with the outside world and the destruction of the eyes\n\n- Quiet / Gaining traction, trying to help people escape, close ties to smugglers.\n    \n- Truly believes they’re doing what’s best for everyone, especially the people in the town\n    \n- End goal for the rebels (assuming they know or at least believe all the towers are widely unmanned): expose the truth of the matter. Maybe they want to expose the nobles too. Most likely anti-noble if they know their history (which at least the important ones probably do)\n    \n- Probably have spies in the guards\n    \n\n- Definitely trying to find some high ups willing to help to learn more about the panopticon\n    \n\n- Often work under darkness or / and with obscuring / illusion spells\n    \n- Definitely have a tunnel system\n    \n- Strong aura of secrecy, especially in their upper ranks\n    \n- Most often help people escape the town\n    \n- Maybe offers places of solace where the eye cannot see?\n    \n- The collectivist to the guard / government’s isolationist",
+      "members": [
+        {
+          "type": "character",
+          "id": "mpzr0d651euxeo",
+          "name": "Stewart Tallow"
+        }
+      ],
+      "groupType": "organization",
+      "tags": [],
+      "history": "",
+      "structure": "",
+      "goals": "",
+      "resources": ""
     }
   ],
   "showTutorial": true,
@@ -226,6 +293,81 @@
       "filesEdited": [
         "Nervios/Mechanics.md"
       ]
+    },
+    {
+      "id": "writing-1780611739507-ldbe96",
+      "startTime": "2026-06-04T22:22:19.507Z",
+      "endTime": "2026-06-04T22:22:44.798Z",
+      "wordsWritten": 0,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Groups/Guards.md"
+      ]
+    },
+    {
+      "id": "writing-1780611766386-3ucbh5",
+      "startTime": "2026-06-04T22:22:46.386Z",
+      "endTime": "2026-06-04T22:23:03.453Z",
+      "wordsWritten": 298,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Groups/Guards.md"
+      ]
+    },
+    {
+      "id": "writing-1780620037087-86mcm7",
+      "startTime": "2026-06-05T00:40:37.087Z",
+      "endTime": "2026-06-05T00:40:44.563Z",
+      "wordsWritten": 72
+    },
+    {
+      "id": "writing-1780620753440-gl298z",
+      "startTime": "2026-06-05T00:52:33.440Z",
+      "endTime": "2026-06-05T00:55:56.966Z",
+      "wordsWritten": 25,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Groups/Guards.md"
+      ]
+    },
+    {
+      "id": "writing-1780620957013-cton0k",
+      "startTime": "2026-06-05T00:55:57.013Z",
+      "endTime": "2026-06-05T00:56:18.022Z",
+      "wordsWritten": 3,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Groups/Rebels.md"
+      ]
+    },
+    {
+      "id": "writing-1780620978061-hf7ww3",
+      "startTime": "2026-06-05T00:56:18.061Z",
+      "endTime": "2026-06-05T00:56:33.793Z",
+      "wordsWritten": 4,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Groups/Guards.md"
+      ]
+    },
+    {
+      "id": "writing-1780620993831-686533",
+      "startTime": "2026-06-05T00:56:33.831Z",
+      "endTime": "2026-06-05T00:59:21.414Z",
+      "wordsWritten": 0,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Groups/Rebels.md"
+      ]
+    },
+    {
+      "id": "writing-1780621161449-pktmcp",
+      "startTime": "2026-06-05T00:59:21.449Z",
+      "endTime": "2026-06-05T00:59:58.699Z",
+      "wordsWritten": 327
+    },
+    {
+      "id": "writing-1780621214653-orihgm",
+      "startTime": "2026-06-05T01:00:14.653Z",
+      "endTime": "2026-06-05T01:01:15.524Z",
+      "wordsWritten": 29,
+      "filesEdited": [
+        "Nervios/Module/Factions.md"
+      ]
     }
   ],
   "trackWritingSessions": false,
@@ -235,12 +377,19 @@
   "factionFolderPath": "",
   "magicSystemFolderPath": "",
   "enableSensoryProfiles": true,
-  "hiddenDashboardTabs": [],
+  "hiddenDashboardTabs": [
+    "books",
+    "chapters",
+    "economies",
+    "magicsystems"
+  ],
   "templateStorageFolder": "StorytellerSuite/Templates",
   "showBuiltInTemplates": true,
   "showCommunityTemplates": false,
   "disableAutoFolderCreation": false,
-  "defaultTemplates": {},
+  "defaultTemplates": {
+    "character": "template-1780417212820-9v7bsl82b"
+  },
   "tiling": {
     "autoGenerateThreshold": 2000,
     "tileSize": 256,
@@ -249,7 +398,7 @@
   "storyDrafts": [],
   "compileWorkflows": [],
   "defaultCompileWorkflow": "reader-draft-workflow",
-  "dailyWordCountGoal": 1000,
+  "dailyWordCountGoal": 0,
   "showWordCountInStatusBar": true,
   "notifyOnGoalReached": true,
   "countDeletionsForGoal": false,
@@ -274,9 +423,9 @@
     },
     {
       "date": "2026-06-04",
-      "wordsWritten": 141,
-      "wordsDeleted": 5,
-      "netWords": 136,
+      "wordsWritten": 899,
+      "wordsDeleted": 306,
+      "netWords": 593,
       "timeSpent": 0,
       "scenesEdited": [],
       "goalMet": false

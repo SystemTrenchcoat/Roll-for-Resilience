@@ -1,16 +1,12 @@
 ---
 storyteller-type: group
-storyteller-id: mq070fyrphyotg
-storyteller-story-id: mpwy9kn3o4bhth
+storyteller-id: mpw00u343kto8i
+storyteller-story-id: mpvmtgofdnkrh0
 name: Guards
 group-type: organization
 members:
   - type: character
-    id: "[[Edward Krinok]]"
-  - type: character
-    id: "[[Leon Asker]]"
-  - type: item
-    id: "[[Thought Detector]]"
+    id: "[[Jane Novia]]"
 ---
 
 ## Description

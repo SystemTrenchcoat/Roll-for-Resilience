@@ -15,6 +15,9 @@ locationHistory:
     relationship: moved to
 alignment: Lawful Evil
 role: Squad Leader
+groups:
+  - "[[Guards]]"
+status: Alive
 ---
 
 ## Description

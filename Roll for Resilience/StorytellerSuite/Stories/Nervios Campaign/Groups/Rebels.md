@@ -1,12 +1,12 @@
 ---
 storyteller-type: group
-storyteller-id: mpvzyw3rvtu1t5
-storyteller-story-id: mpvmtgofdnkrh0
+storyteller-id: mq07178f98f74q
+storyteller-story-id: mpwy9kn3o4bhth
 name: Rebels
 group-type: organization
 members:
   - type: character
-    id: "[[Jane Novia]]"
+    id: "[[Stewart Tallow]]"
 ---
 
 ## Description
@@ -36,3 +36,4 @@ A group that hates the "ever-watching eyes" and wishes to bring Nervios freedom 
 - Maybe offers places of solace where the eye cannot see?
     
 - The collectivist to the guard / government’s isolationist
+
