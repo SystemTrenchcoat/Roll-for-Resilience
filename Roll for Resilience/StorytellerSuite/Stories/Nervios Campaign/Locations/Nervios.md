@@ -14,6 +14,9 @@ entityRefs:
   - entityId: "[[Jane Novia]]"
     entityType: character
     relationship: located
+  - entityId: "[[Clara Porter]]"
+    entityType: character
+    relationship: located
 _skipSync: true
 childLocationIds:
   - "[[Rutmar Port]]"

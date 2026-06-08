@@ -15,6 +15,8 @@ members:
     id: "[[Eagan Morrow]]"
   - type: character
     id: "[[Adam Atkin]]"
+  - type: character
+    id: "[[Clara]]"
 ---
 
 ## Description
