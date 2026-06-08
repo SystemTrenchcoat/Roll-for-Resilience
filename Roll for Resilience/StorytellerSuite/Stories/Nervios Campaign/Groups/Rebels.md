@@ -36,4 +36,3 @@ A group that hates the "ever-watching eyes" and wishes to bring Nervios freedom 
 - Maybe offers places of solace where the eye cannot see?
     
 - The collectivist to the guard / government’s isolationist
-

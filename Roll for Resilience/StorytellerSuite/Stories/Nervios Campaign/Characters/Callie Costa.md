@@ -13,6 +13,8 @@ quirks: Frequently apologizes, struggles to hold eye contact, tries to rush thro
 affiliation: Merchant
 race: Human
 id: mpzt5vefkc622v
+groups:
+  - "[[Commonfolk]]"
 ---
 
 ## Description

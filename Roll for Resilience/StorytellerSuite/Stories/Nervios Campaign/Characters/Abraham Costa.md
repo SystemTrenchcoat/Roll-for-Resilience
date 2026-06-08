@@ -13,6 +13,8 @@ race: Human
 gender: Male
 age: "56"
 quirks: Hums while travelling, Smells of fish and the sea, Smiles at everyone
+groups:
+  - "[[Commonfolk]]"
 ---
 
 ## Description

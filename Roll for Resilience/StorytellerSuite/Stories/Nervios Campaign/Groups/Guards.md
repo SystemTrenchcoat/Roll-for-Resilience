@@ -11,6 +11,10 @@ members:
     id: "[[Leon Asker]]"
   - type: item
     id: "[[Thought Detector]]"
+  - type: character
+    id: "[[Eagan Morrow]]"
+  - type: character
+    id: "[[Adam Atkin]]"
 ---
 
 ## Description
