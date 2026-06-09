@@ -12,6 +12,12 @@ members:
     id: "[[Abraham Costa]]"
   - type: character
     id: "[[Lucia Grey]]"
+  - type: character
+    id: "[[Ruby Marsh]]"
+  - type: character
+    id: "[[Gregory Marsh]]"
+  - type: character
+    id: "[[Clara]]"
 ---
 
 ## Description
