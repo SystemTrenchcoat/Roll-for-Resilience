@@ -22,7 +22,7 @@ connections:
 ---
 
 ## Description
-The owner of the Loud House tavern-- a social hub for guards and commonfolk alike. Ruby tends to get carried away and party with her customers.
+The owner of the Loud House tavern-- a social hub for [[guards]] and [[commonfolk]] alike. Ruby tends to get carried away and party with her customers.
 
 ## Backstory
 Ruby is a mother of two and the beloved wife to Gregory Marsh. She lives a simple life as a bartender and wants everyone to get along.

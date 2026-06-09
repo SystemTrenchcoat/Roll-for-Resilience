@@ -22,7 +22,7 @@ A silver-tongued merchant who always gets what he wants
 Born to a merchant family that grew close with the old royals for their connections and rare goods, Querion was raised to utilize the desires of others to get what he wanted. Their family's merchant empire is still strong, with the ability to procure almost any good around the world.
 
 ## Motivations
-Spreading their influence and family name as well as acrewing and building their family wealth.
+Spreading their influence and family name as well as accruing their family's wealth.
 
 ## Secrets
 

@@ -1,0 +1,19 @@
+{
+  "id": "template-1781023021874-rqpgy9vnb",
+  "name": "New Template",
+  "description": "f",
+  "genre": "fantasy",
+  "category": "single-entity",
+  "version": "1.0.0",
+  "author": "User",
+  "isBuiltIn": false,
+  "isEditable": true,
+  "created": "2026-06-09T16:37:01.874Z",
+  "modified": "2026-06-09T16:37:04.910Z",
+  "tags": [],
+  "entities": {},
+  "entityTypes": [],
+  "usageCount": 0,
+  "quickApplyEnabled": true,
+  "variables": []
+}

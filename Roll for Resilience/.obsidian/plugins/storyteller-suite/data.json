@@ -446,6 +446,15 @@
       "filesEdited": [
         "StorytellerSuite/Stories/Nervios Campaign/Characters/Isabella Mar.md"
       ]
+    },
+    {
+      "id": "writing-1781023110180-xlkmnt",
+      "startTime": "2026-06-09T16:38:30.180Z",
+      "endTime": "2026-06-09T16:43:40.819Z",
+      "wordsWritten": 0,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Querion Droma.md"
+      ]
     }
   ],
   "trackWritingSessions": false,
@@ -513,6 +522,15 @@
       "wordsWritten": 16,
       "wordsDeleted": 0,
       "netWords": 16,
+      "timeSpent": 0,
+      "scenesEdited": [],
+      "goalMet": false
+    },
+    {
+      "date": "2026-06-09",
+      "wordsWritten": 0,
+      "wordsDeleted": 2,
+      "netWords": -2,
       "timeSpent": 0,
       "scenesEdited": [],
       "goalMet": false
