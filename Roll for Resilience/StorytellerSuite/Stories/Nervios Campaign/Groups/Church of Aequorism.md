@@ -5,6 +5,10 @@ storyteller-story-id: mpwy9kn3o4bhth
 name: Church of Aequorism
 group-type: religious
 status: Active
+subgroups:
+  - "[[High Trident]]"
+  - "[[Wave Wardens]]"
+  - "[[Sea Soothers]]"
 members:
   - type: character
     id: "[[Isabella Sol]]"
@@ -12,6 +16,8 @@ members:
     id: "[[Caspian Moon]]"
   - type: character
     id: "[[Soren Mar]]"
+  - type: character
+    id: "[[Iris Thyrsin]]"
 group-relationships:
   - groupName: "[[Guards]]"
     relationshipType: friendly
@@ -31,6 +37,8 @@ The head religion of  Nervios. Worshipping the ocean god and creator of all life
 - Moon: The spear of Divinity- [[Caspian Moon]]
 - Sea: The spear of Nature- [[Soren Mar]]
 - Sun: The spear of Life- [[Isabella Sol]]
+
+*Divine Prosecutor*: Advocate of Aequorin within the court. Their job is to prosecute criminals for their crimes against God and the Church.
 
 *Wave Wardens*: Protectors and watchers of the sea. They ensure mankind does not disrespect or disrupt the ocean. They are also in charge of sea burials and rituals.
 

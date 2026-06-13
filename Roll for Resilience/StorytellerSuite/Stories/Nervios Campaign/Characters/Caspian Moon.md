@@ -13,7 +13,6 @@ traits:
 affiliation: Church of Aequorism - High Trident Moon
 id: mq9o5sbjuknoo2
 groups:
-  - "[[Church of Aequerism]]"
   - "[[Church of Aequorism]]"
 ---
 

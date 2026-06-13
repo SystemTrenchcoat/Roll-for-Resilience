@@ -2,7 +2,6 @@
 entityType: character
 name: Soren Mar
 groups:
-  - "[[Church of Aequerism]]"
   - "[[Church of Aequorism]]"
 status: Alive
 gender: Male

@@ -15,7 +15,6 @@ traits:
   - altruistic
 id: mq5dvk117wuuml
 groups:
-  - "[[Church of Aequerism]]"
   - "[[Church of Aequorism]]"
 ---
 
