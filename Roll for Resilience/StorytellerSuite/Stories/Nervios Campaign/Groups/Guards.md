@@ -17,6 +17,8 @@ members:
     id: "[[Adam Atkin]]"
   - type: character
     id: "[[Clara]]"
+  - type: character
+    id: "[[Gregory Marsh]]"
 ---
 
 ## Description

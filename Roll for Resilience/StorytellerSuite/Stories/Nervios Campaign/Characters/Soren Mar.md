@@ -28,5 +28,5 @@ Soren lived an average Nervosi childhood. He labored at a young age, learned to 
 
 At first, Soren felt deeply out of place. He was thrown head first into a religion he paid little attention too-- forced to follow every scripture and practice to the point it nearly drove him to madness. One night he snuck away and fled to the nearest shore. Here, Soren begged for the sea to take him, the way it has already taken his former way of life. Instead, he saw the truth. Looking into the crashing waves Soren found peace, and saw visions of the future. Ever since that day, Soren has dedicated himself as Nature's protector. He who harms nature is amongst the worst sinners in the eyes of Soren.
 
-## # Physical Appearance
-Soren is of average height and build, yet he moves with a certain gravitas.  His hair: black as the night sky, is juxtaposed by his piercing ocean blue eyes. He stands with his shoulders slumped inwards and frequently gazes towards the sea as if he sees some greater truth.
+### Physical Appearance
+Soren is of average height and build, yet he moves with a certain gravitas.  His hair: black as the night sky, is juxtaposed by his piercing ocean blue eyes. He stands with his shoulders slumped inwards and frequently gazes towards the sea as if he sees some deeper truth.

@@ -31,7 +31,7 @@ group-relationships:
 
 ## Description
 
-The head religion of  Nervios. Worshipping the ocean god and creator of all life, Aequorin. They believe that the ocean is divine and must be appeased through worship and tithes.
+The head religion of Nervios. Worshipping the ocean god and creator of all life, Aequorin. They believe that the ocean is divine and must be appeased through worship and tithes.
 
 ## Structure
 

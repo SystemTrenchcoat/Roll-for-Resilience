@@ -7,6 +7,14 @@ group-type: organization
 members:
   - type: character
     id: "[[Stewart Tallow]]"
+  - type: character
+    id: "[[Gregory Marsh]]"
+  - type: character
+    id: "[[Eleni]]"
+  - type: character
+    id: "[[Sheik Aldien]]"
+  - type: character
+    id: "[[Tassos Buros]]"
 ---
 
 ## Description

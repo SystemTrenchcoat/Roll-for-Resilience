@@ -12,13 +12,15 @@ traits:
   - Expressive
 status: Alive
 affiliation: Court of Nervios
-quirks: "Highly expressive: his face usually gives a good gauge of how hes' feeling. "
+quirks: "Highly expressive: his face usually gives a good gauge of how hes' feeling. Hates when people interrupt him. Loves to interrupt others"
 id: mqb93evyhvljoh
 ---
 
 ## Description
-A judge of the Court of Nervios.  He has grown impatient after nearly a century of daily trials and often tries to speed along through them.
+A judge of the Court of Nervios.  He has grown impatient after nearly a century of daily trials and often tries to speed along through them. 
 
+### Physical Description
+Gimil is short and stocky with hair the color of copper. His beard is braided neatly and extends to his boots, while his hair is beginning to recede from the forehead. He wears a plain dark blue judicial robe and carries a giant gavel roughly 3 feet in length
 ## Backstory
 Gimil has 15 kids and a wife of 140 years. He has been a judge for 93 years and has made a fine living out of it. 
 

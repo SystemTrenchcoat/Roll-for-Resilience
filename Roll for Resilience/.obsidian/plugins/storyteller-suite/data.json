@@ -125,6 +125,11 @@
           "type": "character",
           "id": "Clara",
           "name": "Clara"
+        },
+        {
+          "type": "character",
+          "id": "mq5j0m47ccncmd",
+          "name": "Gregory Marsh"
         }
       ],
       "groupType": "organization",
@@ -144,6 +149,26 @@
           "type": "character",
           "id": "mpzr0d651euxeo",
           "name": "Stewart Tallow"
+        },
+        {
+          "type": "character",
+          "id": "mq5j0m47ccncmd",
+          "name": "Gregory Marsh"
+        },
+        {
+          "type": "character",
+          "id": "Eleni",
+          "name": "Eleni"
+        },
+        {
+          "type": "character",
+          "id": "mqfov8nslusb7h",
+          "name": "Sheik Aldien"
+        },
+        {
+          "type": "character",
+          "id": "Tassos Buros",
+          "name": "Tassos Buros"
         }
       ],
       "groupType": "organization",
@@ -207,7 +232,7 @@
       "id": "mq9oc68md52oq2",
       "storyId": "mpwy9kn3o4bhth",
       "name": "Church of Aequorism",
-      "description": "The head religion of  Nervios. Worshipping the ocean god and creator of all life, Aequorin. They believe that the ocean is divine and must be appeased through worship and tithes.",
+      "description": "The head religion of Nervios. Worshipping the ocean god and creator of all life, Aequorin. They believe that the ocean is divine and must be appeased through worship and tithes.",
       "members": [
         {
           "type": "character",
@@ -648,6 +673,141 @@
       "startTime": "2026-06-15T15:10:42.177Z",
       "endTime": "2026-06-15T15:10:50.141Z",
       "wordsWritten": 36
+    },
+    {
+      "id": "writing-1781536250167-05lgnw",
+      "startTime": "2026-06-15T15:10:50.167Z",
+      "endTime": "2026-06-15T17:24:25.049Z",
+      "wordsWritten": 50,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Clara Porter.md"
+      ]
+    },
+    {
+      "id": "writing-1781544265118-hfpbwz",
+      "startTime": "2026-06-15T17:24:25.118Z",
+      "endTime": "2026-06-15T17:24:41.054Z",
+      "wordsWritten": 3,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Eagan Morrow.md"
+      ]
+    },
+    {
+      "id": "writing-1781544287911-601ebc",
+      "startTime": "2026-06-15T17:24:47.911Z",
+      "endTime": "2026-06-15T17:29:50.905Z",
+      "wordsWritten": 45,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Eagan Morrow.md"
+      ]
+    },
+    {
+      "id": "writing-1781544601296-kkyemm",
+      "startTime": "2026-06-15T17:30:01.296Z",
+      "endTime": "2026-06-15T18:01:46.141Z",
+      "wordsWritten": 52,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Gimil Lawman.md"
+      ]
+    },
+    {
+      "id": "writing-1781546508162-5eoddd",
+      "startTime": "2026-06-15T18:01:48.162Z",
+      "endTime": "2026-06-15T18:02:37.334Z",
+      "wordsWritten": 3,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Gregory Marsh.md"
+      ]
+    },
+    {
+      "id": "writing-1781546560003-u5ax0d",
+      "startTime": "2026-06-15T18:02:40.003Z",
+      "endTime": "2026-06-15T18:05:05.923Z",
+      "wordsWritten": 35,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Gregory Marsh.md"
+      ]
+    },
+    {
+      "id": "writing-1781546706778-u9n8lg",
+      "startTime": "2026-06-15T18:05:06.778Z",
+      "endTime": "2026-06-15T18:07:59.949Z",
+      "wordsWritten": 41,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Iris Thyrsin.md"
+      ]
+    },
+    {
+      "id": "writing-1781546932737-asxckc",
+      "startTime": "2026-06-15T18:08:52.737Z",
+      "endTime": "2026-06-15T18:12:54.925Z",
+      "wordsWritten": 40,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Isabella Sol.md"
+      ]
+    },
+    {
+      "id": "writing-1781547174977-7c91lm",
+      "startTime": "2026-06-15T18:12:54.977Z",
+      "endTime": "2026-06-15T18:16:01.819Z",
+      "wordsWritten": 47,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Jaime Pole.md"
+      ]
+    },
+    {
+      "id": "writing-1781553305687-05gj31",
+      "startTime": "2026-06-15T19:55:05.687Z",
+      "endTime": "2026-06-15T19:55:29.040Z",
+      "wordsWritten": 0,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Leon Asker.md"
+      ]
+    },
+    {
+      "id": "writing-1781553329087-8i4jv2",
+      "startTime": "2026-06-15T19:55:29.087Z",
+      "endTime": "2026-06-15T20:02:10.763Z",
+      "wordsWritten": 33,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Lucia Grey .md"
+      ]
+    },
+    {
+      "id": "writing-1781553734151-9b2ovy",
+      "startTime": "2026-06-15T20:02:14.151Z",
+      "endTime": "2026-06-15T20:09:12.653Z",
+      "wordsWritten": 37,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Ruby Marsh.md"
+      ]
+    },
+    {
+      "id": "writing-1781554152716-gpoxx1",
+      "startTime": "2026-06-15T20:09:12.716Z",
+      "endTime": "2026-06-15T20:14:15.133Z",
+      "wordsWritten": 0,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Soren Mar.md"
+      ]
+    },
+    {
+      "id": "writing-1781555689072-3nx2sw",
+      "startTime": "2026-06-15T20:34:49.072Z",
+      "endTime": "2026-06-15T20:51:58.499Z",
+      "wordsWritten": 64,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Eleni Dorian.md"
+      ]
+    },
+    {
+      "id": "writing-1781556718547-h9ok7e",
+      "startTime": "2026-06-15T20:51:58.547Z",
+      "endTime": "2026-06-15T21:11:11.347Z",
+      "wordsWritten": 26,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Sheik Aldien.md"
+      ]
     }
   ],
   "trackWritingSessions": false,
@@ -757,9 +917,9 @@
     },
     {
       "date": "2026-06-15",
-      "wordsWritten": 205,
-      "wordsDeleted": 0,
-      "netWords": 205,
+      "wordsWritten": 681,
+      "wordsDeleted": 30,
+      "netWords": 651,
       "timeSpent": 0,
       "scenesEdited": [],
       "goalMet": false
