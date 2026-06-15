@@ -18,6 +18,8 @@ members:
     id: "[[Soren Mar]]"
   - type: character
     id: "[[Iris Thyrsin]]"
+  - type: event
+    id: "[[The Festival of Granite Rain]]"
 group-relationships:
   - groupName: "[[Guards]]"
     relationshipType: friendly

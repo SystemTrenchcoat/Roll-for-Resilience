@@ -18,6 +18,8 @@ members:
     id: "[[Gregory Marsh]]"
   - type: character
     id: "[[Clara]]"
+  - type: event
+    id: "[[The Festival of Granite Rain]]"
 ---
 
 ## Description

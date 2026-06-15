@@ -27,7 +27,7 @@
           "name": "Jane Novia"
         }
       ],
-      "description": "A group that hates the \"ever-watching eyes\" and wishes to bring Nervios freedom through contact with the outside world and the destruction of the eyes\r\n\r\n- Quiet / Gaining traction, trying to help people escape, close ties to smugglers.\r\n    \r\n- Truly believes they’re doing what’s best for everyone, especially the people in the town\r\n    \r\n- End goal for the rebels (assuming they know or at least believe all the towers are widely unmanned): expose the truth of the matter. Maybe they want to expose the nobles too. Most likely anti-noble if they know their history (which at least the important ones probably do)\r\n    \r\n- Probably have spies in the guards\r\n    \r\n\r\n- Definitely trying to find some high ups willing to help to learn more about the panopticon\r\n    \r\n\r\n- Often work under darkness or / and with obscuring / illusion spells\r\n    \r\n- Definitely have a tunnel system\r\n    \r\n- Strong aura of secrecy, especially in their upper ranks\r\n    \r\n- Most often help people escape the town\r\n    \r\n- Maybe offers places of solace where the eye cannot see?\r\n    \r\n- The collectivist to the guard / government’s isolationist",
+      "description": "A group that hates the \"ever-watching eyes\" and wishes to bring Nervios freedom through contact with the outside world and the destruction of the eyes\n\n- Quiet / Gaining traction, trying to help people escape, close ties to smugglers.\n    \n- Truly believes they’re doing what’s best for everyone, especially the people in the town\n    \n- End goal for the rebels (assuming they know or at least believe all the towers are widely unmanned): expose the truth of the matter. Maybe they want to expose the nobles too. Most likely anti-noble if they know their history (which at least the important ones probably do)\n    \n- Probably have spies in the guards\n    \n\n- Definitely trying to find some high ups willing to help to learn more about the panopticon\n    \n\n- Often work under darkness or / and with obscuring / illusion spells\n    \n- Definitely have a tunnel system\n    \n- Strong aura of secrecy, especially in their upper ranks\n    \n- Most often help people escape the town\n    \n- Maybe offers places of solace where the eye cannot see?\n    \n- The collectivist to the guard / government’s isolationist",
       "history": "",
       "structure": "",
       "goals": "",
@@ -189,6 +189,11 @@
           "type": "character",
           "id": "Clara",
           "name": "Clara"
+        },
+        {
+          "type": "event",
+          "id": "mqbo2auiu0ix98",
+          "name": "The Festival of Granite Rain"
         }
       ],
       "groupType": "collection",
@@ -221,8 +226,13 @@
         },
         {
           "type": "character",
-          "id": "Iris Thyrsin",
+          "id": "mqb7uhtsmyyoky",
           "name": "Iris Thyrsin"
+        },
+        {
+          "type": "event",
+          "id": "mqbo2auiu0ix98",
+          "name": "The Festival of Granite Rain"
         }
       ],
       "groupType": "religious",
@@ -560,6 +570,84 @@
       "filesEdited": [
         "StorytellerSuite/Stories/Nervios Campaign/Characters/Stewart Tallow.md"
       ]
+    },
+    {
+      "id": "writing-1781534028951-dk7c67",
+      "startTime": "2026-06-15T14:33:48.951Z",
+      "endTime": "2026-06-15T14:34:40.147Z",
+      "wordsWritten": 4,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Abraham Costa.md"
+      ]
+    },
+    {
+      "id": "writing-1781534082557-wuauzp",
+      "startTime": "2026-06-15T14:34:42.557Z",
+      "endTime": "2026-06-15T14:37:49.856Z",
+      "wordsWritten": 26,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Abraham Costa.md"
+      ]
+    },
+    {
+      "id": "writing-1781534271840-7n2lhi",
+      "startTime": "2026-06-15T14:37:51.840Z",
+      "endTime": "2026-06-15T14:39:36.836Z",
+      "wordsWritten": 10,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Abraham Costa.md"
+      ]
+    },
+    {
+      "id": "writing-1781534376951-q0zaho",
+      "startTime": "2026-06-15T14:39:36.951Z",
+      "endTime": "2026-06-15T14:51:47.731Z",
+      "wordsWritten": 26,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Adam Atkin.md"
+      ]
+    },
+    {
+      "id": "writing-1781535109234-xxeiu7",
+      "startTime": "2026-06-15T14:51:49.234Z",
+      "endTime": "2026-06-15T14:59:18.873Z",
+      "wordsWritten": 38,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Callie Costa.md"
+      ]
+    },
+    {
+      "id": "writing-1781535561040-xb4fgx",
+      "startTime": "2026-06-15T14:59:21.040Z",
+      "endTime": "2026-06-15T15:01:38.889Z",
+      "wordsWritten": 9,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Callie Costa.md"
+      ]
+    },
+    {
+      "id": "writing-1781535699802-jfh960",
+      "startTime": "2026-06-15T15:01:39.802Z",
+      "endTime": "2026-06-15T15:09:18.885Z",
+      "wordsWritten": 52,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Caspian Moon.md"
+      ]
+    },
+    {
+      "id": "writing-1781536160013-8gv4i0",
+      "startTime": "2026-06-15T15:09:20.013Z",
+      "endTime": "2026-06-15T15:10:42.154Z",
+      "wordsWritten": 4,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Clara Porter.md"
+      ]
+    },
+    {
+      "id": "writing-1781536242177-c5lkfc",
+      "startTime": "2026-06-15T15:10:42.177Z",
+      "endTime": "2026-06-15T15:10:50.141Z",
+      "wordsWritten": 36
     }
   ],
   "trackWritingSessions": false,
@@ -663,6 +751,15 @@
       "wordsWritten": 20,
       "wordsDeleted": 0,
       "netWords": 20,
+      "timeSpent": 0,
+      "scenesEdited": [],
+      "goalMet": false
+    },
+    {
+      "date": "2026-06-15",
+      "wordsWritten": 205,
+      "wordsDeleted": 0,
+      "netWords": 205,
       "timeSpent": 0,
       "scenesEdited": [],
       "goalMet": false
