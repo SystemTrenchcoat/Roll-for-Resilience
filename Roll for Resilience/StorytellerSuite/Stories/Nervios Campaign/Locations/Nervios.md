@@ -17,6 +17,12 @@ entityRefs:
   - entityId: "[[Clara Porter]]"
     entityType: character
     relationship: located
+  - entityId: "[[The Day of Granite Rain]]"
+    entityType: event
+    relationship: occurred here
+  - entityId: "[[The Festival of Granite Rain]]"
+    entityType: scene
+    relationship: takes place here
 _skipSync: true
 childLocationIds:
   - "[[Rutmar Port]]"

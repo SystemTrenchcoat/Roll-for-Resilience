@@ -5,6 +5,11 @@ locationType: Port
 parentLocationId: "[[Nervios]]"
 id: mpx98fzj8xpje7
 status: Active
+entityRefs:
+  - entityId: "[[The Festival of Granite Rain]]"
+    entityType: scene
+    relationship: takes place here
+_skipSync: true
 ---
 
 ## Description

@@ -19,7 +19,7 @@ members:
   - type: character
     id: "[[Iris Thyrsin]]"
   - type: event
-    id: "[[The Festival of Granite Rain]]"
+    id: "[[StorytellerSuite/Stories/Nervios Campaign/Events/The Festival of Granite Rain]]"
 group-relationships:
   - groupName: "[[Guards]]"
     relationshipType: friendly
@@ -31,7 +31,7 @@ group-relationships:
 
 ## Description
 
-The head religion of Nervios. Worshipping the ocean god and creator of all life, Aequorin. They believe that the ocean is divine and must be appeased through worship and tithes.
+The head religion of [[Nervios]]. Worshipping the ocean god and creator of all life, Aequorin. They believe that the ocean is divine and must be appeased through worship and tithes.
 
 ## Structure
 

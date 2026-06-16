@@ -19,6 +19,10 @@ members:
     id: "[[Clara]]"
   - type: character
     id: "[[Gregory Marsh]]"
+  - type: event
+    id: "[[The Day of Granite Rain]]"
+  - type: character
+    id: "[[Jaime Pole]]"
 ---
 
 ## Description
