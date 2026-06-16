@@ -27,7 +27,7 @@ members:
 
 ## Description
 
-The guards of Nervios
+The guards of [[Nervios]]
 
 - Patrolling the city 24/7 on a schedule
     
