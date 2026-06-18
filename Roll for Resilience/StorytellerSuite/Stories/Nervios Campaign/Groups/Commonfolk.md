@@ -16,12 +16,8 @@ members:
     id: "[[Ruby Marsh]]"
   - type: character
     id: "[[Gregory Marsh]]"
-  - type: character
-    id: "[[Clara]]"
-  - type: event
-    id: "[[StorytellerSuite/Stories/Nervios Campaign/Events/The Festival of Granite Rain]]"
 ---
 
 ## Description
 
-The everyday people of [[Nervios]]. Not engaged in the lives of guards, rebels, or nobles. 
+The everyday people of [[Nervios]]. Not engaged in the lives of guards, rebels, or nobles.

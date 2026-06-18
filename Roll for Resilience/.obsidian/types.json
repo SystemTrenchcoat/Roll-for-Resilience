@@ -4,6 +4,7 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "alignment": "text",
-    "traits": "multitext"
+    "traits": "multitext",
+    "members": "multitext"
   }
 }

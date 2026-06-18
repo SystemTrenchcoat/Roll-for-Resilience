@@ -219,16 +219,6 @@
           "type": "character",
           "id": "mq5j0m47ccncmd",
           "name": "Gregory Marsh"
-        },
-        {
-          "type": "character",
-          "id": "Clara",
-          "name": "Clara"
-        },
-        {
-          "type": "event",
-          "id": "StorytellerSuite/Stories/Nervios Campaign/Events/The Festival of Granite Rain",
-          "name": "StorytellerSuite/Stories/Nervios Campaign/Events/The Festival of Granite Rain"
         }
       ],
       "groupType": "collection",
@@ -872,6 +862,12 @@
       "filesEdited": [
         "StorytellerSuite/Stories/Nervios Campaign/Characters/Eagan Morrow.md"
       ]
+    },
+    {
+      "id": "writing-1781709035331-ym5nlr",
+      "startTime": "2026-06-17T15:10:35.331Z",
+      "endTime": "2026-06-17T15:11:39.472Z",
+      "wordsWritten": 6
     }
   ],
   "trackWritingSessions": false,
@@ -993,6 +989,15 @@
       "wordsWritten": 269,
       "wordsDeleted": 1,
       "netWords": 268,
+      "timeSpent": 0,
+      "scenesEdited": [],
+      "goalMet": false
+    },
+    {
+      "date": "2026-06-17",
+      "wordsWritten": 6,
+      "wordsDeleted": 0,
+      "netWords": 6,
       "timeSpent": 0,
       "scenesEdited": [],
       "goalMet": false
