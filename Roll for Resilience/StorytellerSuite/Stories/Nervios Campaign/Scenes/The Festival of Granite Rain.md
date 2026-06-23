@@ -37,7 +37,7 @@ While surveying and navigating the festival grounds, the players get “randomly
 As the festival carries on, a large team puzzle is announced– known as the “Wheel of Purity”. A key clue to said puzzle lies within the prizes of three separate, smaller games. These games include [[Boulder Climb]], [[Hidden Key Puzzle]], and [[Color Cipher]]. The party can divide and conquer to play these games, or stay together and complete them as a whole party. The games are designed to be relatively quick.
 
 ### 3. Recruitment Opportunities
-After the first game is over, the party is approached by a group of guards attempting to recruit them. One of the guards, [[Leon Asker]], is a double agent for the rebels, and secretly delivers a special coin to one of the party members. The coin is a puzzle, and once solved reveals the location of the rebel recruitment spot. 
+After the first game is over, the party is approached by a group of guards attempting to recruit them. One of the guards, [[Leon Asker]], is a double agent for the rebels, and secretly delivers a special coin to one of the party members. The coin is a puzzle, and once solved reveals the location of the rebel recruitment spot.  [[Rebel Coin Puzzle]]
 
 This period gives the party a break between minigames and a chance to socialize. Additionally, it lays down foundations for the party joining the guards/rebels.
 
