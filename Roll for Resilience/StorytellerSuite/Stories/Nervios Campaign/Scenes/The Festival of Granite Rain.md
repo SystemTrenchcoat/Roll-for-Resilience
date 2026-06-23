@@ -32,7 +32,13 @@ linkedCharacters:
 This mission is set to occur at the very beginning of the campaign. It introduces the player characters, has them engage in minigames involving teamwork and cooperation, and introduces them to the rebellion/guards. 
 
 ### 1. Player Introductions
-While surveying and navigating the festival grounds, the players get “randomly selected” by an announcer on stage to participate in a team game for a prize.
+While surveying and navigating the festival grounds, the players overhear as an announcer calls for the commencement of the yearly team games. He asks for all of those who wish to participate to step forward. Those who step forward are randomly put into teams of 6 people.
+
+The announcer then explains the rules of the games:
+1. Three minigames exist around the campgrounds: [[Boulder Climb]], [[Hidden Key Puzzle]], and [[Color Cipher]] 
+2. These minigames can be played as full teams, or can be played separately by smaller groups formed within your team.
+3. The three minigames award different clues that will help solve the final team puzzle, [[The Wheel of Purity]] 
+4. The first team to complete the three minigames and solve [[The Wheel of Purity]] will win a grand prize of 500 scler.
 ### 2. Smaller team-based games/puzzles
 As the festival carries on, a large team puzzle is announced– known as the “Wheel of Purity”. A key clue to said puzzle lies within the prizes of three separate, smaller games. These games include [[Boulder Climb]], [[Hidden Key Puzzle]], and [[Color Cipher]]. The party can divide and conquer to play these games, or stay together and complete them as a whole party. The games are designed to be relatively quick.
 
