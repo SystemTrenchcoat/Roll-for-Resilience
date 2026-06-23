@@ -5,6 +5,8 @@
     "tags": "tags",
     "alignment": "text",
     "traits": "multitext",
-    "members": "multitext"
+    "members": "multitext",
+    "linkedScenes": "text",
+    "scenes": "text"
   }
 }
