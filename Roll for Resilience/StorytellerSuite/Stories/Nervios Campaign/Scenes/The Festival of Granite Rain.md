@@ -25,7 +25,6 @@ linkedCharacters:
 ---
 ## Content
 *The Festival of Granite Rain* is an annual festival hosted by the nobles and guards of [[Nervios]] celebrating the day the city closed its wall to the outside word and isolated themselves. This day is known as [[The Day of Granite Rain]].
-
 ### Hook
 ***It’s that time of year again! Thousands of citizens from all across Nervios flock together to celebrate and rejoice during the annual Festival of Granite Rain. Engage in various rock-themed festivities and games, look for recruitment opportunities within the Guards, and socialize with friends and family! The festival serves to commemorate the day the guards protected and isolated the city by sealing the entrance gate with thousands of pounds of loose rock and debris.***
 ## Story Beats
