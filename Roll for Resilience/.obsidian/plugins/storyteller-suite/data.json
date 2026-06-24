@@ -1033,6 +1033,15 @@
       "filesEdited": [
         "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Festival of Granite Rain.md"
       ]
+    },
+    {
+      "id": "writing-1782312558460-pnlzqf",
+      "startTime": "2026-06-24T14:49:18.460Z",
+      "endTime": "2026-06-24T14:50:27.728Z",
+      "wordsWritten": 870,
+      "filesEdited": [
+        "Nervios/Module/Mechanics.md"
+      ]
     }
   ],
   "trackWritingSessions": false,
@@ -1181,6 +1190,15 @@
       "wordsWritten": 2593,
       "wordsDeleted": 1,
       "netWords": 2592,
+      "timeSpent": 0,
+      "scenesEdited": [],
+      "goalMet": false
+    },
+    {
+      "date": "2026-06-24",
+      "wordsWritten": 870,
+      "wordsDeleted": 0,
+      "netWords": 870,
       "timeSpent": 0,
       "scenesEdited": [],
       "goalMet": false
