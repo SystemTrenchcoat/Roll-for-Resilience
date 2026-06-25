@@ -140,6 +140,11 @@
           "type": "character",
           "id": "mq5dd2orf65r7j",
           "name": "Jaime Pole"
+        },
+        {
+          "type": "character",
+          "id": "mqs9cmzfl7z8pk",
+          "name": "Milo Mandrich"
         }
       ],
       "groupType": "organization",
@@ -219,6 +224,21 @@
           "type": "character",
           "id": "mq5j0m47ccncmd",
           "name": "Gregory Marsh"
+        },
+        {
+          "type": "character",
+          "id": "mqtotsvgnsxwv3",
+          "name": "Mr. Whatzit"
+        },
+        {
+          "type": "location",
+          "id": "mqtsbpfy8vzkhj",
+          "name": "Clara Tea"
+        },
+        {
+          "type": "character",
+          "id": "Gunther Stone",
+          "name": "Gunther Stone"
         }
       ],
       "groupType": "collection",
@@ -1042,6 +1062,78 @@
       "filesEdited": [
         "Nervios/Module/Mechanics.md"
       ]
+    },
+    {
+      "id": "writing-1782315161628-r2uhy0",
+      "startTime": "2026-06-24T15:32:41.628Z",
+      "endTime": "2026-06-24T15:32:45.184Z",
+      "wordsWritten": 0,
+      "filesEdited": [
+        "Session Notes/Session 1.md"
+      ]
+    },
+    {
+      "id": "writing-1782316732066-ceve4n",
+      "startTime": "2026-06-24T15:58:52.066Z",
+      "endTime": "2026-06-24T18:19:45.745Z",
+      "wordsWritten": 48,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Milo Mandrich.md"
+      ]
+    },
+    {
+      "id": "writing-1782403178087-v322tp",
+      "startTime": "2026-06-25T15:59:38.087Z",
+      "endTime": "2026-06-25T16:02:54.703Z",
+      "wordsWritten": 11,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Mr. Whatzit.md"
+      ]
+    },
+    {
+      "id": "writing-1782403374732-0h64o9",
+      "startTime": "2026-06-25T16:02:54.732Z",
+      "endTime": "2026-06-25T17:37:34.641Z",
+      "wordsWritten": 5,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Locations/Bag Me Up.md"
+      ]
+    },
+    {
+      "id": "writing-1782409054722-c0v0sx",
+      "startTime": "2026-06-25T17:37:34.722Z",
+      "endTime": "2026-06-25T17:46:40.179Z",
+      "wordsWritten": 66,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Locations/Clara Tea.md"
+      ]
+    },
+    {
+      "id": "writing-1782409600234-c71tyg",
+      "startTime": "2026-06-25T17:46:40.234Z",
+      "endTime": "2026-06-25T18:04:29.009Z",
+      "wordsWritten": 62,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Locations/Fine Pebbles.md"
+      ]
+    },
+    {
+      "id": "writing-1782410701847-ytsuu8",
+      "startTime": "2026-06-25T18:05:01.847Z",
+      "endTime": "2026-06-25T18:05:28.987Z",
+      "wordsWritten": 1,
+      "filesEdited": [
+        "Nervios/Unique Mechanics/The Wheel of Purity.md"
+      ]
+    },
+    {
+      "id": "writing-1782410729055-57lxr4",
+      "startTime": "2026-06-25T18:05:29.055Z",
+      "endTime": "2026-06-25T18:05:58.212Z",
+      "wordsWritten": 6,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Locations/Sisyphus Hill.md"
+      ]
     }
   ],
   "trackWritingSessions": false,
@@ -1196,9 +1288,18 @@
     },
     {
       "date": "2026-06-24",
-      "wordsWritten": 870,
+      "wordsWritten": 918,
+      "wordsDeleted": 1,
+      "netWords": 917,
+      "timeSpent": 0,
+      "scenesEdited": [],
+      "goalMet": false
+    },
+    {
+      "date": "2026-06-25",
+      "wordsWritten": 151,
       "wordsDeleted": 0,
-      "netWords": 870,
+      "netWords": 151,
       "timeSpent": 0,
       "scenesEdited": [],
       "goalMet": false

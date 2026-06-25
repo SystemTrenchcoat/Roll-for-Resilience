@@ -26,7 +26,7 @@ Next to the wheel lies a wooden block engraved with three clues.
 > 2. The kraken segment should be positioned relatively opposite to the spring and summer symbols
 > 3. The eye segment is positioned almost at the full moon.
 
-## Sliding Puzzle
+## The Granite Puzzle
 Next to the wooden block lies a small 3x3 sliding puzzle. Next to the puzzle lies a piece of paper displaying the solution image.
 ![[trident_sliding_puzzle.jpg|226]]
 

@@ -23,6 +23,8 @@ members:
     id: "[[The Day of Granite Rain]]"
   - type: character
     id: "[[Jaime Pole]]"
+  - type: character
+    id: "[[Milo Mandrich]]"
 ---
 
 ## Description
