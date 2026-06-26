@@ -1,32 +1,14 @@
 ---
 scenes: "[[The Festival of Granite Rain]]"
 ---
-The final puzzle takes place in a larger tent, completely enclosed within. A proctor stands outside the entrance, offering a grand prize to those who complete the game inside. He explains the rules with a rhyme:
+# Description 
+The final puzzle takes place in the center of the festival grounds. A large wooden wheel stands atop a pile of boulders, which serve as a makeshift amphitheater. Adjacent to the wheel stands a large wooden block, a small square puzzle, and a handsome man, [[Milo Mandrich]], who boomingly exclaims:
+> "*Come one come all! Test your wits, courage, and strength by challenging yourself through various puzzles and games that lie within the festival. Beating these games can earn you up to three puzzle pieces. Once all three are collected, return here for an opportunity to solve the great Wheel of Purity. But be warned, teams are accepted and recommended, at a max count of 6 people.*"
 
-***The answer hidden among three rings, align the truth to see what it brings. Phases, symbols, seasons four; discover what the wheel has in store. Heed thy warning, the truth is incomplete. To seek it out, three games must be beat.***
+# Puzzle Mechanics
 
-If the party accepts the game, they are brought through the entrance flaps of the tent. Within the tent lies a large wooden wheel made of three separate rings.
-
-**The Outer Ring** consists of the 8 moon phases: New Moon --> Waxing Crescent --> First Quarter, Waxing Gibbous --> Full Moon --> Waning Gibbous --> Third Quarter --> Waning Crescent
-
-**The Middle Ring** consists of 6 symbols:  A Castle Gate --> A Trident --> The Kraken --> A Crown --> A sword --> An Eye
-
-**The Inner Ring** shows the 4 seasons: Spring --> Summer --> Autumn --> Winter
-
-![[wheelOfTruth.png|466]]
-## Clues
-Next to the wheel lies a wooden block engraved with three clues.
-
-1. A sword cuts best with a moon at half
-2. The kraken hides from rain and sun
-3. A watchful eye awaits the full glory
-
->[!faq]- Clue Explanations
-> 1. The sword segment should be pointing at either the First Quarter Moon, or the Third Quarter Moon
-> 2. The kraken segment should be positioned relatively opposite to the spring and summer symbols
-> 3. The eye segment is positioned almost at the full moon.
-
-## The Granite Puzzle
+Players may begin the Wheel Puzzle immediately, however it is nearly impossible to solve without receiving a clue from completing The Granite Sliding Puzzle.
+### The Granite Puzzle
 Next to the wooden block lies a small 3x3 sliding puzzle. Next to the puzzle lies a piece of paper displaying the solution image.
 ![[trident_sliding_puzzle.jpg|226]]
 
@@ -43,11 +25,32 @@ Upon inspection the puzzle is jumbled up and missing the three tiles necessary t
 >>[!faq]- Clue explanation
 >Each correct symbol has something to do with the value "three". The moon phase is the **third** quarter, the trident has **three** tips, autumn is the **third** season 
 
+## Wheel Puzzle
+**The Outer Ring** consists of the 8 moon phases: New Moon --> Waxing Crescent --> First Quarter, Waxing Gibbous --> Full Moon --> Waning Gibbous --> Third Quarter --> Waning Crescent
+
+**The Middle Ring** consists of 6 symbols:  A Castle Gate --> A Trident --> The Kraken --> A Crown --> A sword --> An Eye
+
+**The Inner Ring** shows the 4 seasons: Spring --> Summer --> Autumn --> Winter
+
+![[wheelOfPurity.png]]
+### Clues
+Next to the wheel lies a wooden block engraved with three clues.
+
+1. A sword cuts best with a moon at half
+2. The kraken hides from rain and sun
+3. A watchful eye awaits the full glory
+
+>[!faq]- Clue Explanations
+> 1. The sword segment should be pointing at either the First Quarter Moon, or the Third Quarter Moon
+> 2. The kraken segment should be positioned relatively opposite to the spring and summer symbols
+> 3. The eye segment is positioned almost at the full moon.
+
 
 > [!success]- The Wheel of Purity Solution
 > The puzzle is solved when the following three segments are aligned under the red arrow: **Third Quarter Moon, Trident, Autumn**.
-> ![[solved_wheelOfTruth.png]]
-> Upon completion, the three rings audibly click into place, and the back of the tent opens up, revealing the proctor. He congratulates the party on being the first team to complete the puzzle and win the grand prize. He gives the team 500 scler to split amongst themselves.
+> ![[wheelOfPurity_SOLVED.png]]
+> 
+> Upon completion, the three rings audibly click into place, and two confetti cannons fire over the boulder stage. 
 
 
 

@@ -237,7 +237,7 @@
         },
         {
           "type": "character",
-          "id": "Gunther Stone",
+          "id": "mqtt0szd3ku57w",
           "name": "Gunther Stone"
         }
       ],
@@ -1134,6 +1134,33 @@
       "filesEdited": [
         "StorytellerSuite/Stories/Nervios Campaign/Locations/Sisyphus Hill.md"
       ]
+    },
+    {
+      "id": "writing-1782410808199-av5waw",
+      "startTime": "2026-06-25T18:06:48.199Z",
+      "endTime": "2026-06-25T20:23:42.066Z",
+      "wordsWritten": 51,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Sven.md"
+      ]
+    },
+    {
+      "id": "writing-1782486574005-zwqakw",
+      "startTime": "2026-06-26T15:09:34.005Z",
+      "endTime": "2026-06-26T15:34:55.130Z",
+      "wordsWritten": 11,
+      "filesEdited": [
+        "Nervios/Unique Mechanics/The Wheel of Purity.md"
+      ]
+    },
+    {
+      "id": "writing-1782488097214-thsh1m",
+      "startTime": "2026-06-26T15:34:57.214Z",
+      "endTime": "2026-06-26T18:18:43.657Z",
+      "wordsWritten": 32,
+      "filesEdited": [
+        "Nervios/Unique Mechanics/The Wheel of Purity.md"
+      ]
     }
   ],
   "trackWritingSessions": false,
@@ -1297,9 +1324,18 @@
     },
     {
       "date": "2026-06-25",
-      "wordsWritten": 151,
+      "wordsWritten": 202,
       "wordsDeleted": 0,
-      "netWords": 151,
+      "netWords": 202,
+      "timeSpent": 0,
+      "scenesEdited": [],
+      "goalMet": false
+    },
+    {
+      "date": "2026-06-26",
+      "wordsWritten": 43,
+      "wordsDeleted": 0,
+      "netWords": 43,
       "timeSpent": 0,
       "scenesEdited": [],
       "goalMet": false
