@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b5d799cc4f19e691",
+            "id": "d947adfbc9a28ee1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nervios/Unique Mechanics/The Wheel of Purity.md",
+                "file": "Unique Mechanics/The Festival of Granite Rain/The Wheel of Purity - Interactive.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Wheel of Purity"
+              "title": "The Wheel of Purity - Interactive"
             }
           }
         ]
@@ -177,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 501.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,25 +193,43 @@
       "storyteller-suite:Apply template to story": false
     }
   },
-  "active": "b5d799cc4f19e691",
+  "active": "d947adfbc9a28ee1",
   "lastOpenFiles": [
-    "Images/Festival of Granite Rain/Wheel of Purity/wheelOfPurity.png",
-    "Images/Festival of Granite Rain/Wheel of Purity/wheelOfPurity_middle.png",
-    "Images/Festival of Granite Rain/Wheel of Purity/wheelOfPurity_outside.png",
-    "Images/Festival of Granite Rain/Wheel of Purity",
-    "Images/Festival of Granite Rain/Wheel of Purity/wheelOfPurity_redArrow.png",
-    "Images/Festival of Granite Rain/Wheel of Purity/wheelOfPurity_inside.png",
     "Images/Festival of Granite Rain/Wheel of Purity/wheelOfPurity_SOLVED.png",
-    "Images/Festival of Granite Rain/wheelOfTruth.png",
-    "Images/Festival of Granite Rain/trident_sliding_puzzle.jpg",
-    "Images/Festival of Granite Rain/RebelRecruitmentCoin.png",
-    "Images/Festival of Granite Rain/ColorCipher.png",
-    "Nervios/Unique Mechanics/The Wheel of Purity.md",
+    "Unique Mechanics/The Festival of Granite Rain/The Wheel of Purity - Interactive.md",
+    "Unique Mechanics/The Festival of Granite Rain/The Wheel of Purity.md",
+    "Unique Mechanics/The Festival of Granite Rain/Rebel Coin Puzzle.md",
+    "Unique Mechanics/HTMLInteractables/README.md",
+    "Unique Mechanics/HTMLInteractables/WheelOfPurityHTML/index.html",
+    "Unique Mechanics/HTMLInteractables",
+    "Untitled.md",
+    "Unique Mechanics/The Festival of Granite Rain/Boulder Climb.md",
+    "Unique Mechanics/The Festival of Granite Rain",
+    "Unique Mechanics/HTMLInteractables/WheelOfPurityHTML/imgs/wheelOfPurity_redArrow.png",
+    "Unique Mechanics/HTMLInteractables/WheelOfPurityHTML/imgs/wheelOfPurity_outside.png",
+    "Unique Mechanics/HTMLInteractables/WheelOfPurityHTML/imgs/wheelOfPurity_middle.png",
+    "Unique Mechanics/HTMLInteractables/WheelOfPurityHTML/imgs/wheelOfPurity_inside.png",
+    "Images/Festival of Granite Rain/Wheel of Purity/wheelOfPurity_inside.png",
+    "Images/Festival of Granite Rain/Wheel of Purity/wheelOfPurity_outside.png",
+    "Images/Festival of Granite Rain/Wheel of Purity/wheelOfPurity_middle.png",
+    "Images/Festival of Granite Rain/Wheel of Purity/wheelOfPurity.png",
+    "Images/Festival of Granite Rain/Wheel of Purity/wheelOfPurity 1.png",
+    "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Festival of Granite Rain.md",
+    "Unique Mechanics/HTMLInteractables/WheelOfPurityHTML/imgs",
+    "WheelOfPurityHTML/New folder",
+    "WheelOfPurityHTML/Untitled.md",
+    "Unique Mechanics/HTMLInteractables/WheelOfPurityHTML",
+    "Untitled.canvas",
+    "Inte",
+    "Untitled 1.canvas",
+    "Untitled 2.canvas",
+    "StorytellerSuite/Stories/Nervios Campaign/Items/Deception Medallion.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Items/Thought Detector.md",
+    "Images/Festival of Granite Rain/Wheel of Purity",
     "StorytellerSuite/Stories/Nervios Campaign/Characters/Milo Mandrich.md",
     "Nervios/Unique Mechanics/Untitled.canvas",
-    "Nervios/Unique Mechanics/Rebel Coin Puzzle.md",
-    "Nervios/Unique Mechanics/Color Cipher.md",
-    "Nervios/Unique Mechanics/Hidden Key Puzzle.md",
+    "Unique Mechanics/The Festival of Granite Rain/Color Cipher.md",
+    "Unique Mechanics/The Festival of Granite Rain/Hidden Key Puzzle.md",
     "StorytellerSuite/Stories/Nervios Campaign/Characters/Sven.md",
     "StorytellerSuite/Stories/Nervios Campaign/Locations/Sisyphus Hill.md",
     "StorytellerSuite/Stories/Nervios Campaign/Locations/Fine Pebbles.md",
@@ -220,28 +238,11 @@
     "StorytellerSuite/Stories/Nervios Campaign/Locations/Bag Me Up.md",
     "StorytellerSuite/Stories/Nervios Campaign/Characters/Mr. Whatzit.md",
     "StorytellerSuite/Stories/Nervios Campaign/Events/The Festival of Granite Rain.md",
-    "Untitled.canvas",
-    "Untitled 1.canvas",
     "Session Notes/Session 1.md",
     "Nervios/Module/Mechanics.md",
     "Nervios/Module/DM Tools.md",
     "Nervios/Module/Narrative.md",
     "Session Notes",
-    "StorytellerSuite/Stories/Nervios Campaign/Groups/Rebels.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Groups/Church of Aequorism.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Festival of Granite Rain.md",
-    "Nervios/Module/Constraints.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Ruby Marsh.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Sheik Aldien.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Soren Mar.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Stewart Tallow.md",
-    "Images/Festival of Granite Rain",
-    "Images",
-    "Nervios/Unique Mechanics",
-    "New Text Document.txt",
-    "StorytellerSuite/Stories/Nervios Campaign/Books",
-    "StorytellerSuite/Stories/Nervios Campaign/Compendium",
-    "StorytellerSuite/Stories/Nervios Campaign/Sessions",
-    "StorytellerSuite/Templates/Characters/template-1781023021874-rqpgy9vnb.json"
+    "Images/Festival of Granite Rain"
   ]
 }

@@ -1161,6 +1161,99 @@
       "filesEdited": [
         "Nervios/Unique Mechanics/The Wheel of Purity.md"
       ]
+    },
+    {
+      "id": "writing-1782498000736-39cu65",
+      "startTime": "2026-06-26T18:20:00.736Z",
+      "endTime": "2026-06-26T18:40:02.486Z",
+      "wordsWritten": 0,
+      "filesEdited": [
+        "Nervios/Unique Mechanics/The Wheel of Purity.md"
+      ]
+    },
+    {
+      "id": "writing-1782745549933-ct14nj",
+      "startTime": "2026-06-29T15:05:49.933Z",
+      "endTime": "2026-06-29T15:38:12.626Z",
+      "wordsWritten": 7
+    },
+    {
+      "id": "writing-1782747492644-hk668d",
+      "startTime": "2026-06-29T15:38:12.644Z",
+      "endTime": "2026-06-29T15:45:35.916Z",
+      "wordsWritten": 21,
+      "filesEdited": [
+        "Interactive Wheel.md"
+      ]
+    },
+    {
+      "id": "writing-1782747963062-gagxs7",
+      "startTime": "2026-06-29T15:46:03.062Z",
+      "endTime": "2026-06-29T15:56:34.063Z",
+      "wordsWritten": 0,
+      "filesEdited": [
+        "Interactive Wheel.md"
+      ]
+    },
+    {
+      "id": "writing-1782748594147-kvftzr",
+      "startTime": "2026-06-29T15:56:34.147Z",
+      "endTime": "2026-06-29T15:56:39.004Z",
+      "wordsWritten": 6
+    },
+    {
+      "id": "writing-1782748599050-boqyeb",
+      "startTime": "2026-06-29T15:56:39.050Z",
+      "endTime": "2026-06-29T17:35:26.666Z",
+      "wordsWritten": 1,
+      "filesEdited": [
+        "Interactive Wheel.md"
+      ]
+    },
+    {
+      "id": "writing-1782754696403-o80a0x",
+      "startTime": "2026-06-29T17:38:16.403Z",
+      "endTime": "2026-06-29T17:56:05.966Z",
+      "wordsWritten": 0,
+      "filesEdited": [
+        "Interactive Wheel.md"
+      ]
+    },
+    {
+      "id": "writing-1782763756470-k3ycdi",
+      "startTime": "2026-06-29T20:09:16.470Z",
+      "endTime": "2026-06-29T20:11:07.412Z",
+      "wordsWritten": 1,
+      "filesEdited": [
+        "Nervios/Unique Mechanics/The Wheel of Purity.md"
+      ]
+    },
+    {
+      "id": "writing-1782763950108-wkco9b",
+      "startTime": "2026-06-29T20:12:30.108Z",
+      "endTime": "2026-06-29T20:12:36.580Z",
+      "wordsWritten": 77
+    },
+    {
+      "id": "writing-1782763999676-omo13r",
+      "startTime": "2026-06-29T20:13:19.676Z",
+      "endTime": "2026-06-29T20:13:21.525Z",
+      "wordsWritten": 1
+    },
+    {
+      "id": "writing-1782764133925-5p2662",
+      "startTime": "2026-06-29T20:15:33.925Z",
+      "endTime": "2026-06-29T20:16:12.684Z",
+      "wordsWritten": 7
+    },
+    {
+      "id": "writing-1782764178397-rl2et4",
+      "startTime": "2026-06-29T20:16:18.397Z",
+      "endTime": "2026-06-29T20:17:06.818Z",
+      "wordsWritten": 12,
+      "filesEdited": [
+        "Unique Mechanics/HTMLInteractables/README.md"
+      ]
     }
   ],
   "trackWritingSessions": false,
@@ -1334,8 +1427,17 @@
     {
       "date": "2026-06-26",
       "wordsWritten": 43,
-      "wordsDeleted": 0,
-      "netWords": 43,
+      "wordsDeleted": 29,
+      "netWords": 14,
+      "timeSpent": 0,
+      "scenesEdited": [],
+      "goalMet": false
+    },
+    {
+      "date": "2026-06-29",
+      "wordsWritten": 133,
+      "wordsDeleted": 28,
+      "netWords": 105,
       "timeSpent": 0,
       "scenesEdited": [],
       "goalMet": false
