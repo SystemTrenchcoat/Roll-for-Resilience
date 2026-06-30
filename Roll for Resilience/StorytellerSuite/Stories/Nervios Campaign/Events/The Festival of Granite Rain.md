@@ -9,6 +9,9 @@ id: mqbo2auiu0ix98
 groups:
   - "[[Commonfolk]]"
   - "[[Church of Aequorism]]"
+items:
+  - Muscle Milk
+_skipSync: true
 ---
 
 ## Description

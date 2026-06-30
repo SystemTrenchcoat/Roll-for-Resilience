@@ -18,16 +18,19 @@ Upon inspection the puzzle is jumbled up and missing the three tiles necessary t
 ![[trident_sliding_puzzle_1.jpg|185]] ![[trident_sliding_puzzle_2.jpg|185]] ![[trident_sliding_puzzle_8.jpg|185]] 
 
 >[!success]- Sliding Puzzle Success
->Once the sliding puzzle is complete, a secret compartment juts from the side of the puzzle board. In said compartment lies a piece of paper that reads
+>Once the sliding puzzle is complete, a secret compartment juts from the side of the puzzle board. In said compartment lies a piece of parchment that reads
 >
->"***The answer hidden in terms of three, align them right and ye shall see***"
+>"*The answer lies in three. Align them true, and the wheel shall reveal itself*"
 >>[!faq]- Clue explanation
->Each correct symbol has something to do with the value "three". The moon phase is the **third** quarter, the trident has **three** tips, autumn is the **third** season 
+>Each correct symbol has something to do with the value "three". The moon phase is the **third** quarter, the trident has **three** tips, autumn is the **third** season. The hardest part of the clue is knowing the moon phase is known as "The third quarter".
+>A easy history check should reveal the names of the phases of the moon, as the moon plays an important cultural role in the [[Church of Aequorism]] and [[Nervios]] as a whole.
 
 ## [[The Wheel of Purity - Interactive|Wheel Puzzle]]
+Upon investigation of the wooden wheel, players can see that the wheel is split into three independently spinning segments. An easy history check will reveal the exact symbols 
+
 **The Outer Ring** consists of the 8 moon phases: New Moon --> Waxing Crescent --> First Quarter, Waxing Gibbous --> Full Moon --> Waning Gibbous --> Third Quarter --> Waning Crescent
 
-**The Middle Ring** consists of 6 symbols:  A Castle Gate --> A Trident --> The Kraken --> A Crown --> A sword --> An Eye
+**The Middle Ring** consists of 6 symbols:  A Castle Gate --> A Trident --> The Kraken --> A Fish --> A sword --> An Eye
 
 **The Inner Ring** shows the 4 seasons: Spring --> Summer --> Autumn --> Winter
 
@@ -36,8 +39,8 @@ Upon inspection the puzzle is jumbled up and missing the three tiles necessary t
 Next to the wheel lies a wooden block engraved with three clues.
 
 1. A sword cuts best with a moon at half
-2. The kraken hides from rain and sun
-3. A watchful eye awaits the full glory
+2. The kraken stirs only when the warmth has passed
+3. The watchful eye keeps watch besides the full moon
 
 >[!faq]- Clue Explanations
 > 1. The sword segment should be pointing at either the First Quarter Moon, or the Third Quarter Moon

@@ -1,14 +1,13 @@
 ---
 scenes: "[[StorytellerSuite/Stories/Nervios Campaign/Scenes/The Festival of Granite Rain|The Festival of Granite Rain]]"
 ---
-**One of the party members is discretely given a special coin by one of the recruiting guards. This coin serves as a secret puzzle that, once solved, reveals the secret location of the rebel recruitment area.
+**One of the party members is discretely given a special coin by [[Leon Asker]] during [[StorytellerSuite/Stories/Nervios Campaign/Scenes/The Festival of Granite Rain#3. Recruitment Opportunities|The Festival of Granite Rain: Recruitment Opportunities]]. This coin serves as a secret puzzle that, once solved, reveals the secret location of the rebel recruitment area.
   
 ## Coin Appearance: 
 The coin is roughly 1.5 inches in diameter and is made of silver. It has a large raised eyeball in the center and an inscription that reads “All sins must be washed away in order to see the truth.
 
 ![[RebelRecruitmentCoin.png]]
   
-
 ## Puzzle:
 An inscription on the coin states “All sins must be washed away, in order to see the truth”. 
 

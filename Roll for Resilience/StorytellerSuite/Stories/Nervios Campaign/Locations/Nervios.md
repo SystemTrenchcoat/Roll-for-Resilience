@@ -29,6 +29,9 @@ entityRefs:
   - entityId: "[[Gunther Stone]]"
     entityType: character
     relationship: located
+  - entityId: "[[Granite Puzzle Piece]]"
+    entityType: item
+    relationship: located
 _skipSync: true
 childLocationIds:
   - "[[Rutmar Port]]"

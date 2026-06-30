@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StorytellerSuite/Stories/Nervios Campaign/Characters/Bethia Tallowwind.md",
+                "file": "Unique Mechanics/The Festival of Granite Rain/Color Cipher.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bethia Tallowwind"
+              "title": "Color Cipher"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 200
   },
   "right": {
     "id": "59ff323b99e34f60",
@@ -177,7 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 440.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,35 +195,30 @@
   },
   "active": "d947adfbc9a28ee1",
   "lastOpenFiles": [
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Aurelia Novia.md",
     "StorytellerSuite/Stories/Nervios Campaign/Characters/Bethia Tallowwind.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Callie Costa.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Adam Atkin.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Abraham Costa.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Gunther Stone.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Locations/Wavecrest Market.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Locations/Clara Tea.md",
+    "Unique Mechanics/The Festival of Granite Rain/Color Cipher.md",
+    "Unique Mechanics/The Festival of Granite Rain/The Wheel of Purity - Interactive.md",
+    "Unique Mechanics/The Festival of Granite Rain/Hidden Key Puzzle.md",
+    "Unique Mechanics/The Festival of Granite Rain/The Wheel of Purity.md",
+    "Unique Mechanics/The Festival of Granite Rain/Rebel Coin Puzzle.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Locations/Bag Me Up.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Festival of Granite Rain.md",
+    "Unique Mechanics/The Festival of Granite Rain/Boulder Climb.md",
     "StorytellerSuite/Stories/Nervios Campaign/Locations/Sisyphus Hill.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Locations/The Broken Ravine.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Locations/Ivory Bazaar.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Tassos Buros.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Sven.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Stewart Tallow.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Soren Mar.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Sheik Aldien.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Ruby Marsh.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Reyn Droma.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Querion Droma.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Mr. Whatzit.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Minsri Slass.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Milo Mandrich.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Lucia Grey .md",
     "StorytellerSuite/Stories/Nervios Campaign/Characters/Leon Asker.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Jane Novia .md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Jaime Pole.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Isabella Sol.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Items/Granite Puzzle Piece.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Events/The Festival of Granite Rain.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Characters/Abraham Costa.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Characters/Sven.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Items/Muscle Milk.md",
+    "Unique Mechanics/HTMLInteractables/README.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Sessions/Session 1- Festival.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Characters/Mr. Whatzit.md",
     "Images/Festival of Granite Rain/Wheel of Purity/wheelOfPurity_SOLVED.png",
     "Unique Mechanics/HTMLInteractables/WheelOfPurityHTML/index.html",
     "Unique Mechanics/HTMLInteractables",
+    "Untitled.md",
     "Unique Mechanics/The Festival of Granite Rain",
     "Unique Mechanics/HTMLInteractables/WheelOfPurityHTML/imgs/wheelOfPurity_redArrow.png",
     "Unique Mechanics/HTMLInteractables/WheelOfPurityHTML/imgs/wheelOfPurity_outside.png",
@@ -236,13 +231,18 @@
     "Images/Festival of Granite Rain/Wheel of Purity/wheelOfPurity 1.png",
     "Unique Mechanics/HTMLInteractables/WheelOfPurityHTML/imgs",
     "WheelOfPurityHTML/New folder",
+    "WheelOfPurityHTML/Untitled.md",
     "Unique Mechanics/HTMLInteractables/WheelOfPurityHTML",
     "Untitled.canvas",
     "Inte",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
+    "StorytellerSuite/Stories/Nervios Campaign/Items/Deception Medallion.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Items/Thought Detector.md",
     "Images/Festival of Granite Rain/Wheel of Purity",
+    "StorytellerSuite/Stories/Nervios Campaign/Characters/Milo Mandrich.md",
     "Nervios/Unique Mechanics/Untitled.canvas",
+    "StorytellerSuite/Stories/Nervios Campaign/Locations/Fine Pebbles.md",
     "Session Notes",
     "Images/Festival of Granite Rain"
   ]

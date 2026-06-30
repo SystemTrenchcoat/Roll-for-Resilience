@@ -14,6 +14,9 @@ height: 5'6"
 race: Human
 quirks: Snorts when laughing, walks with a bounce, eyes dart around constantly
 id: mqtotsvgnsxwv3
+linkedScenes:
+  - "[[The Festival of Granite Rain]]"
+_skipSync: true
 ---
 
 ## Description
