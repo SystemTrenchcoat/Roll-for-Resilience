@@ -17,4 +17,4 @@ Muscle Milk is a proud innovation of [[Sven]] the body builder. It was invented 
 Few people in [[Nervios]] have consumed this beverage. Many are scared off by the bubbling or [[Sven]]s aggressive personality.
 
 ## Magic Properties
-When consumed, the potion slightly increases strength while slightly lowering intelligence. The effect lasts for 4 hours and can be stacked.
+When consumed, the potion gives a small bonus on all strength rolls and a small penalty on all charisma rolls. The effect lasts for 4 hours.

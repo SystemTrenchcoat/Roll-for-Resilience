@@ -56,7 +56,7 @@
       "id": "mpx9s2hysydka7",
       "storyId": "mpwy9kn3o4bhth",
       "name": "Merrene Family",
-      "description": "Lives on the manor on the small island off the shore of Nervios.\r\nWealthiest family in the city, controls and regulates trade (formal and underground)\r\nHeavily influences the government, pays off guards and gov’t officials, takes advantage of citizens and spies on them through corrupt guards\r\nDon’t control the tower, but utilize its presence to further instill fear and a feeling of surveillance\r\nOut of direct sightlines of the spire, family referred to as “the unseen” by locals\r\nDouble-edged sword: while corrupt, the family provides a plethora of jobs to the citizens and acts as the main source of wealth and income for the city.",
+      "description": "Lives on the manor on the small island off the shore of Nervios.\nWealthiest family in the city, controls and regulates trade (formal and underground)\nHeavily influences the government, pays off guards and gov’t officials, takes advantage of citizens and spies on them through corrupt guards\nDon’t control the tower, but utilize its presence to further instill fear and a feeling of surveillance\nOut of direct sightlines of the spire, family referred to as “the unseen” by locals\nDouble-edged sword: while corrupt, the family provides a plethora of jobs to the citizens and acts as the main source of wealth and income for the city.",
       "groupType": "political",
       "tags": [],
       "members": [
@@ -94,7 +94,7 @@
       "id": "mq070fyrphyotg",
       "storyId": "mpwy9kn3o4bhth",
       "name": "Guards",
-      "description": "The guards of [[Nervios]]\r\n\r\n- Patrolling the city 24/7 on a schedule\r\n    \r\n- Guards move around in groups \r\n    \r\n- Respected by the general population, but also slightly feared\r\n    \r\n-   \r\n    \r\n- Different types of guards\r\n    \r\n\r\n- Internal Guards:\r\n    \r\n\r\n- Less trained than other branches of military with less powerful weaponry\r\n    \r\n- Underground tunnel system connecting towers\r\n    \r\n- Guard towers around the city on the walls\r\n    \r\n\r\n- Towers can’t be seen into from the outside\r\n    \r\n- Citizens don’t know if a tower is manned or not\r\n    \r\n\r\n- Guard towers throughout the interior of city\r\n    \r\n\r\n- Underground tunnels connecting them\r\n    \r\n\r\n- Maybe they have eyes that impose crippling fear on those who don't belong? (Poisoned in 5e)\r\n    \r\n\r\n- Allows for fast deployment of guards to any point in the city\r\n    \r\n- Outsiders can’t see in – acts as a panopticon\r\n    \r\n\r\n- Maintains the peace, even if a guard isn’t in that specific tower\r\n    \r\n\r\n- Nicknamed “Eyes” by locals/rebellion\r\n    \r\n- Tiers of guards:\r\n    \r\n\r\n- Junior\r\n    \r\n- Senior\r\n    \r\n- Captain \r\n    \r\n\r\n- Some loyal to the King, some the Government, some the rich, sizable amount are loyal to anyone who pays money\r\n\r\n\r\n- Army\r\n    \r\n\r\n- Snipers\r\n    \r\n- Infantry\r\n    \r\n\r\n- Navy\r\n    \r\n\r\n- Warships\r\n    \r\n\r\n  \r\n\r\n- Watchman:\r\n    \r\n\r\n- Guard the walls and docks from outside threats\r\n    \r\n- Controls who enters/exits the cities\r\n    \r\n- Thoroughly inspects incoming/exiting cargo \r\n    \r\n\r\n- Corrupted?\r\n    \r\n\r\n- Some guards might use their status and position to disobey laws or take advantage of others. \r\n    \r\n\r\n- Creates resentment and fear of all guards\r\n    \r\n- PLOTLINE: Players start as junior guards and witness a fellow guard breaking the law. They are put into a position where they must decide between what's morally right, and the approval/protection of their peers.\r\n    \r\n\r\n  \r\n\r\nDamaged old tower which falls apart/players explore and find out that not all towers are functional.",
+      "description": "The guards of [[Nervios]]\n\n- Patrolling the city 24/7 on a schedule\n    \n- Guards move around in groups \n    \n- Respected by the general population, but also slightly feared\n    \n-   \n    \n- Different types of guards\n    \n\n- Internal Guards:\n    \n\n- Less trained than other branches of military with less powerful weaponry\n    \n- Underground tunnel system connecting towers\n    \n- Guard towers around the city on the walls\n    \n\n- Towers can’t be seen into from the outside\n    \n- Citizens don’t know if a tower is manned or not\n    \n\n- Guard towers throughout the interior of city\n    \n\n- Underground tunnels connecting them\n    \n\n- Maybe they have eyes that impose crippling fear on those who don't belong? (Poisoned in 5e)\n    \n\n- Allows for fast deployment of guards to any point in the city\n    \n- Outsiders can’t see in – acts as a panopticon\n    \n\n- Maintains the peace, even if a guard isn’t in that specific tower\n    \n\n- Nicknamed “Eyes” by locals/rebellion\n    \n- Tiers of guards:\n    \n\n- Junior\n    \n- Senior\n    \n- Captain \n    \n\n- Some loyal to the King, some the Government, some the rich, sizable amount are loyal to anyone who pays money\n\n\n- Army\n    \n\n- Snipers\n    \n- Infantry\n    \n\n- Navy\n    \n\n- Warships\n    \n\n  \n\n- Watchman:\n    \n\n- Guard the walls and docks from outside threats\n    \n- Controls who enters/exits the cities\n    \n- Thoroughly inspects incoming/exiting cargo \n    \n\n- Corrupted?\n    \n\n- Some guards might use their status and position to disobey laws or take advantage of others. \n    \n\n- Creates resentment and fear of all guards\n    \n- PLOTLINE: Players start as junior guards and witness a fellow guard breaking the law. They are put into a position where they must decide between what's morally right, and the approval/protection of their peers.\n    \n\n  \n\nDamaged old tower which falls apart/players explore and find out that not all towers are functional.",
       "members": [
         {
           "type": "character",
@@ -158,7 +158,7 @@
       "id": "mq07178f98f74q",
       "storyId": "mpwy9kn3o4bhth",
       "name": "Rebels",
-      "description": "A group that hates the \"ever-watching eyes\" and wishes to bring Nervios freedom through contact with the outside world and the destruction of the eyes\r\n\r\n- Quiet / Gaining traction, trying to help people escape, close ties to smugglers.\r\n    \r\n- Truly believes they’re doing what’s best for everyone, especially the people in the town\r\n    \r\n- End goal for the rebels (assuming they know or at least believe all the towers are widely unmanned): expose the truth of the matter. Maybe they want to expose the nobles too. Most likely anti-noble if they know their history (which at least the important ones probably do)\r\n    \r\n- Probably have spies in the guards\r\n    \r\n\r\n- Definitely trying to find some high ups willing to help to learn more about the panopticon\r\n    \r\n\r\n- Often work under darkness or / and with obscuring / illusion spells\r\n    \r\n- Definitely have a tunnel system\r\n    \r\n- Strong aura of secrecy, especially in their upper ranks\r\n    \r\n- Most often help people escape the town\r\n    \r\n- Maybe offers places of solace where the eye cannot see?\r\n    \r\n- The collectivist to the guard / government’s isolationist",
+      "description": "A group that hates the \"ever-watching eyes\" and wishes to bring Nervios freedom through contact with the outside world and the destruction of the eyes\n\n- Quiet / Gaining traction, trying to help people escape, close ties to smugglers.\n    \n- Truly believes they’re doing what’s best for everyone, especially the people in the town\n    \n- End goal for the rebels (assuming they know or at least believe all the towers are widely unmanned): expose the truth of the matter. Maybe they want to expose the nobles too. Most likely anti-noble if they know their history (which at least the important ones probably do)\n    \n- Probably have spies in the guards\n    \n\n- Definitely trying to find some high ups willing to help to learn more about the panopticon\n    \n\n- Often work under darkness or / and with obscuring / illusion spells\n    \n- Definitely have a tunnel system\n    \n- Strong aura of secrecy, especially in their upper ranks\n    \n- Most often help people escape the town\n    \n- Maybe offers places of solace where the eye cannot see?\n    \n- The collectivist to the guard / government’s isolationist",
       "members": [
         {
           "type": "character",
@@ -300,7 +300,7 @@
         "Wave Wardens",
         "Sea Soothers"
       ],
-      "structure": "**The High Trident**: Three of the most influential and holy religious leaders. They serve as the earthly representations of humankind and are the interpreters of god. Head overseers of religious affairs within the city.\r\n- Moon: The spear of Divinity- [[Caspian Moon]]\r\n- Sea: The spear of Nature- [[Soren Mar]]\r\n- Sun: The spear of Life- [[Isabella Sol]]\r\n\r\n*Divine Prosecutor*: Advocate of Aequorin within the court. Their job is to prosecute criminals for their crimes against God and the Church.\r\n\r\n*Wave Wardens*: Protectors and watchers of the sea. They ensure mankind does not disrespect or disrupt the ocean. They are also in charge of sea burials and rituals.\r\n\r\n*Sea Soother*: Priests who preach the word of god to commonfolk and bless ships and vessels before they depart. They are in charge of local congregations.",
+      "structure": "**The High Trident**: Three of the most influential and holy religious leaders. They serve as the earthly representations of humankind and are the interpreters of god. Head overseers of religious affairs within the city.\n- Moon: The spear of Divinity- [[Caspian Moon]]\n- Sea: The spear of Nature- [[Soren Mar]]\n- Sun: The spear of Life- [[Isabella Sol]]\n\n*Divine Prosecutor*: Advocate of Aequorin within the court. Their job is to prosecute criminals for their crimes against God and the Church.\n\n*Wave Wardens*: Protectors and watchers of the sea. They ensure mankind does not disrespect or disrupt the ocean. They are also in charge of sea burials and rituals.\n\n*Sea Soother*: Priests who preach the word of god to commonfolk and bless ships and vessels before they depart. They are in charge of local congregations.",
       "tags": [],
       "status": "Active",
       "history": "",
@@ -1256,12 +1256,252 @@
       ]
     },
     {
-      "id": "writing-1782834120201-gjkikm",
-      "startTime": "2026-06-30T15:42:00.201Z",
-      "endTime": "2026-06-30T15:42:29.496Z",
-      "wordsWritten": 7,
+      "id": "writing-1782765516673-eabstx",
+      "startTime": "2026-06-29T20:38:36.673Z",
+      "endTime": "2026-06-29T20:51:56.967Z",
+      "wordsWritten": 80,
       "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Characters/Bethia Tallowwind.md"
+        "Unique Mechanics/The Festival of Granite Rain/Hidden Key Puzzle.md"
+      ]
+    },
+    {
+      "id": "writing-1782766336734-vp72lc",
+      "startTime": "2026-06-29T20:52:16.734Z",
+      "endTime": "2026-06-29T22:52:32.746Z",
+      "wordsWritten": 101,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Locations/Bag Me Up.md"
+      ]
+    },
+    {
+      "id": "writing-1782773757760-0o859f",
+      "startTime": "2026-06-29T22:55:57.760Z",
+      "endTime": "2026-06-29T22:56:56.466Z",
+      "wordsWritten": 603
+    },
+    {
+      "id": "writing-1782831468172-pk4dsn",
+      "startTime": "2026-06-30T14:57:48.172Z",
+      "endTime": "2026-06-30T14:59:23.552Z",
+      "wordsWritten": 20,
+      "filesEdited": [
+        "Unique Mechanics/The Festival of Granite Rain/The Wheel of Purity - Interactive.md"
+      ]
+    },
+    {
+      "id": "writing-1782831563650-w9iwgc",
+      "startTime": "2026-06-30T14:59:23.650Z",
+      "endTime": "2026-06-30T15:06:52.210Z",
+      "wordsWritten": 39,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Sven.md"
+      ]
+    },
+    {
+      "id": "writing-1782832012257-xzvtif",
+      "startTime": "2026-06-30T15:06:52.257Z",
+      "endTime": "2026-06-30T15:11:44.449Z",
+      "wordsWritten": 65,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Items/Muscle Milk.md"
+      ]
+    },
+    {
+      "id": "writing-1782832321908-tau119",
+      "startTime": "2026-06-30T15:12:01.908Z",
+      "endTime": "2026-06-30T15:20:49.661Z",
+      "wordsWritten": 44,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Festival of Granite Rain.md"
+      ]
+    },
+    {
+      "id": "writing-1782832849724-3hntq7",
+      "startTime": "2026-06-30T15:20:49.724Z",
+      "endTime": "2026-06-30T15:25:37.606Z",
+      "wordsWritten": 66,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Items/Granite Puzzle Piece.md"
+      ]
+    },
+    {
+      "id": "writing-1782833165439-h4lo1j",
+      "startTime": "2026-06-30T15:26:05.439Z",
+      "endTime": "2026-06-30T15:26:35.533Z",
+      "wordsWritten": 5,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Items/Granite Puzzle Piece.md"
+      ]
+    },
+    {
+      "id": "writing-1782833383425-zryoco",
+      "startTime": "2026-06-30T15:29:43.425Z",
+      "endTime": "2026-06-30T15:30:12.448Z",
+      "wordsWritten": 2,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Items/Granite Puzzle Piece.md"
+      ]
+    },
+    {
+      "id": "writing-1782833418774-o13xvg",
+      "startTime": "2026-06-30T15:30:18.774Z",
+      "endTime": "2026-06-30T15:30:44.511Z",
+      "wordsWritten": 0,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Items/Granite Puzzle Piece.md"
+      ]
+    },
+    {
+      "id": "writing-1782833444563-49dhbe",
+      "startTime": "2026-06-30T15:30:44.563Z",
+      "endTime": "2026-06-30T15:35:54.219Z",
+      "wordsWritten": 2,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Festival of Granite Rain.md"
+      ]
+    },
+    {
+      "id": "writing-1782833754257-3ilekz",
+      "startTime": "2026-06-30T15:35:54.257Z",
+      "endTime": "2026-06-30T15:37:03.157Z",
+      "wordsWritten": 0,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Leon Asker.md"
+      ]
+    },
+    {
+      "id": "writing-1782833823249-fwjb6o",
+      "startTime": "2026-06-30T15:37:03.249Z",
+      "endTime": "2026-06-30T15:53:11.853Z",
+      "wordsWritten": 118,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Festival of Granite Rain.md"
+      ]
+    },
+    {
+      "id": "writing-1782834791918-vf271p",
+      "startTime": "2026-06-30T15:53:11.918Z",
+      "endTime": "2026-06-30T16:00:38.064Z",
+      "wordsWritten": 0,
+      "filesEdited": [
+        "Unique Mechanics/The Festival of Granite Rain/Boulder Climb.md"
+      ]
+    },
+    {
+      "id": "writing-1782835240911-b6ai0m",
+      "startTime": "2026-06-30T16:00:40.911Z",
+      "endTime": "2026-06-30T17:23:47.771Z",
+      "wordsWritten": 10,
+      "filesEdited": [
+        "Unique Mechanics/The Festival of Granite Rain/Boulder Climb.md"
+      ]
+    },
+    {
+      "id": "writing-1782840228362-kpmfi1",
+      "startTime": "2026-06-30T17:23:48.362Z",
+      "endTime": "2026-06-30T17:26:00.253Z",
+      "wordsWritten": 4,
+      "filesEdited": [
+        "Unique Mechanics/The Festival of Granite Rain/Boulder Climb.md"
+      ]
+    },
+    {
+      "id": "writing-1782840360278-olhgtt",
+      "startTime": "2026-06-30T17:26:00.278Z",
+      "endTime": "2026-06-30T17:26:41.394Z",
+      "wordsWritten": 5,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Locations/Sisyphus Hill.md"
+      ]
+    },
+    {
+      "id": "writing-1782840456399-vmcyqh",
+      "startTime": "2026-06-30T17:27:36.399Z",
+      "endTime": "2026-06-30T17:36:47.428Z",
+      "wordsWritten": 0,
+      "filesEdited": [
+        "Unique Mechanics/The Festival of Granite Rain/Hidden Key Puzzle.md"
+      ]
+    },
+    {
+      "id": "writing-1782841007494-vdbd85",
+      "startTime": "2026-06-30T17:36:47.494Z",
+      "endTime": "2026-06-30T17:37:39.048Z",
+      "wordsWritten": 12,
+      "filesEdited": [
+        "Unique Mechanics/The Festival of Granite Rain/Rebel Coin Puzzle.md"
+      ]
+    },
+    {
+      "id": "writing-1782841059126-8cvmbu",
+      "startTime": "2026-06-30T17:37:39.126Z",
+      "endTime": "2026-06-30T18:28:47.731Z",
+      "wordsWritten": 81,
+      "filesEdited": [
+        "Unique Mechanics/The Festival of Granite Rain/The Wheel of Purity.md"
+      ]
+    },
+    {
+      "id": "writing-1782844127843-l7xqox",
+      "startTime": "2026-06-30T18:28:47.843Z",
+      "endTime": "2026-06-30T18:29:12.438Z",
+      "wordsWritten": 2,
+      "filesEdited": [
+        "Unique Mechanics/The Festival of Granite Rain/The Wheel of Purity - Interactive.md"
+      ]
+    },
+    {
+      "id": "writing-1782844272188-65ub46",
+      "startTime": "2026-06-30T18:31:12.188Z",
+      "endTime": "2026-06-30T18:32:41.508Z",
+      "wordsWritten": 22,
+      "filesEdited": [
+        "Unique Mechanics/The Festival of Granite Rain/Color Cipher.md"
+      ]
+    },
+    {
+      "id": "writing-1782844361537-r54062",
+      "startTime": "2026-06-30T18:32:41.537Z",
+      "endTime": "2026-06-30T18:32:58.380Z",
+      "wordsWritten": 1,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Locations/Clara Tea.md"
+      ]
+    },
+    {
+      "id": "writing-1782844378407-asfxiz",
+      "startTime": "2026-06-30T18:32:58.407Z",
+      "endTime": "2026-06-30T18:33:01.789Z",
+      "wordsWritten": 0,
+      "filesEdited": [
+        "Unique Mechanics/The Festival of Granite Rain/Color Cipher.md"
+      ]
+    },
+    {
+      "id": "writing-1782844381832-icmhgr",
+      "startTime": "2026-06-30T18:33:01.832Z",
+      "endTime": "2026-06-30T18:34:41.668Z",
+      "wordsWritten": 42,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Locations/Clara Tea.md"
+      ]
+    },
+    {
+      "id": "writing-1782844481696-hhaxzw",
+      "startTime": "2026-06-30T18:34:41.696Z",
+      "endTime": "2026-06-30T19:35:44.715Z",
+      "wordsWritten": 130,
+      "filesEdited": [
+        "Unique Mechanics/The Festival of Granite Rain/Color Cipher.md"
+      ]
+    },
+    {
+      "id": "writing-1782849280096-tqmy63",
+      "startTime": "2026-06-30T19:54:40.096Z",
+      "endTime": "2026-06-30T19:57:27.904Z",
+      "wordsWritten": 1,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Items/Muscle Milk.md"
       ]
     }
   ],
@@ -1446,16 +1686,16 @@
       "date": "2026-06-29",
       "wordsWritten": 917,
       "wordsDeleted": 28,
-      "netWords": 105,
+      "netWords": 889,
       "timeSpent": 0,
       "scenesEdited": [],
       "goalMet": false
     },
     {
       "date": "2026-06-30",
-      "wordsWritten": 7,
-      "wordsDeleted": 0,
-      "netWords": 7,
+      "wordsWritten": 671,
+      "wordsDeleted": 225,
+      "netWords": 446,
       "timeSpent": 0,
       "scenesEdited": [],
       "goalMet": false
