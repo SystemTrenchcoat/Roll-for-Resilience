@@ -27,7 +27,7 @@
           "name": "Jane Novia"
         }
       ],
-      "description": "A group that hates the \"ever-watching eyes\" and wishes to bring Nervios freedom through contact with the outside world and the destruction of the eyes\r\n\r\n- Quiet / Gaining traction, trying to help people escape, close ties to smugglers.\r\n    \r\n- Truly believes they’re doing what’s best for everyone, especially the people in the town\r\n    \r\n- End goal for the rebels (assuming they know or at least believe all the towers are widely unmanned): expose the truth of the matter. Maybe they want to expose the nobles too. Most likely anti-noble if they know their history (which at least the important ones probably do)\r\n    \r\n- Probably have spies in the guards\r\n    \r\n\r\n- Definitely trying to find some high ups willing to help to learn more about the panopticon\r\n    \r\n\r\n- Often work under darkness or / and with obscuring / illusion spells\r\n    \r\n- Definitely have a tunnel system\r\n    \r\n- Strong aura of secrecy, especially in their upper ranks\r\n    \r\n- Most often help people escape the town\r\n    \r\n- Maybe offers places of solace where the eye cannot see?\r\n    \r\n- The collectivist to the guard / government’s isolationist",
+      "description": "A group that hates the \"ever-watching eyes\" and wishes to bring Nervios freedom through contact with the outside world and the destruction of the eyes\n\n- Quiet / Gaining traction, trying to help people escape, close ties to smugglers.\n    \n- Truly believes they’re doing what’s best for everyone, especially the people in the town\n    \n- End goal for the rebels (assuming they know or at least believe all the towers are widely unmanned): expose the truth of the matter. Maybe they want to expose the nobles too. Most likely anti-noble if they know their history (which at least the important ones probably do)\n    \n- Probably have spies in the guards\n    \n\n- Definitely trying to find some high ups willing to help to learn more about the panopticon\n    \n\n- Often work under darkness or / and with obscuring / illusion spells\n    \n- Definitely have a tunnel system\n    \n- Strong aura of secrecy, especially in their upper ranks\n    \n- Most often help people escape the town\n    \n- Maybe offers places of solace where the eye cannot see?\n    \n- The collectivist to the guard / government’s isolationist",
       "history": "",
       "structure": "",
       "goals": "",
@@ -1503,6 +1503,81 @@
       "filesEdited": [
         "StorytellerSuite/Stories/Nervios Campaign/Items/Muscle Milk.md"
       ]
+    },
+    {
+      "id": "writing-1782849492769-s974q4",
+      "startTime": "2026-06-30T19:58:12.769Z",
+      "endTime": "2026-06-30T20:27:42.603Z",
+      "wordsWritten": 4,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Items/Muscle Milk.md"
+      ]
+    },
+    {
+      "id": "writing-1782851276628-339qtg",
+      "startTime": "2026-06-30T20:27:56.628Z",
+      "endTime": "2026-06-30T20:29:09.781Z",
+      "wordsWritten": 7,
+      "filesEdited": [
+        "Unique Mechanics/The Festival of Granite Rain/Color Cipher.md"
+      ]
+    },
+    {
+      "id": "writing-1782851638375-t9wlq3",
+      "startTime": "2026-06-30T20:33:58.375Z",
+      "endTime": "2026-06-30T20:34:26.990Z",
+      "wordsWritten": 9,
+      "filesEdited": [
+        "Untitled.md"
+      ]
+    },
+    {
+      "id": "writing-1782851672410-56mbsh",
+      "startTime": "2026-06-30T20:34:32.410Z",
+      "endTime": "2026-06-30T20:50:46.108Z",
+      "wordsWritten": 0,
+      "filesEdited": [
+        "Untitled.md"
+      ]
+    },
+    {
+      "id": "writing-1782852668713-nk1h5q",
+      "startTime": "2026-06-30T20:51:08.713Z",
+      "endTime": "2026-06-30T20:51:33.414Z",
+      "wordsWritten": 320
+    },
+    {
+      "id": "writing-1782852886828-jetis4",
+      "startTime": "2026-06-30T20:54:46.828Z",
+      "endTime": "2026-06-30T20:55:40.689Z",
+      "wordsWritten": 3,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Items/The Flaccet.md"
+      ]
+    },
+    {
+      "id": "writing-1782852943039-pahfpb",
+      "startTime": "2026-06-30T20:55:43.039Z",
+      "endTime": "2026-06-30T20:58:16.973Z",
+      "wordsWritten": 0,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Locations/Bag Me Up.md"
+      ]
+    },
+    {
+      "id": "writing-1782853162823-5snszh",
+      "startTime": "2026-06-30T20:59:22.823Z",
+      "endTime": "2026-06-30T21:00:34.761Z",
+      "wordsWritten": 23,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Locations/Bag Me Up.md"
+      ]
+    },
+    {
+      "id": "writing-1782853234810-wxvkuq",
+      "startTime": "2026-06-30T21:00:34.810Z",
+      "endTime": "2026-06-30T21:00:38.360Z",
+      "wordsWritten": 112
     }
   ],
   "trackWritingSessions": false,
@@ -1693,9 +1768,9 @@
     },
     {
       "date": "2026-06-30",
-      "wordsWritten": 671,
-      "wordsDeleted": 225,
-      "netWords": 446,
+      "wordsWritten": 1149,
+      "wordsDeleted": 314,
+      "netWords": 835,
       "timeSpent": 0,
       "scenesEdited": [],
       "goalMet": false

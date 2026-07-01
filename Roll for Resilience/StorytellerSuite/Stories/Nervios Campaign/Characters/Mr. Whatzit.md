@@ -17,6 +17,11 @@ id: mqtotsvgnsxwv3
 linkedScenes:
   - "[[The Festival of Granite Rain]]"
 _skipSync: true
+ownedItems:
+  - The Nothing Box
+  - The Flaccet
+  - Clock Bear
+  - Self Defense Gloves
 ---
 
 ## Description

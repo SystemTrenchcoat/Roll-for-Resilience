@@ -40,3 +40,11 @@ The tent has various goods and materials lying around the tent
 **SALT is the answer to the puzzle. The players must dump salt into the beaker of water. Once enough salt is added, a small wooden puzzle piece floats up from the bottom of the beaker. The piece is a smaller fragment of a sliding puzzle and appears as shown below.** 
 ![[trident_sliding_puzzle_1.jpg]]
 
+> [!faq]- sdjkafhjksdf
+> sdf
+> sdf
+
+
+
+
+

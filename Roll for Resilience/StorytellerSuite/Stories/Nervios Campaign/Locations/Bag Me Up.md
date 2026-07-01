@@ -10,6 +10,18 @@ entityRefs:
   - entityId: "[[The Festival of Granite Rain]]"
     entityType: scene
     relationship: takes place here
+  - entityId: "[[The Nothing Box]]"
+    entityType: item
+    relationship: located
+  - entityId: "[[The Flaccet]]"
+    entityType: item
+    relationship: located
+  - entityId: "[[Clock Bear]]"
+    entityType: item
+    relationship: located
+  - entityId: "[[Self Defense Gloves]]"
+    entityType: item
+    relationship: located
 _skipSync: true
 ---
 
@@ -19,8 +31,12 @@ A large green tent with many baskets full of various makeshift trinkets and dooh
 ## History
 The tent moves around to various locations around the markets Nervios, until [[StorytellerSuite/Stories/Nervios Campaign/Scenes/The Festival of Granite Rain|The Festival of Granite Rain]]
 
-## # Example Items
-- A small wooden box with a red button that says "do not press". If pressed, the box falls apart.
-- A large wooden mallet with a floppy wooden handle.
-- A small stuffed bear with a clock for a face. Upon closer inspection, the clock has 4 hands and random numbers instead of the standard (1-12)
-- **Self Defense Gloves**: A pair of leather gloves. One of the gloves is covered with a thick wax, making it impossible to bend. The other glove is a normal leather glove. (wax on wax off)
+## Shop Items
+
+| Item                    | Price (scler) |
+| ----------------------- | ------------- |
+| [[Clock Bear]]          | 2             |
+| [[Self Defense Gloves]] | 3             |
+| [[The Flaccet]]         | 5             |
+| [[The Nothing Box]]     | 1             |
+

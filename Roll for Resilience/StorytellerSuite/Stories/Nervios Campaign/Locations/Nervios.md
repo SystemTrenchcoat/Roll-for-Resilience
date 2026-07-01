@@ -32,6 +32,18 @@ entityRefs:
   - entityId: "[[Granite Puzzle Piece]]"
     entityType: item
     relationship: located
+  - entityId: "[[The Nothing Box]]"
+    entityType: item
+    relationship: located
+  - entityId: "[[The Flaccet]]"
+    entityType: item
+    relationship: located
+  - entityId: "[[Clock Bear]]"
+    entityType: item
+    relationship: located
+  - entityId: "[[Self Defense Gloves]]"
+    entityType: item
+    relationship: located
 _skipSync: true
 childLocationIds:
   - "[[Rutmar Port]]"
