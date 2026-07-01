@@ -184,6 +184,16 @@
           "type": "character",
           "id": "mqfpk0q902udgh",
           "name": "Tassos Buros"
+        },
+        {
+          "type": "item",
+          "id": "Rebel Coin",
+          "name": "Rebel Coin"
+        },
+        {
+          "type": "location",
+          "id": "Nervios Tunnels",
+          "name": "Nervios Tunnels"
         }
       ],
       "groupType": "organization",
@@ -1578,6 +1588,189 @@
       "startTime": "2026-06-30T21:00:34.810Z",
       "endTime": "2026-06-30T21:00:38.360Z",
       "wordsWritten": 112
+    },
+    {
+      "id": "writing-1782923610763-0p5hfr",
+      "startTime": "2026-07-01T16:33:30.763Z",
+      "endTime": "2026-07-01T16:33:50.077Z",
+      "wordsWritten": 0,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Festival of Granite Rain.md"
+      ]
+    },
+    {
+      "id": "writing-1782923630132-a8znmc",
+      "startTime": "2026-07-01T16:33:50.132Z",
+      "endTime": "2026-07-01T16:34:10.970Z",
+      "wordsWritten": 8,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Scenes/Tunnel Collapse.md"
+      ]
+    },
+    {
+      "id": "writing-1782923713455-m007mb",
+      "startTime": "2026-07-01T16:35:13.455Z",
+      "endTime": "2026-07-01T16:44:32.753Z",
+      "wordsWritten": 67,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Scenes/Tunnel Collapse.md"
+      ]
+    },
+    {
+      "id": "writing-1782924273737-9zukq2",
+      "startTime": "2026-07-01T16:44:33.737Z",
+      "endTime": "2026-07-01T16:50:59.729Z",
+      "wordsWritten": 16,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Scenes/Tunnel Collapse.md"
+      ]
+    },
+    {
+      "id": "writing-1782924673661-buoydi",
+      "startTime": "2026-07-01T16:51:13.661Z",
+      "endTime": "2026-07-01T17:18:37.354Z",
+      "wordsWritten": 22,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Scenes/Tunnel Collapse.md"
+      ]
+    },
+    {
+      "id": "writing-1782926317384-trtp9n",
+      "startTime": "2026-07-01T17:18:37.384Z",
+      "endTime": "2026-07-01T17:27:13.610Z",
+      "wordsWritten": 0,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Festival of Granite Rain.md"
+      ]
+    },
+    {
+      "id": "writing-1782926833649-99zccf",
+      "startTime": "2026-07-01T17:27:13.649Z",
+      "endTime": "2026-07-01T17:37:24.421Z",
+      "wordsWritten": 653
+    },
+    {
+      "id": "writing-1782927444445-7ogpn7",
+      "startTime": "2026-07-01T17:37:24.445Z",
+      "endTime": "2026-07-01T17:37:33.845Z",
+      "wordsWritten": 0,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Festival of Granite Rain.md"
+      ]
+    },
+    {
+      "id": "writing-1782927455050-hleu31",
+      "startTime": "2026-07-01T17:37:35.050Z",
+      "endTime": "2026-07-01T17:37:44.495Z",
+      "wordsWritten": 0,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Festival of Granite Rain.md"
+      ]
+    },
+    {
+      "id": "writing-1782927464520-rgmvtn",
+      "startTime": "2026-07-01T17:37:44.520Z",
+      "endTime": "2026-07-01T17:38:17.765Z",
+      "wordsWritten": 8,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Collapse of Central Stage.md"
+      ]
+    },
+    {
+      "id": "writing-1782927497796-4v21tj",
+      "startTime": "2026-07-01T17:38:17.796Z",
+      "endTime": "2026-07-01T17:50:37.753Z",
+      "wordsWritten": 142,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Festival of Granite Rain.md"
+      ]
+    },
+    {
+      "id": "writing-1782928469290-5zrydy",
+      "startTime": "2026-07-01T17:54:29.290Z",
+      "endTime": "2026-07-01T17:54:51.760Z",
+      "wordsWritten": 5,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Locations/Central Stage.md"
+      ]
+    },
+    {
+      "id": "writing-1782928491822-b7572q",
+      "startTime": "2026-07-01T17:54:51.822Z",
+      "endTime": "2026-07-01T17:54:54.076Z",
+      "wordsWritten": 26
+    },
+    {
+      "id": "writing-1782928535012-9wwkcy",
+      "startTime": "2026-07-01T17:55:35.012Z",
+      "endTime": "2026-07-01T18:01:21.457Z",
+      "wordsWritten": 0,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Festival of Granite Rain.md"
+      ]
+    },
+    {
+      "id": "writing-1782928881483-jsxil6",
+      "startTime": "2026-07-01T18:01:21.483Z",
+      "endTime": "2026-07-01T18:16:20.953Z",
+      "wordsWritten": 14,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Collapse of Central Stage.md"
+      ]
+    },
+    {
+      "id": "writing-1782929781178-623yi8",
+      "startTime": "2026-07-01T18:16:21.178Z",
+      "endTime": "2026-07-01T18:20:14.482Z",
+      "wordsWritten": 34,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Items/Oyster and Stone Fruit Salad.md"
+      ]
+    },
+    {
+      "id": "writing-1782930392230-8k2bxf",
+      "startTime": "2026-07-01T18:26:32.230Z",
+      "endTime": "2026-07-01T18:26:57.772Z",
+      "wordsWritten": 0,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Items/Rebel Coin.md"
+      ]
+    },
+    {
+      "id": "writing-1782931263883-501fxd",
+      "startTime": "2026-07-01T18:41:03.883Z",
+      "endTime": "2026-07-01T19:05:49.945Z",
+      "wordsWritten": 25,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Collapse of Central Stage.md"
+      ]
+    },
+    {
+      "id": "writing-1782932749974-18a7mw",
+      "startTime": "2026-07-01T19:05:49.974Z",
+      "endTime": "2026-07-01T19:09:13.422Z",
+      "wordsWritten": 58,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Tunnels.md"
+      ]
+    },
+    {
+      "id": "writing-1782932953458-c16qbh",
+      "startTime": "2026-07-01T19:09:13.458Z",
+      "endTime": "2026-07-01T19:12:33.402Z",
+      "wordsWritten": 11,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Collapse of Central Stage.md"
+      ]
+    },
+    {
+      "id": "writing-1782933155605-6k84s4",
+      "startTime": "2026-07-01T19:12:35.605Z",
+      "endTime": "2026-07-01T19:14:15.195Z",
+      "wordsWritten": 9,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Items/Rebel Coin.md"
+      ]
     }
   ],
   "trackWritingSessions": false,
@@ -1771,6 +1964,15 @@
       "wordsWritten": 1149,
       "wordsDeleted": 314,
       "netWords": 835,
+      "timeSpent": 0,
+      "scenesEdited": [],
+      "goalMet": false
+    },
+    {
+      "date": "2026-07-01",
+      "wordsWritten": 1098,
+      "wordsDeleted": 16,
+      "netWords": 1082,
       "timeSpent": 0,
       "scenesEdited": [],
       "goalMet": false

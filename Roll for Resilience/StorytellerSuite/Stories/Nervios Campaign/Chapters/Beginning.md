@@ -6,6 +6,7 @@ number: 1
 linkedScenes:
   - "[[StorytellerSuite/Stories/Nervios Campaign/Scenes/The Festival of Granite Rain]]"
   - "[[The Festival of Granite Rain]]"
+  - "[[The Collapse of Central Stage]]"
 _skipSync: true
 ---
 

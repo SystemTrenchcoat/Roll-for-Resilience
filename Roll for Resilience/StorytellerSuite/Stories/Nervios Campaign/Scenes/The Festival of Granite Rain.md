@@ -13,6 +13,7 @@ linkedLocations:
   - "[[Bag Me Up]]"
   - "[[Clara Tea]]"
   - "[[Sisyphus Hill]]"
+  - "[[Central Stage]]"
 linkedGroups:
   - "[[Guards]]"
   - "[[Church of Aequorism]]"
@@ -29,12 +30,15 @@ linkedCharacters:
   - "[[Sven]]"
   - "[[Mr. Whatzit]]"
   - "[[Gunther Stone]]"
+setupScenes:
+  - "[[The Collapse of Central Stage]]"
+_skipSync: true
 ---
 
 ## Content
 *The Festival of Granite Rain* is an annual festival hosted by the nobles and guards of [[Nervios]] celebrating the day the city closed its wall to the outside word and isolated themselves. This day is known as [[The Day of Granite Rain]].
 
-## # Hook
+### Hook
 ***It’s that time of year again! Thousands of citizens from all across Nervios flock together to celebrate and rejoice during the annual Festival of Granite Rain. Engage in various rock-themed festivities and games, look for recruitment opportunities within the Guards, and socialize with friends and family! The festival serves to commemorate the day the guards protected and isolated the city by sealing the entrance gate with thousands of pounds of loose rock and debris.***
 
 ## Story Beats
@@ -59,8 +63,20 @@ This period gives the party a break between minigames and a chance to socialize.
 
 ### 4. Harder Cooperative Puzzle
 After the meeting with the guards, a booming voice echoes from the center of the festival grounds. Atop a makeshift amphitheater built of boulders stands [[Milo Mandrich]]. Next to him stands a large wooden wheel. He challenges any and all to test their luck and beat [[The Wheel of Purity]]. But be warned, only teams who have collected all three [[Granite Puzzle Piece]]s can play.
+
 ### 5. Completion of the Final Puzzle
 Upon completion of [[The Wheel of Purity]], [[Milo Mandrich|Milo]] climbs off of the stage to fetch the grand prize. Right before he climbs back up the steps, the stage begins to shift and rumble. Suddenly, the massive pile of boulders begins to plummet as the ground beneath the stage collapses from the shear weight. A thick cloud of dust and dirt fills the air obstructing the party's view  of their surroundings. As the dust clears, the party finds themselves underground in a large cavern that splits off in several directions. The sinkhole that brought the party down here has been sealed by a large pile of debris and boulders. The only way out of the tunnels is by travelling through them.
+
+## Key NPCS
+
+| Name              | Purpose                                                                                                                                                                                                                               |
+| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Leon Asker]]    | Shakes the hands of the party during [[#3. Recruitment Opportunities\|the recruitment]] and slips the [[Rebel Coin Puzzle]] into the hands of one party member.                                                                       |
+| [[Clara Porter]]  | Runs the stand [[Clara Tea]] and proctors the [[Color Cipher]] minigame.                                                                                                                                                              |
+| [[Sven]]          | Runs the [[Boulder Climb]] tent                                                                                                                                                                                                       |
+| [[Mr. Whatzit]]   | Runs the stall [[Bag Me Up]] and proctors the [[Hidden Key Puzzle]]                                                                                                                                                                   |
+| [[Gunther Stone]] | Runs [[Fine Pebbles]], a dwarf-owned food stand that sells [[Oyster and Stone Fruit Salad]].                                                                                                                                          |
+| [[Milo Mandrich]] | An active guard of the city watch and generous host of [[StorytellerSuite/Stories/Nervios Campaign/Scenes/The Festival of Granite Rain\|The Festival of Granite Rain]]. He is in charge of the final puzzle: [[The Wheel of Purity]]. |
 
 ## Core Mechanics
 - [[Boulder Climb]] minigame
@@ -69,13 +85,13 @@ Upon completion of [[The Wheel of Purity]], [[Milo Mandrich|Milo]] climbs off of
 - [[Rebel Coin Puzzle]]
 - [[The Wheel of Purity]]
 
-## # Hiding Spots
+### Hiding Spots
 - Alley way
 - Smaller tents
 - Dock
 - [[Fine Pebbles]]
 
-## # Motivators
+### Motivators
 - Sun begins setting
 - A competition gets announced
 - Storm clouds roll in

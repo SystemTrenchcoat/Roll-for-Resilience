@@ -1,5 +1,6 @@
 ---
 scenes: "[[StorytellerSuite/Stories/Nervios Campaign/Scenes/The Festival of Granite Rain|The Festival of Granite Rain]]"
+items: "[[Rebel Coin]]"
 ---
 **One of the party members is discretely given a special coin by [[Leon Asker]] during [[StorytellerSuite/Stories/Nervios Campaign/Scenes/The Festival of Granite Rain#3. Recruitment Opportunities|The Festival of Granite Rain: Recruitment Opportunities]]. This coin serves as a secret puzzle that, once solved, reveals the secret location of the rebel recruitment area.
   

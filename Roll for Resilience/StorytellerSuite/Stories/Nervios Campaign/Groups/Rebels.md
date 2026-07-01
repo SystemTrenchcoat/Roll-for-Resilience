@@ -15,6 +15,10 @@ members:
     id: "[[Sheik Aldien]]"
   - type: character
     id: "[[Tassos Buros]]"
+  - type: item
+    id: "[[Rebel Coin]]"
+  - type: location
+    id: "[[Nervios Tunnels]]"
 ---
 
 ## Description

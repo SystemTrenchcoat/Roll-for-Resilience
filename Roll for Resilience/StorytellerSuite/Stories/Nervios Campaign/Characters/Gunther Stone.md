@@ -21,6 +21,8 @@ id: mqtt0szd3ku57w
 linkedScenes:
   - "[[The Festival of Granite Rain]]"
 _skipSync: true
+ownedItems:
+  - Oyster and Stone Fruit Salad
 ---
 
 ## Description

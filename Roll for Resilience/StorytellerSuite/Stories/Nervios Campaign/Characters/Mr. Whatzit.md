@@ -14,8 +14,7 @@ height: 5'6"
 race: Human
 quirks: Snorts when laughing, walks with a bounce, eyes dart around constantly
 id: mqtotsvgnsxwv3
-linkedScenes:
-  - "[[The Festival of Granite Rain]]"
+linkedScenes: "[[StorytellerSuite/Stories/Nervios Campaign/Scenes/The Festival of Granite Rain]]"
 _skipSync: true
 ownedItems:
   - The Nothing Box

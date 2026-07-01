@@ -20,6 +20,7 @@ childLocationIds:
   - "[[Clara Tea]]"
   - "[[Fine Pebbles]]"
   - "[[Sisyphus Hill]]"
+  - "[[Central Stage]]"
 ---
 
 ## Description
