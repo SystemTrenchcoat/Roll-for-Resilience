@@ -1,7 +1,7 @@
 ---
 entityType: scene
 name: The Collapse of Central Stage
-status: Draft
+status: WIP
 chapterId: "[[Beginning]]"
 priority: 2
 emotion: tense
@@ -11,6 +11,7 @@ payoffScenes:
   - "[[The Festival of Granite Rain]]"
 ---
 
+# This is not content complete. The flower puzzle and runes puzzle should be ready and complete by the playtest.
 ## Content
 
 ### Hook
@@ -25,12 +26,32 @@ After receiving the grand prize, the stage beneath the party's feet begin to cra
 ### 2. The Search for the Exit
 The [[Nervios Tunnels]] are unknown by the general public, so any escape paths must be discovered via exploration and travel.
 
-### 3. The Discovery of [[The Burrows]]
+[[Flower Puzzle]] and [[Rune Puzzle]] in no particular order
 
+
+
+### end. The Discovery of [[The Burrows]]
+
+## Key Locations
+- [[Flora Tunnels.]]
+- [[Rune Tunnels]]
+- [[Rebellion Mural]]
 
 ## Key NPCS
 This mission takes place underground in secluded tunnels far from any NPCS. The party must work together to escape without external help.
+
+## Key Items
+
+| Item Name      | Description                                                                                                                                                                                                                                                                               |
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Indigo Cavera  | A bitter plant with thick leaves that glow slightly blue due to bioluminescence. Eating one would make you sick, though you would glow blue for a bit. The intensity and duration of all effects would be based on how much was consumed.                                                 |
+| Seafarers Herb | Very salty and bitter. Technically edible but it doesn’t taste good. Could maybe work as a seasoning though but one would need experience with cooking                                                                                                                                    |
+| Noble Bloom    | Their leaves are sharp and slightly sticky, though brushing by them won’t do anything. Touching one bare handed to pull out and eat would first lead to a cut. If a player decides to eat one anyways, it’s slightly sweet but that though would be blocked out by the pain of the leaves |
+|                |                                                                                                                                                                                                                                                                                           |
+
 ## Core Mechanics
+- [[Flower Puzzle]]
+- [[Rune Puzzle]]
 
 ### Hiding Spots
 
