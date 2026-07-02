@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Collapse of Central Stage.md",
+                "file": "StorytellerSuite/Stories/Nervios Campaign/Characters/The Mask Seller.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Collapse of Central Stage"
+              "title": "The Mask Seller"
             }
           }
         ]
@@ -177,7 +177,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 440.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,8 +194,11 @@
       "storyteller-suite:Apply template to story": false
     }
   },
-  "active": "2ec9dadcfec6f2d2",
+  "active": "614b32e7f67e5357",
   "lastOpenFiles": [
+    "StorytellerSuite/Stories/Nervios Campaign/Characters/Bethia Tallowwind.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Characters/The Mask Seller.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Characters/Aurelia Novia.md",
     "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Collapse of Central Stage.md",
     "Wheel of purity.md",
     "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Tunnels.md",
@@ -220,9 +224,6 @@
     "Untitled",
     "Unique Mechanics/The Festival of Granite Rain/The Wheel of Purity - Interactive.md",
     "Unique Mechanics/The Festival of Granite Rain/Color Cipher.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Groups/Commonfolk.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Sven.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Items/Muscle Milk.md",
     "Images/Festival of Granite Rain/Wheel of Purity/wheelOfPurity_SOLVED.png",
     "Unique Mechanics/HTMLInteractables/WheelOfPurityHTML/index.html",
     "Unique Mechanics/HTMLInteractables",
