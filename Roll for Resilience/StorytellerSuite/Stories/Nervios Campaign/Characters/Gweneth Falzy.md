@@ -10,6 +10,8 @@ race: Human (Elf?)
 age: Unknown
 height: 5' 9"
 id: mq8e8gtilwl7sn
+groups:
+  - "[[Sea Scribes of Umorism]]"
 ---
 
 ## Description

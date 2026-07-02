@@ -316,6 +316,38 @@
       "history": "",
       "goals": "",
       "resources": ""
+    },
+    {
+      "id": "group-sea-scribes",
+      "storyId": "mpwy9kn3o4bhth",
+      "name": "Sea Scribes",
+      "tags": [],
+      "members": [],
+      "description": "",
+      "history": "",
+      "structure": "",
+      "goals": "",
+      "resources": ""
+    },
+    {
+      "id": "mr3tquztlppz9a",
+      "storyId": "mpwy9kn3o4bhth",
+      "name": "Sea Scribes of Umorism",
+      "description": "Followers and priests of Umorism.",
+      "color": "#2bb8c2",
+      "members": [
+        {
+          "type": "character",
+          "id": "mq8e8gtilwl7sn",
+          "name": "Gweneth Falzy"
+        }
+      ],
+      "groupType": "religious",
+      "history": "Umorism used to be the religion of Nervios, until the guards took over and replaced it with Aequorism and Umorism was outlawed. These days Umorism is practiced in secret by a select few.",
+      "goals": "They hope to one day reintroduce Umorism back to Nervios and rekindle the passion of challenge into humanity again.\n\nBeliefs-\n Umorism teaches its followers that the sea watches humanity’s movements, tests human ingenuity and persistence in the face of great odds.\n From this challenge, humanity is pushed to develop better ship building and other such technologies. The Old Religion used to fund and run colleges of nautical engineering and similar professions, as a way to help spread understanding and knowledge of the sea’s trials and develop new ship technology. But these institutions have either been shut down or repurposed now that the Old Religion is out of favor.\n Sea Readers/ Sea Scribe were the priests of the old religion, interpreting the oceans, tides and storms to assist safe trade and travel. Gained this knowledge through survival of the trials of the ocean and being taught by their ancestors.",
+      "resources": "Player's that want to play as Sea Scribes can take this background. It isn't required for anyone following the religion, but for the priest\n\nBackground\n - Acolyte of Umorism\n You are a follower of the old faith of Umorism, a Sea Reader, a faith that taught of the endless trials of the ocean, the eternal glorious challenge that spurs humanity forward through tests of nautical navigation and ship building, among many other trials. However, such practices haven't been openly done in the city of Nervios in 150 years as the rising of the guards made the old religion become persecuted in favor of the new religion that simply wished to calm and placate the sea instead of meeting its challenge. You still practice the old rites and techniques in secret till one day such knowledge can again be freely shared in the city. \n - Skill Proficiencies: Acrobatics\n - Tool Proficiencies: Navigator's Tools, Vehicle (Water)\n - Holy Symbol, Dagger, Navigator's Tools, Rope, Traveler’s Clothes, 20 GP\n - Feat: Skilled\n - The Sea Readers teach that one must be well versed in all manner of skills to better adapt to the numerous challenges the sea has to offer.",
+      "structure": "The priests of this relgiion are know as Sea Scribes. The religion has no discernable heirachy, with most Sea Scribes working together as colleagues sharing knowledge and expierence the best they can.",
+      "tags": []
     }
   ],
   "showTutorial": true,
@@ -2014,6 +2046,24 @@
       "filesEdited": [
         "StorytellerSuite/Stories/Nervios Campaign/Items/Yellow Noble Bloom.md"
       ]
+    },
+    {
+      "id": "writing-1783014274520-tw9qe6",
+      "startTime": "2026-07-02T17:44:34.520Z",
+      "endTime": "2026-07-02T18:14:56.711Z",
+      "wordsWritten": 0
+    },
+    {
+      "id": "writing-1783016131428-9h4ffu",
+      "startTime": "2026-07-02T18:15:31.428Z",
+      "endTime": "2026-07-02T18:15:32.962Z",
+      "wordsWritten": 80
+    },
+    {
+      "id": "writing-1783017616586-gxrrmn",
+      "startTime": "2026-07-02T18:40:16.586Z",
+      "endTime": "2026-07-02T18:40:45.206Z",
+      "wordsWritten": 0
     }
   ],
   "trackWritingSessions": false,
@@ -2222,9 +2272,9 @@
     },
     {
       "date": "2026-07-02",
-      "wordsWritten": 2513,
-      "wordsDeleted": 13,
-      "netWords": 2500,
+      "wordsWritten": 2593,
+      "wordsDeleted": 412,
+      "netWords": 2181,
       "timeSpent": 0,
       "scenesEdited": [],
       "goalMet": false
