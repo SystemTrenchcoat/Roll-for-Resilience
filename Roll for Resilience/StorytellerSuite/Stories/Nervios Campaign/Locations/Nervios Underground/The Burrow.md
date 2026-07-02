@@ -1,6 +1,6 @@
 ---
 entityType: location
-name: The Burrows
+name: The Burrow
 locationType: Black Market
 region: "[[Nervios]]"
 status: Active

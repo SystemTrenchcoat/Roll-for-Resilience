@@ -10,7 +10,16 @@
   "activeStoryId": "mpwy9kn3o4bhth",
   "galleryUploadFolder": "StorytellerSuite/GalleryUploads",
   "galleryData": {
-    "images": []
+    "images": [
+      {
+        "id": "gallery-1783013420209-c0czn",
+        "filePath": "StorytellerSuite/GalleryUploads/1783013420200_Tunnels_runePuzzle.png",
+        "title": "1783013420200_Tunnels_runePuzzle",
+        "caption": "",
+        "description": "",
+        "tags": []
+      }
+    ]
   },
   "galleryWatchFolder": "",
   "groups": [
@@ -2014,6 +2023,126 @@
       "filesEdited": [
         "StorytellerSuite/Stories/Nervios Campaign/Items/Yellow Noble Bloom.md"
       ]
+    },
+    {
+      "id": "writing-1783011087282-yw26hu",
+      "startTime": "2026-07-02T16:51:27.282Z",
+      "endTime": "2026-07-02T16:53:37.740Z",
+      "wordsWritten": 3,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Collapse of Central Stage.md"
+      ]
+    },
+    {
+      "id": "writing-1783013102533-d77z2y",
+      "startTime": "2026-07-02T17:25:02.533Z",
+      "endTime": "2026-07-02T17:28:36.898Z",
+      "wordsWritten": 639
+    },
+    {
+      "id": "writing-1783013426468-pob4lo",
+      "startTime": "2026-07-02T17:30:26.468Z",
+      "endTime": "2026-07-02T17:35:23.355Z",
+      "wordsWritten": 24,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Locations/Rune Tunnels.md"
+      ]
+    },
+    {
+      "id": "writing-1783013778917-j2ixtk",
+      "startTime": "2026-07-02T17:36:18.917Z",
+      "endTime": "2026-07-02T17:42:48.928Z",
+      "wordsWritten": 38,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Locations/Rune Tunnels.md"
+      ]
+    },
+    {
+      "id": "writing-1783014169034-4yge3v",
+      "startTime": "2026-07-02T17:42:49.034Z",
+      "endTime": "2026-07-02T17:43:14.409Z",
+      "wordsWritten": 0,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/bob helper.md"
+      ]
+    },
+    {
+      "id": "writing-1783014210583-yphcie",
+      "startTime": "2026-07-02T17:43:30.583Z",
+      "endTime": "2026-07-02T17:43:35.539Z",
+      "wordsWritten": 111
+    },
+    {
+      "id": "writing-1783015072356-cnd1tq",
+      "startTime": "2026-07-02T17:57:52.356Z",
+      "endTime": "2026-07-02T18:05:06.867Z",
+      "wordsWritten": 56,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Locations/Rune Tunnels.md"
+      ]
+    },
+    {
+      "id": "writing-1783015506893-hzwkav",
+      "startTime": "2026-07-02T18:05:06.893Z",
+      "endTime": "2026-07-02T18:28:47.078Z",
+      "wordsWritten": 7,
+      "filesEdited": [
+        "Unique Mechanics/The Collapse of Central Stage/Rune Puzzle.md"
+      ]
+    },
+    {
+      "id": "writing-1783016929622-ak1dv5",
+      "startTime": "2026-07-02T18:28:49.622Z",
+      "endTime": "2026-07-02T18:31:55.476Z",
+      "wordsWritten": 36,
+      "filesEdited": [
+        "Unique Mechanics/The Collapse of Central Stage/Rune Puzzle.md"
+      ]
+    },
+    {
+      "id": "writing-1783017121093-y19od4",
+      "startTime": "2026-07-02T18:32:01.093Z",
+      "endTime": "2026-07-02T18:32:34.203Z",
+      "wordsWritten": 0,
+      "filesEdited": [
+        "Unique Mechanics/The Collapse of Central Stage/Flower Puzzle.md"
+      ]
+    },
+    {
+      "id": "writing-1783017154251-edg4zi",
+      "startTime": "2026-07-02T18:32:34.251Z",
+      "endTime": "2026-07-02T18:34:21.461Z",
+      "wordsWritten": 14,
+      "filesEdited": [
+        "Unique Mechanics/The Collapse of Central Stage/Rune Puzzle.md"
+      ]
+    },
+    {
+      "id": "writing-1783017277928-mxjldt",
+      "startTime": "2026-07-02T18:34:37.928Z",
+      "endTime": "2026-07-02T18:43:24.172Z",
+      "wordsWritten": 26,
+      "filesEdited": [
+        "Unique Mechanics/The Collapse of Central Stage/Rune Puzzle.md"
+      ]
+    },
+    {
+      "id": "writing-1783017819287-nhrcjk",
+      "startTime": "2026-07-02T18:43:39.287Z",
+      "endTime": "2026-07-02T18:48:13.174Z",
+      "wordsWritten": 17,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Nervios Tunnels.md"
+      ]
+    },
+    {
+      "id": "writing-1783018120970-h1jxnr",
+      "startTime": "2026-07-02T18:48:40.970Z",
+      "endTime": "2026-07-02T19:56:27.462Z",
+      "wordsWritten": 21,
+      "filesEdited": [
+        "Unique Mechanics/The Collapse of Central Stage/Rune Puzzle.md"
+      ]
     }
   ],
   "trackWritingSessions": false,
@@ -2222,9 +2351,9 @@
     },
     {
       "date": "2026-07-02",
-      "wordsWritten": 2513,
-      "wordsDeleted": 13,
-      "netWords": 2500,
+      "wordsWritten": 3505,
+      "wordsDeleted": 18,
+      "netWords": 3487,
       "timeSpent": 0,
       "scenesEdited": [],
       "goalMet": false

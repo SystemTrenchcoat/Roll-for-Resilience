@@ -7,7 +7,7 @@ gro:
 ---
 
 ## Description
-One of the most prominent black market dealers in the Burrow, Bethia sells various things like recreational drugs, exotic goods, banned books, and cheap food that she sells at a much smaller profit margin than that of any official merchant top side would. 
+One of the most prominent black market dealers in [[The Burrow]], Bethia sells various things like recreational drugs, exotic goods, banned books, and cheap food that she sells at a much smaller profit margin than that of any official merchant top side would. 
 
 Running most of the smuggling ring in Nervios, Bethia has often employs members of the 
 

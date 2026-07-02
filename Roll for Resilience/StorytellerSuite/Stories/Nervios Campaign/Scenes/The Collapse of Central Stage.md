@@ -26,14 +26,13 @@ After receiving the grand prize, the stage beneath the party's feet begin to cra
 ### 2. The Search for the Exit
 The [[Nervios Tunnels]] are unknown by the general public, so any escape paths must be discovered via exploration and travel. While in the [[Central Cavern]], players can see 7 distinct paths that branch out in several directions.
 
-| Path             | Description                                                                                                                                                                                                                                                | Leads to:         |
-| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| Western Tunnel   | To the west of the pile of boulders lies a large tunnel that immediately splits off into two. The splitting paths ultimately converge back into one which leads to a puzzle.                                                                               | [[Flower Puzzle]] |
-| Eastern Tunnels  | To the East of the pile of boulders lies three large tunnels. Upon closer inspection, players can infer that the three tunnels converge into one.<br><br>A medium-difficulty perception check reveals the faint glow of a flame coming from down the path. | [[Time Puzzle]]   |
-| Southern Tunnels | To the South of the pile of boulders lies three small tunnels. The tunnels ultimately converge into one, but contain several forks paths that loop back to the [[Central Cavern]].                                                                         | [[Rune Puzzle]]   |
-### 3. The Rune
+| Path             | Description                                                                                                                                                                                                                                                | Leads to:           |
+| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- |
+| Western Tunnel   | To the west of the pile of boulders lies a large tunnel that immediately splits off into two. The splitting paths ultimately converge back into one which leads to a puzzle.                                                                               | [[Flora Tunnels]]   |
+| Eastern Tunnels  | To the East of the pile of boulders lies three large tunnels. Upon closer inspection, players can infer that the three tunnels converge into one.<br><br>A medium-difficulty perception check reveals the faint glow of a flame coming from down the path. | [[Rebellion Mural]] |
+| Southern Tunnels | To the South of the pile of boulders lies three small tunnels. The tunnels ultimately converge into one, but contain several forks paths that loop back to the [[Central Cavern]].                                                                         | [[Rune Tunnels]]    |
 
-### end. The Discovery of [[The Burrows]]
+### 3. Solving the Rune Puzzle and Entering [[The Burrow]]
 
 ## Key Locations
 - [[Flora Tunnels]]
@@ -45,11 +44,11 @@ This mission takes place underground in secluded tunnels far from any NPCS. The 
 
 ## Key Items
 
-| Item Name      | Description                                                                                                                                                                                                                                                                               |
-| -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Indigo Cavera  | A bitter plant with thick leaves that glow slightly blue due to bioluminescence. Eating one would make you sick, though you would glow blue for a bit. The intensity and duration of all effects would be based on how much was consumed.                                                 |
-| Seafarers Herb | Very salty and bitter. Technically edible but it doesn’t taste good. Could maybe work as a seasoning though but one would need experience with cooking                                                                                                                                    |
-| Noble Bloom    | Their leaves are sharp and slightly sticky, though brushing by them won’t do anything. Touching one bare handed to pull out and eat would first lead to a cut. If a player decides to eat one anyways, it’s slightly sweet but that though would be blocked out by the pain of the leaves |
+| Item Name                 | Description                                                                                                                                                                                                                                                                               |
+| ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Great Blue Cave Plant]] | A bitter plant with thick leaves that glow slightly blue due to bioluminescence. Eating one would make you sick, though you would glow blue for a bit. The intensity and duration of all effects would be based on how much was consumed.                                                 |
+| [[The Seafarers Herb]]    | Very salty and bitter. Technically edible but it doesn’t taste good. Could maybe work as a seasoning though but one would need experience with cooking                                                                                                                                    |
+| [[Yellow Noble Bloom]]    | Their leaves are sharp and slightly sticky, though brushing by them won’t do anything. Touching one bare handed to pull out and eat would first lead to a cut. If a player decides to eat one anyways, it’s slightly sweet but that though would be blocked out by the pain of the leaves |
 
 ## Core Mechanics
 - [[Flower Puzzle]]

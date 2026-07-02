@@ -31,6 +31,7 @@ A large green tent with many baskets full of various makeshift trinkets and dooh
 ## History
 The tent moves around to various locations around the markets Nervios, until [[StorytellerSuite/Stories/Nervios Campaign/Scenes/The Festival of Granite Rain|The Festival of Granite Rain]]
 
+
 ## Shop Items
 
 | Item                    | Price (scler) |

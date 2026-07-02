@@ -19,7 +19,7 @@ The mural should be unrecognizable to the party, unless they have already seen t
 | Great Blue Cave Plant | A large plant with glowing blue leaves sit atop the pedestal. An engraving on the cap of the pedestal reads:<br>"**The Great Blue Cave plants.<br>guiding us on the right path<br>through the darkest nights.**" |
 | The Seafarers Herb    | A large plant with five big turquoise leaves sit atop the pedestal. An engraving on the cap of the pedestal reads:<br>"**A turquoise hue. Rough and smooth<br>like waves, move straight through.**"              |
 | Yellow Noble Blooms   | A medium-sized plant with spiky orange and green leaves sits atop the pedestal. An engraving on the cap of the pedestal reads:<br>"**sweet, sticky, sharp leaves. Mirrors<br>of the glowing blue.**"             |
->[!faq]- Pedestal Clue Explanations
+>[!faq]- ### Pedestal Clue Explanations
 > - **Great Blue Cave Plant**: When encountering this plant at an intersection, go to the right.
 > - **The Seafarers Herb**: When encountering this plant at an intersection, go straight.
 > - **Yellow Noble Blooms**: When encountering this plant at an intersection, go to the left (mirroring the great blue cave plant).
@@ -40,7 +40,6 @@ Peering into the three doorways, the players can see a plant a short distance ah
 | Wave Trap                   | A small gush of water spews from beneath your feet, pushing you back to the last intersection you were at.                                                                                      |
 | Swinging Rock               | A small rock detaches from the roof and swings at you via an underground vine. If it hits, take a small amount of damage and get knocked back to the last intersection you were at              |
 | Ant Trap                    | Your legs begin to itch as hundreds of ants crawl onto you from the ground up, coming from the pressure plate. They cause no damage, but act as a warning                                       |
-|                             |                                                                                                                                                                                                 |
 
 > [!success]- ### Solution
 > This puzzle is based around entering each doorway and following its set path based on the plant that lies at intersections. For example, if the player enters the leftmost door, they are met with a [[Great Blue Cave Plant]]. This signifies that they need to head to the right.
@@ -53,7 +52,7 @@ Peering into the three doorways, the players can see a plant a short distance ah
 | Rightmost | Left -> Straight -> Right -> Straight -> Left -> Right -> Right -> Left -> Straight -> Right -> Left -> END PEDESTAL                                                                                                         |
 > The end of each path converges into a small room with a large round table. Sketched onto the table sits three magic seals. When a path is solved the seal beings glowing a deep blue, and a key comes out of the center of the seal.
 > 
-> Once each path has been opened and each seal has been unlocked, the room with the table begins to shake violently and spin. The room spins for ten seconds. When it finally ends, only one exit is visible. Traveling through the exit leads the players directly back to the [Central Cavern]] 
+> Once each path has been opened and each seal has been unlocked, the room with the table begins to shake violently and spin. The room spins for ten seconds. When it finally ends, only one exit is visible. Traveling through the exit leads the players directly back to the [[Central Cavern]] 
 
 
 
