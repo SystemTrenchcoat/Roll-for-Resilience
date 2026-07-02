@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StorytellerSuite/Stories/Nervios Campaign/Groups/Sea Scribes.md",
+                "file": "Unique Mechanics/The Collapse of Central Stage/Flower Puzzle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sea Scribes"
+              "title": "Flower Puzzle"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 324.5
   },
   "right": {
     "id": "59ff323b99e34f60",
@@ -177,8 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 440.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,32 +195,35 @@
   },
   "active": "614b32e7f67e5357",
   "lastOpenFiles": [
-    "StorytellerSuite/Stories/Nervios Campaign/Groups/Church of Aequorism.md",
     "StorytellerSuite/Stories/Nervios Campaign/Groups/Sea Scribes.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Groups/High Trident.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Groups/Commonfolk.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Groups/Guards.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Groups/Merrene Family.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Groups/Rebels.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Bethia Tallowwind.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Callie Costa.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Gimil Lawman.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Clara Porter.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Caspian Moon.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Abraham Costa.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Adam Atkin.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Aurelia Novia.md",
-    "Nervios/Module/Factions.md",
-    "Nervios/Module/Narrative.md",
-    "Nervios/Module/Mechanics.md",
-    "Nervios/Module/DM Tools.md",
-    "Nervios/Worldbuilding/Economy.md",
-    "Nervios/Worldbuilding/Government.md",
-    "Nervios/Worldbuilding/History.md",
-    "Nervios/Module/Backgrounds.md",
-    "Nervios/Module/Constraints.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground",
+    "Unique Mechanics/The Collapse of Central Stage/Time Puzzle.md",
+    "Unique Mechanics/The Collapse of Central Stage/Rune Puzzle.md",
+    "Unique Mechanics/The Collapse of Central Stage/Flower Puzzle.md",
+    "Unique Mechanics/The Festival of Granite Rain/Rebel Coin Puzzle.md",
+    "Unique Mechanics/The Festival of Granite Rain/Hidden Key Puzzle.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Items/Yellow Noble Bloom.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Items/The Seafarers Herb.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Items/Great Blue Cave Plant.md",
+    "The Seafarers Herb.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Rebellion Mural.md",
+    "Rebellion Symbol.md",
     "StorytellerSuite/Stories/Nervios Campaign/Characters/The Mask Seller.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Festival of Granite Rain.md",
+    "Unique Mechanics/The Festival of Granite Rain/Color Cipher.md",
+    "Unique Mechanics/The Festival of Granite Rain/Boulder Climb.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Flora Tunnels.md",
     "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Collapse of Central Stage.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Central Cavern.md",
+    "Unique Mechanics/The Collapse of Central Stage/Rune Puzzle",
+    "Unique Mechanics/The Collapse of Central Stage",
+    "Unique Mechanics/Untitled.md",
+    "Wheel of purity.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Nervios Tunnels.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/The Burrows.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Items/Rebel Coin.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Items/Oyster and Stone Fruit Salad.md",
+    "Nervios/Module/Mechanics.md",
     "StorytellerSuite/Stories/Nervios Campaign/Items/Bag Me Up Items",
     "Untitled",
     "Images/Festival of Granite Rain/Wheel of Purity/wheelOfPurity_SOLVED.png",
@@ -239,12 +241,9 @@
     "Images/Festival of Granite Rain/Wheel of Purity/wheelOfPurity 1.png",
     "Unique Mechanics/HTMLInteractables/WheelOfPurityHTML/imgs",
     "WheelOfPurityHTML/New folder",
-    "Unique Mechanics/HTMLInteractables/WheelOfPurityHTML",
     "Untitled.canvas",
-    "Inte",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
-    "Images/Festival of Granite Rain/Wheel of Purity",
     "Nervios/Unique Mechanics/Untitled.canvas"
   ]
 }

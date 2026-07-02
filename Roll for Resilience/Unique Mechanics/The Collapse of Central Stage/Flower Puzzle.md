@@ -1,3 +1,7 @@
+---
+location:
+  - "[[Flora Tunnels]]"
+---
 ## Description
 In a small open cavern lies three open doorways, three ornate pedestals with different plants on their caps, a wooden sign, and a small mural of the [[Rebellion Symbol]]. 
 
@@ -36,6 +40,7 @@ Peering into the three doorways, the players can see a plant a short distance ah
 | Wave Trap                   | A small gush of water spews from beneath your feet, pushing you back to the last intersection you were at.                                                                                      |
 | Swinging Rock               | A small rock detaches from the roof and swings at you via an underground vine. If it hits, take a small amount of damage and get knocked back to the last intersection you were at              |
 | Ant Trap                    | Your legs begin to itch as hundreds of ants crawl onto you from the ground up, coming from the pressure plate. They cause no damage, but act as a warning                                       |
+|                             |                                                                                                                                                                                                 |
 
 > [!success]- ### Solution
 > This puzzle is based around entering each doorway and following its set path based on the plant that lies at intersections. For example, if the player enters the leftmost door, they are met with a [[Great Blue Cave Plant]]. This signifies that they need to head to the right.

@@ -27,7 +27,7 @@
           "name": "Jane Novia"
         }
       ],
-      "description": "A group that hates the \"ever-watching eyes\" and wishes to bring Nervios freedom through contact with the outside world and the destruction of the eyes\r\n\r\n- Quiet / Gaining traction, trying to help people escape, close ties to smugglers.\r\n    \r\n- Truly believes they’re doing what’s best for everyone, especially the people in the town\r\n    \r\n- End goal for the rebels (assuming they know or at least believe all the towers are widely unmanned): expose the truth of the matter. Maybe they want to expose the nobles too. Most likely anti-noble if they know their history (which at least the important ones probably do)\r\n    \r\n- Probably have spies in the guards\r\n    \r\n\r\n- Definitely trying to find some high ups willing to help to learn more about the panopticon\r\n    \r\n\r\n- Often work under darkness or / and with obscuring / illusion spells\r\n    \r\n- Definitely have a tunnel system\r\n    \r\n- Strong aura of secrecy, especially in their upper ranks\r\n    \r\n- Most often help people escape the town\r\n    \r\n- Maybe offers places of solace where the eye cannot see?\r\n    \r\n- The collectivist to the guard / government’s isolationist",
+      "description": "A group that hates the \"ever-watching eyes\" and wishes to bring Nervios freedom through contact with the outside world and the destruction of the eyes\n\n- Quiet / Gaining traction, trying to help people escape, close ties to smugglers.\n    \n- Truly believes they’re doing what’s best for everyone, especially the people in the town\n    \n- End goal for the rebels (assuming they know or at least believe all the towers are widely unmanned): expose the truth of the matter. Maybe they want to expose the nobles too. Most likely anti-noble if they know their history (which at least the important ones probably do)\n    \n- Probably have spies in the guards\n    \n\n- Definitely trying to find some high ups willing to help to learn more about the panopticon\n    \n\n- Often work under darkness or / and with obscuring / illusion spells\n    \n- Definitely have a tunnel system\n    \n- Strong aura of secrecy, especially in their upper ranks\n    \n- Most often help people escape the town\n    \n- Maybe offers places of solace where the eye cannot see?\n    \n- The collectivist to the guard / government’s isolationist",
       "history": "",
       "structure": "",
       "goals": "",
@@ -1773,21 +1773,246 @@
       ]
     },
     {
-      "id": "writing-1782999300902-qlu7c4",
-      "startTime": "2026-07-02T13:35:00.902Z",
-      "endTime": "2026-07-02T14:39:42.767Z",
-      "wordsWritten": 0,
+      "id": "writing-1782933567787-9amlz8",
+      "startTime": "2026-07-01T19:19:27.787Z",
+      "endTime": "2026-07-01T20:22:00.259Z",
+      "wordsWritten": 15,
       "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Characters/Bethia Tallowwind.md"
+        "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Collapse of Central Stage.md"
       ]
     },
     {
-      "id": "writing-1783006690329-ststd0",
-      "startTime": "2026-07-02T15:38:10.329Z",
-      "endTime": "2026-07-02T15:47:08.876Z",
-      "wordsWritten": 5,
+      "id": "writing-1782937623948-hnd2e6",
+      "startTime": "2026-07-01T20:27:03.948Z",
+      "endTime": "2026-07-01T20:54:59.868Z",
+      "wordsWritten": 23,
       "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Groups/Sea Scribes.md"
+        "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Collapse of Central Stage.md"
+      ]
+    },
+    {
+      "id": "writing-1782939299944-i4jnc8",
+      "startTime": "2026-07-01T20:54:59.944Z",
+      "endTime": "2026-07-01T20:55:04.509Z",
+      "wordsWritten": 316
+    },
+    {
+      "id": "writing-1783002502675-j8wwwn",
+      "startTime": "2026-07-02T14:28:22.675Z",
+      "endTime": "2026-07-02T14:55:31.213Z",
+      "wordsWritten": 56,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Collapse of Central Stage.md"
+      ]
+    },
+    {
+      "id": "writing-1783004137040-883p78",
+      "startTime": "2026-07-02T14:55:37.040Z",
+      "endTime": "2026-07-02T15:04:32.632Z",
+      "wordsWritten": 101,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Collapse of Central Stage.md"
+      ]
+    },
+    {
+      "id": "writing-1783004672668-ld26v8",
+      "startTime": "2026-07-02T15:04:32.668Z",
+      "endTime": "2026-07-02T15:05:09.956Z",
+      "wordsWritten": 151,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Locations/Central Cavern.md"
+      ]
+    },
+    {
+      "id": "writing-1783004710034-pr4oh4",
+      "startTime": "2026-07-02T15:05:10.034Z",
+      "endTime": "2026-07-02T15:05:47.668Z",
+      "wordsWritten": 0,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Collapse of Central Stage.md"
+      ]
+    },
+    {
+      "id": "writing-1783004760564-atledk",
+      "startTime": "2026-07-02T15:06:00.564Z",
+      "endTime": "2026-07-02T15:06:55.792Z",
+      "wordsWritten": 13
+    },
+    {
+      "id": "writing-1783004824697-p9r1k9",
+      "startTime": "2026-07-02T15:07:04.697Z",
+      "endTime": "2026-07-02T15:08:24.427Z",
+      "wordsWritten": 12,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Locations/Flora Tunnels.md"
+      ]
+    },
+    {
+      "id": "writing-1783004911217-cvtyq0",
+      "startTime": "2026-07-02T15:08:31.217Z",
+      "endTime": "2026-07-02T15:17:25.183Z",
+      "wordsWritten": 112,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Locations/Flora Tunnels.md"
+      ]
+    },
+    {
+      "id": "writing-1783005463171-p98iz4",
+      "startTime": "2026-07-02T15:17:43.171Z",
+      "endTime": "2026-07-02T15:19:19.242Z",
+      "wordsWritten": 32,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Locations/Flora Tunnels.md"
+      ]
+    },
+    {
+      "id": "writing-1783005564802-bxkjho",
+      "startTime": "2026-07-02T15:19:24.802Z",
+      "endTime": "2026-07-02T15:19:39.746Z",
+      "wordsWritten": 2,
+      "filesEdited": [
+        "Unique Mechanics/The Collapse of Central Stage/Flower Puzzle.md"
+      ]
+    },
+    {
+      "id": "writing-1783005580805-lkrv0z",
+      "startTime": "2026-07-02T15:19:40.805Z",
+      "endTime": "2026-07-02T15:20:41.620Z",
+      "wordsWritten": 13,
+      "filesEdited": [
+        "Unique Mechanics/The Collapse of Central Stage/Flower Puzzle.md"
+      ]
+    },
+    {
+      "id": "writing-1783005645239-56v65t",
+      "startTime": "2026-07-02T15:20:45.239Z",
+      "endTime": "2026-07-02T15:24:32.386Z",
+      "wordsWritten": 50,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Locations/Flora Tunnels.md"
+      ]
+    },
+    {
+      "id": "writing-1783005877969-q6ttqd",
+      "startTime": "2026-07-02T15:24:37.969Z",
+      "endTime": "2026-07-02T15:25:58.019Z",
+      "wordsWritten": 16,
+      "filesEdited": [
+        "Unique Mechanics/The Collapse of Central Stage/Flower Puzzle.md"
+      ]
+    },
+    {
+      "id": "writing-1783005958058-d3noso",
+      "startTime": "2026-07-02T15:25:58.058Z",
+      "endTime": "2026-07-02T15:26:35.147Z",
+      "wordsWritten": 0,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Locations/Flora Tunnels.md"
+      ]
+    },
+    {
+      "id": "writing-1783005995188-oa3r3f",
+      "startTime": "2026-07-02T15:26:35.188Z",
+      "endTime": "2026-07-02T15:33:04.456Z",
+      "wordsWritten": 125,
+      "filesEdited": [
+        "Unique Mechanics/The Collapse of Central Stage/Flower Puzzle.md"
+      ]
+    },
+    {
+      "id": "writing-1783006385443-8lme4r",
+      "startTime": "2026-07-02T15:33:05.443Z",
+      "endTime": "2026-07-02T15:33:49.685Z",
+      "wordsWritten": 3,
+      "filesEdited": [
+        "Unique Mechanics/The Collapse of Central Stage/Flower Puzzle.md"
+      ]
+    },
+    {
+      "id": "writing-1783006433430-jwx3s5",
+      "startTime": "2026-07-02T15:33:53.430Z",
+      "endTime": "2026-07-02T15:36:01.775Z",
+      "wordsWritten": 63,
+      "filesEdited": [
+        "Unique Mechanics/The Collapse of Central Stage/Flower Puzzle.md"
+      ]
+    },
+    {
+      "id": "writing-1783006569581-jk5no8",
+      "startTime": "2026-07-02T15:36:09.581Z",
+      "endTime": "2026-07-02T15:39:46.603Z",
+      "wordsWritten": 65,
+      "filesEdited": [
+        "Unique Mechanics/The Collapse of Central Stage/Flower Puzzle.md"
+      ]
+    },
+    {
+      "id": "writing-1783006792976-7hovvr",
+      "startTime": "2026-07-02T15:39:52.976Z",
+      "endTime": "2026-07-02T16:20:03.727Z",
+      "wordsWritten": 663,
+      "filesEdited": [
+        "Unique Mechanics/The Collapse of Central Stage/Flower Puzzle.md"
+      ]
+    },
+    {
+      "id": "writing-1783009203805-uuy7kk",
+      "startTime": "2026-07-02T16:20:03.805Z",
+      "endTime": "2026-07-02T16:21:47.820Z",
+      "wordsWritten": 20,
+      "filesEdited": [
+        "Rebellion Symbol.md"
+      ]
+    },
+    {
+      "id": "writing-1783009496035-8g40p5",
+      "startTime": "2026-07-02T16:24:56.035Z",
+      "endTime": "2026-07-02T16:25:29.867Z",
+      "wordsWritten": 3,
+      "filesEdited": [
+        "Unique Mechanics/The Collapse of Central Stage/Flower Puzzle.md"
+      ]
+    },
+    {
+      "id": "writing-1783009529914-3w1ugc",
+      "startTime": "2026-07-02T16:25:29.914Z",
+      "endTime": "2026-07-02T16:42:11.390Z",
+      "wordsWritten": 50,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Items/Great Blue Cave Plant.md"
+      ]
+    },
+    {
+      "id": "writing-1783010634983-izv19b",
+      "startTime": "2026-07-02T16:43:54.983Z",
+      "endTime": "2026-07-02T16:43:58.278Z",
+      "wordsWritten": 953
+    },
+    {
+      "id": "writing-1783010650139-ml4rft",
+      "startTime": "2026-07-02T16:44:10.139Z",
+      "endTime": "2026-07-02T16:44:25.987Z",
+      "wordsWritten": 0,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Items/The Seafarers Herb.md"
+      ]
+    },
+    {
+      "id": "writing-1783010667361-sulwy3",
+      "startTime": "2026-07-02T16:44:27.361Z",
+      "endTime": "2026-07-02T16:44:42.207Z",
+      "wordsWritten": 6,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Items/The Seafarers Herb.md"
+      ]
+    },
+    {
+      "id": "writing-1783010730794-y5eyl0",
+      "startTime": "2026-07-02T16:45:30.794Z",
+      "endTime": "2026-07-02T16:47:22.537Z",
+      "wordsWritten": 4,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Items/Yellow Noble Bloom.md"
       ]
     }
   ],
@@ -1988,18 +2213,18 @@
     },
     {
       "date": "2026-07-01",
-      "wordsWritten": 1098,
+      "wordsWritten": 1452,
       "wordsDeleted": 16,
-      "netWords": 1082,
+      "netWords": 1436,
       "timeSpent": 0,
       "scenesEdited": [],
       "goalMet": false
     },
     {
       "date": "2026-07-02",
-      "wordsWritten": 5,
-      "wordsDeleted": 14,
-      "netWords": -9,
+      "wordsWritten": 2513,
+      "wordsDeleted": 13,
+      "netWords": 2500,
       "timeSpent": 0,
       "scenesEdited": [],
       "goalMet": false
