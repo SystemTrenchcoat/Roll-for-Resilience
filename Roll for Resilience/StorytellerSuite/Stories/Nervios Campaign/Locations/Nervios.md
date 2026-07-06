@@ -54,6 +54,8 @@ childLocationIds:
   - "[[Serenetti Castle]]"
   - "[[Bag Me Up]]"
 status: Active
+groups:
+  - "[[Smugglers]]"
 ---
 
 ## Description

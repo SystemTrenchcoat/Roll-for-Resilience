@@ -11,6 +11,8 @@ race: human
 height: 5'11"
 status: Alive
 id: mr3vcjgt5qn8fn
+groups:
+  - "[[Smugglers]]"
 ---
 
 ## Description
