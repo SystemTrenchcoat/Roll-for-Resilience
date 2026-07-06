@@ -20,7 +20,7 @@ Umorism used to be the religion of Nervios, until the guards took over and repla
 
 ## Structure
 
-The priests of this relgiion are know as Sea Scribes. The religion has no discernable heirachy, with most Sea Scribes working together as colleagues sharing knowledge and expierence the best they can. 
+The priests of this relgiion are know as Sea Scribes. The religion has no discernable heirachy, with most Sea Scribes working together as colleagues sharing knowledge and expierence the best they can.
 
 ## Goals
 
