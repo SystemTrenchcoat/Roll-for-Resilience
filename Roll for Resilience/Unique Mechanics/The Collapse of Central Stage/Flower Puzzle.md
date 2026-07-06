@@ -52,7 +52,7 @@ Peering into the three doorways, the players can see a plant a short distance ah
 | Rightmost | Left -> Straight -> Right -> Straight -> Left -> Right -> Right -> Left -> Straight -> Right -> Left -> END PEDESTAL                                                                                                         |
 > The end of each path converges into a small room with a large round table. Sketched onto the table sits three magic seals. When a path is solved the seal beings glowing a deep blue, and a key comes out of the center of the seal.
 > 
-> Once each path has been opened and each seal has been unlocked, the room with the table begins to shake violently and spin. The room spins for ten seconds. When it finally ends, only one exit is visible. Traveling through the exit leads the players directly back to the [[Central Cavern]] 
+> Once each path has been taken and each seal has been unlocked, the room with the table begins to shake violently and spin. The room spins for ten seconds. When it finally ends, only one exit is visible. Traveling through the exit leads the players directly back to the [[Central Cavern]] 
 
 
 

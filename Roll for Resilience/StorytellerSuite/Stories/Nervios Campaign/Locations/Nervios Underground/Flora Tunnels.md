@@ -20,7 +20,7 @@ A wooden sign is posted above the pedestals. The sign reads:
 > Three pathways to trace them out
 > Three seals to shatter**
 
-Above the doorway sits a small mural of the [[Rebellion Symbol]]: a demolished gate with light peaking through. If players have history with the rebellion or have already traveled through the cavern with the [[Rebellion Mural]], they will recognize the image.
+Above the doorway sits a small mural of the [[Rebellion Symbol]]: the once sealed city gate of [[Nervios]] with an opening created in the rubble. If players have history with the rebellion or have already traveled through the cavern with the [[Rebellion Mural]], they will recognize the image.
 
 If the players choose to enter any of the three doorways, they begin the [[Flower Puzzle]].
 ## History
