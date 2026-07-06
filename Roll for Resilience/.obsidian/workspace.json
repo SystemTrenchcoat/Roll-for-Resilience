@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Rebellion Mural.md",
+                "file": "Nervios/Module/Mimic Table.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Rebellion Mural"
+              "title": "Mimic Table"
             }
           }
         ]
@@ -195,17 +195,19 @@
   },
   "active": "614b32e7f67e5357",
   "lastOpenFiles": [
-    "StorytellerSuite/Stories/Nervios Campaign/Groups/Smugglers.md",
     "Unique Mechanics/The Collapse of Central Stage/Rune Puzzle.md",
+    "Nervios/Worldbuilding/Spore Blight.md",
+    "Nervios/Module/Mimic Table.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Rune Tunnels.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Rebellion Mural.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Groups/Smugglers.md",
     "Rebellion Symbol.md",
     "Images/rebellionSymbol.png~",
     "Images/rebellionSymbol.png",
-    "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Rebellion Mural.md",
     "Unique Mechanics/The Collapse of Central Stage/Flower Puzzle.md",
     "Images/The Collapse of Central Stage/rune_plank_clue.png",
     "Images/The Collapse of Central Stage/rune_plank_clue.png.opdownload",
     "StorytellerSuite/Stories/Nervios Campaign/Groups/Sea Scribes of Umorism.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Rune Tunnels.md",
     "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Collapse of Central Stage.md",
     "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/The Burrow.md",
     "Images/The Collapse of Central Stage/Runes/axe_rune.png",
@@ -234,8 +236,6 @@
     "StorytellerSuite/Stories/Nervios Campaign/Items/Yellow Noble Bloom.md",
     "StorytellerSuite/Stories/Nervios Campaign/Items/The Seafarers Herb.md",
     "StorytellerSuite/Stories/Nervios Campaign/Items/Great Blue Cave Plant.md",
-    "The Seafarers Herb.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/The Mask Seller.md",
     "Unique Mechanics/The Collapse of Central Stage/Rune Puzzle",
     "Unique Mechanics/The Collapse of Central Stage",
     "StorytellerSuite/Stories/Nervios Campaign/Items/Bag Me Up Items",
