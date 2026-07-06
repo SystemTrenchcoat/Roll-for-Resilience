@@ -13,6 +13,9 @@ status: Alive
 id: mr3vcjgt5qn8fn
 groups:
   - "[[Smugglers]]"
+linkedScenes:
+  - "[[Peaking in the Burrow]]"
+_skipSync: true
 ---
 
 ## Description

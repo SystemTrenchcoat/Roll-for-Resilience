@@ -17,6 +17,7 @@ height: 6'1"
 id: mqfpk0q902udgh
 linkedScenes:
   - "[[The Festival of Granite Rain]]"
+  - "[[Peaking in the Burrow]]"
 _skipSync: true
 ---
 

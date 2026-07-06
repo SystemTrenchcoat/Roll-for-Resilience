@@ -12,6 +12,9 @@ height: 5' 9"
 id: mq8e8gtilwl7sn
 groups:
   - "[[Sea Scribes of Umorism]]"
+linkedScenes:
+  - "[[Peaking in the Burrow]]"
+_skipSync: true
 ---
 
 ## Description

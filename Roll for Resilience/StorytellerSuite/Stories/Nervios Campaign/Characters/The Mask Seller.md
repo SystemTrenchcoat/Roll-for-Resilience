@@ -14,6 +14,9 @@ quirks: The don't wear a mask, but instead a viel of beads that obscures their f
 id: mr3u6zadotcinu
 groups:
   - "[[Smugglers]]"
+linkedScenes:
+  - "[[Peaking in the Burrow]]"
+_skipSync: true
 ---
 
 ## Description

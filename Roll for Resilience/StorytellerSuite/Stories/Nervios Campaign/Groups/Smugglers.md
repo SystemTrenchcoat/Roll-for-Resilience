@@ -13,8 +13,6 @@ members:
     id: "[[Gregory Marsh]]"
   - type: location
     id: "[[Nervios]]"
-location:
-  - "[[The Burrow]]"
 ---
 
 ## Description

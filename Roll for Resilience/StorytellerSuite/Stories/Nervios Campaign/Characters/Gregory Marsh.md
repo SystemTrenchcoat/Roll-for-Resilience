@@ -22,6 +22,9 @@ connections:
   - target: mq5iqmo77e1lbw
     type: romantic
     label: Wife
+linkedScenes:
+  - "[[Peaking in the Burrow]]"
+_skipSync: true
 ---
 
 ## Description
