@@ -7,25 +7,81 @@ location:
 ## Description 
 A series of underground tunnels and chambers that must be navigated through based on runes etched into the ground. The goal is to follow the correct route from chamber to chamber until you reach the end where a prize awaits you.
 
+## Setup
+As the players navigate through the dark underground tunnel, they see a dim blue glow ahead. As they get closer, the tunnel opens up into a small chamber that splits off into three ascending paths. Pulsing glowing blue runes are carved into the ground at the foot of these paths. Despite the dim glow, the paths in front of you are pitch-black and nearly impossible to see ahead. In the center of the chamber lies a small plank of wood: 
+![[rune_plank_clue.png]]
+
+Similar to the ground runes, the runes and text on the plank of wood provide a faint pulsing glow, making it visible even in the darkest of conditions.
+
+>[!info] Wood Plank Investigation
+>Upon investigation, note how the runes decrease in size from left to right on the plank.
+
+>[!success]- Wood Plank Explanation
+> > >[!warning] Warning
+> > At first glance, it is easy to assume that the order of runes is the order of paths to follow from chamber to chamber. However, this acts as a red herring and only will take the party so far before they go down the wrong path.
+> 
+> From left to right, the plank defines a hierarchy of priority. The leftmost and largest rune is the "m" rune, signifying it should be prioritized before the rest of the runes. The rightmost and smallest rune is the "R" rune. This rune should be prioritized **last** compared to the rest of the runes. 
+> 
+> "***Avoid Any Copies***" hints that any duplicate runes in a chamber should be ignored. For example, if a rune has two "M" runes and a "R" rune, the "R" rune would be the correct path ahead.
+> 
 ### Rules
-*All information the players need to solve the puzzle is provided to them. The rules below exist for the GM's discretion*
+*All information the players need to solve the puzzle is provided to them. There are no set rules to follow. 
+
 ### Chambers
+As players progress through the chambers down the correct paths, they are met with a similar sight. Each chamber splits into a series of paths and runes, the path ahead being determined via the wood plank clue.
 
-| Chamber Number | Rune Paths                                                                                                          | Correct Rune         |
-| -------------- | ------------------------------------------------------------------------------------------------------------------- | -------------------- |
-| 1              | ![[hammer_rune.png]] ![[m_rune.png]] ![[x_rune.png]]                                                                | ![[m_rune.png]]      |
-| 2              | ![[r_rune.png]] ![[t_rune.png]] ![[hammer_rune.png]] ![[hammer_rune.png]]                                           | ![[t_rune.png]]      |
-| 3              | ![[m_rune.png]] ![[m_rune.png]] ![[axe_rune.png]] ![[t_rune.png]]                                                   | ![[t_rune.png]]      |
-| 4              | ![[m_rune.png]] ![[axe_rune.png]] ![[m_rune.png]] ![[hammer_rune.png]] ![[x_rune.png]]                              | ![[axe_rune.png]]    |
-| 5              | ![[t_rune.png]] ![[x_rune.png]] ![[r_rune.png]] ![[t_rune.png]] ![[hammer_rune.png]]                                | ![[hammer_rune.png]] |
-| 6              | ![[r_rune.png]] ![[hammer_rune.png]] ![[t_rune.png]] ![[axe_rune.png]] ![[hammer_rune.png]] ![[m_rune.png]]         | ![[m_rune.png]]      |
-| 7              | ![[m_rune.png]] ![[x_rune.png]] ![[axe_rune.png]] ![[r_rune.png]] ![[axe_rune.png]] ![[m_rune.png]] ![[r_rune.png]] | ![[x_rune.png]]      |
+If the players go down the incorrect path, a trap occurs. Refer to [[#Traps]] for determining a trap.
 
+| Chamber Number | Rune Paths                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     | Correct Rune                                                                               |     |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | --- |
+| 1              | <div style="display:flex;flex-direction:row;justify-content:space-evenly"><br><img style="height:75px" src="Images/The Collapse of Central Stage/Runes/hammer_rune.png"><br><img style="height:75px" src="Images/The Collapse of Central Stage/Runes/m_rune.png"><br><img style="height:75px" src="Images/The Collapse of Central Stage/Runes/x_rune.png"><br></div>                                                                                                                                                                                                                                                                                                                                                                           | <img style="height:75px" src="Images/The Collapse of Central Stage/Runes/m_rune.png">      |     |
+| 2              | <div style="display:flex;flex-direction:row;justify-content:space-evenly"><br><img style="height:75px" src="Images/The Collapse of Central Stage/Runes/r_rune.png"><br><img style="height:75px" src="Images/The Collapse of Central Stage/Runes/t_rune.png"><br><img style="height:75px" src="Images/The Collapse of Central Stage/Runes/hammer_rune.png"><br><img style="height:75px" src="Images/The Collapse of Central Stage/Runes/hammer_rune.png"><br></div>                                                                                                                                                                                                                                                                             | <img style="height:75px" src="Images/The Collapse of Central Stage/Runes/t_rune.png">      |     |
+| 3              | <div style="display:flex;flex-direction:row;justify-content:space-evenly"><br><img style="height:75px" src="Images/The Collapse of Central Stage/Runes/m_rune.png"><br><img style="height:75px" src="Images/The Collapse of Central Stage/Runes/m_rune.png"><br><img style="height:75px" src="Images/The Collapse of Central Stage/Runes/axe_rune.png"><br><img style="height:75px" src="Images/The Collapse of Central Stage/Runes/t_rune.png"><br></div>                                                                                                                                                                                                                                                                                     | <img style="height:75px" src="Images/The Collapse of Central Stage/Runes/t_rune.png">      |     |
+| 4              | <div style="display:flex;flex-direction:row;justify-content:space-evenly"><br><img style="height:75px" src="Images/The Collapse of Central Stage/Runes/m_rune.png"><br><img style="height:75px" src="Images/The Collapse of Central Stage/Runes/axe_rune.png"><br><img style="height:75px" src="Images/The Collapse of Central Stage/Runes/m_rune.png"><br><img style="height:75px" src="Images/The Collapse of Central Stage/Runes/hammer_rune.png"><br><img style="height:75px" src="Images/The Collapse of Central Stage/Runes/x_rune.png"><br></div>                                                                                                                                                                                       | <img style="height:75px" src="Images/The Collapse of Central Stage/Runes/axe_rune.png">    |     |
+| 5              | <div style="display:flex;flex-direction:row;justify-content:space-evenly"><br><img style="height:75px" src="Images/The Collapse of Central Stage/Runes/t_rune.png"><br><img style="height:75px" src="Images/The Collapse of Central Stage/Runes/x_rune.png"><br><img style="height:75px" src="Images/The Collapse of Central Stage/Runes/r_rune.png"><br><img style="height:75px" src="Images/The Collapse of Central Stage/Runes/t_rune.png"><br><img style="height:75px" src="Images/The Collapse of Central Stage/Runes/hammer_rune.png"><br></div>                                                                                                                                                                                         | <img style="height:75px" src="Images/The Collapse of Central Stage/Runes/hammer_rune.png"> |     |
+| 6              | <div style="display:flex;flex-direction:row;justify-content:space-evenly"><br><img style="height:75px" src="Images/The Collapse of Central Stage/Runes/r_rune.png"><br><img style="height:75px" src="Images/The Collapse of Central Stage/Runes/hammer_rune.png"><br><img style="height:75px" src="Images/The Collapse of Central Stage/Runes/t_rune.png"><br><img style="height:75px" src="Images/The Collapse of Central Stage/Runes/axe_rune.png"><br><img style="height:75px" src="Images/The Collapse of Central Stage/Runes/hammer_rune.png"><br><img style="height:75px" src="Images/The Collapse of Central Stage/Runes/m_rune.png"><br></div>                                                                                         | <img style="height:75px" src="Images/The Collapse of Central Stage/Runes/m_rune.png">      |     |
+| 7              | <div style="display:flex;flex-direction:row;justify-content:space-evenly"><br><img style="height:75px;" src="Images/The Collapse of Central Stage/Runes/m_rune.png"><br><img style="height:75px;" src="Images/The Collapse of Central Stage/Runes/x_rune.png"><br><img style="height:75px;" src="Images/The Collapse of Central Stage/Runes/axe_rune.png"><br><img style="height:75px;" src="Images/The Collapse of Central Stage/Runes/r_rune.png"><br><img style="height:75px;" src="Images/The Collapse of Central Stage/Runes/axe_rune.png"><br><img style="height:75px;" src="Images/The Collapse of Central Stage/Runes/m_rune.png"><br><img style="height:75px;" src="Images/The Collapse of Central Stage/Runes/r_rune.png"><br></div> | <img style="height:75px" src="Images/The Collapse of Central Stage/Runes/x_rune.png">      |     |
+After going down the correct path in chamber 7, the party reached an enclosed chamber lined with 6 chests. In front of each chest is a rune. The runes are as followed:
 
+<div style="display:flex;flex-direction:row;">
+<img style="height:75px;" src="Images/The Collapse of Central Stage/Runes/hammer_rune.png">
+<img style="height:75px;" src="Images/The Collapse of Central Stage/Runes/t_rune.png">
+<img style="height:75px;" src="Images/The Collapse of Central Stage/Runes/r_rune.png">
+<img style="height:75px;" src="Images/The Collapse of Central Stage/Runes/m_rune.png">
+<img style="height:75px;" src="Images/The Collapse of Central Stage/Runes/x_rune.png">
+<img style="height:75px;" src="Images/The Collapse of Central Stage/Runes/axe_rune.png">
+</div>
 
-> [!success]- Solution
-> The correct order of runes is as follows:
-> *s*
+On the wall nearest the center of these chests is a smaller mural of the [[Rebellion Symbol]]. If the party has already seen the [[Rebellion Mural]], they will recognize this symbol.
+
+As the party enters this final chamber, each member should make a *normal* difficulty perception check. If successful, they can hear a slight hum emanating from the wooden plank clue. Upon inspection, the text "***Avoid All Copies***" has stopped pulsing and instead glows consistently. Furthermore, the color of the text has changed to the same light blue as the runes. 
+
+>[!success]- Final Chamber Solution
+>The correct rune is:
+><img style="height:75px;" src="Images/The Collapse of Central Stage/Runes/r_rune.png">
+>
+>Here, the wooden plank clue takes on a new meaning. "***Avoid All Copies***" now means to avoid all runes that have been the correct path before. A normal difficulty history check can reveal that the "R" rune has yet to be the solution while all other runes have already been a solution prior.
+>___
+>Within the chest denoted by the "R" rune exists a key. Shortly after picking up the key, the room goes pitch-black and all of the runes vanish. After a few seconds in the dark, a rune begins glowing at the foot of the entrance to the chamber. The rune is the "R" rune, and as it increases in brightness, the party can see that the tunnel out now leads straight back into [[Central Cavern]].
+>___
+>After all members of the party exit the final chamber into [[Central Cavern]], the glow of the "R" rune begins to fade away until the tunnel becomes pitch black once again. If the party attempts to go back through the tunnel, they end up traveling back to the beginning of the puzzle instead.
+### Traps
+Below is a table of traps that can occur when going down the incorrect path. Roll a D12 to determine the trap.
+
+| Roll | Trap Name | Trap Description |
+| ---- | --------- | ---------------- |
+| 1    |           |                  |
+| 2    |           |                  |
+| 3    |           |                  |
+| 4    |           |                  |
+| 5    |           |                  |
+| 6    |           |                  |
+| 7    |           |                  |
+| 8    |           |                  |
+| 9    |           |                  |
+| 10   |           |                  |
+| 11   |           |                  |
+| 12   |           |                  |
 
 ## Tunnel Layout
 The party enters from the top right.

@@ -11,3 +11,5 @@ A small cavern with a large painted mural of the [[Rebellion Symbol]]. Next to t
 
 ## History
 The paint of the mural seems to be aging with time. An investigation will reveal the mural has been here for at least two decades.
+
+![[rebellionSymbol.png]]
