@@ -65,7 +65,7 @@
       "id": "mpx9s2hysydka7",
       "storyId": "mpwy9kn3o4bhth",
       "name": "Merrene Family",
-      "description": "Lives on the manor on the small island off the shore of Nervios.\nWealthiest family in the city, controls and regulates trade (formal and underground)\nHeavily influences the government, pays off guards and gov’t officials, takes advantage of citizens and spies on them through corrupt guards\nDon’t control the tower, but utilize its presence to further instill fear and a feeling of surveillance\nOut of direct sightlines of the spire, family referred to as “the unseen” by locals\nDouble-edged sword: while corrupt, the family provides a plethora of jobs to the citizens and acts as the main source of wealth and income for the city.",
+      "description": "Lives on the manor on the small island off the shore of Nervios.\r\nWealthiest family in the city, controls and regulates trade (formal and underground)\r\nHeavily influences the government, pays off guards and gov’t officials, takes advantage of citizens and spies on them through corrupt guards\r\nDon’t control the tower, but utilize its presence to further instill fear and a feeling of surveillance\r\nOut of direct sightlines of the spire, family referred to as “the unseen” by locals\r\nDouble-edged sword: while corrupt, the family provides a plethora of jobs to the citizens and acts as the main source of wealth and income for the city.",
       "groupType": "political",
       "tags": [],
       "members": [
@@ -103,7 +103,7 @@
       "id": "mq070fyrphyotg",
       "storyId": "mpwy9kn3o4bhth",
       "name": "Guards",
-      "description": "The guards of [[Nervios]]\n\n- Patrolling the city 24/7 on a schedule\n    \n- Guards move around in groups \n    \n- Respected by the general population, but also slightly feared\n    \n-   \n    \n- Different types of guards\n    \n\n- Internal Guards:\n    \n\n- Less trained than other branches of military with less powerful weaponry\n    \n- Underground tunnel system connecting towers\n    \n- Guard towers around the city on the walls\n    \n\n- Towers can’t be seen into from the outside\n    \n- Citizens don’t know if a tower is manned or not\n    \n\n- Guard towers throughout the interior of city\n    \n\n- Underground tunnels connecting them\n    \n\n- Maybe they have eyes that impose crippling fear on those who don't belong? (Poisoned in 5e)\n    \n\n- Allows for fast deployment of guards to any point in the city\n    \n- Outsiders can’t see in – acts as a panopticon\n    \n\n- Maintains the peace, even if a guard isn’t in that specific tower\n    \n\n- Nicknamed “Eyes” by locals/rebellion\n    \n- Tiers of guards:\n    \n\n- Junior\n    \n- Senior\n    \n- Captain \n    \n\n- Some loyal to the King, some the Government, some the rich, sizable amount are loyal to anyone who pays money\n\n\n- Army\n    \n\n- Snipers\n    \n- Infantry\n    \n\n- Navy\n    \n\n- Warships\n    \n\n  \n\n- Watchman:\n    \n\n- Guard the walls and docks from outside threats\n    \n- Controls who enters/exits the cities\n    \n- Thoroughly inspects incoming/exiting cargo \n    \n\n- Corrupted?\n    \n\n- Some guards might use their status and position to disobey laws or take advantage of others. \n    \n\n- Creates resentment and fear of all guards\n    \n- PLOTLINE: Players start as junior guards and witness a fellow guard breaking the law. They are put into a position where they must decide between what's morally right, and the approval/protection of their peers.\n    \n\n  \n\nDamaged old tower which falls apart/players explore and find out that not all towers are functional.",
+      "description": "The guards of [[Nervios]]\r\n\r\n- Patrolling the city 24/7 on a schedule\r\n    \r\n- Guards move around in groups \r\n    \r\n- Respected by the general population, but also slightly feared\r\n    \r\n-   \r\n    \r\n- Different types of guards\r\n    \r\n\r\n- Internal Guards:\r\n    \r\n\r\n- Less trained than other branches of military with less powerful weaponry\r\n    \r\n- Underground tunnel system connecting towers\r\n    \r\n- Guard towers around the city on the walls\r\n    \r\n\r\n- Towers can’t be seen into from the outside\r\n    \r\n- Citizens don’t know if a tower is manned or not\r\n    \r\n\r\n- Guard towers throughout the interior of city\r\n    \r\n\r\n- Underground tunnels connecting them\r\n    \r\n\r\n- Maybe they have eyes that impose crippling fear on those who don't belong? (Poisoned in 5e)\r\n    \r\n\r\n- Allows for fast deployment of guards to any point in the city\r\n    \r\n- Outsiders can’t see in – acts as a panopticon\r\n    \r\n\r\n- Maintains the peace, even if a guard isn’t in that specific tower\r\n    \r\n\r\n- Nicknamed “Eyes” by locals/rebellion\r\n    \r\n- Tiers of guards:\r\n    \r\n\r\n- Junior\r\n    \r\n- Senior\r\n    \r\n- Captain \r\n    \r\n\r\n- Some loyal to the King, some the Government, some the rich, sizable amount are loyal to anyone who pays money\r\n\r\n\r\n- Army\r\n    \r\n\r\n- Snipers\r\n    \r\n- Infantry\r\n    \r\n\r\n- Navy\r\n    \r\n\r\n- Warships\r\n    \r\n\r\n  \r\n\r\n- Watchman:\r\n    \r\n\r\n- Guard the walls and docks from outside threats\r\n    \r\n- Controls who enters/exits the cities\r\n    \r\n- Thoroughly inspects incoming/exiting cargo \r\n    \r\n\r\n- Corrupted?\r\n    \r\n\r\n- Some guards might use their status and position to disobey laws or take advantage of others. \r\n    \r\n\r\n- Creates resentment and fear of all guards\r\n    \r\n- PLOTLINE: Players start as junior guards and witness a fellow guard breaking the law. They are put into a position where they must decide between what's morally right, and the approval/protection of their peers.\r\n    \r\n\r\n  \r\n\r\nDamaged old tower which falls apart/players explore and find out that not all towers are functional.",
       "members": [
         {
           "type": "character",
@@ -167,7 +167,7 @@
       "id": "mq07178f98f74q",
       "storyId": "mpwy9kn3o4bhth",
       "name": "Rebels",
-      "description": "A group that hates the \"ever-watching eyes\" and wishes to bring Nervios freedom through contact with the outside world and the destruction of the eyes\n\n- Quiet / Gaining traction, trying to help people escape, close ties to smugglers.\n    \n- Truly believes they’re doing what’s best for everyone, especially the people in the town\n    \n- End goal for the rebels (assuming they know or at least believe all the towers are widely unmanned): expose the truth of the matter. Maybe they want to expose the nobles too. Most likely anti-noble if they know their history (which at least the important ones probably do)\n    \n- Probably have spies in the guards\n    \n\n- Definitely trying to find some high ups willing to help to learn more about the panopticon\n    \n\n- Often work under darkness or / and with obscuring / illusion spells\n    \n- Definitely have a tunnel system\n    \n- Strong aura of secrecy, especially in their upper ranks\n    \n- Most often help people escape the town\n    \n- Maybe offers places of solace where the eye cannot see?\n    \n- The collectivist to the guard / government’s isolationist",
+      "description": "A group that hates the \"ever-watching eyes\" and wishes to bring Nervios freedom through contact with the outside world and the destruction of the eyes\r\n\r\n- Quiet / Gaining traction, trying to help people escape, close ties to smugglers.\r\n    \r\n- Truly believes they’re doing what’s best for everyone, especially the people in the town\r\n    \r\n- End goal for the rebels (assuming they know or at least believe all the towers are widely unmanned): expose the truth of the matter. Maybe they want to expose the nobles too. Most likely anti-noble if they know their history (which at least the important ones probably do)\r\n    \r\n- Probably have spies in the guards\r\n    \r\n\r\n- Definitely trying to find some high ups willing to help to learn more about the panopticon\r\n    \r\n\r\n- Often work under darkness or / and with obscuring / illusion spells\r\n    \r\n- Definitely have a tunnel system\r\n    \r\n- Strong aura of secrecy, especially in their upper ranks\r\n    \r\n- Most often help people escape the town\r\n    \r\n- Maybe offers places of solace where the eye cannot see?\r\n    \r\n- The collectivist to the guard / government’s isolationist",
       "members": [
         {
           "type": "character",
@@ -319,7 +319,7 @@
         "Wave Wardens",
         "Sea Soothers"
       ],
-      "structure": "**The High Trident**: Three of the most influential and holy religious leaders. They serve as the earthly representations of humankind and are the interpreters of god. Head overseers of religious affairs within the city.\n- Moon: The spear of Divinity- [[Caspian Moon]]\n- Sea: The spear of Nature- [[Soren Mar]]\n- Sun: The spear of Life- [[Isabella Sol]]\n\n*Divine Prosecutor*: Advocate of Aequorin within the court. Their job is to prosecute criminals for their crimes against God and the Church.\n\n*Wave Wardens*: Protectors and watchers of the sea. They ensure mankind does not disrespect or disrupt the ocean. They are also in charge of sea burials and rituals.\n\n*Sea Soother*: Priests who preach the word of god to commonfolk and bless ships and vessels before they depart. They are in charge of local congregations.",
+      "structure": "**The High Trident**: Three of the most influential and holy religious leaders. They serve as the earthly representations of humankind and are the interpreters of god. Head overseers of religious affairs within the city.\r\n- Moon: The spear of Divinity- [[Caspian Moon]]\r\n- Sea: The spear of Nature- [[Soren Mar]]\r\n- Sun: The spear of Life- [[Isabella Sol]]\r\n\r\n*Divine Prosecutor*: Advocate of Aequorin within the court. Their job is to prosecute criminals for their crimes against God and the Church.\r\n\r\n*Wave Wardens*: Protectors and watchers of the sea. They ensure mankind does not disrespect or disrupt the ocean. They are also in charge of sea burials and rituals.\r\n\r\n*Sea Soother*: Priests who preach the word of god to commonfolk and bless ships and vessels before they depart. They are in charge of local congregations.",
       "tags": [],
       "status": "Active",
       "history": "",
@@ -338,13 +338,18 @@
           "type": "character",
           "id": "mq8e8gtilwl7sn",
           "name": "Gweneth Falzy"
+        },
+        {
+          "type": "character",
+          "id": "Emery Sai",
+          "name": "Emery Sai"
         }
       ],
       "description": "Followers and priests of Umorism.",
       "history": "Umorism used to be the religion of Nervios, until the guards took over and replaced it with Aequorism and Umorism was outlawed. These days Umorism is practiced in secret by a select few.",
       "structure": "The priests of this relgiion are know as Sea Scribes. The religion has no discernable heirachy, with most Sea Scribes working together as colleagues sharing knowledge and expierence the best they can.",
-      "goals": "They hope to one day reintroduce Umorism back to Nervios and rekindle the passion of challenge into humanity again.\n\nBeliefs-\n Umorism teaches its followers that the sea watches humanity’s movements, tests human ingenuity and persistence in the face of great odds.\n From this challenge, humanity is pushed to develop better ship building and other such technologies. The Old Religion used to fund and run colleges of nautical engineering and similar professions, as a way to help spread understanding and knowledge of the sea’s trials and develop new ship technology. But these institutions have either been shut down or repurposed now that the Old Religion is out of favor.\n Sea Readers/ Sea Scribe were the priests of the old religion, interpreting the oceans, tides and storms to assist safe trade and travel. Gained this knowledge through survival of the trials of the ocean and being taught by their ancestors.",
-      "resources": "Player's that want to play as Sea Scribes can take this background. It isn't required for anyone following the religion, but for the priest\n\nBackground\n - Acolyte of Umorism\n You are a follower of the old faith of Umorism, a Sea Reader, a faith that taught of the endless trials of the ocean, the eternal glorious challenge that spurs humanity forward through tests of nautical navigation and ship building, among many other trials. However, such practices haven't been openly done in the city of Nervios in 150 years as the rising of the guards made the old religion become persecuted in favor of the new religion that simply wished to calm and placate the sea instead of meeting its challenge. You still practice the old rites and techniques in secret till one day such knowledge can again be freely shared in the city. \n - Skill Proficiencies: Acrobatics\n - Tool Proficiencies: Navigator's Tools, Vehicle (Water)\n - Holy Symbol, Dagger, Navigator's Tools, Rope, Traveler’s Clothes, 20 GP\n - Feat: Skilled\n - The Sea Readers teach that one must be well versed in all manner of skills to better adapt to the numerous challenges the sea has to offer."
+      "goals": "They hope to one day reintroduce Umorism back to Nervios and rekindle the passion of challenge into humanity again.\r\n\r\nBeliefs-\r\n Umorism teaches its followers that the sea watches humanity’s movements, tests human ingenuity and persistence in the face of great odds.\r\n From this challenge, humanity is pushed to develop better ship building and other such technologies. The Old Religion used to fund and run colleges of nautical engineering and similar professions, as a way to help spread understanding and knowledge of the sea’s trials and develop new ship technology. But these institutions have either been shut down or repurposed now that the Old Religion is out of favor.\r\n Sea Readers/ Sea Scribe were the priests of the old religion, interpreting the oceans, tides and storms to assist safe trade and travel. Gained this knowledge through survival of the trials of the ocean and being taught by their ancestors.",
+      "resources": "Player's that want to play as Sea Scribes can take this background. It isn't required for anyone following the religion, but for the priest\r\n\r\nBackground\r\n - Acolyte of Umorism\r\n You are a follower of the old faith of Umorism, a Sea Reader, a faith that taught of the endless trials of the ocean, the eternal glorious challenge that spurs humanity forward through tests of nautical navigation and ship building, among many other trials. However, such practices haven't been openly done in the city of Nervios in 150 years as the rising of the guards made the old religion become persecuted in favor of the new religion that simply wished to calm and placate the sea instead of meeting its challenge. You still practice the old rites and techniques in secret till one day such knowledge can again be freely shared in the city. \r\n - Skill Proficiencies: Acrobatics\r\n - Tool Proficiencies: Navigator's Tools, Vehicle (Water)\r\n - Holy Symbol, Dagger, Navigator's Tools, Rope, Traveler’s Clothes, 20 GP\r\n - Feat: Skilled\r\n - The Sea Readers teach that one must be well versed in all manner of skills to better adapt to the numerous challenges the sea has to offer."
     },
     {
       "id": "mr9cjf4e1hhsrh",
@@ -2290,6 +2295,42 @@
       "startTime": "2026-07-06T22:28:24.696Z",
       "endTime": "2026-07-06T22:28:28.784Z",
       "wordsWritten": 110
+    },
+    {
+      "id": "writing-1783443178698-rlrur6",
+      "startTime": "2026-07-07T16:52:58.698Z",
+      "endTime": "2026-07-07T17:37:11.144Z",
+      "wordsWritten": 114,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Donic.md"
+      ]
+    },
+    {
+      "id": "writing-1783446174390-7g2q0v",
+      "startTime": "2026-07-07T17:42:54.390Z",
+      "endTime": "2026-07-07T17:43:49.303Z",
+      "wordsWritten": 1,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Donic.md"
+      ]
+    },
+    {
+      "id": "writing-1783448282966-rlrwek",
+      "startTime": "2026-07-07T18:18:02.966Z",
+      "endTime": "2026-07-07T18:19:58.370Z",
+      "wordsWritten": 17,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Emery Sai.md"
+      ]
+    },
+    {
+      "id": "writing-1783448419840-nx55d0",
+      "startTime": "2026-07-07T18:20:19.840Z",
+      "endTime": "2026-07-07T19:01:54.632Z",
+      "wordsWritten": 145,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Emery Sai.md"
+      ]
     }
   ],
   "trackWritingSessions": false,
@@ -2510,6 +2551,15 @@
       "wordsWritten": 1449,
       "wordsDeleted": 0,
       "netWords": 1449,
+      "timeSpent": 0,
+      "scenesEdited": [],
+      "goalMet": false
+    },
+    {
+      "date": "2026-07-07",
+      "wordsWritten": 277,
+      "wordsDeleted": 0,
+      "netWords": 277,
       "timeSpent": 0,
       "scenesEdited": [],
       "goalMet": false

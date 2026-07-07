@@ -10,7 +10,7 @@ gender: "?"
 race: "?"
 height: 6'8"
 age: "?"
-quirks: The don't wear a mask, but instead a viel of beads that obscures their face. This bead viel lacks many of the facial features that masks usually keep, making them truly faceless.
+quirks: They don't wear a mask, but instead a veil of beads that obscures their face. This bead veil lacks many of the facial features that masks usually keep, making them truly faceless.
 id: mr3u6zadotcinu
 groups:
   - "[[Smugglers]]"
