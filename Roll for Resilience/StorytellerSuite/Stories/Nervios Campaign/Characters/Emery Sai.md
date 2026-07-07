@@ -22,7 +22,7 @@ A black braid dangles down the back of an eerily smooth and slender frame. Danci
 
 Emery speaks in a drawn out and breathy manner, with most sounds coming from the front of the mouth. 
 
-# Sample Dialog
+## Sample Dialog
 - *It brings me hope to know some are willing to coexist*
 - *May the sea's splendor bless your travels*
 - *My papa told me stories of the simpler times, when we needn't hide away to survive.*

@@ -13,6 +13,8 @@ members:
     id: "[[Gregory Marsh]]"
   - type: location
     id: "[[Nervios]]"
+  - type: character
+    id: ""
 ---
 
 ## Description

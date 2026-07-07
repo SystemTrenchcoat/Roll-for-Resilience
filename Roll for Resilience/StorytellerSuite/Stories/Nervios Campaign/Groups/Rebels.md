@@ -19,6 +19,8 @@ members:
     id: "[[Rebel Coin]]"
   - type: location
     id: "[[Nervios Tunnels]]"
+  - type: character
+    id: "[[Iniza Brada]]"
 ---
 
 ## Description
