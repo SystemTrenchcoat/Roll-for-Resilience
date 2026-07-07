@@ -11,7 +11,7 @@ A series of underground tunnels and chambers that must be navigated through base
 As the players navigate through the dark underground tunnel, they see a dim blue glow ahead. As they get closer, the tunnel opens up into a small chamber that splits off into three ascending paths. Pulsing glowing blue runes are carved into the ground at the foot of these paths. Despite the dim glow, the paths in front of you are pitch-black and nearly impossible to see ahead. In the center of the chamber lies a small plank of wood: 
 ![[rune_plank_clue.png]]
 
-Similar to the ground runes, the runes and text on the plank of wood provide a faint pulsing glow, making it visible even in the darkest of conditions.
+Similar to the ground runes, the runes and text on the plank of wood provide a faint pulsing glow and hum, making it visible even in the darkest of conditions.
 
 >[!info] Wood Plank Investigation
 >Upon investigation, note how the runes decrease in size from left to right on the plank.

@@ -2442,6 +2442,42 @@
       "filesEdited": [
         "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Eastern Tunnel System.md"
       ]
+    },
+    {
+      "id": "writing-1783455587193-9d9feh",
+      "startTime": "2026-07-07T20:19:47.193Z",
+      "endTime": "2026-07-07T20:27:14.651Z",
+      "wordsWritten": 128,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Rune Tunnels.md"
+      ]
+    },
+    {
+      "id": "writing-1783456042576-1gyhbd",
+      "startTime": "2026-07-07T20:27:22.576Z",
+      "endTime": "2026-07-07T20:29:59.716Z",
+      "wordsWritten": 0,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Rune Tunnels.md"
+      ]
+    },
+    {
+      "id": "writing-1783456208560-5okjb7",
+      "startTime": "2026-07-07T20:30:08.560Z",
+      "endTime": "2026-07-07T20:30:41.185Z",
+      "wordsWritten": 2,
+      "filesEdited": [
+        "Unique Mechanics/The Collapse of Central Stage/Rune Puzzle.md"
+      ]
+    },
+    {
+      "id": "writing-1783456241284-mxwoku",
+      "startTime": "2026-07-07T20:30:41.284Z",
+      "endTime": "2026-07-07T20:43:00.395Z",
+      "wordsWritten": 180,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Central Cavern.md"
+      ]
     }
   ],
   "trackWritingSessions": false,
@@ -2668,9 +2704,9 @@
     },
     {
       "date": "2026-07-07",
-      "wordsWritten": 1025,
-      "wordsDeleted": 0,
-      "netWords": 1025,
+      "wordsWritten": 1335,
+      "wordsDeleted": 59,
+      "netWords": 1276,
       "timeSpent": 0,
       "scenesEdited": [],
       "goalMet": false

@@ -19,6 +19,17 @@ The different pathing options are shown below:
 | Eastern Tunnels  | To the East of the pile of boulders lies three large tunnels. Upon closer inspection, players can infer that the three tunnels converge into one.<br><br>A medium-difficulty perception check reveals the faint glow of a flame coming from down the path. | Similar to the Western Tunnel, each of the three Eastern Tunnels are wide and open with smooth surfaces and lower ceilings. As you approach the tunnels, you begin to hear a slight crackling sound coming from deeper down the path.                      | [[Time Puzzle]] / [[Rebellion Mural]] |
 | Southern Tunnels | To the South of the pile of boulders lies three small tunnels. The tunnels ultimately converge into one, but contain several forks paths that loop back to the [[Central Cavern]].                                                                         | These tunnels are visibly narrow and claustrophobic. The walls are jagged and sharp; anybody traveling this path must walk in a single file line.<br>                                                                                                      | [[Rune Puzzle]] / [[Rune Tunnels]]    |
 
+### Items
+The ground of the cavern is littered with both debris from [[The Festival of Granite Rain]] and miscellaneous items from throughout [[Nervios]]' history. Below is a table of items that players can find:
+
+| Item Name               | Item Description                                                                                                                                                                |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Tampered Lantern        | A lantern equipped with a shutter to control how much light comes out.                                                                                                          |
+| Informant Ledge Page    | A torn notebook sheet listing names and information about individuals that are suspected to be involved with [[The Burrow]]                                                     |
+| Moon-Phase Prayer Card  | A cheap woodblock print of the lunar cycle                                                                                                                                      |
+| Tuft of Gorilla Fur     | A small tuft of thick black hair. Smells slightly of cinnamon.                                                                                                                  |
+| Worn-and-torn Shawl     | A medium sized brown shawl embroidered with a pattern of ships at sea during an intense storm. The shawl is ripped, worn, and aged; it is clearly from a different time period. |
+| Granite Rain Game Token | A small smooth coin made of stone, painted over with a light blue tone.                                                                                                         |
 ## History
 During this year's [[The Festival of Granite Rain]], [[Central Stage]] collapsed the ground beneath it, bringing a party of characters into the cavern while sealing the entrance.
 

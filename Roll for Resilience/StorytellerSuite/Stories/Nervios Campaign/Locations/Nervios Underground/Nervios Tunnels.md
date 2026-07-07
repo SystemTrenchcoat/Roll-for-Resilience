@@ -11,7 +11,7 @@ id: mr2g4gdx9cj052
 ---
 
 ## Description
-A large underground network of connecting tunnels, caverns, and caves that run beneath the city of [[Nervios]]. The tunnels are dimly lit via  bioluminescent plants and moss that grow around the damper regions of the tunnel system. 
+A large underground network of connecting tunnels, caverns, and caves that run beneath the city of [[Nervios]]. The tunnels are dimly lit via bioluminescent plants and moss that grow around the damper regions of the tunnel system. 
 
 ### Sublocations
 - [[Central Cavern]]
