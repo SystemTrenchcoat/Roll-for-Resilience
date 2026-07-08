@@ -167,7 +167,7 @@
       "id": "mq07178f98f74q",
       "storyId": "mpwy9kn3o4bhth",
       "name": "Rebels",
-      "description": "A group that hates the \"ever-watching eyes\" and wishes to bring Nervios freedom through contact with the outside world and the destruction of the eyes\n\n- Quiet / Gaining traction, trying to help people escape, close ties to smugglers.\n    \n- Truly believes they’re doing what’s best for everyone, especially the people in the town\n    \n- End goal for the rebels (assuming they know or at least believe all the towers are widely unmanned): expose the truth of the matter. Maybe they want to expose the nobles too. Most likely anti-noble if they know their history (which at least the important ones probably do)\n    \n- Probably have spies in the guards\n    \n\n- Definitely trying to find some high ups willing to help to learn more about the panopticon\n    \n\n- Often work under darkness or / and with obscuring / illusion spells\n    \n- Definitely have a tunnel system\n    \n- Strong aura of secrecy, especially in their upper ranks\n    \n- Most often help people escape the town\n    \n- Maybe offers places of solace where the eye cannot see?\n    \n- The collectivist to the guard / government’s isolationist",
+      "description": "A group that hates the \"ever-watching eyes\" and wishes to bring Nervios freedom through contact with the outside world and the destruction of the eyes\r\n\r\n- Quiet / Gaining traction, trying to help people escape, close ties to smugglers.\r\n    \r\n- Truly believes they’re doing what’s best for everyone, especially the people in the town\r\n    \r\n- End goal for the rebels (assuming they know or at least believe all the towers are widely unmanned): expose the truth of the matter. Maybe they want to expose the nobles too. Most likely anti-noble if they know their history (which at least the important ones probably do)\r\n    \r\n- Probably have spies in the guards\r\n    \r\n\r\n- Definitely trying to find some high ups willing to help to learn more about the panopticon\r\n    \r\n\r\n- Often work under darkness or / and with obscuring / illusion spells\r\n    \r\n- Definitely have a tunnel system\r\n    \r\n- Strong aura of secrecy, especially in their upper ranks\r\n    \r\n- Most often help people escape the town\r\n    \r\n- Maybe offers places of solace where the eye cannot see?\r\n    \r\n- The collectivist to the guard / government’s isolationist",
       "members": [
         {
           "type": "character",
@@ -203,6 +203,11 @@
           "type": "location",
           "id": "mr2g4gdx9cj052",
           "name": "Nervios Tunnels"
+        },
+        {
+          "type": "character",
+          "id": "mrb3ow5ytbdea1",
+          "name": "Iniza Brada"
         }
       ],
       "groupType": "organization",
@@ -377,6 +382,10 @@
           "type": "location",
           "id": "mpvzob4sd6zoil",
           "name": "Nervios"
+        },
+        {
+          "type": "character",
+          "id": ""
         }
       ],
       "description": "The smugglers run the Burrow, supplying the city of Nerivos with the majority of their illegal goods. They have close ties with the Rebels and Sea Scribes. Both of these groups need the Burrow to avoid the guards, while the Smugglers need the rebels for more man power and the Sea Scribes to help create more advance ships to smuggle more stuff.",
@@ -2478,6 +2487,105 @@
       "filesEdited": [
         "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Central Cavern.md"
       ]
+    },
+    {
+      "id": "writing-1783521275463-15fysf",
+      "startTime": "2026-07-08T14:34:35.463Z",
+      "endTime": "2026-07-08T14:46:42.148Z",
+      "wordsWritten": 34,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Eastern Tunnel System.md"
+      ]
+    },
+    {
+      "id": "writing-1783522017808-ws8lfs",
+      "startTime": "2026-07-08T14:46:57.808Z",
+      "endTime": "2026-07-08T14:59:37.303Z",
+      "wordsWritten": 68,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Eastern Tunnel System.md"
+      ]
+    },
+    {
+      "id": "writing-1783522778579-9mydfn",
+      "startTime": "2026-07-08T14:59:38.579Z",
+      "endTime": "2026-07-08T15:02:37.970Z",
+      "wordsWritten": 0,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Eastern Tunnel System.md"
+      ]
+    },
+    {
+      "id": "writing-1783522958010-gctm2h",
+      "startTime": "2026-07-08T15:02:38.010Z",
+      "endTime": "2026-07-08T15:03:35.705Z",
+      "wordsWritten": 12,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Items/The Seafarers Herb.md"
+      ]
+    },
+    {
+      "id": "writing-1783523015753-w7okia",
+      "startTime": "2026-07-08T15:03:35.753Z",
+      "endTime": "2026-07-08T15:04:13.477Z",
+      "wordsWritten": 4,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Eastern Tunnel System.md"
+      ]
+    },
+    {
+      "id": "writing-1783523080723-s4ncoq",
+      "startTime": "2026-07-08T15:04:40.723Z",
+      "endTime": "2026-07-08T15:14:52.578Z",
+      "wordsWritten": 10,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Eastern Tunnel System.md"
+      ]
+    },
+    {
+      "id": "writing-1783523693555-rdqjv8",
+      "startTime": "2026-07-08T15:14:53.555Z",
+      "endTime": "2026-07-08T15:24:43.610Z",
+      "wordsWritten": 39,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Eastern Tunnel System.md"
+      ]
+    },
+    {
+      "id": "writing-1783524286669-imubwt",
+      "startTime": "2026-07-08T15:24:46.669Z",
+      "endTime": "2026-07-08T15:44:08.850Z",
+      "wordsWritten": 66,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Eastern Tunnel System.md"
+      ]
+    },
+    {
+      "id": "writing-1783525464411-f7nmie",
+      "startTime": "2026-07-08T15:44:24.411Z",
+      "endTime": "2026-07-08T15:44:29.211Z",
+      "wordsWritten": 2,
+      "filesEdited": [
+        "Unique Mechanics/The Collapse of Central Stage/Clock Puzzle.md"
+      ]
+    },
+    {
+      "id": "writing-1783525473190-vbzluw",
+      "startTime": "2026-07-08T15:44:33.190Z",
+      "endTime": "2026-07-08T15:45:21.690Z",
+      "wordsWritten": 8,
+      "filesEdited": [
+        "Unique Mechanics/The Collapse of Central Stage/Clock Puzzle.md"
+      ]
+    },
+    {
+      "id": "writing-1783525526346-g0lih7",
+      "startTime": "2026-07-08T15:45:26.346Z",
+      "endTime": "2026-07-08T15:48:52.191Z",
+      "wordsWritten": 0,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Collapse of Central Stage.md"
+      ]
     }
   ],
   "trackWritingSessions": false,
@@ -2707,6 +2815,15 @@
       "wordsWritten": 1335,
       "wordsDeleted": 59,
       "netWords": 1276,
+      "timeSpent": 0,
+      "scenesEdited": [],
+      "goalMet": false
+    },
+    {
+      "date": "2026-07-08",
+      "wordsWritten": 243,
+      "wordsDeleted": 46,
+      "netWords": 197,
       "timeSpent": 0,
       "scenesEdited": [],
       "goalMet": false

@@ -31,21 +31,21 @@ The [[Nervios Tunnels]] are unknown by the general public, so any escape paths m
 | Southern Tunnels | To the South of the pile of boulders lies three small tunnels. The tunnels ultimately converge into one, but contain several forks paths that loop back to the [[Central Cavern]].                                                                         | [[Rune Tunnels]]    | [[Rune Puzzle]]    |
 
 Once the party travels through the [[Flora Tunnels]] and the [[Rune Tunnels]] and completes their respective puzzles, they can unlock a hidden door at the [[Rebellion Mural]].
-### 3. Entering the Eastern Tunnel System
-After opening the hidden door at the [[Rebellion Mural]], a separate series of tunnels is revealed. These tunnels are much wider, contain higher ceilings, and have many intricate rock and stalagmite formations. The players are immediately met with a split in the path, which forks off into two directions. Inscribed into the wall at the fork, a message states:
+### 3. Entering the [[Eastern Tunnel System]]
 
-> "***The boulder your compass, the moss your guide***"
+> [!info] This section of tunnels acts a puzzle and secret entrance to [[The Burrow]]. For more details, refer to [[Eastern Tunnel System]] and [[Clock Puzzle]].
 
->[!danger] ## This section is INCOMPLETE!!!!! 
-> Still finishing up/waiting for an explanation of this specific puzzle. The next story beat cannot be completed until this puzzle is.
+After opening the hidden door at the [[Rebellion Mural]], a separate series of tunnels is revealed. These tunnels are much wider, contain higher ceilings, and have many intricate rock and stalagmite formations. The walls are smooth and lined intricately with glow moss. The players are immediately met with a split in the path, which forks off into two directions. 
 
 ### 4. Entering [[The Burrow]].
-After completing the final puzzle in the [[Eastern Tunnel System]], players can enter into [[The Burrow]].
+After completing the [[Clock Puzzle]] in the [[Eastern Tunnel System]], players can enter into [[The Burrow]].
 
 ## Key Locations
 - [[Flora Tunnels]]
 - [[Rune Tunnels]]
 - [[Rebellion Mural]]
+- [[Eastern Tunnel System]]
+- [[The Burrow]]
 
 ## Key NPCS
 This mission takes place underground in secluded tunnels far from any NPCS. The party must work together to escape without external help.
@@ -60,7 +60,7 @@ This mission takes place underground in secluded tunnels far from any NPCS. The 
 ## Core Mechanics
 - [[Flower Puzzle]]
 - [[Rune Puzzle]]
-- [[Time Puzzle]]
+- [[Clock Puzzle]]
 
 ### Hiding Spots
 There is no temporal pressure to escape the tunnels, nor any social pressure from NPCS in the underground. Many parts of the cavern are large and open, giving players room to relax.
