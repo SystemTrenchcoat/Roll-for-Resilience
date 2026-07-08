@@ -2489,6 +2489,7 @@
       ]
     },
     {
+<<<<<<< Updated upstream
       "id": "writing-1783521275463-15fysf",
       "startTime": "2026-07-08T14:34:35.463Z",
       "endTime": "2026-07-08T14:46:42.148Z",
@@ -2585,6 +2586,95 @@
       "wordsWritten": 0,
       "filesEdited": [
         "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Collapse of Central Stage.md"
+=======
+      "id": "writing-1783519151999-na189z",
+      "startTime": "2026-07-08T13:59:11.999Z",
+      "endTime": "2026-07-08T13:59:40.805Z",
+      "wordsWritten": 2,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Scenes/Peaking in the Burrow.md"
+      ]
+    },
+    {
+      "id": "writing-1783519198422-uclh8g",
+      "startTime": "2026-07-08T13:59:58.422Z",
+      "endTime": "2026-07-08T14:33:21.653Z",
+      "wordsWritten": 116,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Scenes/Peaking in the Burrow.md"
+      ]
+    },
+    {
+      "id": "writing-1783521227123-ueoex2",
+      "startTime": "2026-07-08T14:33:47.123Z",
+      "endTime": "2026-07-08T15:22:20.533Z",
+      "wordsWritten": 28,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Scenes/Peaking in the Burrow.md"
+      ]
+    },
+    {
+      "id": "writing-1783524149915-lzyr8r",
+      "startTime": "2026-07-08T15:22:29.915Z",
+      "endTime": "2026-07-08T15:30:27.945Z",
+      "wordsWritten": 19,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/The Mask Seller.md"
+      ]
+    },
+    {
+      "id": "writing-1783524636110-6xglqh",
+      "startTime": "2026-07-08T15:30:36.110Z",
+      "endTime": "2026-07-08T15:30:42.314Z",
+      "wordsWritten": 0,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Sheik Aldien.md"
+      ]
+    },
+    {
+      "id": "writing-1783524642361-3q2fww",
+      "startTime": "2026-07-08T15:30:42.361Z",
+      "endTime": "2026-07-08T15:30:46.546Z",
+      "wordsWritten": 0,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Tassos Buros.md"
+      ]
+    },
+    {
+      "id": "writing-1783524664530-rlwstc",
+      "startTime": "2026-07-08T15:31:04.530Z",
+      "endTime": "2026-07-08T15:31:10.379Z",
+      "wordsWritten": 0,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Leon Asker.md"
+      ]
+    },
+    {
+      "id": "writing-1783524681240-66zpcb",
+      "startTime": "2026-07-08T15:31:21.240Z",
+      "endTime": "2026-07-08T15:31:26.462Z",
+      "wordsWritten": 0,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Gregory Marsh.md"
+      ]
+    },
+    {
+      "id": "writing-1783524702791-22bj91",
+      "startTime": "2026-07-08T15:31:42.791Z",
+      "endTime": "2026-07-08T16:11:25.116Z",
+      "wordsWritten": 61,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/The Mask Seller.md"
+      ]
+    },
+    {
+      "id": "writing-1783527144253-3hwohr",
+      "startTime": "2026-07-08T16:12:24.253Z",
+      "endTime": "2026-07-08T16:12:39.186Z",
+      "wordsWritten": 1,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/The Mask Seller.md"
+>>>>>>> Stashed changes
       ]
     }
   ],
@@ -2821,9 +2911,15 @@
     },
     {
       "date": "2026-07-08",
+<<<<<<< Updated upstream
       "wordsWritten": 243,
       "wordsDeleted": 46,
       "netWords": 197,
+=======
+      "wordsWritten": 227,
+      "wordsDeleted": 4,
+      "netWords": 223,
+>>>>>>> Stashed changes
       "timeSpent": 0,
       "scenesEdited": [],
       "goalMet": false

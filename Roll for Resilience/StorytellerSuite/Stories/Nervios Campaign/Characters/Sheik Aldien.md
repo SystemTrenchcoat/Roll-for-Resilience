@@ -28,5 +28,5 @@ A sleazy lowlife who joined the rebellion for personal monetary gain. He has lit
 ## Backstory
 Sheik comes from a complicated family. He and his two brothers were raised by his father and trained to be criminals. They were introduced to the black market at the age of 14 by their father, who then subsequently introduced them to the rebellion. Sheik and his brother were taught to consider themselves first and foremost and to use people as tools for personal gain. Sheik has remained an active member of the black market for over a decade, despite being disliked and a known lowlife. He currently works alone as his father was killed by guards and his brother was arrested.
 
-## # Physical Appearance
+### Physical Appearance
 A short and plump man who appears 20 years older than he is. He walks with a limp and brandishes a crooked smile.

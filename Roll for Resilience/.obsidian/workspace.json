@@ -13,12 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Unique Mechanics/The Collapse of Central Stage/Clock Puzzle.md",
+=======
+                "file": "StorytellerSuite/Stories/Nervios Campaign/Characters/The Mask Seller.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
+<<<<<<< Updated upstream
               "title": "Clock Puzzle"
+=======
+              "title": "The Mask Seller"
+>>>>>>> Stashed changes
             }
           }
         ]
@@ -196,6 +204,7 @@
   },
   "active": "614b32e7f67e5357",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Collapse of Central Stage.md",
     "StorytellerSuite/Stories/Nervios Campaign/Scenes/Peaking in the Burrow.md",
     "Unique Mechanics/The Collapse of Central Stage/Clock Puzzle.md",
@@ -242,6 +251,54 @@
     "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground",
     "Unique Mechanics/The Collapse of Central Stage/Rune Puzzle",
     "Unique Mechanics/The Collapse of Central Stage",
+=======
+    "StorytellerSuite/Stories/Nervios Campaign/Characters/Emery Sai.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Characters/Gimil Lawman.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Characters/The Mask Seller.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Characters/Gomier Saldo.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Characters/Gregory Marsh.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Characters/Gweneth Falzy.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Characters/Gunther Stone.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Characters/Iris Thyrsin.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Characters/Iniza Brada.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Characters/Isabella Sol.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Characters/Jane Novia .md",
+    "StorytellerSuite/Stories/Nervios Campaign/Characters/Jaime Pole.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Characters/Eleni Dorian.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Characters/Eagan Morrow.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Characters/Milo Mandrich.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Characters/Leon Asker.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Characters/Lucia Grey .md",
+    "StorytellerSuite/Stories/Nervios Campaign/Characters/Minsri Slass.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Characters/Mr. Whatzit.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Characters/Querion Droma.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Characters/Reyn Droma.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Characters/Ruby Marsh.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Characters/Sheik Aldien.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Characters/Soren Mar.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Characters/Sven.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Characters/Tassos Buros.md",
+    "StorytellerSuite/Templates/Notes/References",
+    "StorytellerSuite/Templates/Notes/Scenes",
+    "StorytellerSuite/Templates/Notes/Chapters",
+    "StorytellerSuite/Templates/Notes/MagicSystems",
+    "StorytellerSuite/Templates/Notes/Economies",
+    "StorytellerSuite/Templates/Notes/Cultures",
+    "StorytellerSuite/Templates/Notes/Maps",
+    "StorytellerSuite/Templates/Notes/Groups",
+    "StorytellerSuite/Templates/Notes/Items",
+    "StorytellerSuite/Templates/Notes/Events",
+    "Images/The Collapse of Central Stage/Maps/eastern_tunnel_map.png",
+    "Images/The Collapse of Central Stage/Maps/rebellion_mural_map.png",
+    "Images/The Collapse of Central Stage/Maps/central_cavern.png",
+    "Images/Festival of Granite Rain/trident_sliding_puzzle_8.jpg",
+    "Images/Festival of Granite Rain/trident_sliding_puzzle_1.jpg",
+    "Images/Festival of Granite Rain/trident_sliding_puzzle.jpg",
+    "Images/Festival of Granite Rain/RebelRecruitmentCoin.png",
+    "Images/Festival of Granite Rain/ColorCipher.png",
+    "Images/rebellionSymbol.png",
+    "Images/The Collapse of Central Stage/rune_plank_clue.png",
+>>>>>>> Stashed changes
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
