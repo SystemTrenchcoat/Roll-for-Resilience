@@ -32,10 +32,9 @@ The [[Nervios Tunnels]] are unknown by the general public, so any escape paths m
 
 Once the party travels through the [[Flora Tunnels]] and the [[Rune Tunnels]] and completes their respective puzzles, they can unlock a hidden door at the [[Rebellion Mural]].
 ### 3. Entering the [[Eastern Tunnel System]]
-
 > [!info] This section of tunnels acts a puzzle and secret entrance to [[The Burrow]]. For more details, refer to [[Eastern Tunnel System]] and [[Clock Puzzle]].
 
-After opening the hidden door at the [[Rebellion Mural]], a separate series of tunnels is revealed. These tunnels are much wider, contain higher ceilings, and have many intricate rock and stalagmite formations. The walls are smooth and lined intricately with glow moss. The players are immediately met with a split in the path, which forks off into two directions. 
+After opening the hidden door at the [[Rebellion Mural]], a separate series of tunnels is revealed. These tunnels are much wider, contain higher ceilings, and have many intricate rock and stalagmite formations. The walls are smooth and lined intricately with glowing moss. The players are immediately met with a split in the path, which forks off into two directions. 
 
 ### 4. Entering [[The Burrow]].
 After completing the [[Clock Puzzle]] in the [[Eastern Tunnel System]], players can enter into [[The Burrow]].

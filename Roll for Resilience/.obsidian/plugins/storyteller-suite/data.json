@@ -203,11 +203,6 @@
           "type": "location",
           "id": "mr2g4gdx9cj052",
           "name": "Nervios Tunnels"
-        },
-        {
-          "type": "character",
-          "id": "mrb3ow5ytbdea1",
-          "name": "Iniza Brada"
         }
       ],
       "groupType": "organization",
@@ -382,10 +377,6 @@
           "type": "location",
           "id": "mpvzob4sd6zoil",
           "name": "Nervios"
-        },
-        {
-          "type": "character",
-          "id": ""
         }
       ],
       "description": "The smugglers run the Burrow, supplying the city of Nerivos with the majority of their illegal goods. They have close ties with the Rebels and Sea Scribes. Both of these groups need the Burrow to avoid the guards, while the Smugglers need the rebels for more man power and the Sea Scribes to help create more advance ships to smuggle more stuff.",
@@ -2489,7 +2480,6 @@
       ]
     },
     {
-<<<<<<< Updated upstream
       "id": "writing-1783521275463-15fysf",
       "startTime": "2026-07-08T14:34:35.463Z",
       "endTime": "2026-07-08T14:46:42.148Z",
@@ -2586,95 +2576,87 @@
       "wordsWritten": 0,
       "filesEdited": [
         "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Collapse of Central Stage.md"
-=======
-      "id": "writing-1783519151999-na189z",
-      "startTime": "2026-07-08T13:59:11.999Z",
-      "endTime": "2026-07-08T13:59:40.805Z",
-      "wordsWritten": 2,
-      "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Scenes/Peaking in the Burrow.md"
       ]
     },
     {
-      "id": "writing-1783519198422-uclh8g",
-      "startTime": "2026-07-08T13:59:58.422Z",
-      "endTime": "2026-07-08T14:33:21.653Z",
-      "wordsWritten": 116,
+      "id": "writing-1783525733605-zjtnei",
+      "startTime": "2026-07-08T15:48:53.605Z",
+      "endTime": "2026-07-08T17:38:03.161Z",
+      "wordsWritten": 26,
       "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Scenes/Peaking in the Burrow.md"
+        "Unique Mechanics/The Collapse of Central Stage/Clock Puzzle.md"
       ]
     },
     {
-      "id": "writing-1783521227123-ueoex2",
-      "startTime": "2026-07-08T14:33:47.123Z",
-      "endTime": "2026-07-08T15:22:20.533Z",
-      "wordsWritten": 28,
+      "id": "writing-1783532335907-rmyt9z",
+      "startTime": "2026-07-08T17:38:55.907Z",
+      "endTime": "2026-07-08T17:42:46.945Z",
+      "wordsWritten": 16,
       "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Scenes/Peaking in the Burrow.md"
+        "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Eastern Tunnel System.md"
       ]
     },
     {
-      "id": "writing-1783524149915-lzyr8r",
-      "startTime": "2026-07-08T15:22:29.915Z",
-      "endTime": "2026-07-08T15:30:27.945Z",
-      "wordsWritten": 19,
+      "id": "writing-1783532619889-ygmmma",
+      "startTime": "2026-07-08T17:43:39.889Z",
+      "endTime": "2026-07-08T18:27:03.518Z",
+      "wordsWritten": 4,
       "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Characters/The Mask Seller.md"
+        "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Eastern Tunnel System.md"
       ]
     },
     {
-      "id": "writing-1783524636110-6xglqh",
-      "startTime": "2026-07-08T15:30:36.110Z",
-      "endTime": "2026-07-08T15:30:42.314Z",
+      "id": "writing-1783535224246-g3t8aw",
+      "startTime": "2026-07-08T18:27:04.246Z",
+      "endTime": "2026-07-08T18:42:02.377Z",
+      "wordsWritten": 87,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Eastern Tunnel System.md"
+      ]
+    },
+    {
+      "id": "writing-1783536279862-hqln3z",
+      "startTime": "2026-07-08T18:44:39.862Z",
+      "endTime": "2026-07-08T18:45:28.720Z",
       "wordsWritten": 0,
       "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Characters/Sheik Aldien.md"
+        "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Eastern Tunnel System.md"
       ]
     },
     {
-      "id": "writing-1783524642361-3q2fww",
-      "startTime": "2026-07-08T15:30:42.361Z",
-      "endTime": "2026-07-08T15:30:46.546Z",
-      "wordsWritten": 0,
+      "id": "writing-1783536328761-kyfhjh",
+      "startTime": "2026-07-08T18:45:28.761Z",
+      "endTime": "2026-07-08T19:01:14.837Z",
+      "wordsWritten": 160,
       "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Characters/Tassos Buros.md"
+        "Unique Mechanics/The Collapse of Central Stage/Clock Puzzle.md"
       ]
     },
     {
-      "id": "writing-1783524664530-rlwstc",
-      "startTime": "2026-07-08T15:31:04.530Z",
-      "endTime": "2026-07-08T15:31:10.379Z",
-      "wordsWritten": 0,
+      "id": "writing-1783537280303-pgtb08",
+      "startTime": "2026-07-08T19:01:20.303Z",
+      "endTime": "2026-07-08T19:04:47.588Z",
+      "wordsWritten": 108,
       "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Characters/Leon Asker.md"
+        "Unique Mechanics/The Collapse of Central Stage/Clock Puzzle.md"
       ]
     },
     {
-      "id": "writing-1783524681240-66zpcb",
-      "startTime": "2026-07-08T15:31:21.240Z",
-      "endTime": "2026-07-08T15:31:26.462Z",
-      "wordsWritten": 0,
+      "id": "writing-1783537490708-izy39q",
+      "startTime": "2026-07-08T19:04:50.708Z",
+      "endTime": "2026-07-08T19:26:38.189Z",
+      "wordsWritten": 335,
       "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Characters/Gregory Marsh.md"
+        "Unique Mechanics/The Collapse of Central Stage/Clock Puzzle.md"
       ]
     },
     {
-      "id": "writing-1783524702791-22bj91",
-      "startTime": "2026-07-08T15:31:42.791Z",
-      "endTime": "2026-07-08T16:11:25.116Z",
-      "wordsWritten": 61,
+      "id": "writing-1783538806856-xc2h05",
+      "startTime": "2026-07-08T19:26:46.856Z",
+      "endTime": "2026-07-08T19:37:34.607Z",
+      "wordsWritten": 37,
       "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Characters/The Mask Seller.md"
-      ]
-    },
-    {
-      "id": "writing-1783527144253-3hwohr",
-      "startTime": "2026-07-08T16:12:24.253Z",
-      "endTime": "2026-07-08T16:12:39.186Z",
-      "wordsWritten": 1,
-      "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Characters/The Mask Seller.md"
->>>>>>> Stashed changes
+        "Unique Mechanics/The Collapse of Central Stage/Clock Puzzle.md"
       ]
     }
   ],
@@ -2911,15 +2893,9 @@
     },
     {
       "date": "2026-07-08",
-<<<<<<< Updated upstream
-      "wordsWritten": 243,
-      "wordsDeleted": 46,
-      "netWords": 197,
-=======
-      "wordsWritten": 227,
-      "wordsDeleted": 4,
-      "netWords": 223,
->>>>>>> Stashed changes
+      "wordsWritten": 1016,
+      "wordsDeleted": 55,
+      "netWords": 961,
       "timeSpent": 0,
       "scenesEdited": [],
       "goalMet": false
