@@ -9,7 +9,18 @@ entityRefs:
   - entityId: "[[The Festival of Granite Rain]]"
     entityType: scene
     relationship: takes place here
+  - entityId: "[[Milo Mandrich]]"
+    entityType: character
+    relationship: located
+  - entityId: "[[Gunther Stone]]"
+    entityType: character
+    relationship: located
 _skipSync: true
+childLocationIds:
+  - "[[Clara Tea]]"
+  - "[[Fine Pebbles]]"
+  - "[[Sisyphus Hill]]"
+  - "[[Central Stage]]"
 ---
 
 ## Description

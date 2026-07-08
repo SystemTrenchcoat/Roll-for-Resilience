@@ -16,6 +16,12 @@ members:
     id: "[[Ruby Marsh]]"
   - type: character
     id: "[[Gregory Marsh]]"
+  - type: character
+    id: "[[Mr. Whatzit]]"
+  - type: location
+    id: "[[Clara Tea]]"
+  - type: character
+    id: "[[Gunther Stone]]"
 ---
 
 ## Description

@@ -1,52 +1,131 @@
 {
   "stories": [
     {
-      "id": "mpwy9kn3o4bhth",
+      "id": "mrccx1z5omdnlk",
       "name": "Nervios Campaign",
-      "created": "2026-06-02T18:07:19.743Z",
+      "created": "2026-07-08T17:33:44.897Z",
       "description": "Discovered from filesystem"
     }
   ],
-  "activeStoryId": "mpwy9kn3o4bhth",
+  "activeStoryId": "mrccx1z5omdnlk",
   "galleryUploadFolder": "StorytellerSuite/GalleryUploads",
   "galleryData": {
-    "images": []
+    "images": [
+      {
+        "id": "gallery-1783532024816-yx7pv",
+        "filePath": "StorytellerSuite/GalleryUploads/1783013420200_Tunnels_runePuzzle.png",
+        "title": "1783013420200_Tunnels_runePuzzle",
+        "caption": "",
+        "description": "",
+        "tags": []
+      }
+    ]
   },
   "galleryWatchFolder": "",
   "groups": [
     {
-      "id": "mpvzyw3rvtu1t5",
-      "storyId": "mpvmtgofdnkrh0",
-      "name": "Rebels",
-      "groupType": "organization",
+      "id": "mr9cjf4e1hhsrh",
+      "storyId": "mpwy9kn3o4bhth",
+      "name": "Smugglers",
+      "groupType": "collection",
       "tags": [],
       "members": [
         {
           "type": "character",
-          "id": "mpx2158gl1jore",
-          "name": "Jane Novia"
+          "id": "mr3vcjgt5qn8fn",
+          "name": "Bethia Tallowwind"
+        },
+        {
+          "type": "character",
+          "id": "mr3u6zadotcinu",
+          "name": "The Mask Seller"
+        },
+        {
+          "type": "character",
+          "id": "mq5j0m47ccncmd",
+          "name": "Gregory Marsh"
+        },
+        {
+          "type": "location",
+          "id": "mpvzob4sd6zoil",
+          "name": "Nervios"
         }
       ],
-      "description": "A group that hates the \"ever-watching eyes\" and wishes to bring Nervios freedom through contact with the outside world and the destruction of the eyes\n\n- Quiet / Gaining traction, trying to help people escape, close ties to smugglers.\n    \n- Truly believes they’re doing what’s best for everyone, especially the people in the town\n    \n- End goal for the rebels (assuming they know or at least believe all the towers are widely unmanned): expose the truth of the matter. Maybe they want to expose the nobles too. Most likely anti-noble if they know their history (which at least the important ones probably do)\n    \n- Probably have spies in the guards\n    \n\n- Definitely trying to find some high ups willing to help to learn more about the panopticon\n    \n\n- Often work under darkness or / and with obscuring / illusion spells\n    \n- Definitely have a tunnel system\n    \n- Strong aura of secrecy, especially in their upper ranks\n    \n- Most often help people escape the town\n    \n- Maybe offers places of solace where the eye cannot see?\n    \n- The collectivist to the guard / government’s isolationist",
+      "description": "The smugglers run the Burrow, supplying the city of Nerivos with the majority of their illegal goods. They have close ties with the Rebels and Sea Scribes. Both of these groups need the Burrow to avoid the guards, while the Smugglers need the rebels for more man power and the Sea Scribes to help create more advance ships to smuggle more stuff.",
       "history": "",
       "structure": "",
       "goals": "",
       "resources": ""
     },
     {
-      "id": "mpw00u343kto8i",
-      "storyId": "mpvmtgofdnkrh0",
-      "name": "Guards",
+      "id": "mr3tquztlppz9a",
+      "storyId": "mpwy9kn3o4bhth",
+      "name": "Sea Scribes of Umorism",
+      "color": "#2bb8c2",
+      "groupType": "religious",
+      "tags": [],
+      "members": [
+        {
+          "type": "character",
+          "id": "mq8e8gtilwl7sn",
+          "name": "Gweneth Falzy"
+        },
+        {
+          "type": "character",
+          "id": "mrayzmrxsmd0hu",
+          "name": "Emery Sai"
+        }
+      ],
+      "description": "Followers and priests of Umorism.",
+      "history": "Umorism used to be the religion of Nervios, until the guards took over and replaced it with Aequorism and Umorism was outlawed. These days Umorism is practiced in secret by a select few.",
+      "structure": "The priests of this relgiion are know as Sea Scribes. The religion has no discernable heirachy, with most Sea Scribes working together as colleagues sharing knowledge and expierence the best they can.",
+      "goals": "They hope to one day reintroduce Umorism back to Nervios and rekindle the passion of challenge into humanity again.\r\n\r\nBeliefs-\r\n Umorism teaches its followers that the sea watches humanity’s movements, tests human ingenuity and persistence in the face of great odds.\r\n From this challenge, humanity is pushed to develop better ship building and other such technologies. The Old Religion used to fund and run colleges of nautical engineering and similar professions, as a way to help spread understanding and knowledge of the sea’s trials and develop new ship technology. But these institutions have either been shut down or repurposed now that the Old Religion is out of favor.\r\n Sea Readers/ Sea Scribe were the priests of the old religion, interpreting the oceans, tides and storms to assist safe trade and travel. Gained this knowledge through survival of the trials of the ocean and being taught by their ancestors.",
+      "resources": "Player's that want to play as Sea Scribes can take this background. It isn't required for anyone following the religion, but for the priest\r\n\r\nBackground\r\n - Acolyte of Umorism\r\n You are a follower of the old faith of Umorism, a Sea Reader, a faith that taught of the endless trials of the ocean, the eternal glorious challenge that spurs humanity forward through tests of nautical navigation and ship building, among many other trials. However, such practices haven't been openly done in the city of Nervios in 150 years as the rising of the guards made the old religion become persecuted in favor of the new religion that simply wished to calm and placate the sea instead of meeting its challenge. You still practice the old rites and techniques in secret till one day such knowledge can again be freely shared in the city. \r\n - Skill Proficiencies: Acrobatics\r\n - Tool Proficiencies: Navigator's Tools, Vehicle (Water)\r\n - Holy Symbol, Dagger, Navigator's Tools, Rope, Traveler’s Clothes, 20 GP\r\n - Feat: Skilled\r\n - The Sea Readers teach that one must be well versed in all manner of skills to better adapt to the numerous challenges the sea has to offer."
+    },
+    {
+      "id": "mq07178f98f74q",
+      "storyId": "mpwy9kn3o4bhth",
+      "name": "Rebels",
       "groupType": "organization",
       "tags": [],
       "members": [
         {
           "type": "character",
-          "id": "mpx2158gl1jore",
-          "name": "Jane Novia"
+          "id": "mpzr0d651euxeo",
+          "name": "Stewart Tallow"
+        },
+        {
+          "type": "character",
+          "id": "mq5j0m47ccncmd",
+          "name": "Gregory Marsh"
+        },
+        {
+          "type": "character",
+          "id": "Eleni",
+          "name": "Eleni"
+        },
+        {
+          "type": "character",
+          "id": "mqfov8nslusb7h",
+          "name": "Sheik Aldien"
+        },
+        {
+          "type": "character",
+          "id": "mqfpk0q902udgh",
+          "name": "Tassos Buros"
+        },
+        {
+          "type": "item",
+          "id": "Rebel Coin",
+          "name": "Rebel Coin"
+        },
+        {
+          "type": "location",
+          "id": "mr2g4gdx9cj052",
+          "name": "Nervios Tunnels"
         }
       ],
-      "description": "The guards of Nervios\n\n- Patrolling the city 24/7 on a schedule\n    \n- Guards move around in groups \n    \n- Respected by the general population, but also slightly feared\n    \n-   \n    \n- Different types of guards\n    \n\n- Internal Guards:\n    \n\n- Less trained than other branches of military with less powerful weaponry\n    \n- Underground tunnel system connecting towers\n    \n- Guard towers around the city on the walls\n    \n\n- Towers can’t be seen into from the outside\n    \n- Citizens don’t know if a tower is manned or not\n    \n\n- Guard towers throughout the interior of city\n    \n\n- Underground tunnels connecting them\n    \n\n- Maybe they have eyes that impose crippling fear on those who don't belong? (Poisoned in 5e)\n    \n\n- Allows for fast deployment of guards to any point in the city\n    \n- Outsiders can’t see in – acts as a panopticon\n    \n\n- Maintains the peace, even if a guard isn’t in that specific tower\n    \n\n- Nicknamed “Eyes” by locals/rebellion\n    \n- Tiers of guards:\n    \n\n- Junior\n    \n- Senior\n    \n- Captain \n    \n\n- Some loyal to the King, some the Government, some the rich, sizable amount are loyal to anyone who pays money\n\n\n- Army\n    \n\n- Snipers\n    \n- Infantry\n    \n\n- Navy\n    \n\n- Warships\n    \n\n  \n\n- Watchman:\n    \n\n- Guard the walls and docks from outside threats\n    \n- Controls who enters/exits the cities\n    \n- Thoroughly inspects incoming/exiting cargo \n    \n\n- Corrupted?\n    \n\n- Some guards might use their status and position to disobey laws or take advantage of others. \n    \n\n- Creates resentment and fear of all guards\n    \n- PLOTLINE: Players start as junior guards and witness a fellow guard breaking the law. They are put into a position where they must decide between what's morally right, and the approval/protection of their peers.\n    \n\n  \n\nDamaged old tower which falls apart/players explore and find out that not all towers are functional.",
+      "description": "A group that hates the \"ever-watching eyes\" and wishes to bring Nervios freedom through contact with the outside world and the destruction of the eyes\r\n\r\n- Quiet / Gaining traction, trying to help people escape, close ties to smugglers.\r\n    \r\n- Truly believes they’re doing what’s best for everyone, especially the people in the town\r\n    \r\n- End goal for the rebels (assuming they know or at least believe all the towers are widely unmanned): expose the truth of the matter. Maybe they want to expose the nobles too. Most likely anti-noble if they know their history (which at least the important ones probably do)\r\n    \r\n- Probably have spies in the guards\r\n    \r\n\r\n- Definitely trying to find some high ups willing to help to learn more about the panopticon\r\n    \r\n\r\n- Often work under darkness or / and with obscuring / illusion spells\r\n    \r\n- Definitely have a tunnel system\r\n    \r\n- Strong aura of secrecy, especially in their upper ranks\r\n    \r\n- Most often help people escape the town\r\n    \r\n- Maybe offers places of solace where the eye cannot see?\r\n    \r\n- The collectivist to the guard / government’s isolationist",
       "history": "",
       "structure": "",
       "goals": "",
@@ -56,7 +135,6 @@
       "id": "mpx9s2hysydka7",
       "storyId": "mpwy9kn3o4bhth",
       "name": "Merrene Family",
-      "description": "Lives on the manor on the small island off the shore of Nervios.\nWealthiest family in the city, controls and regulates trade (formal and underground)\nHeavily influences the government, pays off guards and gov’t officials, takes advantage of citizens and spies on them through corrupt guards\nDon’t control the tower, but utilize its presence to further instill fear and a feeling of surveillance\nOut of direct sightlines of the spire, family referred to as “the unseen” by locals\nDouble-edged sword: while corrupt, the family provides a plethora of jobs to the citizens and acts as the main source of wealth and income for the city.",
       "groupType": "political",
       "tags": [],
       "members": [
@@ -66,25 +144,7 @@
           "name": "Merrene Manor"
         }
       ],
-      "history": "",
-      "structure": "",
-      "goals": "",
-      "resources": ""
-    },
-    {
-      "id": "mpw00u343kto8i__guards",
-      "storyId": "mpvmtgofdnkrh0",
-      "name": "Guards",
-      "groupType": "organization",
-      "tags": [],
-      "members": [
-        {
-          "type": "character",
-          "id": "mpx2158gl1jore",
-          "name": "Jane Novia"
-        }
-      ],
-      "description": "The guards of Nervios\r\n\r\n- Patrolling the city 24/7 on a schedule\r\n    \r\n- Guards move around in groups \r\n    \r\n- Respected by the general population, but also slightly feared\r\n    \r\n-   \r\n    \r\n- Different types of guards\r\n    \r\n\r\n- Internal Guards:\r\n    \r\n\r\n- Less trained than other branches of military with less powerful weaponry\r\n    \r\n- Underground tunnel system connecting towers\r\n    \r\n- Guard towers around the city on the walls\r\n    \r\n\r\n- Towers can’t be seen into from the outside\r\n    \r\n- Citizens don’t know if a tower is manned or not\r\n    \r\n\r\n- Guard towers throughout the interior of city\r\n    \r\n\r\n- Underground tunnels connecting them\r\n    \r\n\r\n- Maybe they have eyes that impose crippling fear on those who don't belong? (Poisoned in 5e)\r\n    \r\n\r\n- Allows for fast deployment of guards to any point in the city\r\n    \r\n- Outsiders can’t see in – acts as a panopticon\r\n    \r\n\r\n- Maintains the peace, even if a guard isn’t in that specific tower\r\n    \r\n\r\n- Nicknamed “Eyes” by locals/rebellion\r\n    \r\n- Tiers of guards:\r\n    \r\n\r\n- Junior\r\n    \r\n- Senior\r\n    \r\n- Captain \r\n    \r\n\r\n- Some loyal to the King, some the Government, some the rich, sizable amount are loyal to anyone who pays money\r\n\r\n\r\n- Army\r\n    \r\n\r\n- Snipers\r\n    \r\n- Infantry\r\n    \r\n\r\n- Navy\r\n    \r\n\r\n- Warships\r\n    \r\n\r\n  \r\n\r\n- Watchman:\r\n    \r\n\r\n- Guard the walls and docks from outside threats\r\n    \r\n- Controls who enters/exits the cities\r\n    \r\n- Thoroughly inspects incoming/exiting cargo \r\n    \r\n\r\n- Corrupted?\r\n    \r\n\r\n- Some guards might use their status and position to disobey laws or take advantage of others. \r\n    \r\n\r\n- Creates resentment and fear of all guards\r\n    \r\n- PLOTLINE: Players start as junior guards and witness a fellow guard breaking the law. They are put into a position where they must decide between what's morally right, and the approval/protection of their peers.\r\n    \r\n\r\n  \r\n\r\nDamaged old tower which falls apart/players explore and find out that not all towers are functional.",
+      "description": "Lives on the manor on the small island off the shore of Nervios.\r\nWealthiest family in the city, controls and regulates trade (formal and underground)\r\nHeavily influences the government, pays off guards and gov’t officials, takes advantage of citizens and spies on them through corrupt guards\r\nDon’t control the tower, but utilize its presence to further instill fear and a feeling of surveillance\r\nOut of direct sightlines of the spire, family referred to as “the unseen” by locals\r\nDouble-edged sword: while corrupt, the family provides a plethora of jobs to the citizens and acts as the main source of wealth and income for the city.",
       "history": "",
       "structure": "",
       "goals": "",
@@ -94,7 +154,8 @@
       "id": "mq070fyrphyotg",
       "storyId": "mpwy9kn3o4bhth",
       "name": "Guards",
-      "description": "The guards of [[Nervios]]\n\n- Patrolling the city 24/7 on a schedule\n    \n- Guards move around in groups \n    \n- Respected by the general population, but also slightly feared\n    \n-   \n    \n- Different types of guards\n    \n\n- Internal Guards:\n    \n\n- Less trained than other branches of military with less powerful weaponry\n    \n- Underground tunnel system connecting towers\n    \n- Guard towers around the city on the walls\n    \n\n- Towers can’t be seen into from the outside\n    \n- Citizens don’t know if a tower is manned or not\n    \n\n- Guard towers throughout the interior of city\n    \n\n- Underground tunnels connecting them\n    \n\n- Maybe they have eyes that impose crippling fear on those who don't belong? (Poisoned in 5e)\n    \n\n- Allows for fast deployment of guards to any point in the city\n    \n- Outsiders can’t see in – acts as a panopticon\n    \n\n- Maintains the peace, even if a guard isn’t in that specific tower\n    \n\n- Nicknamed “Eyes” by locals/rebellion\n    \n- Tiers of guards:\n    \n\n- Junior\n    \n- Senior\n    \n- Captain \n    \n\n- Some loyal to the King, some the Government, some the rich, sizable amount are loyal to anyone who pays money\n\n\n- Army\n    \n\n- Snipers\n    \n- Infantry\n    \n\n- Navy\n    \n\n- Warships\n    \n\n  \n\n- Watchman:\n    \n\n- Guard the walls and docks from outside threats\n    \n- Controls who enters/exits the cities\n    \n- Thoroughly inspects incoming/exiting cargo \n    \n\n- Corrupted?\n    \n\n- Some guards might use their status and position to disobey laws or take advantage of others. \n    \n\n- Creates resentment and fear of all guards\n    \n- PLOTLINE: Players start as junior guards and witness a fellow guard breaking the law. They are put into a position where they must decide between what's morally right, and the approval/protection of their peers.\n    \n\n  \n\nDamaged old tower which falls apart/players explore and find out that not all towers are functional.",
+      "groupType": "organization",
+      "tags": [],
       "members": [
         {
           "type": "character",
@@ -140,49 +201,14 @@
           "type": "character",
           "id": "mq5dd2orf65r7j",
           "name": "Jaime Pole"
+        },
+        {
+          "type": "character",
+          "id": "mqs9cmzfl7z8pk",
+          "name": "Milo Mandrich"
         }
       ],
-      "groupType": "organization",
-      "tags": [],
-      "history": "",
-      "structure": "",
-      "goals": "",
-      "resources": ""
-    },
-    {
-      "id": "mq07178f98f74q",
-      "storyId": "mpwy9kn3o4bhth",
-      "name": "Rebels",
-      "description": "A group that hates the \"ever-watching eyes\" and wishes to bring Nervios freedom through contact with the outside world and the destruction of the eyes\n\n- Quiet / Gaining traction, trying to help people escape, close ties to smugglers.\n    \n- Truly believes they’re doing what’s best for everyone, especially the people in the town\n    \n- End goal for the rebels (assuming they know or at least believe all the towers are widely unmanned): expose the truth of the matter. Maybe they want to expose the nobles too. Most likely anti-noble if they know their history (which at least the important ones probably do)\n    \n- Probably have spies in the guards\n    \n\n- Definitely trying to find some high ups willing to help to learn more about the panopticon\n    \n\n- Often work under darkness or / and with obscuring / illusion spells\n    \n- Definitely have a tunnel system\n    \n- Strong aura of secrecy, especially in their upper ranks\n    \n- Most often help people escape the town\n    \n- Maybe offers places of solace where the eye cannot see?\n    \n- The collectivist to the guard / government’s isolationist",
-      "members": [
-        {
-          "type": "character",
-          "id": "mpzr0d651euxeo",
-          "name": "Stewart Tallow"
-        },
-        {
-          "type": "character",
-          "id": "mq5j0m47ccncmd",
-          "name": "Gregory Marsh"
-        },
-        {
-          "type": "character",
-          "id": "Eleni",
-          "name": "Eleni"
-        },
-        {
-          "type": "character",
-          "id": "mqfov8nslusb7h",
-          "name": "Sheik Aldien"
-        },
-        {
-          "type": "character",
-          "id": "mqfpk0q902udgh",
-          "name": "Tassos Buros"
-        }
-      ],
-      "groupType": "organization",
-      "tags": [],
+      "description": "The guards of [[Nervios]]\r\n\r\n- Patrolling the city 24/7 on a schedule\r\n    \r\n- Guards move around in groups \r\n    \r\n- Respected by the general population, but also slightly feared\r\n    \r\n-   \r\n    \r\n- Different types of guards\r\n    \r\n\r\n- Internal Guards:\r\n    \r\n\r\n- Less trained than other branches of military with less powerful weaponry\r\n    \r\n- Underground tunnel system connecting towers\r\n    \r\n- Guard towers around the city on the walls\r\n    \r\n\r\n- Towers can’t be seen into from the outside\r\n    \r\n- Citizens don’t know if a tower is manned or not\r\n    \r\n\r\n- Guard towers throughout the interior of city\r\n    \r\n\r\n- Underground tunnels connecting them\r\n    \r\n\r\n- Maybe they have eyes that impose crippling fear on those who don't belong? (Poisoned in 5e)\r\n    \r\n\r\n- Allows for fast deployment of guards to any point in the city\r\n    \r\n- Outsiders can’t see in – acts as a panopticon\r\n    \r\n\r\n- Maintains the peace, even if a guard isn’t in that specific tower\r\n    \r\n\r\n- Nicknamed “Eyes” by locals/rebellion\r\n    \r\n- Tiers of guards:\r\n    \r\n\r\n- Junior\r\n    \r\n- Senior\r\n    \r\n- Captain \r\n    \r\n\r\n- Some loyal to the King, some the Government, some the rich, sizable amount are loyal to anyone who pays money\r\n\r\n\r\n- Army\r\n    \r\n\r\n- Snipers\r\n    \r\n- Infantry\r\n    \r\n\r\n- Navy\r\n    \r\n\r\n- Warships\r\n    \r\n\r\n  \r\n\r\n- Watchman:\r\n    \r\n\r\n- Guard the walls and docks from outside threats\r\n    \r\n- Controls who enters/exits the cities\r\n    \r\n- Thoroughly inspects incoming/exiting cargo \r\n    \r\n\r\n- Corrupted?\r\n    \r\n\r\n- Some guards might use their status and position to disobey laws or take advantage of others. \r\n    \r\n\r\n- Creates resentment and fear of all guards\r\n    \r\n- PLOTLINE: Players start as junior guards and witness a fellow guard breaking the law. They are put into a position where they must decide between what's morally right, and the approval/protection of their peers.\r\n    \r\n\r\n  \r\n\r\nDamaged old tower which falls apart/players explore and find out that not all towers are functional.",
       "history": "",
       "structure": "",
       "goals": "",
@@ -192,8 +218,9 @@
       "id": "mq5cbmd3nvrrwp",
       "storyId": "mpwy9kn3o4bhth",
       "name": "Commonfolk",
-      "description": "The everyday people of [[Nervios]]. Not engaged in the lives of guards, rebels, or nobles.",
       "color": "Beige",
+      "groupType": "collection",
+      "tags": [],
       "members": [
         {
           "type": "character",
@@ -219,10 +246,24 @@
           "type": "character",
           "id": "mq5j0m47ccncmd",
           "name": "Gregory Marsh"
+        },
+        {
+          "type": "character",
+          "id": "mqtotsvgnsxwv3",
+          "name": "Mr. Whatzit"
+        },
+        {
+          "type": "location",
+          "id": "mqtsbpfy8vzkhj",
+          "name": "Clara Tea"
+        },
+        {
+          "type": "character",
+          "id": "mqtt0szd3ku57w",
+          "name": "Gunther Stone"
         }
       ],
-      "groupType": "collection",
-      "tags": [],
+      "description": "The everyday people of [[Nervios]]. Not engaged in the lives of guards, rebels, or nobles.",
       "history": "",
       "structure": "",
       "goals": "",
@@ -232,7 +273,14 @@
       "id": "mq9oc68md52oq2",
       "storyId": "mpwy9kn3o4bhth",
       "name": "Church of Aequorism",
-      "description": "The head religion of [[Nervios]]. Worshipping the ocean god and creator of all life, Aequorin. They believe that the ocean is divine and must be appeased through worship and tithes.",
+      "groupType": "religious",
+      "tags": [],
+      "status": "Active",
+      "subgroups": [
+        "High Trident",
+        "Wave Wardens",
+        "Sea Soothers"
+      ],
       "members": [
         {
           "type": "character",
@@ -260,7 +308,6 @@
           "name": "StorytellerSuite/Stories/Nervios Campaign/Events/The Festival of Granite Rain"
         }
       ],
-      "groupType": "religious",
       "groupRelationships": [
         {
           "groupName": "Guards",
@@ -275,15 +322,9 @@
           "relationshipType": "rival"
         }
       ],
-      "subgroups": [
-        "High Trident",
-        "Wave Wardens",
-        "Sea Soothers"
-      ],
-      "structure": "**The High Trident**: Three of the most influential and holy religious leaders. They serve as the earthly representations of humankind and are the interpreters of god. Head overseers of religious affairs within the city.\n- Moon: The spear of Divinity- [[Caspian Moon]]\n- Sea: The spear of Nature- [[Soren Mar]]\n- Sun: The spear of Life- [[Isabella Sol]]\n\n*Divine Prosecutor*: Advocate of Aequorin within the court. Their job is to prosecute criminals for their crimes against God and the Church.\n\n*Wave Wardens*: Protectors and watchers of the sea. They ensure mankind does not disrespect or disrupt the ocean. They are also in charge of sea burials and rituals.\n\n*Sea Soother*: Priests who preach the word of god to commonfolk and bless ships and vessels before they depart. They are in charge of local congregations.",
-      "tags": [],
-      "status": "Active",
+      "description": "The head religion of [[Nervios]]. Worshipping the ocean god and creator of all life, Aequorin. They believe that the ocean is divine and must be appeased through worship and tithes.",
       "history": "",
+      "structure": "**The High Trident**: Three of the most influential and holy religious leaders. They serve as the earthly representations of humankind and are the interpreters of god. Head overseers of religious affairs within the city.\r\n- Moon: The spear of Divinity- [[Caspian Moon]]\r\n- Sea: The spear of Nature- [[Soren Mar]]\r\n- Sun: The spear of Life- [[Isabella Sol]]\r\n\r\n*Divine Prosecutor*: Advocate of Aequorin within the court. Their job is to prosecute criminals for their crimes against God and the Church.\r\n\r\n*Wave Wardens*: Protectors and watchers of the sea. They ensure mankind does not disrespect or disrupt the ocean. They are also in charge of sea burials and rituals.\r\n\r\n*Sea Soother*: Priests who preach the word of god to commonfolk and bless ships and vessels before they depart. They are in charge of local congregations.",
       "goals": "",
       "resources": ""
     }
@@ -348,690 +389,102 @@
   "analyticsEnabled": false,
   "writingSessions": [
     {
-      "id": "writing-1780424216633-84hkaj",
-      "startTime": "2026-06-02T18:16:56.633Z",
-      "endTime": "2026-06-02T18:17:07.164Z",
-      "wordsWritten": 17
-    },
-    {
-      "id": "writing-1780424304347-ys81m1",
-      "startTime": "2026-06-02T18:18:24.347Z",
-      "endTime": "2026-06-02T18:18:33.959Z",
-      "wordsWritten": 17
-    },
-    {
-      "id": "writing-1780424627127-w7l0vp",
-      "startTime": "2026-06-02T18:23:47.127Z",
-      "endTime": "2026-06-02T21:49:45.746Z",
-      "wordsWritten": 0,
-      "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Characters/Edward.md"
-      ]
-    },
-    {
-      "id": "writing-1780437294845-7a4ton",
-      "startTime": "2026-06-02T21:54:54.845Z",
-      "endTime": "2026-06-02T22:27:43.575Z",
-      "wordsWritten": 109
-    },
-    {
-      "id": "writing-1780441552174-xwlifu",
-      "startTime": "2026-06-02T23:05:52.174Z",
-      "endTime": "2026-06-02T23:07:57.058Z",
-      "wordsWritten": 15,
-      "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Characters/Querion Droma.md"
-      ]
-    },
-    {
-      "id": "writing-1780443146509-f3epwb",
-      "startTime": "2026-06-02T23:32:26.509Z",
-      "endTime": "2026-06-02T23:32:33.798Z",
-      "wordsWritten": 159,
-      "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Groups/Rebels.md"
-      ]
-    },
-    {
-      "id": "writing-1780443175859-idodmc",
-      "startTime": "2026-06-02T23:32:55.859Z",
-      "endTime": "2026-06-02T23:33:03.433Z",
-      "wordsWritten": 182,
-      "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Groups/Guards.md"
-      ]
-    },
-    {
-      "id": "writing-1780443230228-2ikupg",
-      "startTime": "2026-06-02T23:33:50.228Z",
-      "endTime": "2026-06-02T23:34:23.025Z",
-      "wordsWritten": 110,
-      "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Groups/Guards.md"
-      ]
-    },
-    {
-      "id": "writing-1780443263051-ts6jlr",
-      "startTime": "2026-06-02T23:34:23.051Z",
-      "endTime": "2026-06-02T23:34:34.895Z",
-      "wordsWritten": 298
-    },
-    {
-      "id": "writing-1780592852855-pjxftu",
-      "startTime": "2026-06-04T17:07:32.855Z",
-      "endTime": "2026-06-04T17:50:12.445Z",
-      "wordsWritten": 69,
-      "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Characters/Stewart Tallow.md"
-      ]
-    },
-    {
-      "id": "writing-1780595412872-01kac9",
-      "startTime": "2026-06-04T17:50:12.872Z",
-      "endTime": "2026-06-04T17:50:59.908Z",
-      "wordsWritten": 0,
-      "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Characters/Leon Asker.md"
-      ]
-    },
-    {
-      "id": "writing-1780610829628-6r1tax",
-      "startTime": "2026-06-04T22:07:09.628Z",
-      "endTime": "2026-06-04T22:13:48.638Z",
-      "wordsWritten": 72,
-      "filesEdited": [
-        "Nervios/Mechanics.md"
-      ]
-    },
-    {
-      "id": "writing-1780611739507-ldbe96",
-      "startTime": "2026-06-04T22:22:19.507Z",
-      "endTime": "2026-06-04T22:22:44.798Z",
-      "wordsWritten": 0,
-      "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Groups/Guards.md"
-      ]
-    },
-    {
-      "id": "writing-1780611766386-3ucbh5",
-      "startTime": "2026-06-04T22:22:46.386Z",
-      "endTime": "2026-06-04T22:23:03.453Z",
-      "wordsWritten": 298,
-      "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Groups/Guards.md"
-      ]
-    },
-    {
-      "id": "writing-1780620037087-86mcm7",
-      "startTime": "2026-06-05T00:40:37.087Z",
-      "endTime": "2026-06-05T00:40:44.563Z",
-      "wordsWritten": 72
-    },
-    {
-      "id": "writing-1780620753440-gl298z",
-      "startTime": "2026-06-05T00:52:33.440Z",
-      "endTime": "2026-06-05T00:55:56.966Z",
-      "wordsWritten": 25,
-      "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Groups/Guards.md"
-      ]
-    },
-    {
-      "id": "writing-1780620957013-cton0k",
-      "startTime": "2026-06-05T00:55:57.013Z",
-      "endTime": "2026-06-05T00:56:18.022Z",
-      "wordsWritten": 3,
-      "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Groups/Rebels.md"
-      ]
-    },
-    {
-      "id": "writing-1780620978061-hf7ww3",
-      "startTime": "2026-06-05T00:56:18.061Z",
-      "endTime": "2026-06-05T00:56:33.793Z",
-      "wordsWritten": 4,
-      "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Groups/Guards.md"
-      ]
-    },
-    {
-      "id": "writing-1780620993831-686533",
-      "startTime": "2026-06-05T00:56:33.831Z",
-      "endTime": "2026-06-05T00:59:21.414Z",
-      "wordsWritten": 0,
-      "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Groups/Rebels.md"
-      ]
-    },
-    {
-      "id": "writing-1780621161449-pktmcp",
-      "startTime": "2026-06-05T00:59:21.449Z",
-      "endTime": "2026-06-05T00:59:58.699Z",
-      "wordsWritten": 327
-    },
-    {
-      "id": "writing-1780621214653-orihgm",
-      "startTime": "2026-06-05T01:00:14.653Z",
-      "endTime": "2026-06-05T01:01:15.524Z",
-      "wordsWritten": 29,
-      "filesEdited": [
-        "Nervios/Module/Factions.md"
-      ]
-    },
-    {
-      "id": "writing-1780942226623-edr90v",
-      "startTime": "2026-06-08T18:10:26.623Z",
-      "endTime": "2026-06-08T18:13:23.621Z",
-      "wordsWritten": 11,
-      "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Characters/Ruby Marsh.md"
-      ]
-    },
-    {
-      "id": "writing-1780942414675-tzg03k",
-      "startTime": "2026-06-08T18:13:34.675Z",
-      "endTime": "2026-06-08T18:42:45.534Z",
-      "wordsWritten": 5,
-      "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Characters/Isabella Mar.md"
-      ]
-    },
-    {
-      "id": "writing-1781023110180-xlkmnt",
-      "startTime": "2026-06-09T16:38:30.180Z",
-      "endTime": "2026-06-09T16:43:40.819Z",
-      "wordsWritten": 0,
-      "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Characters/Querion Droma.md"
-      ]
-    },
-    {
-      "id": "writing-1781192735416-km7i6m",
-      "startTime": "2026-06-11T15:45:35.416Z",
-      "endTime": "2026-06-11T15:47:10.698Z",
-      "wordsWritten": 21
-    },
-    {
-      "id": "writing-1781193434686-2h3qea",
-      "startTime": "2026-06-11T15:57:14.686Z",
-      "endTime": "2026-06-11T17:34:27.172Z",
-      "wordsWritten": 109,
-      "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Groups/Church of Aequerism.md"
-      ]
-    },
-    {
-      "id": "writing-1781201012201-yiegua",
-      "startTime": "2026-06-11T18:03:32.201Z",
-      "endTime": "2026-06-11T18:19:26.689Z",
-      "wordsWritten": 52,
-      "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Characters/Soren Mar.md"
-      ]
-    },
-    {
-      "id": "writing-1781202464674-417w46",
-      "startTime": "2026-06-11T18:27:44.674Z",
-      "endTime": "2026-06-11T18:33:14.678Z",
-      "wordsWritten": 103,
-      "filesEdited": [
-        "High Trident.md"
-      ]
-    },
-    {
-      "id": "writing-1781202796532-sqfdoi",
-      "startTime": "2026-06-11T18:33:16.532Z",
-      "endTime": "2026-06-11T18:49:26.804Z",
-      "wordsWritten": 30,
-      "filesEdited": [
-        "High Trident.md"
-      ]
-    },
-    {
-      "id": "writing-1781274092500-8pv6yp",
-      "startTime": "2026-06-12T14:21:32.500Z",
-      "endTime": "2026-06-12T18:24:42.632Z",
-      "wordsWritten": 20,
-      "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Characters/Stewart Tallow.md"
-      ]
-    },
-    {
-      "id": "writing-1781534028951-dk7c67",
-      "startTime": "2026-06-15T14:33:48.951Z",
-      "endTime": "2026-06-15T14:34:40.147Z",
-      "wordsWritten": 4,
-      "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Characters/Abraham Costa.md"
-      ]
-    },
-    {
-      "id": "writing-1781534082557-wuauzp",
-      "startTime": "2026-06-15T14:34:42.557Z",
-      "endTime": "2026-06-15T14:37:49.856Z",
-      "wordsWritten": 26,
-      "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Characters/Abraham Costa.md"
-      ]
-    },
-    {
-      "id": "writing-1781534271840-7n2lhi",
-      "startTime": "2026-06-15T14:37:51.840Z",
-      "endTime": "2026-06-15T14:39:36.836Z",
-      "wordsWritten": 10,
-      "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Characters/Abraham Costa.md"
-      ]
-    },
-    {
-      "id": "writing-1781534376951-q0zaho",
-      "startTime": "2026-06-15T14:39:36.951Z",
-      "endTime": "2026-06-15T14:51:47.731Z",
-      "wordsWritten": 26,
-      "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Characters/Adam Atkin.md"
-      ]
-    },
-    {
-      "id": "writing-1781535109234-xxeiu7",
-      "startTime": "2026-06-15T14:51:49.234Z",
-      "endTime": "2026-06-15T14:59:18.873Z",
-      "wordsWritten": 38,
-      "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Characters/Callie Costa.md"
-      ]
-    },
-    {
-      "id": "writing-1781535561040-xb4fgx",
-      "startTime": "2026-06-15T14:59:21.040Z",
-      "endTime": "2026-06-15T15:01:38.889Z",
+      "id": "writing-1783532054501-mscg9x",
+      "startTime": "2026-07-08T17:34:14.501Z",
+      "endTime": "2026-07-08T17:44:01.418Z",
       "wordsWritten": 9,
       "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Characters/Callie Costa.md"
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Gweneth Falzy.md"
       ]
     },
     {
-      "id": "writing-1781535699802-jfh960",
-      "startTime": "2026-06-15T15:01:39.802Z",
-      "endTime": "2026-06-15T15:09:18.885Z",
-      "wordsWritten": 52,
+      "id": "writing-1783519151999-na189z",
+      "startTime": "2026-07-08T13:59:11.999Z",
+      "endTime": "2026-07-08T13:59:40.805Z",
+      "wordsWritten": 2,
       "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Characters/Caspian Moon.md"
+        "StorytellerSuite/Stories/Nervios Campaign/Scenes/Peaking in the Burrow.md"
       ]
     },
     {
-      "id": "writing-1781536160013-8gv4i0",
-      "startTime": "2026-06-15T15:09:20.013Z",
-      "endTime": "2026-06-15T15:10:42.154Z",
-      "wordsWritten": 4,
-      "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Characters/Clara Porter.md"
-      ]
-    },
-    {
-      "id": "writing-1781536242177-c5lkfc",
-      "startTime": "2026-06-15T15:10:42.177Z",
-      "endTime": "2026-06-15T15:10:50.141Z",
-      "wordsWritten": 36
-    },
-    {
-      "id": "writing-1781536250167-05lgnw",
-      "startTime": "2026-06-15T15:10:50.167Z",
-      "endTime": "2026-06-15T17:24:25.049Z",
-      "wordsWritten": 50,
-      "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Characters/Clara Porter.md"
-      ]
-    },
-    {
-      "id": "writing-1781544265118-hfpbwz",
-      "startTime": "2026-06-15T17:24:25.118Z",
-      "endTime": "2026-06-15T17:24:41.054Z",
-      "wordsWritten": 3,
-      "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Characters/Eagan Morrow.md"
-      ]
-    },
-    {
-      "id": "writing-1781544287911-601ebc",
-      "startTime": "2026-06-15T17:24:47.911Z",
-      "endTime": "2026-06-15T17:29:50.905Z",
-      "wordsWritten": 45,
-      "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Characters/Eagan Morrow.md"
-      ]
-    },
-    {
-      "id": "writing-1781544601296-kkyemm",
-      "startTime": "2026-06-15T17:30:01.296Z",
-      "endTime": "2026-06-15T18:01:46.141Z",
-      "wordsWritten": 52,
-      "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Characters/Gimil Lawman.md"
-      ]
-    },
-    {
-      "id": "writing-1781546508162-5eoddd",
-      "startTime": "2026-06-15T18:01:48.162Z",
-      "endTime": "2026-06-15T18:02:37.334Z",
-      "wordsWritten": 3,
-      "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Characters/Gregory Marsh.md"
-      ]
-    },
-    {
-      "id": "writing-1781546560003-u5ax0d",
-      "startTime": "2026-06-15T18:02:40.003Z",
-      "endTime": "2026-06-15T18:05:05.923Z",
-      "wordsWritten": 35,
-      "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Characters/Gregory Marsh.md"
-      ]
-    },
-    {
-      "id": "writing-1781546706778-u9n8lg",
-      "startTime": "2026-06-15T18:05:06.778Z",
-      "endTime": "2026-06-15T18:07:59.949Z",
-      "wordsWritten": 41,
-      "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Characters/Iris Thyrsin.md"
-      ]
-    },
-    {
-      "id": "writing-1781546932737-asxckc",
-      "startTime": "2026-06-15T18:08:52.737Z",
-      "endTime": "2026-06-15T18:12:54.925Z",
-      "wordsWritten": 40,
-      "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Characters/Isabella Sol.md"
-      ]
-    },
-    {
-      "id": "writing-1781547174977-7c91lm",
-      "startTime": "2026-06-15T18:12:54.977Z",
-      "endTime": "2026-06-15T18:16:01.819Z",
-      "wordsWritten": 47,
-      "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Characters/Jaime Pole.md"
-      ]
-    },
-    {
-      "id": "writing-1781553305687-05gj31",
-      "startTime": "2026-06-15T19:55:05.687Z",
-      "endTime": "2026-06-15T19:55:29.040Z",
-      "wordsWritten": 0,
-      "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Characters/Leon Asker.md"
-      ]
-    },
-    {
-      "id": "writing-1781553329087-8i4jv2",
-      "startTime": "2026-06-15T19:55:29.087Z",
-      "endTime": "2026-06-15T20:02:10.763Z",
-      "wordsWritten": 33,
-      "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Characters/Lucia Grey .md"
-      ]
-    },
-    {
-      "id": "writing-1781553734151-9b2ovy",
-      "startTime": "2026-06-15T20:02:14.151Z",
-      "endTime": "2026-06-15T20:09:12.653Z",
-      "wordsWritten": 37,
-      "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Characters/Ruby Marsh.md"
-      ]
-    },
-    {
-      "id": "writing-1781554152716-gpoxx1",
-      "startTime": "2026-06-15T20:09:12.716Z",
-      "endTime": "2026-06-15T20:14:15.133Z",
-      "wordsWritten": 0,
-      "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Characters/Soren Mar.md"
-      ]
-    },
-    {
-      "id": "writing-1781555689072-3nx2sw",
-      "startTime": "2026-06-15T20:34:49.072Z",
-      "endTime": "2026-06-15T20:51:58.499Z",
-      "wordsWritten": 64,
-      "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Characters/Eleni Dorian.md"
-      ]
-    },
-    {
-      "id": "writing-1781556718547-h9ok7e",
-      "startTime": "2026-06-15T20:51:58.547Z",
-      "endTime": "2026-06-15T21:11:11.347Z",
+      "id": "writing-1783525733605-zjtnei",
+      "startTime": "2026-07-08T15:48:53.605Z",
+      "endTime": "2026-07-08T17:38:03.161Z",
       "wordsWritten": 26,
       "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Characters/Sheik Aldien.md"
+        "Unique Mechanics/The Collapse of Central Stage/Clock Puzzle.md"
       ]
     },
     {
-      "id": "writing-1781622669599-ufcq44",
-      "startTime": "2026-06-16T15:11:09.599Z",
-      "endTime": "2026-06-16T15:14:54.278Z",
-      "wordsWritten": 11,
+      "id": "writing-1783532335907-rmyt9z",
+      "startTime": "2026-07-08T17:38:55.907Z",
+      "endTime": "2026-07-08T17:42:46.945Z",
+      "wordsWritten": 16,
       "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Chapters/Beginning.md"
+        "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Eastern Tunnel System.md"
       ]
     },
     {
-      "id": "writing-1781622894307-ndldbj",
-      "startTime": "2026-06-16T15:14:54.307Z",
-      "endTime": "2026-06-16T15:19:58.638Z",
-      "wordsWritten": 49
-    },
-    {
-      "id": "writing-1781623198657-7t1jzo",
-      "startTime": "2026-06-16T15:19:58.657Z",
-      "endTime": "2026-06-16T15:31:11.962Z",
-      "wordsWritten": 11,
-      "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Festival of Granite Rain.md"
-      ]
-    },
-    {
-      "id": "writing-1781623872018-kxu4vk",
-      "startTime": "2026-06-16T15:31:12.018Z",
-      "endTime": "2026-06-16T15:31:18.298Z",
-      "wordsWritten": 64
-    },
-    {
-      "id": "writing-1781623896293-jboqve",
-      "startTime": "2026-06-16T15:31:36.293Z",
-      "endTime": "2026-06-16T15:31:41.440Z",
-      "wordsWritten": 104
-    },
-    {
-      "id": "writing-1781623975696-an7hji",
-      "startTime": "2026-06-16T15:32:55.696Z",
-      "endTime": "2026-06-16T15:36:06.856Z",
-      "wordsWritten": 30,
-      "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Festival of Granite Rain.md"
-      ]
-    },
-    {
-      "id": "writing-1781624230929-xx18q6",
-      "startTime": "2026-06-16T15:37:10.929Z",
-      "endTime": "2026-06-16T18:27:36.725Z",
-      "wordsWritten": 0,
-      "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Characters/Eagan Morrow.md"
-      ]
-    },
-    {
-      "id": "writing-1781709035331-ym5nlr",
-      "startTime": "2026-06-17T15:10:35.331Z",
-      "endTime": "2026-06-17T15:11:39.472Z",
-      "wordsWritten": 6
-    },
-    {
-      "id": "writing-1781796223390-3o91ph",
-      "startTime": "2026-06-18T15:23:43.390Z",
-      "endTime": "2026-06-18T15:26:37.361Z",
-      "wordsWritten": 0,
-      "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Characters/Leon Asker.md"
-      ]
-    },
-    {
-      "id": "writing-1782229498702-nv8krv",
-      "startTime": "2026-06-23T15:44:58.702Z",
-      "endTime": "2026-06-23T15:47:58.930Z",
-      "wordsWritten": 435,
-      "filesEdited": [
-        "Nervios/Unique Mechanics/Boulder Climb.md"
-      ]
-    },
-    {
-      "id": "writing-1782229678996-etvy0e",
-      "startTime": "2026-06-23T15:47:58.996Z",
-      "endTime": "2026-06-23T15:51:05.573Z",
-      "wordsWritten": 256
-    },
-    {
-      "id": "writing-1782229874312-ehe5m6",
-      "startTime": "2026-06-23T15:51:14.312Z",
-      "endTime": "2026-06-23T15:51:51.928Z",
-      "wordsWritten": 59
-    },
-    {
-      "id": "writing-1782229918699-m0tysz",
-      "startTime": "2026-06-23T15:51:58.699Z",
-      "endTime": "2026-06-23T15:52:07.834Z",
-      "wordsWritten": 0,
-      "filesEdited": [
-        "Nervios/Unique Mechanics/Color Cipher.md"
-      ]
-    },
-    {
-      "id": "writing-1782229927864-yv73kv",
-      "startTime": "2026-06-23T15:52:07.864Z",
-      "endTime": "2026-06-23T15:52:13.907Z",
-      "wordsWritten": 58
-    },
-    {
-      "id": "writing-1782229933937-ggkezu",
-      "startTime": "2026-06-23T15:52:13.937Z",
-      "endTime": "2026-06-23T15:53:18.843Z",
-      "wordsWritten": 1,
-      "filesEdited": [
-        "Nervios/Unique Mechanics/Color Cipher.md"
-      ]
-    },
-    {
-      "id": "writing-1782230033890-dx0aio",
-      "startTime": "2026-06-23T15:53:53.890Z",
-      "endTime": "2026-06-23T16:01:55.551Z",
-      "wordsWritten": 224,
-      "filesEdited": [
-        "Nervios/Unique Mechanics/Color Cipher.md"
-      ]
-    },
-    {
-      "id": "writing-1782234586097-qh8x0m",
-      "startTime": "2026-06-23T17:09:46.097Z",
-      "endTime": "2026-06-23T17:37:13.220Z",
-      "wordsWritten": 367,
-      "filesEdited": [
-        "Nervios/Unique Mechanics/The Wheel of Purity.md"
-      ]
-    },
-    {
-      "id": "writing-1782236236487-cg3ye7",
-      "startTime": "2026-06-23T17:37:16.487Z",
-      "endTime": "2026-06-23T17:39:31.590Z",
-      "wordsWritten": 28,
-      "filesEdited": [
-        "Nervios/Unique Mechanics/The Wheel of Purity.md"
-      ]
-    },
-    {
-      "id": "writing-1782236385818-jn72sv",
-      "startTime": "2026-06-23T17:39:45.818Z",
-      "endTime": "2026-06-23T17:43:37.760Z",
-      "wordsWritten": 53,
-      "filesEdited": [
-        "Nervios/Unique Mechanics/The Wheel of Purity.md"
-      ]
-    },
-    {
-      "id": "writing-1782236621249-d341wr",
-      "startTime": "2026-06-23T17:43:41.249Z",
-      "endTime": "2026-06-23T17:50:34.610Z",
-      "wordsWritten": 48,
-      "filesEdited": [
-        "Nervios/Unique Mechanics/The Wheel of Purity.md"
-      ]
-    },
-    {
-      "id": "writing-1782237034636-w8hoqm",
-      "startTime": "2026-06-23T17:50:34.636Z",
-      "endTime": "2026-06-23T17:52:23.728Z",
-      "wordsWritten": 311,
-      "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Festival of Granite Rain.md"
-      ]
-    },
-    {
-      "id": "writing-1782237398398-hjyp1a",
-      "startTime": "2026-06-23T17:56:38.398Z",
-      "endTime": "2026-06-23T17:57:19.083Z",
-      "wordsWritten": 139
-    },
-    {
-      "id": "writing-1782237439689-xzqpyw",
-      "startTime": "2026-06-23T17:57:19.689Z",
-      "endTime": "2026-06-23T17:58:48.666Z",
+      "id": "writing-1783532619889-ygmmma",
+      "startTime": "2026-07-08T17:43:39.889Z",
+      "endTime": "2026-07-08T18:27:03.518Z",
       "wordsWritten": 4,
       "filesEdited": [
-        "Nervios/Unique Mechanics/Rebel Coin Puzzle.md"
+        "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Eastern Tunnel System.md"
       ]
     },
     {
-      "id": "writing-1782237573749-n5idka",
-      "startTime": "2026-06-23T17:59:33.749Z",
-      "endTime": "2026-06-23T17:59:39.399Z",
-      "wordsWritten": 404
-    },
-    {
-      "id": "writing-1782237611467-xx9u65",
-      "startTime": "2026-06-23T18:00:11.467Z",
-      "endTime": "2026-06-23T18:01:04.238Z",
-      "wordsWritten": 77,
+      "id": "writing-1783535224246-g3t8aw",
+      "startTime": "2026-07-08T18:27:04.246Z",
+      "endTime": "2026-07-08T18:42:02.377Z",
+      "wordsWritten": 87,
       "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Festival of Granite Rain.md"
+        "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Eastern Tunnel System.md"
       ]
     },
     {
-      "id": "writing-1782237688750-p4f0lc",
-      "startTime": "2026-06-23T18:01:28.750Z",
-      "endTime": "2026-06-23T18:04:23.503Z",
-      "wordsWritten": 18,
+      "id": "writing-1783536279862-hqln3z",
+      "startTime": "2026-07-08T18:44:39.862Z",
+      "endTime": "2026-07-08T18:45:28.720Z",
+      "wordsWritten": 0,
       "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Festival of Granite Rain.md"
+        "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Eastern Tunnel System.md"
       ]
     },
     {
-      "id": "writing-1782237903727-ntvmyw",
-      "startTime": "2026-06-23T18:05:03.727Z",
-      "endTime": "2026-06-23T18:05:30.323Z",
-      "wordsWritten": 4,
+      "id": "writing-1783536328761-kyfhjh",
+      "startTime": "2026-07-08T18:45:28.761Z",
+      "endTime": "2026-07-08T19:01:14.837Z",
+      "wordsWritten": 160,
       "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Characters/Clara Porter.md"
+        "Unique Mechanics/The Collapse of Central Stage/Clock Puzzle.md"
       ]
     },
     {
-      "id": "writing-1782237930375-hxrp0m",
-      "startTime": "2026-06-23T18:05:30.375Z",
-      "endTime": "2026-06-23T18:33:27.030Z",
-      "wordsWritten": 107,
+      "id": "writing-1783537280303-pgtb08",
+      "startTime": "2026-07-08T19:01:20.303Z",
+      "endTime": "2026-07-08T19:04:47.588Z",
+      "wordsWritten": 108,
       "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Festival of Granite Rain.md"
+        "Unique Mechanics/The Collapse of Central Stage/Clock Puzzle.md"
+      ]
+    },
+    {
+      "id": "writing-1783537490708-izy39q",
+      "startTime": "2026-07-08T19:04:50.708Z",
+      "endTime": "2026-07-08T19:26:38.189Z",
+      "wordsWritten": 335,
+      "filesEdited": [
+        "Unique Mechanics/The Collapse of Central Stage/Clock Puzzle.md"
+      ]
+    },
+    {
+      "id": "writing-1783538806856-xc2h05",
+      "startTime": "2026-07-08T19:26:46.856Z",
+      "endTime": "2026-07-08T19:37:34.607Z",
+      "wordsWritten": 37,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/The Mask Seller.md"
       ]
     }
   ],
@@ -1042,19 +495,12 @@
   "factionFolderPath": "",
   "magicSystemFolderPath": "",
   "enableSensoryProfiles": true,
-  "hiddenDashboardTabs": [
-    "books",
-    "chapters",
-    "economies",
-    "magicsystems"
-  ],
+  "hiddenDashboardTabs": [],
   "templateStorageFolder": "StorytellerSuite/Templates",
   "showBuiltInTemplates": true,
   "showCommunityTemplates": false,
   "disableAutoFolderCreation": false,
-  "defaultTemplates": {
-    "character": "template-1780417212820-9v7bsl82b"
-  },
+  "defaultTemplates": {},
   "tiling": {
     "autoGenerateThreshold": 2000,
     "tileSize": 256,
@@ -1063,124 +509,25 @@
   "storyDrafts": [],
   "compileWorkflows": [],
   "defaultCompileWorkflow": "reader-draft-workflow",
-  "dailyWordCountGoal": 0,
+  "dailyWordCountGoal": 1000,
   "showWordCountInStatusBar": true,
   "notifyOnGoalReached": true,
   "countDeletionsForGoal": false,
   "dailyWritingStats": [
     {
-      "date": "2026-06-02",
-      "wordsWritten": 907,
-      "wordsDeleted": 12,
-      "netWords": 895,
-      "timeSpent": 0,
-      "scenesEdited": [],
-      "goalMet": false
-    },
-    {
-      "date": "2026-06-03",
-      "wordsWritten": 0,
+      "date": "2026-07-08",
+      "wordsWritten": 9,
       "wordsDeleted": 0,
-      "netWords": 0,
+      "netWords": 9,
       "timeSpent": 0,
       "scenesEdited": [],
       "goalMet": false
     },
     {
-      "date": "2026-06-04",
-      "wordsWritten": 899,
-      "wordsDeleted": 306,
-      "netWords": 593,
-      "timeSpent": 0,
-      "scenesEdited": [],
-      "goalMet": false
-    },
-    {
-      "date": "2026-06-08",
-      "wordsWritten": 16,
-      "wordsDeleted": 0,
-      "netWords": 16,
-      "timeSpent": 0,
-      "scenesEdited": [],
-      "goalMet": false
-    },
-    {
-      "date": "2026-06-09",
-      "wordsWritten": 0,
-      "wordsDeleted": 2,
-      "netWords": -2,
-      "timeSpent": 0,
-      "scenesEdited": [],
-      "goalMet": false
-    },
-    {
-      "date": "2026-06-10",
-      "wordsWritten": 0,
-      "wordsDeleted": 0,
-      "netWords": 0,
-      "timeSpent": 0,
-      "scenesEdited": [],
-      "goalMet": false
-    },
-    {
-      "date": "2026-06-11",
-      "wordsWritten": 315,
-      "wordsDeleted": 0,
-      "netWords": 315,
-      "timeSpent": 0,
-      "scenesEdited": [],
-      "goalMet": false
-    },
-    {
-      "date": "2026-06-12",
-      "wordsWritten": 20,
-      "wordsDeleted": 0,
-      "netWords": 20,
-      "timeSpent": 0,
-      "scenesEdited": [],
-      "goalMet": false
-    },
-    {
-      "date": "2026-06-15",
-      "wordsWritten": 681,
-      "wordsDeleted": 30,
-      "netWords": 651,
-      "timeSpent": 0,
-      "scenesEdited": [],
-      "goalMet": false
-    },
-    {
-      "date": "2026-06-16",
-      "wordsWritten": 269,
-      "wordsDeleted": 1,
-      "netWords": 268,
-      "timeSpent": 0,
-      "scenesEdited": [],
-      "goalMet": false
-    },
-    {
-      "date": "2026-06-17",
-      "wordsWritten": 6,
-      "wordsDeleted": 0,
-      "netWords": 6,
-      "timeSpent": 0,
-      "scenesEdited": [],
-      "goalMet": false
-    },
-    {
-      "date": "2026-06-18",
-      "wordsWritten": 0,
-      "wordsDeleted": 25,
-      "netWords": -25,
-      "timeSpent": 0,
-      "scenesEdited": [],
-      "goalMet": false
-    },
-    {
-      "date": "2026-06-23",
-      "wordsWritten": 2593,
-      "wordsDeleted": 1,
-      "netWords": 2592,
+      "date": "2026-07-08",
+      "wordsWritten": 227,
+      "wordsDeleted": 4,
+      "netWords": 223,
       "timeSpent": 0,
       "scenesEdited": [],
       "goalMet": false
@@ -1193,10 +540,5 @@
   "characterSheetTemplates": [],
   "defaultCharacterSheetTemplateId": "classic",
   "customCompileSteps": [],
-  "promptNewSceneFiles": true,
-  "networkGraphZoom": 0.9690807799442896,
-  "networkGraphPan": {
-    "x": 123.68022284122563,
-    "y": -43.14247910863509
-  }
+  "promptNewSceneFiles": true
 }

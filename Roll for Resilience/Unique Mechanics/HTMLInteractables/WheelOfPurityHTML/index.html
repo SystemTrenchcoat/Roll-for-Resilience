@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wheel Of Purity</title>
+
+    <style>
+        img {
+            width: 100%;
+            transition: transform 0.5s ease;
+        }
+
+        #wheel {
+            position: relative;
+            width: 600px;
+            height: 600px;
+        }
+
+        #controls {
+            display: flex;
+            flex-direction: row;
+            width: 600px;
+        }
+
+        #controls div {
+            width: 50%;
+        }
+
+        button {
+            width: 8em;
+            max-height: 8em;
+            margin-bottom: 3%;
+        }
+
+    </style>
+</head>
+
+<body>
+    <div id="wheel" style="position:relative">
+        <img id="outer" src="imgs/wheelOfPurity_outside.png" style="position:absolute">
+        <img id="middle" src="imgs/wheelOfPurity_middle.png" style="position:absolute">
+        <img id="inner" src="imgs/wheelOfPurity_inside.png" style="position:absolute">
+        <img src="imgs/wheelOfPurity_redArrow.png" style="position:absolute">
+    </div>
+
+    <section id="controls">
+        <div id="outsideButtons">
+            <h3>Outer Wheel</h3>
+            <button id="outerCW">Rotate Clockwise</button>
+            <button id="outerCCW">Rotate Counter Clockwise</button>
+        </div>
+        <div id="middleButtons">
+            <h3>Middle Wheel</h3>
+            <button id="middleCW">Rotate Clockwise</button>
+            <button id="middleCCW">Rotate Counter Clockwise</button>
+        </div>
+        <div id="innerButtons">
+            <h3>Inner Wheel</h3>
+            <button id="innerCW">Rotate Clockwise</button>
+            <button id="innerCCW">Rotate Counter Clockwise</button>
+        </div>
+    </section>
+
+    <dialog id="solvedDialog">
+        <h2>WHEEL SOLVED!</h2>
+        <button commandfor="solvedDialog" command="close">Close</button>
+    </dialog>
+
+    <script>
+        const outerWheel = document.querySelector("#outer");
+        const middleWheel = document.querySelector("#middle")
+        const innerWheel = document.querySelector("#inner")
+
+        const outerCW_btn = document.querySelector('#outerCW');
+        const outerCCW_btn = document.querySelector("#outerCCW");
+        const middleCW_btn = document.querySelector('#middleCW');
+        const middleCCW_btn = document.querySelector("#middleCCW");
+        const innerCW_btn = document.querySelector('#innerCW');
+        const innerCCW_btn = document.querySelector("#innerCCW");
+
+        // Solved Popup
+        const solvedDialog = document.querySelector('#solvedDialog');
+
+        let outerRot = { angle: 0 };
+        let middleRot = { angle: 0 };
+        let innerRot = { angle: 0 };
+
+        // Rotation Buttons
+        outerCW_btn.addEventListener('click', () => rotateWheel(outerWheel, outerRot, 45));
+        outerCCW_btn.addEventListener('click', () => rotateWheel(outerWheel, outerRot, -45));
+
+        middleCW_btn.addEventListener('click', () => rotateWheel(middleWheel, middleRot, 60));
+        middleCCW_btn.addEventListener('click', () => rotateWheel(middleWheel, middleRot, -60));
+
+        innerCW_btn.addEventListener('click', () => rotateWheel(innerWheel, innerRot, 90));
+        innerCCW_btn.addEventListener('click', () => rotateWheel(innerWheel, innerRot, -90));
+
+
+        function rotateWheel(wheel, currentAngle, deltaAngle) {
+            currentAngle.angle += deltaAngle;
+            wheel.style.transform = `rotate(${currentAngle.angle}deg)`;
+            //console.log(`Rotated wheel ${wheel} by ${deltaAngle}. Current rotation is ${currentAngle.angle}`);
+            let checkSolution = () => {
+                if ((outerRot.angle % 360 === -270 || outerRot.angle % 360 === 90) &&
+                    (middleRot.angle % 360 === -120 || middleRot.angle % 360 === 240) &&
+                    (innerRot.angle % 360 === -270 || innerRot.angle % 360 === 90)) {
+                    console.log("WHEEL SOLVED!");
+                    solvedDialog.showModal();
+                }
+            }
+            checkSolution();
+        }
+    </script>
+</body>
+
+</html>

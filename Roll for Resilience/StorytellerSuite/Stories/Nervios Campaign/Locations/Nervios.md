@@ -7,10 +7,10 @@ id: mpvzob4sd6zoil
 entityRefs:
   - entityId: "[[Edward Krinok]]"
     entityType: character
-    relationship: located
+    relationship: associated
   - entityId: "[[Leon Asker]]"
     entityType: character
-    relationship: located
+    relationship: associated
   - entityId: "[[Jane Novia]]"
     entityType: character
     relationship: located
@@ -23,6 +23,15 @@ entityRefs:
   - entityId: "[[The Festival of Granite Rain]]"
     entityType: scene
     relationship: takes place here
+  - entityId: "[[Milo Mandrich]]"
+    entityType: character
+    relationship: located
+  - entityId: "[[Gunther Stone]]"
+    entityType: character
+    relationship: located
+  - entityId: "[[Granite Puzzle Piece]]"
+    entityType: item
+    relationship: located
 _skipSync: true
 childLocationIds:
   - "[[Rutmar Port]]"
@@ -31,7 +40,10 @@ childLocationIds:
   - "[[Watching Eye (Spire)]]"
   - "[[Wavecrest Market]]"
   - "[[Serenetti Castle]]"
+  - "[[Bag Me Up]]"
 status: Active
+groups:
+  - "[[Smugglers]]"
 ---
 
 ## Description
