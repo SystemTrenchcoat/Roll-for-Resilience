@@ -17,13 +17,15 @@ id: mqs9cmzfl7z8pk
 groups:
   - "[[Guards]]"
 quirks: "Constantly smiling, Exaggerated movements, "
-currentLocationId: "[[Rutmar Port]]"
+currentLocationId: "[[mqs9cmzfl7z8pk]]"
 locationHistory:
   - locationId: "[[Rutmar Port]]"
     relationship: moved to
   - locationId: "[[Nervios]]"
     relationship: moved to
 affiliation: Guards
+_skipSync: true
+locations: Rutmar Port
 ---
 
 ## Description

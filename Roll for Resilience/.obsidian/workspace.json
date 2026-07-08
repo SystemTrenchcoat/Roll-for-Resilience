@@ -1,32 +1,24 @@
 {
   "main": {
-    "id": "70aa171461903fdd",
+    "id": "f8f33d91052c0653",
     "type": "split",
     "children": [
       {
-        "id": "3489c0d9311efd53",
+        "id": "5659078eb5cf3dbc",
         "type": "tabs",
         "children": [
           {
-            "id": "614b32e7f67e5357",
+            "id": "227b7d9c62740227",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< Updated upstream
-                "file": "Unique Mechanics/The Collapse of Central Stage/Clock Puzzle.md",
-=======
-                "file": "StorytellerSuite/Stories/Nervios Campaign/Characters/The Mask Seller.md",
->>>>>>> Stashed changes
+                "file": "StorytellerSuite/Stories/Nervios Campaign/Characters/Gweneth Falzy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-<<<<<<< Updated upstream
-              "title": "Clock Puzzle"
-=======
-              "title": "The Mask Seller"
->>>>>>> Stashed changes
+              "title": "Gweneth Falzy"
             }
           }
         ]
@@ -35,28 +27,28 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8e9bf7b6d202f1e4",
+    "id": "7ac7b9eea492ee35",
     "type": "split",
     "children": [
       {
-        "id": "2bdd88808375951b",
+        "id": "dd202e58f9149b57",
         "type": "tabs",
         "children": [
           {
-            "id": "646e895bc4fb2fe0",
+            "id": "7abc40deb6991665",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
           },
           {
-            "id": "a68e970fe5f2e47d",
+            "id": "92c0414612d1dc9f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -73,7 +65,7 @@
             }
           },
           {
-            "id": "230d8a5980704f23",
+            "id": "74e5c49828bb5e83",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -86,22 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 300
   },
   "right": {
-    "id": "59ff323b99e34f60",
+    "id": "7293d7120a2b265d",
     "type": "split",
     "children": [
       {
-        "id": "209ea8ed03a41927",
+        "id": "e401e481f33a0fa8",
         "type": "tabs",
         "children": [
           {
-            "id": "b3a515bf483c78bb",
+            "id": "f141a26cc0609012",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "StorytellerSuite/Stories/Nervios Campaign/Characters/Gweneth Falzy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,24 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Gweneth Falzy"
             }
           },
           {
-            "id": "8b19ed392a778b21",
+            "id": "5969c052577892e6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "StorytellerSuite/Stories/Nervios Campaign/Characters/Gweneth Falzy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Gweneth Falzy"
             }
           },
           {
-            "id": "6806c54e2518acea",
+            "id": "2ff45f8a5c2a65be",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -143,7 +137,7 @@
             }
           },
           {
-            "id": "9422762cacf1eed6",
+            "id": "0b087e22a99278d6",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -157,21 +151,22 @@
             }
           },
           {
-            "id": "6015f5660a0eab5f",
+            "id": "49991568362fc242",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "StorytellerSuite/Stories/Nervios Campaign/Characters/Gweneth Falzy.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Gweneth Falzy"
             }
           },
           {
-            "id": "2ec9dadcfec6f2d2",
+            "id": "2cdd4a83d9284a65",
             "type": "leaf",
             "state": {
               "type": "storyteller-dashboard-view",
@@ -185,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395.5,
-    "collapsed": true
+    "width": 306.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -202,106 +196,18 @@
       "storyteller-suite:Apply template to story": false
     }
   },
-  "active": "614b32e7f67e5357",
+  "active": "2cdd4a83d9284a65",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
-    "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Collapse of Central Stage.md",
     "StorytellerSuite/Stories/Nervios Campaign/Scenes/Peaking in the Burrow.md",
-    "Unique Mechanics/The Collapse of Central Stage/Clock Puzzle.md",
-    "Unique Mechanics/The Collapse of Central Stage/Flower Puzzle.md",
-    "Unique Mechanics/The Collapse of Central Stage/Rune Puzzle.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Eastern Tunnel System.md",
-    "Nervios/Worldbuilding/Rebellion Symbol.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Items/Yellow Noble Bloom.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Items/Great Blue Cave Plant.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Items/The Seafarers Herb.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Rebellion Mural.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Nervios Tunnels.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Iniza Brada.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Central Cavern.md",
-    "Images/The Collapse of Central Stage/Maps/eastern_tunnel_map.png",
-    "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Rune Tunnels.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Flora Tunnels.md",
-    "Nervios/Worldbuilding/Government.md",
-    "Nervios/Worldbuilding/History.md",
-    "Nervios/Worldbuilding/Culture.md",
-    "Nervios/Worldbuilding/Economy.md",
-    "Nervios/Worldbuilding/Spore Blight.md",
-    "Nervios/Worldbuilding/Setting.md",
-    "Images/rebellionSymbol.png",
-    "Images/The Collapse of Central Stage/Maps/central_cavern.png",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Emery Sai.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Donic.md",
-    "Images/The Collapse of Central Stage/Maps/rebellion_mural_map.png",
-    "Images/The Collapse of Central Stage/Maps",
-    "Images/The Collapse of Central Stage/New folder",
-    "Nervios/Module/Narrative.md",
-    "Nervios/Module/Mimic Table.md",
-    "Images/rebellionSymbol.png~",
-    "Images/The Collapse of Central Stage/rune_plank_clue.png",
-    "Images/The Collapse of Central Stage/rune_plank_clue.png.opdownload",
-    "Images/The Collapse of Central Stage/Runes/axe_rune.png",
-    "Images/The Collapse of Central Stage/Runes/hammer_rune.png",
-    "Images/The Collapse of Central Stage/Runes/m_rune.png",
-    "Images/The Collapse of Central Stage/Runes/r_rune.png",
-    "Images/The Collapse of Central Stage/Runes/t_rune.png",
-    "Images/The Collapse of Central Stage/Runes",
-    "StorytellerSuite/GalleryUploads",
-    "Images/The Collapse of Central Stage",
-    "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground",
-    "Unique Mechanics/The Collapse of Central Stage/Rune Puzzle",
-    "Unique Mechanics/The Collapse of Central Stage",
-=======
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Emery Sai.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Gimil Lawman.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/The Mask Seller.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Gomier Saldo.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Gregory Marsh.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Sessions",
+    "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Festival of Granite Rain.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Collapse of Central Stage.md",
     "StorytellerSuite/Stories/Nervios Campaign/Characters/Gweneth Falzy.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Gunther Stone.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Iris Thyrsin.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Iniza Brada.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Isabella Sol.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Jane Novia .md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Jaime Pole.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Eleni Dorian.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Eagan Morrow.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Milo Mandrich.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Leon Asker.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Lucia Grey .md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Minsri Slass.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Mr. Whatzit.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Querion Droma.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Reyn Droma.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Ruby Marsh.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Sheik Aldien.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Soren Mar.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Sven.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Tassos Buros.md",
-    "StorytellerSuite/Templates/Notes/References",
-    "StorytellerSuite/Templates/Notes/Scenes",
-    "StorytellerSuite/Templates/Notes/Chapters",
-    "StorytellerSuite/Templates/Notes/MagicSystems",
-    "StorytellerSuite/Templates/Notes/Economies",
-    "StorytellerSuite/Templates/Notes/Cultures",
-    "StorytellerSuite/Templates/Notes/Maps",
-    "StorytellerSuite/Templates/Notes/Groups",
-    "StorytellerSuite/Templates/Notes/Items",
-    "StorytellerSuite/Templates/Notes/Events",
-    "Images/The Collapse of Central Stage/Maps/eastern_tunnel_map.png",
-    "Images/The Collapse of Central Stage/Maps/rebellion_mural_map.png",
-    "Images/The Collapse of Central Stage/Maps/central_cavern.png",
-    "Images/Festival of Granite Rain/trident_sliding_puzzle_8.jpg",
-    "Images/Festival of Granite Rain/trident_sliding_puzzle_1.jpg",
-    "Images/Festival of Granite Rain/trident_sliding_puzzle.jpg",
-    "Images/Festival of Granite Rain/RebelRecruitmentCoin.png",
-    "Images/Festival of Granite Rain/ColorCipher.png",
-    "Images/rebellionSymbol.png",
-    "Images/The Collapse of Central Stage/rune_plank_clue.png",
->>>>>>> Stashed changes
-    "Untitled.canvas",
-    "Untitled 1.canvas",
-    "Untitled 2.canvas",
-    "Nervios/Unique Mechanics/Untitled.canvas"
+    "StorytellerSuite/Stories/Nervios Campaign/Characters/The Mask Seller.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Compendium",
+    "StorytellerSuite/Stories/Nervios Campaign/References",
+    "StorytellerSuite/Stories/Nervios Campaign/MagicSystems",
+    "StorytellerSuite/Stories/Nervios Campaign/Economies",
+    "StorytellerSuite/Stories/Nervios Campaign/Cultures"
   ]
 }

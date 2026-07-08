@@ -4,7 +4,11 @@ name: Muscle Milk
 isPlotCritical: false
 associatedEvents:
   - The Festival of Granite Rain
-currentOwner: "[[Sven]]"
+currentOwner:
+  - Sven
+culturalSignificance: Few people in [[Nervios]] have consumed this beverage. Many are scared off by the bubbling or [[Sven]]s aggressive personality.
+magicProperties: When consumed, the potion gives a small bonus on all strength rolls and a small penalty on all charisma rolls. The effect lasts for 4 hours.
+_skipSync: true
 ---
 
 ## Description

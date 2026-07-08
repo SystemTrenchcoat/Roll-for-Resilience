@@ -12,7 +12,7 @@ gender: Male
 age: "157"
 race: Dwarf
 height: 4'6"
-currentLocationId: "[[Rutmar Port]]"
+currentLocationId: "[[mqtt0szd3ku57w]]"
 locationHistory:
   - locationId: "[[Rutmar Port]]"
     relationship: moved to
@@ -23,6 +23,7 @@ linkedScenes:
 _skipSync: true
 ownedItems:
   - Oyster and Stone Fruit Salad
+locations: Rutmar Port
 ---
 
 ## Description
