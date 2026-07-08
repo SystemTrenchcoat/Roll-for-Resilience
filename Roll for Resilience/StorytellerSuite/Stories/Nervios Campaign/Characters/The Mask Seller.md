@@ -14,8 +14,7 @@ quirks: They don't wear a mask, but instead a veil of beads that obscures their 
 id: mr3u6zadotcinu
 groups:
   - "[[Smugglers]]"
-linkedScenes:
-  - "[[Peaking in the Burrow]]"
+linkedScenes: "[[Peaking in the Burrow]]"
 _skipSync: true
 ---
 

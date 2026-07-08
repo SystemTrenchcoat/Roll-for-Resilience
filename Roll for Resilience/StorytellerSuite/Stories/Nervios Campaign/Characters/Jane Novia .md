@@ -6,7 +6,7 @@ traits:
   - rebellious
   - short-tempered
   - Independent
-currentLocationId: "[[Nervios]]"
+currentLocationId: "[[mpx2158gl1jore]]"
 locationHistory:
   - locationId: "[[Nervios]]"
     relationship: moved to
@@ -17,6 +17,8 @@ race: Human
 height: 5'2
 id: mpx2158gl1jore
 quirks: "Hates being stared at, Snaps at those who invade her privacy, Creates rude nicknames for aquaintances "
+_skipSync: true
+locations: Nervios
 ---
 
 ## Description

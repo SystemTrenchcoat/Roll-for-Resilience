@@ -6,6 +6,11 @@ status: Active
 parentLocationId: "[[Rutmar Port]]"
 type: building
 id: mr2baw9n9zy8jo
+entityRefs:
+  - entityId: "[[The Festival of Granite Rain]]"
+    entityType: scene
+    relationship: takes place here
+_skipSync: true
 ---
 
 ## Description

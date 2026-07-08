@@ -11,6 +11,7 @@ progress: 100
 narrativeMarkers:
   isFlashback: true
 id: mqgsunf5gz4opm
+_skipSync: true
 ---
 
 ## Description

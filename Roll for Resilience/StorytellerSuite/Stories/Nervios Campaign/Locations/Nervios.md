@@ -7,10 +7,10 @@ id: mpvzob4sd6zoil
 entityRefs:
   - entityId: "[[Edward Krinok]]"
     entityType: character
-    relationship: located
+    relationship: associated
   - entityId: "[[Leon Asker]]"
     entityType: character
-    relationship: located
+    relationship: associated
   - entityId: "[[Jane Novia]]"
     entityType: character
     relationship: located
@@ -30,18 +30,6 @@ entityRefs:
     entityType: character
     relationship: located
   - entityId: "[[Granite Puzzle Piece]]"
-    entityType: item
-    relationship: located
-  - entityId: "[[The Nothing Box]]"
-    entityType: item
-    relationship: located
-  - entityId: "[[The Flaccet]]"
-    entityType: item
-    relationship: located
-  - entityId: "[[Clock Bear]]"
-    entityType: item
-    relationship: located
-  - entityId: "[[Self Defense Gloves]]"
     entityType: item
     relationship: located
 _skipSync: true

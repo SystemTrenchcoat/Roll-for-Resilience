@@ -12,7 +12,7 @@ race: Human
 age: "36"
 height: 5' 7"
 id: mpwy9llxpu5enh
-currentLocationId: "[[Nervios]]"
+currentLocationId: "[[mpwy9llxpu5enh]]"
 _skipSync: true
 locations: Nervios
 locationHistory:
@@ -23,6 +23,8 @@ groups:
 status: Alive
 ownedItems:
   - Rebel Coin
+linkedScenes:
+  - "[[The Festival of Granite Rain]]"
 ---
 
 ## Description
