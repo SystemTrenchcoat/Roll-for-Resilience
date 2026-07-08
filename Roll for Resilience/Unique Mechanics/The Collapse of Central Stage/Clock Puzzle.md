@@ -12,16 +12,16 @@ Beneath the inscription, a large patch of blue moss grows on the floor and lower
 On the backside of the entrance door is a less grandiose and more recent mural of the [[Rebellion Symbol]]. 
 ![[rebellionSymbol.png|300]]
 ### Boulder
-To the right of the entrance is a open chamber with a large boulder in the center. A distinct pattern of red, blue, and yellow moss grows on the skirts between the boulder and the floor. On the southern edge of the boulder, another image of the [[rebellionSymbol.png|Symbol of the Rebellion]] is painted above a patch of blue moss. Starting from the blue moss and symbol and travelling clockwise around the boulder, the pattern of moss is as follows:
-> **Blue** -> yellow -> yellow -> red -> **Blue** -> red -> yellow -> yellow -> **Blue** -> red -> yellow -> red -> *Beginning*
+To the right of the entrance is a open chamber with a large boulder in the center. A distinct pattern of magenta, blue, and yellow moss grows on the skirts between the boulder and the floor. On the southern edge of the boulder, another image of the [[rebellionSymbol.png|Symbol of the Rebellion]] is painted above a patch of blue moss. Starting from the blue moss and symbol and travelling clockwise around the boulder, the pattern of moss is as follows:
+> **Blue** -> yellow -> magenta -> yellow -> **Blue** -> magenta -> yellow -> magenta -> **Blue** -> magenta -> yellow -> yellow -> *Beginning*
 
 ### Moss and Tunnels
-Travelling around the loop of the tunnels, a distinct pattern emerges. A large patch of blue moss is followed by three center-inset tunnels. Within these inner tunnels, either all red or all yellow moss grows wildly. After the set of three tunnels, another patch of blue moss grows on the inner walls of the loop. This pattern continues twice more, until it meets back at the start. The pattern, starting at the inscription and blue moss and travelling clockwise around the loop is as follows:
-> **Blue** -> yellow -> yellow -> red -> **Blue** -> red -> yellow -> red -> **Blue** -> red -> yellow -> red -> *Beginning*
+Travelling around the loop of the tunnels, a distinct pattern emerges. A large patch of blue moss is followed by three center-inset tunnels. Within these inner tunnels, either all magenta or all yellow moss grows wildly. After the set of three tunnels, another patch of blue moss grows on the inner walls of the loop. This pattern continues twice more, until it meets back at the start. The pattern, starting at the inscription and blue moss and travelling clockwise around the loop is as follows:
+> **Blue** -> yellow -> magenta -> yellow -> **Blue** -> magenta -> yellow -> yellow -> **Blue** -> magenta -> yellow -> yellow -> *Beginning*
 
 ## Rules
 *All information the players need to solve the puzzle is provided to them. The rules below exist for the GM's discretion*
-- If players find the correct tunnel out and knock three times, they are 
+- If players find the correct tunnel out and knock three times, a hidden door opens, leading the party into [[The Burrow]].
 
 > [!success]- ## Solution
 > This puzzle is solved by analyzing the pattern of the colored moss around the boulder and comparing it to the colored moss that grows around the loop and in the tunnels. At one of the inner facing tunnels, the color does not match the pattern of the boulder. The inscription helps explain this while orienting the party: 
@@ -33,11 +33,11 @@ Travelling around the loop of the tunnels, a distinct pattern emerges. A large p
 >**Comparing Moss**
 >Starting from the [[Rebellion Mural]] and travelling clockwise around the boulder/loop, the players find two very similar patterns.
 > ### **Boulder Pattern**: 
-> > **Blue** -> yellow -> yellow -> red -> **Blue** -> red -> yellow -> yellow -> **Blue** -> red -> yellow -> red
+> > **Blue** -> yellow -> magenta -> yellow -> **Blue** -> magenta -> yellow -> magenta -> **Blue** -> magenta -> yellow -> yellow 
 > ### **Tunnel Loop Pattern**: 
-> > **Blue** -> yellow -> yellow -> red -> **Blue** -> red -> yellow -> *red* -> **Blue** -> red -> yellow -> red
+> > **Blue** -> yellow -> magenta -> yellow -> **Blue** -> magenta -> yellow -> *yellow* -> **Blue** -> magenta -> yellow -> yellow 
 > 
-> The tunnel with the red moss (6th tunnel clockwise from inscription) is red while on the boulder the moss is yellow. This signifies that this "hand" is broken and the proper 
+> The tunnel with the yellow moss (6th tunnel clockwise from inscription) is yellow while on the boulder the moss is magenta. This signifies that this "hand" is broken and the party must knock three times in the tunnel
 
 
 ![[eastern_tunnel_map.png]]

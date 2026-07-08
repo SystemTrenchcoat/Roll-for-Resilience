@@ -18,11 +18,11 @@ In front of you, directly across the door, an inscription in the wall reads:
 >  The Gate Sits At Noon
 >  Seek the broken hand and knock thrice***"
 
-Beneath the inscription, a small patch of blue moss grows on the walls to roughly knee-height. To your left, the path continues on and continues around a bend. To your right, a giant boulder sits in the center of a vast chamber. Growing neatly around the boulders bottom edge is a distinct pattern of blue, yellow, and red moss. Drawn onto the boulders southern face is a small image of the [[Rebellion Symbol]], the same as on the entrance door. The pattern of the moss is as follows, starting from the Rebellion Symbol and heading clockwise:
-> **Blue** -> yellow -> yellow -> red -> **Blue** -> red -> yellow -> yellow -> **Blue** -> red -> yellow -> red
+Beneath the inscription, a small patch of blue moss grows on the walls to roughly knee-height. To your left, the path continues on and continues around a bend. To your right, a giant boulder sits in the center of a vast chamber. Growing neatly around the boulders bottom edge is a distinct pattern of blue, yellow, and magenta moss. Drawn onto the boulders southern face is a small image of the [[Rebellion Symbol]], the same as on the entrance door. The pattern of the moss is as follows, starting from the Rebellion Symbol and heading clockwise:
+> **Blue** -> yellow -> magenta -> yellow -> **Blue** -> magenta -> yellow -> magenta -> **Blue** -> magenta -> yellow -> yellow -> *Beginning*
 
-Whether the party travels to the left or to the right, the tunnels are a loop and the party ends up back to the entrance door. As they travel around the loop, they come across a unique pattern of moss, colored blue, yellow, and red. Blue moss sits on the inner wall of the loop, while the red and yellow moss fills tunnels that point in towards the center. The pattern is as follows, travelling clockwise starting at the inscription with blue moss:
-> **Blue** -> yellow -> yellow -> red -> **Blue** -> red -> yellow -> red -> **Blue** -> red -> yellow -> red
+Whether the party travels to the left or to the right, the tunnels are a loop and the party ends up back to the entrance door. As they travel around the loop, they come across a unique pattern of moss, colored blue, yellow, and magenta. Blue moss sits on the inner wall of the loop, while the magenta and yellow moss fills tunnels that point in towards the center. The pattern is as follows, travelling clockwise starting at the inscription with blue moss:
+> **Blue** -> yellow -> magenta -> yellow -> **Blue** -> magenta -> yellow -> yellow -> **Blue** -> magenta -> yellow -> yellow -> *Beginning*
 
 > [!info] ### For the solution refer to [[Clock Puzzle]]
 
