@@ -4,30 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "3489c0d9311efd53",
-        "type": "tabs",
-        "dimension": 46.52956298200514,
-        "children": [
-          {
-            "id": "614b32e7f67e5357",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Collapse of Central Stage.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Collapse of Central Stage"
-            }
-          }
-        ]
-      },
-      {
         "id": "3b37655e7164df84",
         "type": "tabs",
-        "dimension": 53.470437017994854,
         "children": [
           {
             "id": "509fd4731612fe8f",
@@ -35,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unique Mechanics/The Collapse of Central Stage/Clock Puzzle.md",
+                "file": "Nervios/Worldbuilding/The City of Nervios - An Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Clock Puzzle"
+              "title": "The City of Nervios - An Introduction"
             }
           }
         ]
@@ -100,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 263.5
+    "width": 318.5
   },
   "right": {
     "id": "59ff323b99e34f60",
@@ -201,8 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395.5,
-    "collapsed": true
+    "width": 395.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,48 +195,48 @@
       "storyteller-suite:Apply template to story": false
     }
   },
-  "active": "614b32e7f67e5357",
+  "active": "509fd4731612fe8f",
   "lastOpenFiles": [
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Edral Dakhan.md",
-    "Unique Mechanics/The Collapse of Central Stage/Flower Puzzle.md",
-    "Unique Mechanics/The Collapse of Central Stage/Clock Puzzle.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios.md",
+    "Nervios/Worldbuilding/The City of Nervios - An Introduction.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Groups/Church of Aequorism.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Locations/Ivory Bazaar.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Locations/The Nervios Eye.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Items/Bag Me Up Items/Self Defense Gloves.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Items/Bag Me Up Items/The Flaccet.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Nervios Tunnels.md",
+    "Images/The Collapse of Central Stage/Maps/nervios_underground_whole_map.png",
     "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Eastern Tunnel System.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Collapse of Central Stage.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Scenes/Peaking in the Burrow.md",
+    "Images/The Collapse of Central Stage/Maps/nervios_underground.png",
+    "Images/The Collapse of Central Stage/Maps/city_of_Nervios_map.png",
+    "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Rebellion Mural.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Items/Stone Lotus Flower.md",
+    "Images/The Collapse of Central Stage/stone_lotus_flower.png",
+    "Unique Mechanics/The Collapse of Central Stage/Clock Puzzle.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Locations/Sisyphus Hill.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Central Cavern.md",
+    "Unique Mechanics/The Collapse of Central Stage/Rune Puzzle.md",
+    "Unique Mechanics/The Collapse of Central Stage/Flower Puzzle.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Flora Tunnels.md",
+    "Images/The Collapse of Central Stage/Maps/flower_tunnels_map.png",
+    "StorytellerSuite/Stories/Nervios Campaign/Characters/Edral Dakhan.md",
     "Images/The Collapse of Central Stage/Maps/eastern_tunnel_map.png",
     "Images/The Collapse of Central Stage/Maps/central_cavern.png",
     "StorytellerSuite/Stories/Nervios Campaign/Items/The Seafarers Herb.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Collapse of Central Stage.md",
-    "Unique Mechanics/The Collapse of Central Stage/Rune Puzzle.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Scenes/Peaking in the Burrow.md",
     "Nervios/Worldbuilding/Rebellion Symbol.md",
     "StorytellerSuite/Stories/Nervios Campaign/Items/Yellow Noble Bloom.md",
     "StorytellerSuite/Stories/Nervios Campaign/Items/Great Blue Cave Plant.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Rebellion Mural.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Nervios Tunnels.md",
     "StorytellerSuite/Stories/Nervios Campaign/Characters/Iniza Brada.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Central Cavern.md",
     "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Rune Tunnels.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Flora Tunnels.md",
-    "Nervios/Worldbuilding/Government.md",
-    "Nervios/Worldbuilding/History.md",
-    "Nervios/Worldbuilding/Culture.md",
-    "Nervios/Worldbuilding/Economy.md",
-    "Nervios/Worldbuilding/Spore Blight.md",
-    "Nervios/Worldbuilding/Setting.md",
     "Images/rebellionSymbol.png",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Emery Sai.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Donic.md",
     "Images/The Collapse of Central Stage/Maps/rebellion_mural_map.png",
     "Images/The Collapse of Central Stage/Maps",
     "Images/The Collapse of Central Stage/New folder",
-    "Nervios/Module/Narrative.md",
     "Images/rebellionSymbol.png~",
     "Images/The Collapse of Central Stage/rune_plank_clue.png",
     "Images/The Collapse of Central Stage/rune_plank_clue.png.opdownload",
-    "Images/The Collapse of Central Stage/Runes/axe_rune.png",
-    "Images/The Collapse of Central Stage/Runes/hammer_rune.png",
-    "Images/The Collapse of Central Stage/Runes/m_rune.png",
-    "Images/The Collapse of Central Stage/Runes/r_rune.png",
-    "Images/The Collapse of Central Stage/Runes/t_rune.png",
     "Images/The Collapse of Central Stage/Runes",
     "StorytellerSuite/GalleryUploads",
     "Images/The Collapse of Central Stage",

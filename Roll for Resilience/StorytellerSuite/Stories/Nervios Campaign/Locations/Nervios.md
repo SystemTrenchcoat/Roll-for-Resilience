@@ -37,7 +37,7 @@ childLocationIds:
   - "[[Rutmar Port]]"
   - "[[The Broken Ravine]]"
   - "[[Merrene Manor]]"
-  - "[[Watching Eye (Spire)]]"
+  - "[[The Nervios Eye]]"
   - "[[Wavecrest Market]]"
   - "[[Serenetti Castle]]"
   - "[[Bag Me Up]]"
@@ -51,3 +51,5 @@ A Kingdom set on a peninsula, with a large wall separating the city from the res
 
 ## History
 After a period of turmoil, a group of elite wizards/militants rise to power and enforce the spire in the middle of town to help maintain fear and control.
+
+![[city_of_Nervios_map.png]]

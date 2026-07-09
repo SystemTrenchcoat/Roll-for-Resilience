@@ -22,3 +22,7 @@ A large underground network of connecting tunnels, caverns, and caves that run b
 
 ## History
 Long forgotten by the city guard, the tunnels serve as a hotspot for criminal activities; more specifically, a hotspot for rebels. Any characters who are involved with criminal activity may have heard a rumor that the tunnels lead to the black market known as [[The Burrow]].
+
+## Map
+***This map is for the DM's eyes only***
+![[nervios_underground.png]]
