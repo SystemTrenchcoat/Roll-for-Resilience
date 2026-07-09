@@ -516,18 +516,18 @@
   "dailyWritingStats": [
     {
       "date": "2026-07-08",
-      "wordsWritten": 9,
-      "wordsDeleted": 0,
-      "netWords": 9,
+      "wordsWritten": 227,
+      "wordsDeleted": 4,
+      "netWords": 223,
       "timeSpent": 0,
       "scenesEdited": [],
       "goalMet": false
     },
     {
-      "date": "2026-07-08",
-      "wordsWritten": 227,
-      "wordsDeleted": 4,
-      "netWords": 223,
+      "date": "2026-07-09",
+      "wordsWritten": 0,
+      "wordsDeleted": 0,
+      "netWords": 0,
       "timeSpent": 0,
       "scenesEdited": [],
       "goalMet": false

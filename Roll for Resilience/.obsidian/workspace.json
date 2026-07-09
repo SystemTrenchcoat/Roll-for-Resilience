@@ -6,7 +6,6 @@
       {
         "id": "3489c0d9311efd53",
         "type": "tabs",
-        "dimension": 46.52956298200514,
         "children": [
           {
             "id": "614b32e7f67e5357",
@@ -14,33 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Collapse of Central Stage.md",
+                "file": "StorytellerSuite/Stories/Nervios Campaign/Characters/Lynette Merrene.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Collapse of Central Stage"
-            }
-          }
-        ]
-      },
-      {
-        "id": "3b37655e7164df84",
-        "type": "tabs",
-        "dimension": 53.470437017994854,
-        "children": [
-          {
-            "id": "509fd4731612fe8f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unique Mechanics/The Collapse of Central Stage/Clock Puzzle.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Clock Puzzle"
+              "title": "Lynette Merrene"
             }
           }
         ]
@@ -201,8 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395.5,
-    "collapsed": true
+    "width": 395.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,14 +197,15 @@
   },
   "active": "614b32e7f67e5357",
   "lastOpenFiles": [
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Edral Dakhan.md",
-    "Unique Mechanics/The Collapse of Central Stage/Flower Puzzle.md",
     "Unique Mechanics/The Collapse of Central Stage/Clock Puzzle.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Characters/Edral Dakhan.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Collapse of Central Stage.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Characters/Lynette Merrene.md",
+    "Unique Mechanics/The Collapse of Central Stage/Flower Puzzle.md",
     "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Eastern Tunnel System.md",
     "Images/The Collapse of Central Stage/Maps/eastern_tunnel_map.png",
     "Images/The Collapse of Central Stage/Maps/central_cavern.png",
     "StorytellerSuite/Stories/Nervios Campaign/Items/The Seafarers Herb.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Collapse of Central Stage.md",
     "Unique Mechanics/The Collapse of Central Stage/Rune Puzzle.md",
     "StorytellerSuite/Stories/Nervios Campaign/Scenes/Peaking in the Burrow.md",
     "Nervios/Worldbuilding/Rebellion Symbol.md",
@@ -251,7 +229,6 @@
     "Images/The Collapse of Central Stage/Maps/rebellion_mural_map.png",
     "Images/The Collapse of Central Stage/Maps",
     "Images/The Collapse of Central Stage/New folder",
-    "Nervios/Module/Narrative.md",
     "Images/rebellionSymbol.png~",
     "Images/The Collapse of Central Stage/rune_plank_clue.png",
     "Images/The Collapse of Central Stage/rune_plank_clue.png.opdownload",
