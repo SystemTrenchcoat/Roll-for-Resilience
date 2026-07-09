@@ -3,14 +3,14 @@ location:
   - "[[Flora Tunnels]]"
 ---
 ## Description
-In a small open cavern lies three open doorways, three ornate pedestals with different plants on their caps, a wooden sign, and a small mural of the [[Rebellion Symbol]]. 
+In a small open cavern lies three open doorways, three ornate pedestals with different plants on their caps and a key-slot on their columns, a wooden sign, and a small shrine with an image of the [[Rebellion Symbol]]. 
 
 The wooden sign is posted above the pedestals and reads:
 > **Three keys to seek out
 > Three pathways to trace them out
 > Three seals to shatter
 
-The mural should be unrecognizable to the party, unless they have already seen the symbol in the cavern with the [[Rebellion Mural]]. If any character's backstories have connections to the [[Rebels]], they could recognize it.
+The mural should be unrecognizable to the party, unless they have already seen the symbol in the cavern with the [[Rebellion Mural]]. If any character's backstories have connections to the [[Rebels]], then they could recognize it thorough a normal-difficulty history check.
 
 **The Pedestals are described as follows: **
 
@@ -39,7 +39,7 @@ Peering into the three doorways, the players can see a plant a short distance ah
 | Arrow Trap                  | Small arrows shoot from holes in the wall near the trap. They are targeted at your feet. If they hit, take a small amount of damage.                                                            |
 | Wave Trap                   | A small gush of water spews from beneath your feet, pushing you back to the last intersection you were at.                                                                                      |
 | Swinging Rock               | A small rock detaches from the roof and swings at you via an underground vine. If it hits, take a small amount of damage and get knocked back to the last intersection you were at              |
-| Ant Trap                    | Your legs begin to itch as hundreds of ants crawl onto you from the ground up, coming from the pressure plate. They cause no damage, but act as a warning                                       |
+| Ant Trap                    | Your legs begin to itch as hundreds of ants crawl onto you from the ground up, coming from the pressure plate. They cause no damage and act as a warning                                        |
 
 > [!success]- ### Solution
 > This puzzle is based around entering each doorway and following its set path based on the plant that lies at intersections. For example, if the player enters the leftmost door, they are met with a [[Great Blue Cave Plant]]. This signifies that they need to head to the right.
@@ -52,7 +52,12 @@ Peering into the three doorways, the players can see a plant a short distance ah
 | Rightmost | Left -> Straight -> Right -> Straight -> Left -> Right -> Right -> Left -> Straight -> Right -> Left -> END PEDESTAL                                                                                                         |
 > The end of each path converges into a small room with a large round table. Sketched onto the table sits three magic seals. When a path is solved the seal beings glowing a deep blue, and a key comes out of the center of the seal.
 > 
-> Once each path has been taken and each seal has been unlocked, the room with the table begins to shake violently and spin. The room spins for ten seconds. When it finally ends, only one exit is visible. Traveling through the exit leads the players directly back to the [[Central Cavern]] 
+> Once each key has been earned, they should be brought back to the beginning chamber of the puzzle and inserted into the key-slots on the pedestals. After all three have been entered and turned, a deep grinding rumbles from the stone shrine. The sculpture of ship and wave splits and slides apart, and from beneath them a pillar rises from the center. The pillar clicks into place at around chest height. A small stone sculpture of a closed [[Stone Lotus Flower|Lotus Flower Bud]] rests on top of the pillar. A small threaded slot is carved into the bottom of the sculpture.
+> >[!info] History Check
+> >If the party has been to the [[Rebellion Mural]], they will remember the blooming stone lotus flowers along the pond.
+> 
+> After gaining half of the [[Stone Lotus Flower]], they can travel back to [[Central Cavern]] and collect the other half at the [[Rune Puzzle]]. Once both halves are collected, refer to [[Rebellion Mural]] for use.
+
 
 
 

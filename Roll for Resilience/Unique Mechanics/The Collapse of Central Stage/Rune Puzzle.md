@@ -56,13 +56,15 @@ On the wall nearest the center of these chests is a smaller mural of the [[Rebel
 
 As the party enters this final chamber, each member should make a *normal* difficulty perception check. If successful, they can hear a slight hum emanating from the wooden plank clue. Upon inspection, the text "***Avoid All Copies***" has stopped pulsing and instead glows consistently. Furthermore, the color of the text has changed to the same light blue as the runes. 
 
->[!success]- Final Chamber Solution
+>[!success]- ### Final Chamber Solution
 >The correct rune is:
 ><img style="height:75px;" src="Images/The Collapse of Central Stage/Runes/r_rune.png">
 >
 >Here, the wooden plank clue takes on a new meaning. "***Avoid All Copies***" now means to avoid all runes that have been the correct path before. A normal difficulty history check can reveal that the "R" rune has yet to be the solution while all other runes have already been a solution prior.
 >___
->Within the chest denoted by the "R" rune exists a key. Shortly after picking up the key, the room goes pitch-black and all of the runes vanish. After a few seconds in the dark, a rune begins glowing at the foot of the entrance to the chamber. The rune is the "R" rune, and as it increases in brightness, the party can see that the tunnel out now leads straight back into [[Central Cavern]].
+>Within the chest denoted by the "R" rune exists a long-thin stone rod. One end of the rod is carved into a key-pattern, the other end is threaded. The rod is one half to the [[Stone Lotus Flower]]. Shortly after picking up the flower stem, the room goes pitch-black and all of the runes vanish. After a few seconds in the dark, a rune begins glowing at the foot of the entrance to the chamber. The rune is the "R" rune, and as it increases in brightness, the party can see that the tunnel out now leads straight back into [[Central Cavern]].
+>>[!info] History Check
+>>If the party already gained the stone lotus flower bud from the [[Flower Puzzle]], they will notice the threading on both sculptures match and can be screwed together.
 >___
 >After all members of the party exit the final chamber into [[Central Cavern]], the glow of the "R" rune begins to fade away until the tunnel becomes pitch black once again. If the party attempts to go back through the tunnel, they end up traveling back to the beginning of the puzzle instead.
 ### Traps
