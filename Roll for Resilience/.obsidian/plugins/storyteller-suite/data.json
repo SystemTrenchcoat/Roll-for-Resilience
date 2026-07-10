@@ -69,11 +69,6 @@
           "type": "character",
           "id": "mq8e8gtilwl7sn",
           "name": "Gweneth Falzy"
-        },
-        {
-          "type": "character",
-          "id": "mrayzmrxsmd0hu",
-          "name": "Emery Sai"
         }
       ],
       "description": "Followers and priests of Umorism.",
@@ -125,7 +120,7 @@
           "name": "Nervios Tunnels"
         }
       ],
-      "description": "A group that hates the \"ever-watching eyes\" and wishes to bring Nervios freedom through contact with the outside world and the destruction of the eyes\r\n\r\n- Quiet / Gaining traction, trying to help people escape, close ties to smugglers.\r\n    \r\n- Truly believes they’re doing what’s best for everyone, especially the people in the town\r\n    \r\n- End goal for the rebels (assuming they know or at least believe all the towers are widely unmanned): expose the truth of the matter. Maybe they want to expose the nobles too. Most likely anti-noble if they know their history (which at least the important ones probably do)\r\n    \r\n- Probably have spies in the guards\r\n    \r\n\r\n- Definitely trying to find some high ups willing to help to learn more about the panopticon\r\n    \r\n\r\n- Often work under darkness or / and with obscuring / illusion spells\r\n    \r\n- Definitely have a tunnel system\r\n    \r\n- Strong aura of secrecy, especially in their upper ranks\r\n    \r\n- Most often help people escape the town\r\n    \r\n- Maybe offers places of solace where the eye cannot see?\r\n    \r\n- The collectivist to the guard / government’s isolationist",
+      "description": "A group that hates the \"ever-watching eyes\" and wishes to bring Nervios freedom through contact with the outside world and the destruction of the eyes\n\n- Quiet / Gaining traction, trying to help people escape, close ties to smugglers.\n    \n- Truly believes they’re doing what’s best for everyone, especially the people in the town\n    \n- End goal for the rebels (assuming they know or at least believe all the towers are widely unmanned): expose the truth of the matter. Maybe they want to expose the nobles too. Most likely anti-noble if they know their history (which at least the important ones probably do)\n    \n- Probably have spies in the guards\n    \n\n- Definitely trying to find some high ups willing to help to learn more about the panopticon\n    \n\n- Often work under darkness or / and with obscuring / illusion spells\n    \n- Definitely have a tunnel system\n    \n- Strong aura of secrecy, especially in their upper ranks\n    \n- Most often help people escape the town\n    \n- Maybe offers places of solace where the eye cannot see?\n    \n- The collectivist to the guard / government’s isolationist",
       "history": "",
       "structure": "",
       "goals": "",
@@ -648,6 +643,24 @@
       "startTime": "2026-07-09T20:57:30.688Z",
       "endTime": "2026-07-09T20:58:20.996Z",
       "wordsWritten": 91
+    },
+    {
+      "id": "writing-1783690773686-zr7c5o",
+      "startTime": "2026-07-10T13:39:33.686Z",
+      "endTime": "2026-07-10T15:27:19.366Z",
+      "wordsWritten": 27,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Bethia Tallowwind.md"
+      ]
+    },
+    {
+      "id": "writing-1783697570933-431zza",
+      "startTime": "2026-07-10T15:32:50.933Z",
+      "endTime": "2026-07-10T15:41:33.385Z",
+      "wordsWritten": 38,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Bethia Tallowwind.md"
+      ]
     }
   ],
   "trackWritingSessions": false,
@@ -693,6 +706,15 @@
       "timeSpent": 0,
       "scenesEdited": [],
       "goalMet": true
+    },
+    {
+      "date": "2026-07-10",
+      "wordsWritten": 65,
+      "wordsDeleted": 0,
+      "netWords": 65,
+      "timeSpent": 0,
+      "scenesEdited": [],
+      "goalMet": false
     }
   ],
   "dashboardAccentBorders": false,
