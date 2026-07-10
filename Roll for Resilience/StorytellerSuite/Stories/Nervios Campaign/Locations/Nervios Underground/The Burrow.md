@@ -18,6 +18,16 @@ The burrow is categorized by being lit by many bioluminescent plants that are wi
 ### The Mask Sellers Tent
 	Near the entrance of The Burrow, there is a small tent where [[The Mask Seller]] lives. They are a mysterious, yet helpful figure that supplies the members of the Burrow with most of their masks and their customizations.
 
-### F
-	
+### The Weapon Stall
+	 Gregory Marsh runs the weapon stall here, 
+
+### The Fight Pit
+
+### The Sea Scribe "Academy"
+
+### Food Pit
+
+### Bethia's Stall
+
+
 ## History
