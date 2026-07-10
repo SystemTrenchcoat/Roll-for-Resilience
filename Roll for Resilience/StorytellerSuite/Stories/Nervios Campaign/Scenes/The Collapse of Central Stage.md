@@ -56,6 +56,7 @@ This mission takes place underground in secluded tunnels far from any NPCS. The 
 | [[Great Blue Cave Plant]] | A bitter plant with thick leaves that glow slightly blue due to bioluminescence. Eating one would make you sick, though you would glow blue for a bit. The intensity and duration of all effects would be based on how much was consumed.                                                 |
 | [[The Seafarers Herb]]    | Very salty and bitter. Technically edible but it doesn’t taste good. Could maybe work as a seasoning though but one would need experience with cooking                                                                                                                                    |
 | [[Yellow Noble Bloom]]    | Their leaves are sharp and slightly sticky, though brushing by them won’t do anything. Touching one bare handed to pull out and eat would first lead to a cut. If a player decides to eat one anyways, it’s slightly sweet but that though would be blocked out by the pain of the leaves |
+| [[Stone Lotus Flower]]    | A stone sculpture made of two parts earned from the [[Flower Puzzle]] and [[Rune Puzzle]]. It acts as the key that unlocks the [[Rebellion Mural]] door.                                                                                                                                  |
 ## Core Mechanics
 - [[Flower Puzzle]]
 - [[Rune Puzzle]]

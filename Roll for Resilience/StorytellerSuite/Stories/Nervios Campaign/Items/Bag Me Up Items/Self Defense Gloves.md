@@ -12,7 +12,3 @@ A pair of leather gloves. One of the gloves is covered with a thick wax, making 
 ## History
 Invention of [[Mr. Whatzit]]. Inspired by the phrase "wax on, wax off"
 
-## Cultural Significance
-
-
-## Magic Properties
