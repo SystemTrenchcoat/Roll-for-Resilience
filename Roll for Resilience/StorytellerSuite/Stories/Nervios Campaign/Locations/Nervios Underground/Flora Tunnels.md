@@ -31,7 +31,7 @@ A square stone shrine stands a few steps behind the plant pedestals. The shrine 
 
 >[!info] Symbol History Check
 > - Players familiar with the [[Rebels]] or the criminal underbelly of Nervios could recognize this symbol as the [[Rebellion Symbol]].
-> - If the players have already seen the [[Rebellion Symbol]] at the [[Rebellion Mural]], they will recognize the symbol immediately.
+> - If the players have already seen the [[Rebellion Symbol]] at the [[Rebellion Mural]] or the [[Rune Tunnels]], they will recognize the symbol immediately.
 
 A small sculpture sits in the center of the shrine atop a small pillar. The sculpture shows the image of a ship crashing into a large wave. A man stands defiantly at the bow of the ship, holding a scroll in one hand and a sextant in the other.
 
@@ -78,10 +78,10 @@ Once all three keys have been collected and turned into the pedestal slots, a li
 ### Prize
 Within the shrine lies a small stone sculpture of a closed lotus flower bud. The petals of the bud taper together to create a rain-drop shape. A deep threaded hole is carved into the bottom of the bud, in the center of the thickest part of the sculpture. 
 
-The sculpture is one-half of the [[Stone Lotus Flower]], the key to unlocking the [[Rebellion Mural]].
+The sculpture is one-half of the [[Stone Lotus Flower]], the key to unlocking the [[Rebellion Mural]] door.
 
 >[!info] History and Investigation Checks
->- If the players have visited the [[Rebellion Mural]], a normal-difficulty investigation/history check can reveal that the sculpture is of the same craftsmanship as the lotus flower sculptures by the pond.
+>- If the players have visited the [[Rebellion Mural]], a *normal-difficulty* investigation/history check can reveal that the sculpture is of the same craftsmanship as the lotus flower sculptures by the pond.
 >	- The check can also remind the party of the lone stem without a flower at the sculptures by the pond
 
 # History

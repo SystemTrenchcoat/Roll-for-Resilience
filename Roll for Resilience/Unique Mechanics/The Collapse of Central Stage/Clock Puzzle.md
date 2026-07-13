@@ -23,7 +23,7 @@ Travelling around the loop of the tunnels, a distinct pattern emerges. A large p
 *All information the players need to solve the puzzle is provided to them. The rules below exist for the GM's discretion*
 - If players find the correct tunnel out and knock three times, a hidden door opens, leading the party into [[The Burrow]].
 
-> [!success]- ## Solution
+> [!success] ## Solution
 > This puzzle is solved by analyzing the pattern of the colored moss around the boulder and comparing it to the colored moss that grows around the loop and in the tunnels. At one of the inner facing tunnels, the color does not match the pattern of the boulder. The inscription helps explain this while orienting the party: 
 > > ***The boulder a clock***: The boulder is a tool for orientation.
 > > ***The moss the time***: There are 12 distinct patches of moss, reflecting the 12 hours on a clock
