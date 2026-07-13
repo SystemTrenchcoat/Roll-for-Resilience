@@ -14,13 +14,17 @@ height: 5'7"
 age: ??
 id: mrayzmrxsmd0hu
 ---
-(EM-AIR-REE SIGH) - (any)
+(EM-AIR-EE SIGH) - (any)
 As one of the last living members of his family, he carries the long legacy of Umorist scribes upon his shoulders, coming to embody the dimming flame of the faith as a whole. He's determined to enshrine the memory of Umorism somewhere safe, as his final religious undertaking.
 
 ## Description
-A black braid dangles down the back of an eerily smooth and slender frame. Dancing down the side length of his neck is a gash of scarred tissue, averting your gaze from his amber eyes.
+A black braid dangles down the slender back of his 5'7" body, his skin devoid of nearly any blemish, except in one area. Dancing down the side length of his neck is a gash of scarred tissue, averting your gaze from his amber eyes.
 
-Emery speaks in a drawn out and breathy manner, with most sounds coming from the front of the mouth. 
+Players with a passive wisdom / perception of 14 will notice
+> *Emery speaks with the cadence of a man more blessed in years, yet the eerie glow of youth in his skin suggests against this. Your mind draws blank on what age he could possibly be*.
+
+## Vocal direction
+Emery speaks in a drawn out and breathy manner, with most sounds coming from the front of the mouth. Pace your sentences very deliberately, placing emphasis on parts of longer words, or ties to faith.
 
 ## Sample Dialog
 - *It brings me hope to know some are willing to coexist*
