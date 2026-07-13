@@ -22,9 +22,9 @@ Three ornate pedestals stand adjacent before you, each with a key slot carved in
 
 ### Sign
 Hanging on the wall behind the pedestals, an old wooden sign hangs lopsidedly by a single frayed string. Now, just barely legible, the sign reads:
-> **Three keys to seek out
-> Three pathways to race them out
-> Three seals to shatter**
+> **Three locks seal the shrine
+  three keys, one down each pathway
+  thy gift sealed inside**
 
 ### Shrine
 A square stone shrine stands a few steps behind the plant pedestals. The shrine is weathered and cracking; it's once intricate design fading and crumbling from age. A familiar icon is painted in thick black ink on the front face of the shrine: the Nervios city gate, once sealed with boulders and rubble, now open with a path cleared through the blockage. 

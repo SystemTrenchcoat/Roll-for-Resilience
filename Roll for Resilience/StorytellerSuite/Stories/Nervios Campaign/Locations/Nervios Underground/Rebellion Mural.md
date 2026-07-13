@@ -5,7 +5,7 @@ locationType: Cavern
 type: room
 id: mr3pt4vh3rispk
 ---
-
+**
 ## Description
 ___
 At the end of the Eastern Tunnels from [[Central Cavern]] exists a large open cavern with high ceilings and jagged walls. The air here is damp, with a strong smell of saltwater. A small pond sits in the center of the cavern, exuding an ethereal glow. Two lit torches hang on the far wall from the entrance, with a massive painted mural between them. As your eyes adjust to the new lighting, the mural begins to take shape: the [[Nervios]] city gate, once sealed with boulders and rubble, now open with the boulders divided down the center.
@@ -15,7 +15,7 @@ A small patch lotus flowers grow in the water along the South-Eastern edge of th
 >[!info] Investigation Checks
 >- If the player characters hold connections to [[The Burrow]] or the [[Rebels]], a normal difficulty check reveals the mural as [[Rebellion Symbol|The Symbol of the Rebellion]]. 
 >- If the player characters have earned both halves of the [[Stone Lotus Flower]] from the [[Flora Tunnels]] and [[Rune Tunnels]], they will recognize the sculpture to be the same as the flowers in the pond. Refer to [[#Unlocking the Mural Door]] for the specific solution.
->- If the player characters investigate the mural, a difficult check reveals that the mural is painted on a large circular door made of rock; it's creases filled with dirt and dust, blending in with the surrounding wall. With this information, players could find a way to dig through or destroy the door.
+>- If the player characters investigate the mural, a *difficult* check reveals that the mural is painted on a large circular door made of rock; it's creases filled with dirt and dust, blending in with the surrounding wall. With this information, players could find a way to dig through or destroy the door.
 
 # Unlocking the Mural Door
 ___

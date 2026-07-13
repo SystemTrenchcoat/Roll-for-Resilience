@@ -1150,6 +1150,69 @@
       "filesEdited": [
         "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Rebellion Mural.md"
       ]
+    },
+    {
+      "id": "writing-1783975078078-hog2ob",
+      "startTime": "2026-07-13T20:37:58.078Z",
+      "endTime": "2026-07-13T20:42:10.766Z",
+      "wordsWritten": 0,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Collapse of Central Stage.md"
+      ]
+    },
+    {
+      "id": "writing-1783975354135-xz4gux",
+      "startTime": "2026-07-13T20:42:34.135Z",
+      "endTime": "2026-07-13T20:43:23.297Z",
+      "wordsWritten": 6,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Collapse of Central Stage.md"
+      ]
+    },
+    {
+      "id": "writing-1783975446687-3xkfmr",
+      "startTime": "2026-07-13T20:44:06.687Z",
+      "endTime": "2026-07-13T20:44:16.931Z",
+      "wordsWritten": 17,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Central Cavern.md"
+      ]
+    },
+    {
+      "id": "writing-1783975476058-evfdo3",
+      "startTime": "2026-07-13T20:44:36.058Z",
+      "endTime": "2026-07-13T20:44:41.864Z",
+      "wordsWritten": 1,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Chapters/Beginning.md"
+      ]
+    },
+    {
+      "id": "writing-1783975483105-8y0gyx",
+      "startTime": "2026-07-13T20:44:43.105Z",
+      "endTime": "2026-07-13T22:01:41.444Z",
+      "wordsWritten": 7,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Collapse of Central Stage.md"
+      ]
+    },
+    {
+      "id": "writing-1783980300607-f5p9wq",
+      "startTime": "2026-07-13T22:05:00.607Z",
+      "endTime": "2026-07-13T22:09:19.970Z",
+      "wordsWritten": 0,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Flora Tunnels.md"
+      ]
+    },
+    {
+      "id": "writing-1783980565937-u061ve",
+      "startTime": "2026-07-13T22:09:25.937Z",
+      "endTime": "2026-07-13T22:10:11.070Z",
+      "wordsWritten": 1,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Rebellion Mural.md"
+      ]
     }
   ],
   "trackWritingSessions": false,
@@ -1207,9 +1270,9 @@
     },
     {
       "date": "2026-07-13",
-      "wordsWritten": 11008,
-      "wordsDeleted": 1867,
-      "netWords": 9141,
+      "wordsWritten": 11040,
+      "wordsDeleted": 1893,
+      "netWords": 9147,
       "timeSpent": 0,
       "scenesEdited": [],
       "goalMet": true
