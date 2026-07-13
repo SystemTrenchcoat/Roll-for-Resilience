@@ -39,6 +39,8 @@ After opening the hidden door at the [[Rebellion Mural]], a separate series of t
 ### 4. Entering [[The Burrow]].
 After completing the [[Clock Puzzle]] in the [[Eastern Tunnel System]], players can enter into [[The Burrow]].
 
+### **Continued on in** [[Peaking in the Burrow]]...
+
 ## Key Locations
 - [[Flora Tunnels]]
 - [[Rune Tunnels]]
