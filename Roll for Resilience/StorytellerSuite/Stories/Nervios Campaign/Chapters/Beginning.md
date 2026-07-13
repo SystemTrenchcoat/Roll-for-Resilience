@@ -12,4 +12,4 @@ _skipSync: true
 ---
 
 ## Summary
-Players are introduced to eachother and to the city of [[Nervios]].
+Players are introduced to each other and to the city of [[Nervios]].

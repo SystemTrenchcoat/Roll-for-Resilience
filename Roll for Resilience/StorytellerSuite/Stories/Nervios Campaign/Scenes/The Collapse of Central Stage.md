@@ -10,16 +10,18 @@ synopsis: The party gets trapped in the Nervios tunnel system, and must find the
 payoffScenes:
   - "[[The Festival of Granite Rain]]"
 ---
-## Content
+# Content
 
-### Hook
+## Hook
+---
 > ***As [[The Wheel of Purity]] is solved and the grand prize is revealed, the stage begins to shift and crack beneath your feet. Suddenly, you plummet downwards as the stage collapses and a thick plume of dust a fills the air. As the dust cloud settles, you find yourself underground in a large cavern with several branching paths. The sinkhole by which you've entered has been sealed by the boulders used to create the stage.***
 
-### Story Beats 
+## Story Beats 
+___
 This mission takes place directly after the events of [[The Festival of Granite Rain]]. Here, players are expected to continue to work as a team and continue forming  interpersonal connections while navigating through puzzles and encounters.
 
-### 1. The Collapse of [[Central Stage]]
-After receiving the grand prize, the stage beneath the party's feet begin to crack and shift under the pressure. Suddenly the ground beneath the stage gives out and the party plummets downwards. As the dust from the collapse settles, the player party finds themselves in a large underground [[Central Cavern|cavern]]. The sinkhole that brought the party here has been sealed by the boulders, and the only way forward is via several branching paths. The lighting is *dim*, as the only natural light is from the bioluminescent glow of different plants and moss.
+### 1. The Fall into [[Central Cavern]]
+After receiving the grand prize at [[The Festival of Granite Rain]], the stage beneath the party's feet begin to crack and shift under the pressure. Suddenly the ground beneath the stage gives out and the party plummets downwards. As the dust from the collapse settles, the player party finds themselves in a large underground [[Central Cavern|cavern]]. The sinkhole that brought the party here has been sealed by the boulders, and the only way forward is via several branching paths. The lighting is *dim*, as the only natural light is from the bioluminescent glow of different plants and moss.
 
 ### 2. The Search for the Exit
 The [[Nervios Tunnels]] are unknown by the general public, so any escape paths must be discovered via exploration and travel. While in the [[Central Cavern]], players can see 7 distinct paths that branch out in several directions. The table below shows the path's destinations:
@@ -31,6 +33,7 @@ The [[Nervios Tunnels]] are unknown by the general public, so any escape paths m
 | Southern Tunnels | To the South of the pile of boulders lies three small tunnels. The tunnels ultimately converge into one, but contain several forks paths that loop back to the [[Central Cavern]].                                                               | [[Rune Tunnels]]    |
 
 Once the party travels through the [[Flora Tunnels]] and the [[Rune Tunnels]] and completes their respective puzzles, they can unlock a hidden door at the [[Rebellion Mural]].
+
 ### 3. Entering the [[Eastern Tunnel System]]
 > [!info] This section of tunnels acts a puzzle and secret entrance to [[The Burrow]]. For more details, refer to [[Eastern Tunnel System]] and [[Clock Puzzle]].
 
@@ -41,6 +44,7 @@ After completing the [[Clock Puzzle]] in the [[Eastern Tunnel System]], players 
 
 ### 5. **Continued on in** [[Peaking in the Burrow]]...
 ## Key Locations
+___
 - [[Flora Tunnels]]
 - [[Rune Tunnels]]
 - [[Rebellion Mural]]
@@ -48,9 +52,11 @@ After completing the [[Clock Puzzle]] in the [[Eastern Tunnel System]], players 
 - [[The Burrow]]
 
 ## Key NPCS
+___
 This mission takes place underground in secluded tunnels far from any NPCS. The party must work together to escape without external help.
 
 ## Key Items
+___
 
 | Item Name                 | Description                                                                                                                                                                                                                                                                               |
 | ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -60,9 +66,11 @@ This mission takes place underground in secluded tunnels far from any NPCS. The 
 | [[Stone Lotus Flower]]    | A stone sculpture made of two parts earned from the [[Flower Puzzle]] and [[Rune Puzzle]]. It acts as the key that unlocks the [[Rebellion Mural]] door.                                                                                                                                  |
 
 ### Hiding Spots
+___
 There is no temporal pressure to escape the tunnels, nor any social pressure from NPCS in the underground. Many parts of the cavern are large and open, giving players room to relax.
 
 ### Motivators
+___
 In case the party begins to stall or take too long, several motivators can occur:
 - A deep growl is heard in the direction behind them, pushing the party forward
 - The earth around them begins to shake and settle.
