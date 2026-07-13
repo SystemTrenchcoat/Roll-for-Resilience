@@ -11,10 +11,17 @@ traits:
 id: mraw0p3igccyle
 ---
 (it/he)
-## Description
-A pair of warm, bright green eyes, serving mainly as decoration now, adorn his sturdy and rotund frame composed of a varnished Chestnut wood skin. 
+## Physical Description
+A pair of warm, bright green eyes, now merely decoration, adorn his 6'2" varnished Chestnut body. His rotund belly and sturdy legs serve as upright support, in addition to overall creating a friendlier appearance.
 
-He speaks in a semi-low tone with a slight Australian accent
+Players with a 12 passive wisdom / perception notice
+> *His right and left eyes occasionally glitch, flickering as if trying to restart. Although, you get the feeling that if you tried to fix Donic, he might not speak with you again.*
+
+Additionally, players with 14 will *also* notice
+> *Mirrored strokes carve initials into the plate of Donic's chest, belonging to the young lass who created him.*
+
+## Vocal direction
+Donic speaks in semi-low tones with a slight Australian accent, sprinkling dry humor into casual conversation. Envision the jokes of a newly disabled veteran, or a grizzled miner that's outlived their first crew.
 
 ##  Sample Dialog
 - *Most just call me Don these days, cuz I can't bloody see*

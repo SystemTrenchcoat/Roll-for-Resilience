@@ -139,7 +139,7 @@
           "name": "Merrene Manor"
         }
       ],
-      "description": "Lives on the manor on the small island off the shore of Nervios.\nWealthiest family in the city, controls and regulates trade (formal and underground)\nHeavily influences the government, pays off guards and gov’t officials, takes advantage of citizens and spies on them through corrupt guards\nDon’t control the tower, but utilize its presence to further instill fear and a feeling of surveillance\nOut of direct sightlines of the spire, family referred to as “the unseen” by locals\nDouble-edged sword: while corrupt, the family provides a plethora of jobs to the citizens and acts as the main source of wealth and income for the city.",
+      "description": "Lives on the manor on the small island off the shore of Nervios.\r\nWealthiest family in the city, controls and regulates trade (formal and underground)\r\nHeavily influences the government, pays off guards and gov’t officials, takes advantage of citizens and spies on them through corrupt guards\r\nDon’t control the tower, but utilize its presence to further instill fear and a feeling of surveillance\r\nOut of direct sightlines of the spire, family referred to as “the unseen” by locals\r\nDouble-edged sword: while corrupt, the family provides a plethora of jobs to the citizens and acts as the main source of wealth and income for the city.",
       "history": "",
       "structure": "",
       "goals": "",
@@ -203,7 +203,7 @@
           "name": "Milo Mandrich"
         }
       ],
-      "description": "The guards of [[Nervios]]\n\n- Patrolling the city 24/7 on a schedule\n    \n- Guards move around in groups \n    \n- Respected by the general population, but also slightly feared\n    \n-   \n    \n- Different types of guards\n    \n\n- Internal Guards:\n    \n\n- Less trained than other branches of military with less powerful weaponry\n    \n- Underground tunnel system connecting towers\n    \n- Guard towers around the city on the walls\n    \n\n- Towers can’t be seen into from the outside\n    \n- Citizens don’t know if a tower is manned or not\n    \n\n- Guard towers throughout the interior of city\n    \n\n- Underground tunnels connecting them\n    \n\n- Maybe they have eyes that impose crippling fear on those who don't belong? (Poisoned in 5e)\n    \n\n- Allows for fast deployment of guards to any point in the city\n    \n- Outsiders can’t see in – acts as a panopticon\n    \n\n- Maintains the peace, even if a guard isn’t in that specific tower\n    \n\n- Nicknamed “Eyes” by locals/rebellion\n    \n- Tiers of guards:\n    \n\n- Junior\n    \n- Senior\n    \n- Captain \n    \n\n- Some loyal to the King, some the Government, some the rich, sizable amount are loyal to anyone who pays money\n\n\n- Army\n    \n\n- Snipers\n    \n- Infantry\n    \n\n- Navy\n    \n\n- Warships\n    \n\n  \n\n- Watchman:\n    \n\n- Guard the walls and docks from outside threats\n    \n- Controls who enters/exits the cities\n    \n- Thoroughly inspects incoming/exiting cargo \n    \n\n- Corrupted?\n    \n\n- Some guards might use their status and position to disobey laws or take advantage of others. \n    \n\n- Creates resentment and fear of all guards\n    \n- PLOTLINE: Players start as junior guards and witness a fellow guard breaking the law. They are put into a position where they must decide between what's morally right, and the approval/protection of their peers.\n    \n\n  \n\nDamaged old tower which falls apart/players explore and find out that not all towers are functional.",
+      "description": "The guards of [[Nervios]]\r\n\r\n- Patrolling the city 24/7 on a schedule\r\n    \r\n- Guards move around in groups \r\n    \r\n- Respected by the general population, but also slightly feared\r\n    \r\n-   \r\n    \r\n- Different types of guards\r\n    \r\n\r\n- Internal Guards:\r\n    \r\n\r\n- Less trained than other branches of military with less powerful weaponry\r\n    \r\n- Underground tunnel system connecting towers\r\n    \r\n- Guard towers around the city on the walls\r\n    \r\n\r\n- Towers can’t be seen into from the outside\r\n    \r\n- Citizens don’t know if a tower is manned or not\r\n    \r\n\r\n- Guard towers throughout the interior of city\r\n    \r\n\r\n- Underground tunnels connecting them\r\n    \r\n\r\n- Maybe they have eyes that impose crippling fear on those who don't belong? (Poisoned in 5e)\r\n    \r\n\r\n- Allows for fast deployment of guards to any point in the city\r\n    \r\n- Outsiders can’t see in – acts as a panopticon\r\n    \r\n\r\n- Maintains the peace, even if a guard isn’t in that specific tower\r\n    \r\n\r\n- Nicknamed “Eyes” by locals/rebellion\r\n    \r\n- Tiers of guards:\r\n    \r\n\r\n- Junior\r\n    \r\n- Senior\r\n    \r\n- Captain \r\n    \r\n\r\n- Some loyal to the King, some the Government, some the rich, sizable amount are loyal to anyone who pays money\r\n\r\n\r\n- Army\r\n    \r\n\r\n- Snipers\r\n    \r\n- Infantry\r\n    \r\n\r\n- Navy\r\n    \r\n\r\n- Warships\r\n    \r\n\r\n  \r\n\r\n- Watchman:\r\n    \r\n\r\n- Guard the walls and docks from outside threats\r\n    \r\n- Controls who enters/exits the cities\r\n    \r\n- Thoroughly inspects incoming/exiting cargo \r\n    \r\n\r\n- Corrupted?\r\n    \r\n\r\n- Some guards might use their status and position to disobey laws or take advantage of others. \r\n    \r\n\r\n- Creates resentment and fear of all guards\r\n    \r\n- PLOTLINE: Players start as junior guards and witness a fellow guard breaking the law. They are put into a position where they must decide between what's morally right, and the approval/protection of their peers.\r\n    \r\n\r\n  \r\n\r\nDamaged old tower which falls apart/players explore and find out that not all towers are functional.",
       "history": "",
       "structure": "",
       "goals": "",
@@ -319,7 +319,7 @@
       ],
       "description": "The head religion of [[Nervios]]. Worshipping the ocean god and creator of all life, Aequorin. They believe that the ocean is divine and must be appeased through worship and tithes.",
       "history": "",
-      "structure": "**The High Trident**: Three of the most influential and holy religious leaders. They serve as the earthly representations of humankind and are the interpreters of god. Head overseers of religious affairs within the city.\n- Moon: The spear of Divinity- [[Caspian Moon]]\n- Sea: The spear of Nature- [[Soren Mar]]\n- Sun: The spear of Life- [[Isabella Sol]]\n\n*Divine Prosecutor*: Advocate of Aequorin within the court. Their job is to prosecute criminals for their crimes against God and the Church.\n\n*Wave Wardens*: Protectors and watchers of the sea. They ensure mankind does not disrespect or disrupt the ocean. They are also in charge of sea burials and rituals.\n\n*Sea Soother*: Priests who preach the word of god to commonfolk and bless ships and vessels before they depart. They are in charge of local congregations.",
+      "structure": "**The High Trident**: Three of the most influential and holy religious leaders. They serve as the earthly representations of humankind and are the interpreters of god. Head overseers of religious affairs within the city.\r\n- Moon: The spear of Divinity- [[Caspian Moon]]\r\n- Sea: The spear of Nature- [[Soren Mar]]\r\n- Sun: The spear of Life- [[Isabella Sol]]\r\n\r\n*Divine Prosecutor*: Advocate of Aequorin within the court. Their job is to prosecute criminals for their crimes against God and the Church.\r\n\r\n*Wave Wardens*: Protectors and watchers of the sea. They ensure mankind does not disrespect or disrupt the ocean. They are also in charge of sea burials and rituals.\r\n\r\n*Sea Soother*: Priests who preach the word of god to commonfolk and bless ships and vessels before they depart. They are in charge of local congregations.",
       "goals": "",
       "resources": ""
     }
@@ -663,229 +663,211 @@
       ]
     },
     {
-      "id": "writing-1783955183884-ns9f36",
-      "startTime": "2026-07-13T15:06:23.884Z",
-      "endTime": "2026-07-13T15:07:56.279Z",
-      "wordsWritten": 486
-    },
-    {
-      "id": "writing-1783955288117-ld3x94",
-      "startTime": "2026-07-13T15:08:08.117Z",
-      "endTime": "2026-07-13T15:35:53.255Z",
-      "wordsWritten": 21,
+      "id": "writing-1783954769683-45n57h",
+      "startTime": "2026-07-13T14:59:29.683Z",
+      "endTime": "2026-07-13T15:28:01.442Z",
+      "wordsWritten": 39,
       "filesEdited": [
-        "TEMPORARY Flower Tunnels.md"
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Emery Sai.md"
       ]
     },
     {
-      "id": "writing-1783956988133-ujtae3",
-      "startTime": "2026-07-13T15:36:28.133Z",
-      "endTime": "2026-07-13T15:51:48.709Z",
-      "wordsWritten": 45,
+      "id": "writing-1783956510435-br2rms",
+      "startTime": "2026-07-13T15:28:30.435Z",
+      "endTime": "2026-07-13T15:29:23.342Z",
+      "wordsWritten": 3,
       "filesEdited": [
-        "TEMPORARY Flower Tunnels.md"
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Edral Dakhan.md"
       ]
     },
     {
-      "id": "writing-1783957911511-gahj46",
-      "startTime": "2026-07-13T15:51:51.511Z",
-      "endTime": "2026-07-13T15:53:34.740Z",
-      "wordsWritten": 19,
-      "filesEdited": [
-        "TEMPORARY Flower Tunnels.md"
-      ]
-    },
-    {
-      "id": "writing-1783958030065-i3o7w0",
-      "startTime": "2026-07-13T15:53:50.065Z",
-      "endTime": "2026-07-13T15:58:59.229Z",
-      "wordsWritten": 77,
-      "filesEdited": [
-        "TEMPORARY Flower Tunnels.md"
-      ]
-    },
-    {
-      "id": "writing-1783958340606-bsfpte",
-      "startTime": "2026-07-13T15:59:00.606Z",
-      "endTime": "2026-07-13T15:59:09.011Z",
-      "wordsWritten": 7,
-      "filesEdited": [
-        "TEMPORARY Flower Tunnels.md"
-      ]
-    },
-    {
-      "id": "writing-1783958364324-w57w9m",
-      "startTime": "2026-07-13T15:59:24.324Z",
-      "endTime": "2026-07-13T16:00:14.662Z",
-      "wordsWritten": 22,
-      "filesEdited": [
-        "TEMPORARY Flower Tunnels.md"
-      ]
-    },
-    {
-      "id": "writing-1783958420407-798cha",
-      "startTime": "2026-07-13T16:00:20.407Z",
-      "endTime": "2026-07-13T16:00:23.729Z",
-      "wordsWritten": 22,
-      "filesEdited": [
-        "TEMPORARY Flower Tunnels.md"
-      ]
-    },
-    {
-      "id": "writing-1783958426201-5hhatn",
-      "startTime": "2026-07-13T16:00:26.201Z",
-      "endTime": "2026-07-13T16:00:49.720Z",
-      "wordsWritten": 63,
-      "filesEdited": [
-        "TEMPORARY Flower Tunnels.md"
-      ]
-    },
-    {
-      "id": "writing-1783958453685-0h5ate",
-      "startTime": "2026-07-13T16:00:53.685Z",
-      "endTime": "2026-07-13T16:01:01.420Z",
-      "wordsWritten": 13,
-      "filesEdited": [
-        "TEMPORARY Flower Tunnels.md"
-      ]
-    },
-    {
-      "id": "writing-1783958465298-odf11v",
-      "startTime": "2026-07-13T16:01:05.298Z",
-      "endTime": "2026-07-13T16:01:07.932Z",
-      "wordsWritten": 10,
-      "filesEdited": [
-        "TEMPORARY Flower Tunnels.md"
-      ]
-    },
-    {
-      "id": "writing-1783958470748-yzydf5",
-      "startTime": "2026-07-13T16:01:10.748Z",
-      "endTime": "2026-07-13T16:05:08.411Z",
-      "wordsWritten": 16,
-      "filesEdited": [
-        "TEMPORARY Flower Tunnels.md"
-      ]
-    },
-    {
-      "id": "writing-1783958735973-xaxxz8",
-      "startTime": "2026-07-13T16:05:35.973Z",
-      "endTime": "2026-07-13T16:08:33.542Z",
-      "wordsWritten": 18,
-      "filesEdited": [
-        "TEMPORARY Flower Tunnels.md"
-      ]
-    },
-    {
-      "id": "writing-1783958915432-fpwp3m",
-      "startTime": "2026-07-13T16:08:35.432Z",
-      "endTime": "2026-07-13T16:10:15.600Z",
-      "wordsWritten": 25,
-      "filesEdited": [
-        "TEMPORARY Flower Tunnels.md"
-      ]
-    },
-    {
-      "id": "writing-1783959029102-23k8ma",
-      "startTime": "2026-07-13T16:10:29.102Z",
-      "endTime": "2026-07-13T16:25:32.322Z",
-      "wordsWritten": 238,
-      "filesEdited": [
-        "TEMPORARY Flower Tunnels.md"
-      ]
-    },
-    {
-      "id": "writing-1783959941493-298o4k",
-      "startTime": "2026-07-13T16:25:41.493Z",
-      "endTime": "2026-07-13T16:27:01.548Z",
+      "id": "writing-1783956563450-10eiu6",
+      "startTime": "2026-07-13T15:29:23.450Z",
+      "endTime": "2026-07-13T15:41:14.489Z",
       "wordsWritten": 26,
       "filesEdited": [
-        "TEMPORARY Flower Tunnels.md"
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Emery Sai.md"
       ]
     },
     {
-      "id": "writing-1783960025165-soavyi",
-      "startTime": "2026-07-13T16:27:05.165Z",
-      "endTime": "2026-07-13T16:32:21.150Z",
-      "wordsWritten": 87,
-      "filesEdited": [
-        "TEMPORARY Flower Tunnels.md"
-      ]
-    },
-    {
-      "id": "writing-1783960348296-vce8fq",
-      "startTime": "2026-07-13T16:32:28.296Z",
-      "endTime": "2026-07-13T16:37:13.411Z",
-      "wordsWritten": 104,
-      "filesEdited": [
-        "TEMPORARY Flower Tunnels.md"
-      ]
-    },
-    {
-      "id": "writing-1783960666496-pl759l",
-      "startTime": "2026-07-13T16:37:46.496Z",
-      "endTime": "2026-07-13T16:52:48.733Z",
-      "wordsWritten": 279,
-      "filesEdited": [
-        "TEMPORARY Flower Tunnels.md"
-      ]
-    },
-    {
-      "id": "writing-1783961570519-yzj4as",
-      "startTime": "2026-07-13T16:52:50.519Z",
-      "endTime": "2026-07-13T16:56:18.683Z",
+      "id": "writing-1783957274609-3dso74",
+      "startTime": "2026-07-13T15:41:14.609Z",
+      "endTime": "2026-07-13T16:17:42.860Z",
       "wordsWritten": 57,
       "filesEdited": [
-        "TEMPORARY Flower Tunnels.md"
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Edral Dakhan.md"
       ]
     },
     {
-      "id": "writing-1783961797892-kactqm",
-      "startTime": "2026-07-13T16:56:37.892Z",
-      "endTime": "2026-07-13T17:01:59.875Z",
-      "wordsWritten": 91,
+      "id": "writing-1783960138119-w7beyz",
+      "startTime": "2026-07-13T16:28:58.119Z",
+      "endTime": "2026-07-13T16:35:01.251Z",
+      "wordsWritten": 11,
       "filesEdited": [
-        "TEMPORARY Flower Tunnels.md"
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Donic.md"
       ]
     },
     {
-      "id": "writing-1783962186931-mw299u",
-      "startTime": "2026-07-13T17:03:06.931Z",
-      "endTime": "2026-07-13T17:04:18.701Z",
-      "wordsWritten": 190,
+      "id": "writing-1783960504302-r98t4e",
+      "startTime": "2026-07-13T16:35:04.302Z",
+      "endTime": "2026-07-13T16:42:21.825Z",
+      "wordsWritten": 34,
       "filesEdited": [
-        "TEMPORARY Flower Tunnels.md"
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Donic.md"
       ]
     },
     {
-      "id": "writing-1783962281956-lk8wgq",
-      "startTime": "2026-07-13T17:04:41.956Z",
-      "endTime": "2026-07-13T17:08:56.723Z",
-      "wordsWritten": 75,
+      "id": "writing-1783960941885-eyzyee",
+      "startTime": "2026-07-13T16:42:21.885Z",
+      "endTime": "2026-07-13T16:42:52.076Z",
+      "wordsWritten": 1,
       "filesEdited": [
-        "TEMPORARY Flower Tunnels.md"
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Edral Dakhan.md"
       ]
     },
     {
-      "id": "writing-1783962540104-w8uiou",
-      "startTime": "2026-07-13T17:09:00.104Z",
-      "endTime": "2026-07-13T17:11:58.511Z",
-      "wordsWritten": 1129,
+      "id": "writing-1783961035963-mwktn5",
+      "startTime": "2026-07-13T16:43:55.963Z",
+      "endTime": "2026-07-13T17:50:42.460Z",
+      "wordsWritten": 74,
       "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Flora Tunnels.md"
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Donic.md"
       ]
     },
     {
-      "id": "writing-1783962721091-05g01j",
-      "startTime": "2026-07-13T17:12:01.091Z",
-      "endTime": "2026-07-13T17:12:02.181Z",
-      "wordsWritten": 1615
+      "id": "writing-1783965052635-d4p10i",
+      "startTime": "2026-07-13T17:50:52.635Z",
+      "endTime": "2026-07-13T18:05:13.957Z",
+      "wordsWritten": 44,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Lynette Merrene.md"
+      ]
     },
     {
-      "id": "writing-1783962727152-d86b5y",
-      "startTime": "2026-07-13T17:12:07.152Z",
-      "endTime": "2026-07-13T17:12:17.695Z",
-      "wordsWritten": 564
+      "id": "writing-1783966087982-9gzwpi",
+      "startTime": "2026-07-13T18:08:07.982Z",
+      "endTime": "2026-07-13T19:00:43.354Z",
+      "wordsWritten": 0,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Lynette Merrene.md"
+      ]
+    },
+    {
+      "id": "writing-1783969243410-qw5spp",
+      "startTime": "2026-07-13T19:00:43.410Z",
+      "endTime": "2026-07-13T19:02:37.031Z",
+      "wordsWritten": 3,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Donic.md"
+      ]
+    },
+    {
+      "id": "writing-1783969362001-y9nlu2",
+      "startTime": "2026-07-13T19:02:42.001Z",
+      "endTime": "2026-07-13T19:07:43.741Z",
+      "wordsWritten": 94,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Donic.md"
+      ]
+    },
+    {
+      "id": "writing-1783969686409-yf3opb",
+      "startTime": "2026-07-13T19:08:06.409Z",
+      "endTime": "2026-07-13T19:12:23.064Z",
+      "wordsWritten": 74,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Lynette Merrene.md"
+      ]
+    },
+    {
+      "id": "writing-1783969949958-tv090o",
+      "startTime": "2026-07-13T19:12:29.958Z",
+      "endTime": "2026-07-13T19:16:06.891Z",
+      "wordsWritten": 58,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Edral Dakhan.md"
+      ]
+    },
+    {
+      "id": "writing-1783970166946-myegvt",
+      "startTime": "2026-07-13T19:16:06.946Z",
+      "endTime": "2026-07-13T19:19:56.744Z",
+      "wordsWritten": 12,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Lynette Merrene.md"
+      ]
+    },
+    {
+      "id": "writing-1783970397048-r0rrok",
+      "startTime": "2026-07-13T19:19:57.048Z",
+      "endTime": "2026-07-13T19:20:50.490Z",
+      "wordsWritten": 3,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Edral Dakhan.md"
+      ]
+    },
+    {
+      "id": "writing-1783970496223-qp0uvi",
+      "startTime": "2026-07-13T19:21:36.223Z",
+      "endTime": "2026-07-13T19:53:49.744Z",
+      "wordsWritten": 36,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Emery Sai.md"
+      ]
+    },
+    {
+      "id": "writing-1783972452464-ombio0",
+      "startTime": "2026-07-13T19:54:12.464Z",
+      "endTime": "2026-07-13T19:55:14.605Z",
+      "wordsWritten": 0,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Donic.md"
+      ]
+    },
+    {
+      "id": "writing-1783972514715-kno0y6",
+      "startTime": "2026-07-13T19:55:14.715Z",
+      "endTime": "2026-07-13T19:58:25.555Z",
+      "wordsWritten": 16,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Emery Sai.md"
+      ]
+    },
+    {
+      "id": "writing-1783972727832-m4368n",
+      "startTime": "2026-07-13T19:58:47.832Z",
+      "endTime": "2026-07-13T20:07:18.085Z",
+      "wordsWritten": 23,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Emery Sai.md"
+      ]
+    },
+    {
+      "id": "writing-1783973238166-kwx1dw",
+      "startTime": "2026-07-13T20:07:18.166Z",
+      "endTime": "2026-07-13T20:09:28.465Z",
+      "wordsWritten": 0,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Edral Dakhan.md"
+      ]
+    },
+    {
+      "id": "writing-1783973378537-2i3ufp",
+      "startTime": "2026-07-13T20:09:38.537Z",
+      "endTime": "2026-07-13T20:17:37.123Z",
+      "wordsWritten": 8,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Donic.md"
+      ]
+    },
+    {
+      "id": "writing-1783973867252-avraxz",
+      "startTime": "2026-07-13T20:17:47.252Z",
+      "endTime": "2026-07-13T20:33:13.186Z",
+      "wordsWritten": 47,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Characters/Lynette Merrene.md"
+      ]
     }
   ],
   "trackWritingSessions": false,
@@ -943,12 +925,12 @@
     },
     {
       "date": "2026-07-13",
-      "wordsWritten": 5299,
-      "wordsDeleted": 0,
-      "netWords": 5299,
+      "wordsWritten": 663,
+      "wordsDeleted": 50,
+      "netWords": 613,
       "timeSpent": 0,
       "scenesEdited": [],
-      "goalMet": true
+      "goalMet": false
     }
   ],
   "dashboardAccentBorders": false,
