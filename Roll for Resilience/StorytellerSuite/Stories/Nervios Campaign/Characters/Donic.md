@@ -21,7 +21,7 @@ Additionally, players with 14 will *also* notice
 > *Mirrored strokes carve initials into the plate of Donic's chest, belonging to the young lass who created him.*
 
 ## Vocal direction
-Donic speaks in semi-low tones with a slight Australian accent, sprinkling dry humor into casual conversation. Envision the jokes of a newly disabled veteran, or a grizzled miner that's outlived their first crew.
+Donic speaks in semi-deep tones with a slight Australian accent, sprinkling dry humor into casual conversation. Envision the jokes of a newly disabled veteran, or a grizzled miner that's outlived their first crew, and you'll have a starting idea. Continuing this energy, Donic is an energetic, loud individual who uses simple language in conversation, capable of flowery prose but choosing to save it for performance sake. He will interchangeably refer to himself as "it" to acknowledge his machinery and "he" to celebrate the humanity he found, with no preference.
 
 ##  Sample Dialog
 - *Most just call me Don these days, cuz I can't bloody see*
