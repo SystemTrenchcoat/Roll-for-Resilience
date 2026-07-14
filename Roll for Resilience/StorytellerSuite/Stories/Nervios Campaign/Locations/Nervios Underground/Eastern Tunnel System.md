@@ -53,7 +53,7 @@ Starting at the [[Rebellion Symbol]] and headed clockwise around the boulder/loo
 The tunnel with the *yellow* moss (6th tunnel clockwise from entrance) is yellow while the respective moss on the boulder is magenta. This signifies that this "hand" is broken and the party must knock three times in the tunnel.
 
 ## Knocking Thrice
-Once players determine the proper path and knock three times within the tunnel, a grating cranking sound echoes around as a hidden door opens up. Once fully open, a gigantic cavern is revealed full of tents, people, and lights. The players have entered [[The Burrow]], the secret underground market of [[Nervios]]. 
+Once players determine the proper path and knock three times within the tunnel, a grating cranking sound echoes all around as a hidden door swings open. Behind the door, a gigantic cavern is revealed full of tents, people, and lights. The players have entered [[The Burrow]], the secret underground market of [[Nervios]]. 
 ### **Continue on in [[Peaking in the Burrow]].**
 # History
 ___
