@@ -11,8 +11,3 @@ A small wooden box with a red button that says "Do not press". If pressed, the b
 
 ## History
 Invention of [[Mr. Whatzit]]
-
-## Cultural Significance
-
-
-## Magic Properties

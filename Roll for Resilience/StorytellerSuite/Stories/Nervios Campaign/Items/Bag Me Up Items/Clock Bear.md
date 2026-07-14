@@ -11,8 +11,3 @@ A small stuffed bear with a clock for a face. Upon closer inspection, the clock 
 
 ## History
 Invention of [[Mr. Whatzit]]
-
-## Cultural Significance
-
-
-## Magic Properties
