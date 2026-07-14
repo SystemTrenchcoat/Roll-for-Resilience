@@ -18,6 +18,9 @@ id: mrb3ow5ytbdea1
 ## Description
 Against the light hint of red in her skin, the gold of Iniza’s eyes stand out and compliment her overall beauty. Her horns slightly curve outwards as they sprout from the top of her head, parting the waves of a deeper red resting around them.
 
+## Vocal direction
+Iniza speaks in a casual style, shortening words or substituting them for slang so long as she can get her point across. Her middling fiery tone tends to rush the beginning of sentences, and then slow down towards the end. She has been known to be louder when passionate or irritated, turning her speaking pace more inconsistent.
+
 ## Sample Dialog
 - *Iniza Brada, in the flesh. Guess our mutual friend sent ya*
 - *Take it easy with the goods, will ya? That comes outta my purse first*

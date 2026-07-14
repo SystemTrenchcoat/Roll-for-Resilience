@@ -8,8 +8,6 @@ group-type: religious
 members:
   - type: character
     id: "[[Gweneth Falzy]]"
-  - type: character
-    id: "[[Emery Sai]]"
 ---
 
 ## Description
