@@ -21,7 +21,7 @@ Three ornate pedestals stand adjacent before you, each with a key slot carved in
 | C        | [[Yellow Noble Bloom]]    | A low to the ground bush plant with yellow and green leaves. The leaves are needled and sharp and covered in a sticky sap. Touching one bare handed to pull out and eat would first lead to a cut. If a player decides to eat one anyways, it’s slightly sweet but that though would be overshadowed by the sharp sting of the leaves. | "**Yellow Noble Blooms. Sweet, sticky, sharp leaves. Mirrors<br>of the glowing blue.**"          |
 
 ### Sign
-Hanging on the wall behind the pedestals, an old wooden sign hangs lopsidedly by a single frayed string. Now, just barely legible, the sign reads:
+Hanging on the wall behind the pedestals, an old wooden sign hangs lopsidedly by a single frayed string. In fading black ink, barely legible, the sign reads:
 > **Three locks seal the shrine
   three keys, one down each pathway
   thy gift sealed inside**

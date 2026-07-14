@@ -19,7 +19,7 @@ A small patch lotus flowers grow in the water along the South-Eastern edge of th
 
 # Unlocking the Mural Door
 ___
-Both halves of the [[Stone Lotus Flower]] (bud and inner bulb) must be collected from the [[Flora Tunnels]] and [[Rune Tunnels]] respectively. To unlock the door, players must:
+Both halves of the [[Stone Lotus Flower]] (closed-bud and inner bulb) must be collected from the [[Flora Tunnels]] and [[Rune Tunnels]] respectively. To unlock the door, players must:
 1. Screw the closed [[Stone Lotus Flower#Bud|bud]] onto the lone stem in the pond. Upon doing so, the bud begins to bloom and the petals open and fan outwards. A threaded insert lies in the center of the bud, matching in size with the threaded rod from the [[Stone Lotus Flower#Inner Bulb|inner bulb]]. 
 2. Screw the [[Stone Lotus Flower#Inner Bulb|inner bulb]] onto the stem and open bud. In doing so, the creases between the petals flash a bright white for a moment.
 

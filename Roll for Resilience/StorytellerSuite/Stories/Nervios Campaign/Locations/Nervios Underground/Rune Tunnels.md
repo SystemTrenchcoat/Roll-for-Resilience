@@ -7,9 +7,9 @@ id: mr3s5nlfwv3cxq
 ---
 # Description
 ___
-Travelling through tunnels from the [[Central Cavern]], a faint blue glow can be seen emanating from the path ahead. At the same time, the air shifts and begins to feel electric and almost abuzz around you. As you creep closer to the blue light, you enter a small square chamber with doorways on each wall. At the foot of each doorway is a glowing blue rune, humming lightly as it's light pulses. Despite the glow of the runes, the paths ahead are nearly impossible to see. Behind each doorway is a thick veil of darkness, impenetrable even by eyes blessed with dark vision.  
+Travelling through tunnels from the [[Central Cavern]], a faint blue glow can be seen emanating from the path ahead. At the same time, the air shifts and begins to feel electric and almost abuzz around you. As you creep closer to the blue light, you enter a small square chamber with doorways on each wall. At the foot of each doorway is a glowing blue rune, humming lightly as it's light pulses. Despite the glow of the runes, the paths ahead are nearly impossible to see. Behind each doorway is a thick veil of darkness, impenetrable even by eyes blessed with dark vision. What can be seen however, is that the paths ahead seem to climb and ascend, potentially leading to the surface and a way out.
 ## Runes
-At the foot of each doorway lies an engraving of a distinct rune. The glow of each rune pulses and flickers slightly, almost as if they are breathing. In the first chamber, the three runes are as follows:
+At the foot of each doorway lies an engraving of a distinct rune that pulse and flicker with a faint blue glow. In the first chamber, the three runes are as follows:
 > ![[x_rune.png|100]]![[m_rune.png|100]]![[hammer_rune.png|100]] 
 
 As the players travel through these tunnels, they will encounter a total of 6 unique runes. These runes are shown in the [[#Plank of Wood]] section below.
@@ -20,8 +20,8 @@ As the players travel through these tunnels, they will encounter a total of 6 un
 In the center of the chamber, a broken piece of a wooden plank hums and glows similarly to the magical runes. The top face of the plank contains 6 glowing symbols that descend in scale from left-to-right. Beneath the symbols, a string of text reads "AVOID ANY COPIES". The plank of wood and it's writings are visible in any lighting condition, as the symbols and text provide their own dim glow.
 ![[rune_plank_clue.png]]
 
->[!info] Investigation Check
-> - A *normal-difficulty* investigation check should reveal that the symbols on the plank descend in size from left-to-right, almost creating a hierarchy of importance.
+>[!info] Passive Investigation Check
+> - An *easy* passive investigation check could reveal that the symbols on the plank descend in size from left-to-right, almost creating a hierarchy of importance.
 
 >[!success] Plank of Wood Explanation
 > The plank of wood acts as an "answer key" used to determine the correct path as you travel through several chambers. From left to right, the order of the runes denote the "priority" of each. The leftmost rune is of highest priority, the rightmost rune is of the lowest priority. 
@@ -63,7 +63,7 @@ After heading down the correct path in the 7th chamber, a new room is encountere
 Torn strips of parchment lie motionless on the floor in the chamber. "*The unused sigil... the truth*" is scribbled in ink on one of the pieces of parchment. On the wall behind the chests, there is a small painting of a familiar symbol: the city gate of [[Nervios]], once sealed with rubble and boulders, now lies open and free with a divide in the rubble.
 
 > [!info] Parchment Clue History Check
-> - A *normal-difficulty* history check can reveal that the "R" rune has not been the solution to a chamber yet.
+> - A *moderate* history check can reveal that the "R" rune has not been the solution to a chamber yet.
 
 >[!info] Symbol History Check
 > - Players familiar with the [[Rebels]] or the criminal underbelly of Nervios could recognize the painted symbol as the [[Rebellion Symbol]].
@@ -72,7 +72,7 @@ Torn strips of parchment lie motionless on the floor in the chamber. "*The unuse
 The correct chest is the chest denoted by the "R" rune. Every other chest is a [Mimic](https://www.dndbeyond.com/monsters/16957-mimic). Within the correct chest is a small stone sculpture of the inner bulb of a lotus flower. A short threaded rod juts from the bottom of the bulb. The sculpture itself is one-half of the [[Stone Lotus Flower]], the key to unlocking the [[Rebellion Mural]] door.
 
 >[!info] Stone Sculpture Investigation
-> - If the party has been to the [[Rebellion Mural]], a *normal-difficulty* investigation/history check can reveal that the craftsmanship of the sculpture is the same as the stone lotus flowers along the pond.
+> - If the party has been to the [[Rebellion Mural]], a *moderate* investigation/history check can reveal that the craftsmanship of the sculpture is the same as the stone lotus flowers along the pond.
 > 	- The check can also remind the party of the lone stem without a flower at the lotus flower sculptures by the pond.
 > - If the party has earned the closed lotus flower bud from the [[Flora Tunnels]], they can recognize the sculptures as two halves of the same whole. 
 

@@ -1,12 +1,3 @@
----
-entityType: location
-name: Eastern Tunnel System
-locationType: Underground Tunnel System
-region: Nervios Underground
-status: Active
-type: district
-id: mr9n3hbsi0j0vb
----
 # Description
 ___
 As you enter from the [[Rebellion Mural|Rebellion Mural Door]], the air shifts from cool and humid to warm and stuffy. The tunnels here are much larger then the [[Nervios Tunnels|Western Tunnel System]]; the walls colossal and smooth. The ground beneath you has been worn down from years of foot travel and it is clear these paths remain active and busy. Emerald green vines line the walls, woven into an intricate lace pattern. From the vines hang glowing white lotus flowers, lighting the paths ahead. Once each member of the party has entered, the door begins to creak and rumble as it rolls back into place, sealing it yet again. The [[Rebellion Symbol]] is painted onto this side of the door as well, albeit not as grandiosely. 
@@ -31,7 +22,7 @@ While travelling around the either path from the entrance, it becomes apparent t
 2. Second, the patch of blue moss is followed by three dead-end tunnels that point in towards the center of the loop. Within these inner-tunnels, exclusively yellow OR magenta moss grow wildly along the walls, floor, and ceiling.
 3. Another patch of blue moss grows on the inner wall of the loop.
 
-The pattern continues, with a total of three sets of blue moss followed by three tunnels. Starting at the entrance with the blue moss and travelling clockwise around the loop, the exact pattern is as follows:
+The pattern continues itself, with three sets of blue moss and three tunnels. Starting at the entrance with the blue moss and travelling clockwise around the loop, the exact pattern is as follows:
 > **Blue** -> yellow -> magenta -> yellow -> **Blue** -> magenta -> yellow -> yellow -> **Blue** -> magenta -> yellow -> yellow -> *Beginning*
 
 # Puzzle
@@ -55,8 +46,3 @@ The tunnel with the *yellow* moss (6th tunnel clockwise from entrance) is yellow
 ## Knocking Thrice
 Once players determine the proper path and knock three times within the tunnel, a grating cranking sound echoes around as a hidden door opens up. Once fully open, a gigantic cavern is revealed full of tents, people, and lights. The players have entered [[The Burrow]], the secret underground market of [[Nervios]]. 
 ### **Continue on in [[Peaking in the Burrow]].**
-# History
-___
-These tunnels see a lot more life then the western tunnels. Signs of human intervention exist throughout the system, such as intentionally grown and weaved glow moss, human footpaths, and an overall "cleanliness".
-
-![[eastern_tunnel_map.png]]
