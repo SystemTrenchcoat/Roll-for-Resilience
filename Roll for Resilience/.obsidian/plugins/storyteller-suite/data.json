@@ -272,9 +272,7 @@
       "tags": [],
       "status": "Active",
       "subgroups": [
-        "High Trident",
-        "Wave Wardens",
-        "Sea Soothers"
+        "High Trident"
       ],
       "members": [
         {
@@ -317,9 +315,9 @@
           "relationshipType": "rival"
         }
       ],
-      "description": "The head religion of [[Nervios]]. Worshipping the ocean god and creator of all life, Aequorin. They believe that the ocean is divine and must be appeased through worship and tithes.",
+      "description": "",
       "history": "",
-      "structure": "**The High Trident**: Three of the most influential and holy religious leaders. They serve as the earthly representations of humankind and are the interpreters of god. Head overseers of religious affairs within the city.\r\n- Moon: The spear of Divinity- [[Caspian Moon]]\r\n- Sea: The spear of Nature- [[Soren Mar]]\r\n- Sun: The spear of Life- [[Isabella Sol]]\r\n\r\n*Divine Prosecutor*: Advocate of Aequorin within the court. Their job is to prosecute criminals for their crimes against God and the Church.\r\n\r\n*Wave Wardens*: Protectors and watchers of the sea. They ensure mankind does not disrespect or disrupt the ocean. They are also in charge of sea burials and rituals.\r\n\r\n*Sea Soother*: Priests who preach the word of god to commonfolk and bless ships and vessels before they depart. They are in charge of local congregations.",
+      "structure": "",
       "goals": "",
       "resources": ""
     }
@@ -1249,6 +1247,42 @@
       "filesEdited": [
         "StorytellerSuite/Stories/Nervios Campaign/Characters/Donic.md"
       ]
+    },
+    {
+      "id": "writing-1784123235431-q8vo61",
+      "startTime": "2026-07-15T13:47:15.431Z",
+      "endTime": "2026-07-15T14:10:07.272Z",
+      "wordsWritten": 11,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/The Burrow.md"
+      ]
+    },
+    {
+      "id": "writing-1784124607327-wbr0ph",
+      "startTime": "2026-07-15T14:10:07.327Z",
+      "endTime": "2026-07-15T14:20:46.646Z",
+      "wordsWritten": 44,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Scenes/Peaking in the Burrow.md"
+      ]
+    },
+    {
+      "id": "writing-1784125256087-sgxegl",
+      "startTime": "2026-07-15T14:20:56.087Z",
+      "endTime": "2026-07-15T14:21:11.829Z",
+      "wordsWritten": 1,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Scenes/Peaking in the Burrow.md"
+      ]
+    },
+    {
+      "id": "writing-1784125279438-voiw4o",
+      "startTime": "2026-07-15T14:21:19.438Z",
+      "endTime": "2026-07-15T14:21:32.309Z",
+      "wordsWritten": 1,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Scenes/Peaking in the Burrow.md"
+      ]
     }
   ],
   "trackWritingSessions": false,
@@ -1318,6 +1352,15 @@
       "wordsWritten": 139,
       "wordsDeleted": 0,
       "netWords": 139,
+      "timeSpent": 0,
+      "scenesEdited": [],
+      "goalMet": false
+    },
+    {
+      "date": "2026-07-15",
+      "wordsWritten": 57,
+      "wordsDeleted": 0,
+      "netWords": 57,
       "timeSpent": 0,
       "scenesEdited": [],
       "goalMet": false
