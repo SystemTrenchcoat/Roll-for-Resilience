@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StorytellerSuite/Stories/Nervios Campaign/Characters/Donic.md",
+                "file": "StorytellerSuite/Stories/Nervios Campaign/Scenes/Peaking in the Burrow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Donic"
+              "title": "Peaking in the Burrow"
             }
           }
         ]
@@ -197,8 +197,13 @@
   },
   "active": "509fd4731612fe8f",
   "lastOpenFiles": [
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Emery Sai.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Collapse of Central Stage.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Scenes/Peaking in the Burrow.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/The Burrow.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Characters/Ms. Gotsome.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Rune Tunnels.md",
     "StorytellerSuite/Stories/Nervios Campaign/Characters/Donic.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Characters/Emery Sai.md",
     "StorytellerSuite/Stories/Nervios Campaign/Characters/Clara Porter.md",
     "StorytellerSuite/Stories/Nervios Campaign/Characters/Edral Dakhan.md",
     "StorytellerSuite/Stories/Nervios Campaign/Characters/Iniza Brada.md",
@@ -207,11 +212,7 @@
     "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Flora Tunnels.md",
     "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Rebellion Mural.md",
     "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Central Cavern.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Rune Tunnels.md",
     "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Festival of Granite Rain.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Collapse of Central Stage.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/The Burrow.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Scenes/Peaking in the Burrow.md",
     "StorytellerSuite/Stories/Nervios Campaign/Chapters/Beginning.md",
     "StorytellerSuite/Stories/Nervios Campaign/Chapters/End.md",
     "StorytellerSuite/Stories/Nervios Campaign/Items/Stone Lotus Flower.md",
@@ -222,7 +223,6 @@
     "Unique Mechanics/The Collapse of Central Stage/Rune Puzzle.md",
     "TEMPORARY RUNE TUNNELS.md",
     "Nervios/Module/Mimic Table.md",
-    "Unique Mechanics/The Collapse of Central Stage/Flower Puzzle.md",
     "Images/The Collapse of Central Stage/Maps/nervios_underground_whole_map.png",
     "Images/The Collapse of Central Stage/Maps/nervios_underground.png",
     "Images/The Collapse of Central Stage/Maps/city_of_Nervios_map.png",

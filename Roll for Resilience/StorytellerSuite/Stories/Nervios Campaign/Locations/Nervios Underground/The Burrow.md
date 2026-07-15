@@ -31,6 +31,6 @@ The burrow is categorized by being lit by many bioluminescent plants that are wi
 	In the south west edge fo the Burrow is the food pit, where various cousines are cooked up and served. And people usually don't get sick after eating there, so the cook has good business.
 
 ### Bethia's Stall
-	Bethia's stall takes up the west edge of the Burrow, where most of the illegal goods of the Burrow are sole to persepcitve customers. 
+	Bethia's stall takes up the west edge of the Burrow, where most of the illegal goods of the Burrow are sold to persepcitve customers. She is always accompanied by Ms. Gotsome, her tall, slient bodyguard.
 
 ## History
