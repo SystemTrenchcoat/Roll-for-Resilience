@@ -58,7 +58,7 @@ The announcer then explains the rules of the games:
 Before [[The Wheel of Purity]] can be played, three smaller games must be beat. These include: [[Boulder Climb]], [[Hidden Key Puzzle]], and [[Color Cipher]]. The party can divide and conquer to play these games, or stay together and complete them as a whole party. The games are designed to be relatively quick.
 
 ### 3. Recruitment Opportunities
-At some point before the party climbs the stage to attempt [[The Wheel of Purity]], the group is approached by a group of guards attempting to recruit them. One of the guards, [[Leon Asker]], is a double agent for the rebels. He tries to shake each member of the party's hands while wearing a [[Thought Detector]] gauntlet. Deeming one of the members worthy, he slips a small silver coin into their hand. The coin is a puzzle, and once solved reveals the location of the rebel recruitment spot. [[Rebel Coin Puzzle]]
+At some point before the party climbs the stage to attempt [[The Wheel of Purity]], the group is approached by a group of guards attempting to recruit them. One of the guards, [[Leon Asker]], is a double agent for the rebels. He tries to shake each member of the party's hands while wearing a [[Gauntlet of Truth]] gauntlet. Deeming one of the members worthy, he slips a small silver coin into their hand. The coin is a puzzle, and once solved reveals the location of the rebel recruitment spot. [[Rebel Coin Puzzle]]
 
 This period gives the party a break between minigames and a chance to socialize. Additionally, it lays down foundations for the party joining the guards/rebels.
 

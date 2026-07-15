@@ -23,5 +23,5 @@
 - Animosity from [[Rebels]]
 
 ### Tier 2
-- Access to a [[Thought Detector]]
+- Access to a [[Gauntlet of Truth]]
 - Hostility from [[Rebels]]

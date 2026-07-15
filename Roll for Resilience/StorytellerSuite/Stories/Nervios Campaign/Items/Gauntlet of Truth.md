@@ -1,6 +1,6 @@
 ---
 entityType: item
-name: Thought Detector
+name: Gauntlet of Truth
 isPlotCritical: false
 groups:
   - "[[Guards]]"
