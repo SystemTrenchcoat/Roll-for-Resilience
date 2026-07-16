@@ -120,7 +120,7 @@
           "name": "Nervios Tunnels"
         }
       ],
-      "description": "A group that hates the \"ever-watching eyes\" and wishes to bring Nervios freedom through contact with the outside world and the destruction of the eyes\r\n\r\n- Quiet / Gaining traction, trying to help people escape, close ties to smugglers.\r\n    \r\n- Truly believes they’re doing what’s best for everyone, especially the people in the town\r\n    \r\n- End goal for the rebels (assuming they know or at least believe all the towers are widely unmanned): expose the truth of the matter. Maybe they want to expose the nobles too. Most likely anti-noble if they know their history (which at least the important ones probably do)\r\n    \r\n- Probably have spies in the guards\r\n    \r\n\r\n- Definitely trying to find some high ups willing to help to learn more about the panopticon\r\n    \r\n\r\n- Often work under darkness or / and with obscuring / illusion spells\r\n    \r\n- Definitely have a tunnel system\r\n    \r\n- Strong aura of secrecy, especially in their upper ranks\r\n    \r\n- Most often help people escape the town\r\n    \r\n- Maybe offers places of solace where the eye cannot see?\r\n    \r\n- The collectivist to the guard / government’s isolationist",
+      "description": "A group that hates the \"ever-watching eyes\" and wishes to bring Nervios freedom through contact with the outside world and the destruction of the eyes\n\n- Quiet / Gaining traction, trying to help people escape, close ties to smugglers.\n    \n- Truly believes they’re doing what’s best for everyone, especially the people in the town\n    \n- End goal for the rebels (assuming they know or at least believe all the towers are widely unmanned): expose the truth of the matter. Maybe they want to expose the nobles too. Most likely anti-noble if they know their history (which at least the important ones probably do)\n    \n- Probably have spies in the guards\n    \n\n- Definitely trying to find some high ups willing to help to learn more about the panopticon\n    \n\n- Often work under darkness or / and with obscuring / illusion spells\n    \n- Definitely have a tunnel system\n    \n- Strong aura of secrecy, especially in their upper ranks\n    \n- Most often help people escape the town\n    \n- Maybe offers places of solace where the eye cannot see?\n    \n- The collectivist to the guard / government’s isolationist",
       "history": "",
       "structure": "",
       "goals": "",
@@ -139,7 +139,7 @@
           "name": "Merrene Manor"
         }
       ],
-      "description": "Lives on the manor on the small island off the shore of Nervios.\r\nWealthiest family in the city, controls and regulates trade (formal and underground)\r\nHeavily influences the government, pays off guards and gov’t officials, takes advantage of citizens and spies on them through corrupt guards\r\nDon’t control the tower, but utilize its presence to further instill fear and a feeling of surveillance\r\nOut of direct sightlines of the spire, family referred to as “the unseen” by locals\r\nDouble-edged sword: while corrupt, the family provides a plethora of jobs to the citizens and acts as the main source of wealth and income for the city.",
+      "description": "Lives on the manor on the small island off the shore of Nervios.\nWealthiest family in the city, controls and regulates trade (formal and underground)\nHeavily influences the government, pays off guards and gov’t officials, takes advantage of citizens and spies on them through corrupt guards\nDon’t control the tower, but utilize its presence to further instill fear and a feeling of surveillance\nOut of direct sightlines of the spire, family referred to as “the unseen” by locals\nDouble-edged sword: while corrupt, the family provides a plethora of jobs to the citizens and acts as the main source of wealth and income for the city.",
       "history": "",
       "structure": "",
       "goals": "",
@@ -164,8 +164,8 @@
         },
         {
           "type": "item",
-          "id": "Thought Detector",
-          "name": "Thought Detector"
+          "id": "Gauntlet of Truth",
+          "name": "Gauntlet of Truth"
         },
         {
           "type": "character",
@@ -203,7 +203,7 @@
           "name": "Milo Mandrich"
         }
       ],
-      "description": "The guards of [[Nervios]]\r\n\r\n- Patrolling the city 24/7 on a schedule\r\n    \r\n- Guards move around in groups \r\n    \r\n- Respected by the general population, but also slightly feared\r\n    \r\n-   \r\n    \r\n- Different types of guards\r\n    \r\n\r\n- Internal Guards:\r\n    \r\n\r\n- Less trained than other branches of military with less powerful weaponry\r\n    \r\n- Underground tunnel system connecting towers\r\n    \r\n- Guard towers around the city on the walls\r\n    \r\n\r\n- Towers can’t be seen into from the outside\r\n    \r\n- Citizens don’t know if a tower is manned or not\r\n    \r\n\r\n- Guard towers throughout the interior of city\r\n    \r\n\r\n- Underground tunnels connecting them\r\n    \r\n\r\n- Maybe they have eyes that impose crippling fear on those who don't belong? (Poisoned in 5e)\r\n    \r\n\r\n- Allows for fast deployment of guards to any point in the city\r\n    \r\n- Outsiders can’t see in – acts as a panopticon\r\n    \r\n\r\n- Maintains the peace, even if a guard isn’t in that specific tower\r\n    \r\n\r\n- Nicknamed “Eyes” by locals/rebellion\r\n    \r\n- Tiers of guards:\r\n    \r\n\r\n- Junior\r\n    \r\n- Senior\r\n    \r\n- Captain \r\n    \r\n\r\n- Some loyal to the King, some the Government, some the rich, sizable amount are loyal to anyone who pays money\r\n\r\n\r\n- Army\r\n    \r\n\r\n- Snipers\r\n    \r\n- Infantry\r\n    \r\n\r\n- Navy\r\n    \r\n\r\n- Warships\r\n    \r\n\r\n  \r\n\r\n- Watchman:\r\n    \r\n\r\n- Guard the walls and docks from outside threats\r\n    \r\n- Controls who enters/exits the cities\r\n    \r\n- Thoroughly inspects incoming/exiting cargo \r\n    \r\n\r\n- Corrupted?\r\n    \r\n\r\n- Some guards might use their status and position to disobey laws or take advantage of others. \r\n    \r\n\r\n- Creates resentment and fear of all guards\r\n    \r\n- PLOTLINE: Players start as junior guards and witness a fellow guard breaking the law. They are put into a position where they must decide between what's morally right, and the approval/protection of their peers.\r\n    \r\n\r\n  \r\n\r\nDamaged old tower which falls apart/players explore and find out that not all towers are functional.",
+      "description": "___ \r\nThe Guards of [[Nervios]] are a strong authoritarian force that protects the city both from enemies within and without. They are in control of who comes and goes, what goods are exported/imported, and what knowledge from outside the walls is shared within. The Guards are responsible for isolating [[Nervios]] from the outside world, and for creating a surveillance state that watches over all citizens.",
       "history": "",
       "structure": "",
       "goals": "",
@@ -1361,6 +1361,15 @@
       "wordsWritten": 57,
       "wordsDeleted": 0,
       "netWords": 57,
+      "timeSpent": 0,
+      "scenesEdited": [],
+      "goalMet": false
+    },
+    {
+      "date": "2026-07-16",
+      "wordsWritten": 0,
+      "wordsDeleted": 0,
+      "netWords": 0,
       "timeSpent": 0,
       "scenesEdited": [],
       "goalMet": false
