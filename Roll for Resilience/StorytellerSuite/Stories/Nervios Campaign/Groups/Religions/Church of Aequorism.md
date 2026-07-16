@@ -25,10 +25,12 @@ group-relationships:
     relationshipType: neutral
   - groupName: "[[Rebels]]"
     relationshipType: rival
+pronunciation:
+  - Aequorism (AE-KWOR-ISM)
+  - Aequorin (AE-KWOR-IN)
 ---
 # Description
 ___
-
 The head religion of [[Nervios]]. Worshipping the ocean god and creator of all life, Aequorin. They believe that the ocean is divine and must be appeased through worship and tithes. Those who live properly and within the eye of God will ascend to the heavens once their soul is complete. Those who misfortune others or ignore tenets and God's word will be punished and their soul sunk. These souls are referred to as *[[#Drowned Souls]]*.
 
 # Main Tenets
@@ -56,21 +58,21 @@ A core religious text containing key tenets of Aequorism.
 # Structure
 ___
 ## **The High Trident**: 
-Three of the most influential and holy religious leaders. They serve as the earthly representations of humankind and are the interpreters of god. Head overseers of religious affairs within the city.
-- Moon: The spear of Divinity- [[Caspian Moon]]
-- Sea: The spear of Nature- [[Soren Mar]]
-- Sun: The spear of Life- [[Isabella Sol]]
+Three of the most influential religious leaders of the [[Church of Aequorism]]. They serve as the earthly representations of humankind and are the interpreters of god. They are also the head overseers of religious affairs within the city. These leaders gain the title of "Spear of..." as a trident has 3 spearheads.
+### The Spear of Divinity
+[[Caspian Moon]] is the current Spear of Divinity. He is seen as the Holy Representative of Aequorin, the Ocean God and creator of all life. His word is taken as the holy truth and the divine interpretation of the word of Aequorin. Caspian also serves as the head of city-wide religious affairs and leads the sea-soothers.
+### The Spear of Nature
+[[Soren Mar]] is the current Spear of Nature. He is in charge of nature preservation efforts within Nervios and ensures that humanity displays affection and respect for the sea. He is considered the Holy Representative of Nature.
+### The Spear of Humanity
+[[Isabella Sol]] is the current Spear of Humanity. She is in charge of guiding humanity on the path towards righteousness. She cares for all people equally and often sticks up for the little man. She is seen as the Holy Representative of all mankind and is an esteemed and loved member of the community.
 
-### *Divine Prosecutor*: 
+## *Divine Prosecutor*: 
 Advocate of Aequorin within the court. Their job is to prosecute criminals for their crimes against God and the Church.
-
-### *Wave Wardens*:
+## *Wave Wardens*:
 Protectors and watchers of the sea. They ensure mankind does not disrespect or disrupt the ocean. They are also in charge of sea burials and rituals.
-
-### *Sea Soother*: 
+## *Sea Soother*: 
 Priests who preach the word of god to commonfolk and bless ships and vessels before they depart. They are in charge of local congregations.
-
-### ***Drowned Souls***:
+## ***Drowned Souls***:
 A soul that has gotten so caught up in the sea of life that it sinks. They fall to the beginning of the 12-life reincarnation cycle and must start anew. The impoverished and vagrants of [[Nervios]] are often referred to as *Drowned Souls*
 
 # Culture
