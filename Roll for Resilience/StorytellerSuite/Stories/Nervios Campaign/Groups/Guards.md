@@ -30,7 +30,7 @@ nicknames:
   - Seers
 ---
 
-## Description
+# Description
 ___ 
 The Guards of [[Nervios]] are a strong authoritarian force that protects the city both from enemies within and without. They are in control of who comes and goes, what goods are exported/imported, and what knowledge from outside the walls is shared within. The Guards are responsible for isolating [[Nervios]] from the outside world, and for creating a surveillance state that watches over all citizens.
 
