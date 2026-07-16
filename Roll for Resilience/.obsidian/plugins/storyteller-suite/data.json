@@ -1451,6 +1451,15 @@
       "filesEdited": [
         "StorytellerSuite/Stories/Nervios Campaign/Groups/Sea Scribes of Umorism.md"
       ]
+    },
+    {
+      "id": "writing-1784224601462-f5rsj2",
+      "startTime": "2026-07-16T17:56:41.462Z",
+      "endTime": "2026-07-16T17:57:59.334Z",
+      "wordsWritten": 804,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Groups/Guards.md"
+      ]
     }
   ],
   "trackWritingSessions": false,
@@ -1535,9 +1544,9 @@
     },
     {
       "date": "2026-07-16",
-      "wordsWritten": 1967,
+      "wordsWritten": 2771,
       "wordsDeleted": 0,
-      "netWords": 1967,
+      "netWords": 2771,
       "timeSpent": 0,
       "scenesEdited": [],
       "goalMet": true
