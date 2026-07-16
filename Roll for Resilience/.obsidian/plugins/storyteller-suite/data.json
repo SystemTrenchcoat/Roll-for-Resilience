@@ -51,7 +51,7 @@
           "name": "Nervios"
         }
       ],
-      "description": "The smugglers run the Burrow, supplying the city of Nerivos with the majority of their illegal goods. They have close ties with the Rebels and Sea Scribes. Both of these groups need the Burrow to avoid the guards, while the Smugglers need the rebels for more man power and the Sea Scribes to help create more advance ships to smuggle more stuff.",
+      "description": "The smugglers run the Burrow, supplying the city of Nervios with the majority of their illegal goods. They have close ties with the Rebels and Sea Scribes. Both of these groups need the Burrow to avoid the guards, while the Smugglers need the rebels for more man power and the Sea Scribes to help create more advance ships to smuggle more stuff.",
       "history": "",
       "structure": "",
       "goals": "",
@@ -71,11 +71,11 @@
           "name": "Gweneth Falzy"
         }
       ],
-      "description": "Followers and priests of Umorism.",
-      "history": "Umorism used to be the religion of Nervios, until the guards took over and replaced it with Aequorism and Umorism was outlawed. These days Umorism is practiced in secret by a select few.",
-      "structure": "The priests of this relgiion are know as Sea Scribes. The religion has no discernable heirachy, with most Sea Scribes working together as colleagues sharing knowledge and expierence the best they can.",
-      "goals": "They hope to one day reintroduce Umorism back to Nervios and rekindle the passion of challenge into humanity again.\r\n\r\nBeliefs-\r\n Umorism teaches its followers that the sea watches humanity’s movements, tests human ingenuity and persistence in the face of great odds.\r\n From this challenge, humanity is pushed to develop better ship building and other such technologies. The Old Religion used to fund and run colleges of nautical engineering and similar professions, as a way to help spread understanding and knowledge of the sea’s trials and develop new ship technology. But these institutions have either been shut down or repurposed now that the Old Religion is out of favor.\r\n Sea Readers/ Sea Scribe were the priests of the old religion, interpreting the oceans, tides and storms to assist safe trade and travel. Gained this knowledge through survival of the trials of the ocean and being taught by their ancestors.",
-      "resources": "Player's that want to play as Sea Scribes can take this background. It isn't required for anyone following the religion, but for the priest\r\n\r\nBackground\r\n - Acolyte of Umorism\r\n You are a follower of the old faith of Umorism, a Sea Reader, a faith that taught of the endless trials of the ocean, the eternal glorious challenge that spurs humanity forward through tests of nautical navigation and ship building, among many other trials. However, such practices haven't been openly done in the city of Nervios in 150 years as the rising of the guards made the old religion become persecuted in favor of the new religion that simply wished to calm and placate the sea instead of meeting its challenge. You still practice the old rites and techniques in secret till one day such knowledge can again be freely shared in the city. \r\n - Skill Proficiencies: Acrobatics\r\n - Tool Proficiencies: Navigator's Tools, Vehicle (Water)\r\n - Holy Symbol, Dagger, Navigator's Tools, Rope, Traveler’s Clothes, 20 GP\r\n - Feat: Skilled\r\n - The Sea Readers teach that one must be well versed in all manner of skills to better adapt to the numerous challenges the sea has to offer."
+      "description": "",
+      "history": "",
+      "structure": "",
+      "goals": "They hope to one day reintroduce Umorism back to Nervios and rekindle the passion of challenge into humanity again.",
+      "resources": "Player's that want to play as Sea Scribes can take this background. It isn't required for anyone following the religion, but for the priest\n\nBackground\n - Acolyte of Umorism\n You are a follower of the old faith of Umorism, a Sea Reader, a faith that taught of the endless trials of the ocean, the eternal glorious challenge that spurs humanity forward through tests of nautical navigation and ship building, among many other trials. However, such practices haven't been openly done in the city of Nervios in 150 years as the rising of the guards made the old religion become persecuted in favor of the new religion that simply wished to calm and placate the sea instead of meeting its challenge. You still practice the old rites and techniques in secret till one day such knowledge can again be freely shared in the city. \n - Skill Proficiencies: Acrobatics\n - Tool Proficiencies: Navigator's Tools, Vehicle (Water)\n - Holy Symbol, Dagger, Navigator's Tools, Rope, Traveler’s Clothes, 20 GP\n - Feat: Skilled\n - The Sea Readers teach that one must be well versed in all manner of skills to better adapt to the numerous challenges the sea has to offer."
     },
     {
       "id": "mq07178f98f74q",
@@ -120,10 +120,10 @@
           "name": "Nervios Tunnels"
         }
       ],
-      "description": "A group that hates the \"ever-watching eyes\" and wishes to bring Nervios freedom through contact with the outside world and the destruction of the eyes\n\n- Quiet / Gaining traction, trying to help people escape, close ties to smugglers.\n    \n- Truly believes they’re doing what’s best for everyone, especially the people in the town\n    \n- End goal for the rebels (assuming they know or at least believe all the towers are widely unmanned): expose the truth of the matter. Maybe they want to expose the nobles too. Most likely anti-noble if they know their history (which at least the important ones probably do)\n    \n- Probably have spies in the guards\n    \n\n- Definitely trying to find some high ups willing to help to learn more about the panopticon\n    \n\n- Often work under darkness or / and with obscuring / illusion spells\n    \n- Definitely have a tunnel system\n    \n- Strong aura of secrecy, especially in their upper ranks\n    \n- Most often help people escape the town\n    \n- Maybe offers places of solace where the eye cannot see?\n    \n- The collectivist to the guard / government’s isolationist",
+      "description": "",
       "history": "",
       "structure": "",
-      "goals": "",
+      "goals": "1. Free the people from the tyranny of the Guards.\n2. Protect the innocent and ensure equality for all\n3. Restrict the abilities of the powerful\n\n# Structure\n___",
       "resources": ""
     },
     {
@@ -203,7 +203,7 @@
           "name": "Milo Mandrich"
         }
       ],
-      "description": "___ \r\nThe Guards of [[Nervios]] are a strong authoritarian force that protects the city both from enemies within and without. They are in control of who comes and goes, what goods are exported/imported, and what knowledge from outside the walls is shared within. The Guards are responsible for isolating [[Nervios]] from the outside world, and for creating a surveillance state that watches over all citizens.",
+      "description": "",
       "history": "",
       "structure": "",
       "goals": "",
@@ -1249,39 +1249,216 @@
       ]
     },
     {
-      "id": "writing-1784123235431-q8vo61",
-      "startTime": "2026-07-15T13:47:15.431Z",
-      "endTime": "2026-07-15T14:10:07.272Z",
-      "wordsWritten": 11,
+      "id": "writing-1784127613221-u65fsp",
+      "startTime": "2026-07-15T15:00:13.221Z",
+      "endTime": "2026-07-15T15:01:03.473Z",
+      "wordsWritten": 676,
       "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/The Burrow.md"
+        "StorytellerSuite/Stories/Nervios Campaign/Groups/Church of Aequorism.md"
       ]
     },
     {
-      "id": "writing-1784124607327-wbr0ph",
-      "startTime": "2026-07-15T14:10:07.327Z",
-      "endTime": "2026-07-15T14:20:46.646Z",
-      "wordsWritten": 44,
-      "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Scenes/Peaking in the Burrow.md"
-      ]
-    },
-    {
-      "id": "writing-1784125256087-sgxegl",
-      "startTime": "2026-07-15T14:20:56.087Z",
-      "endTime": "2026-07-15T14:21:11.829Z",
+      "id": "writing-1784127676459-s4igrq",
+      "startTime": "2026-07-15T15:01:16.459Z",
+      "endTime": "2026-07-15T15:01:31.170Z",
       "wordsWritten": 1,
       "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Scenes/Peaking in the Burrow.md"
+        "StorytellerSuite/Stories/Nervios Campaign/Groups/Guards.md"
       ]
     },
     {
-      "id": "writing-1784125279438-voiw4o",
-      "startTime": "2026-07-15T14:21:19.438Z",
-      "endTime": "2026-07-15T14:21:32.309Z",
-      "wordsWritten": 1,
+      "id": "writing-1784127807801-9s2qx8",
+      "startTime": "2026-07-15T15:03:27.801Z",
+      "endTime": "2026-07-15T15:03:44.933Z",
+      "wordsWritten": 126,
       "filesEdited": [
-        "StorytellerSuite/Stories/Nervios Campaign/Scenes/Peaking in the Burrow.md"
+        "StorytellerSuite/Stories/Nervios Campaign/Groups/Guards.md"
+      ]
+    },
+    {
+      "id": "writing-1784127826103-zq2dw5",
+      "startTime": "2026-07-15T15:03:46.103Z",
+      "endTime": "2026-07-15T15:26:59.637Z",
+      "wordsWritten": 32,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Groups/Guards.md"
+      ]
+    },
+    {
+      "id": "writing-1784129225287-zw39c7",
+      "startTime": "2026-07-15T15:27:05.287Z",
+      "endTime": "2026-07-15T15:37:07.099Z",
+      "wordsWritten": 84,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Groups/Guards.md"
+      ]
+    },
+    {
+      "id": "writing-1784129831167-hd5kav",
+      "startTime": "2026-07-15T15:37:11.167Z",
+      "endTime": "2026-07-15T15:49:19.231Z",
+      "wordsWritten": 169,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Groups/Guards.md"
+      ]
+    },
+    {
+      "id": "writing-1784130564147-45cg81",
+      "startTime": "2026-07-15T15:49:24.147Z",
+      "endTime": "2026-07-15T16:18:03.773Z",
+      "wordsWritten": 74,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Groups/Guards.md"
+      ]
+    },
+    {
+      "id": "writing-1784132389001-k4qpyi",
+      "startTime": "2026-07-15T16:19:49.001Z",
+      "endTime": "2026-07-15T18:03:50.115Z",
+      "wordsWritten": 280,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Groups/Guards.md"
+      ]
+    },
+    {
+      "id": "writing-1784138633255-pz5lz5",
+      "startTime": "2026-07-15T18:03:53.255Z",
+      "endTime": "2026-07-15T18:18:12.130Z",
+      "wordsWritten": 112,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Groups/Guards.md"
+      ]
+    },
+    {
+      "id": "writing-1784139492231-ix5xm6",
+      "startTime": "2026-07-15T18:18:12.231Z",
+      "endTime": "2026-07-15T18:18:30.524Z",
+      "wordsWritten": 971
+    },
+    {
+      "id": "writing-1784139510564-rnnx6q",
+      "startTime": "2026-07-15T18:18:30.564Z",
+      "endTime": "2026-07-15T18:26:46.785Z",
+      "wordsWritten": 0,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Groups/Guards.md"
+      ]
+    },
+    {
+      "id": "writing-1784140648252-td8uo6",
+      "startTime": "2026-07-15T18:37:28.252Z",
+      "endTime": "2026-07-15T19:07:51.024Z",
+      "wordsWritten": 676,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Groups/Church of Aequorism.md"
+      ]
+    },
+    {
+      "id": "writing-1784213471660-lzfwrx",
+      "startTime": "2026-07-16T14:51:11.660Z",
+      "endTime": "2026-07-16T14:51:45.976Z",
+      "wordsWritten": 676,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Groups/Church of Aequorism.md"
+      ]
+    },
+    {
+      "id": "writing-1784213506044-yfo363",
+      "startTime": "2026-07-16T14:51:46.044Z",
+      "endTime": "2026-07-16T14:55:14.964Z",
+      "wordsWritten": 811,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Groups/Guards.md"
+      ]
+    },
+    {
+      "id": "writing-1784214353764-npymun",
+      "startTime": "2026-07-16T15:05:53.764Z",
+      "endTime": "2026-07-16T15:34:10.400Z",
+      "wordsWritten": 67,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Groups/Rebels.md"
+      ]
+    },
+    {
+      "id": "writing-1784216083837-jhugap",
+      "startTime": "2026-07-16T15:34:43.837Z",
+      "endTime": "2026-07-16T15:36:51.132Z",
+      "wordsWritten": 14,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Groups/Rebels.md"
+      ]
+    },
+    {
+      "id": "writing-1784216229724-8nr3bl",
+      "startTime": "2026-07-16T15:37:09.724Z",
+      "endTime": "2026-07-16T15:38:17.827Z",
+      "wordsWritten": 2,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Groups/Rebels.md"
+      ]
+    },
+    {
+      "id": "writing-1784216301557-qkbe30",
+      "startTime": "2026-07-16T15:38:21.557Z",
+      "endTime": "2026-07-16T15:38:32.757Z",
+      "wordsWritten": 3,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Groups/Rebels.md"
+      ]
+    },
+    {
+      "id": "writing-1784216344834-sp2p6z",
+      "startTime": "2026-07-16T15:39:04.834Z",
+      "endTime": "2026-07-16T15:39:28.899Z",
+      "wordsWritten": 10,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Groups/Rebels.md"
+      ]
+    },
+    {
+      "id": "writing-1784216397160-0240l2",
+      "startTime": "2026-07-16T15:39:57.160Z",
+      "endTime": "2026-07-16T15:43:31.358Z",
+      "wordsWritten": 117,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Groups/Rebels.md"
+      ]
+    },
+    {
+      "id": "writing-1784216617633-7f0f3k",
+      "startTime": "2026-07-16T15:43:37.633Z",
+      "endTime": "2026-07-16T16:06:27.317Z",
+      "wordsWritten": 212,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Groups/Rebels.md"
+      ]
+    },
+    {
+      "id": "writing-1784217990567-e42obv",
+      "startTime": "2026-07-16T16:06:30.567Z",
+      "endTime": "2026-07-16T16:23:11.306Z",
+      "wordsWritten": 7,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Groups/Rebels.md"
+      ]
+    },
+    {
+      "id": "writing-1784218991847-rkkkl3",
+      "startTime": "2026-07-16T16:23:11.847Z",
+      "endTime": "2026-07-16T17:52:39.475Z",
+      "wordsWritten": 48,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Groups/Sea Scribes of Umorism.md"
+      ]
+    },
+    {
+      "id": "writing-1784224601462-f5rsj2",
+      "startTime": "2026-07-16T17:56:41.462Z",
+      "endTime": "2026-07-16T17:57:59.334Z",
+      "wordsWritten": 804,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Groups/Guards.md"
       ]
     }
   ],
@@ -1358,21 +1535,21 @@
     },
     {
       "date": "2026-07-15",
-      "wordsWritten": 57,
-      "wordsDeleted": 0,
-      "netWords": 57,
+      "wordsWritten": 3201,
+      "wordsDeleted": 298,
+      "netWords": 2903,
       "timeSpent": 0,
       "scenesEdited": [],
-      "goalMet": false
+      "goalMet": true
     },
     {
       "date": "2026-07-16",
-      "wordsWritten": 0,
+      "wordsWritten": 2771,
       "wordsDeleted": 0,
-      "netWords": 0,
+      "netWords": 2771,
       "timeSpent": 0,
       "scenesEdited": [],
-      "goalMet": false
+      "goalMet": true
     }
   ],
   "dashboardAccentBorders": false,

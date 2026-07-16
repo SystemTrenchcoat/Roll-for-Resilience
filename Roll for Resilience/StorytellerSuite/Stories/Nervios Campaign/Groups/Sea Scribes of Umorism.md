@@ -10,26 +10,28 @@ members:
     id: "[[Gweneth Falzy]]"
 ---
 
-## Description
-
+# Description
+___
 Followers and priests of Umorism.
 
-## History
-
-Umorism used to be the religion of Nervios, until the guards took over and replaced it with Aequorism and Umorism was outlawed. These days Umorism is practiced in secret by a select few.
-
-## Structure
-
-The priests of this relgiion are know as Sea Scribes. The religion has no discernable heirachy, with most Sea Scribes working together as colleagues sharing knowledge and expierence the best they can.
-
 ## Goals
-
 They hope to one day reintroduce Umorism back to Nervios and rekindle the passion of challenge into humanity again.
+### Beliefs
+Followers of Umorism believe that the Sea is divine and that it observes humanity's movements and tests their ingenuity and persistence in the face of great odds. During these great odds, humanity is pushed to develop and improve both technologically, and as a species. 
 
-Beliefs-
  Umorism teaches its followers that the sea watches humanity’s movements, tests human ingenuity and persistence in the face of great odds.
  From this challenge, humanity is pushed to develop better ship building and other such technologies. The Old Religion used to fund and run colleges of nautical engineering and similar professions, as a way to help spread understanding and knowledge of the sea’s trials and develop new ship technology. But these institutions have either been shut down or repurposed now that the Old Religion is out of favor.
  Sea Readers/ Sea Scribe were the priests of the old religion, interpreting the oceans, tides and storms to assist safe trade and travel. Gained this knowledge through survival of the trials of the ocean and being taught by their ancestors.
+
+# Structure
+___
+The priests of this religion are know as Sea Scribes. The religion has no discernable hierarchy, with most Sea Scribes working together as colleagues sharing knowledge and experience the best they can.
+
+# History
+___
+Umorism used to be the religion of Nervios, until the guards took over and replaced it with Aequorism and Umorism was outlawed. These days Umorism is practiced in secret by a select few.
+
+
 
 ## Resources
 
