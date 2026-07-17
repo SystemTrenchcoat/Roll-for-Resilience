@@ -9,7 +9,9 @@ members:
     id: "[[Merrene Manor]]"
 ---
 
-## Description
+# Description
+___
+The wealthiest family in all of [[Nervios]], the Merrens are known to be extremely powerful and influential. They are responsible for the severe trade restrictions that befall the [[Commonfolk]].
 
 Lives on the manor on the small island off the shore of Nervios.
 Wealthiest family in the city, controls and regulates trade (formal and underground)
