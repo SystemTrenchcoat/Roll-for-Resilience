@@ -11,10 +11,10 @@ entityRefs:
     relationship: takes place here
   - entityId: "[[Milo Mandrich]]"
     entityType: character
-    relationship: located
+    relationship: associated
   - entityId: "[[Gunther Stone]]"
     entityType: character
-    relationship: located
+    relationship: associated
 _skipSync: true
 childLocationIds:
   - "[[Clara Tea]]"

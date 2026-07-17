@@ -11,6 +11,9 @@ age: "?"
 race: "?"
 height: 6' 8"
 id: mrm4umhqjqwuy8
+linkedScenes:
+  - "[[Peaking in the Burrow]]"
+_skipSync: true
 ---
 
 ## Description

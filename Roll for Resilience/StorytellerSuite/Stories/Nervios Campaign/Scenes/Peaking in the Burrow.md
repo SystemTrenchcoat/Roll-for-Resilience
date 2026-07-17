@@ -14,6 +14,7 @@ linkedCharacters:
   - "[[Gregory Marsh]]"
   - "[[The Mask Seller]]"
   - "[[Ms. Gotsome]]"
+  - "[[Gunther Stone]]"
 linkedGroups:
   - "[[Smugglers]]"
   - "[[Sea Scribes of Umorism]]"
@@ -40,5 +41,12 @@ As the party walks through the Burrow, they notice the denizens of the Burrow, w
 
 ### 2. Bethia and the Request
 Getting Passage
-	As the players approach Bethia's incredibly large stand, they see [[Bethia Tallowwind]] quickly and smoothly slide over to the party, followed by [[Ms. Gotsome]] stoically a few steps behind, silently standing and judging the party. Bethia will greet players warmly, saying it's always nice to see new masks around the burrow (unless they didn't get any masks, then she simply smirks with her voice and says it is a bold choice, though not a dangerous one. No one here will snitch, though if they are ever discovered by the guards, it's a bit of extra security for those who can escape not having their face known, and those who can't not giving up their fellows by having the faces scryed through the gauntlets). She list off a couple items from a wide range to show off what they have on sale. If the players ask for a way to the surface and explain how they got there, Bethia offers to get the people back up to the surface discretely so that the guards aren't suspicious of them (They'll utilize one or two corrupt guards who are in charge of sorting through the rubble to say they found the survivors and that they weren't involved with the collapse of the stage). But in exchange, they need to do her a favor and help collect some supplies from the Rebels who were in charghe of getting some of her supplies.
+	As the players approach Bethia's incredibly large stand, they see [[Bethia Tallowwind]] quickly and smoothly slide over to the party, followed by [[Ms. Gotsome]] stoically a few steps behind, silently standing and judging the party. Bethia will greet players warmly, saying it's always nice to see new masks around the burrow (unless they didn't get any masks, then she simply smirks with her voice and says it is a bold choice, though not a dangerous one. No one here will snitch, though if they are ever discovered by the guards, it's a bit of extra security for those who can escape not having their face known, and those who can't not giving up their fellows by having the faces scryed through the gauntlets). She list off a couple items from a wide range to show off what they have on sale. If the players ask for a way to the surface and explain how they got there, Bethia offers to get the people back up to the surface discretely so that the guards aren't suspicious of them (They'll utilize one or two corrupt guards who are in charge of sorting through the rubble to say they found the survivors and that they weren't involved with the collapse of the stage). But in exchange, they need to do her a favor and help collect a special package from the [[Rebels]] that she warns the party not to peak inside the package so that the quality of the package isn't ruined.
+
+The request is a quest that takes the party through multiple concerning parts, doing favors for each till they finally can start completing tasks and finish the quest.
+	Bethia sends the players to the rebels to get an important but secret package she asked them to get, which is a temptation to see if they are trustworthy.
+	From rebels to blacksmith, need swords
+	From blacksmith to sea scribe, need a rune from Gweneth 
+	From sea scribe to food pit, needs her lunch (she a grumpy old lady, love her)
+	Food pit is very crowded, so the players need to distract the crowd so that Gunther can finish is other deliveries. Maybe fight pit ;)
 

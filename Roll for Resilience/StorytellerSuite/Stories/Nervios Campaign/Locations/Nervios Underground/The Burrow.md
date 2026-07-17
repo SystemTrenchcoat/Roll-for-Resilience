@@ -28,7 +28,7 @@ The burrow is categorized by being lit by many bioluminescent plants that are wi
 	In the North part of the Burrow is the Sea Scribe Academy, where Gweneth Falzy teaches and preaches the ways of Umorism, along with how to navigate the ocean and various tricks for building and maintaining ships. A valubale asset to smuggler and rebel alike.
 
 ### Food Pit
-	In the south west edge fo the Burrow is the food pit, where various cousines are cooked up and served. And people usually don't get sick after eating there, so the cook has good business.
+	In the south west edge of the Burrow is the food pit, where various cousines are cooked up and served. It's run by Gunther Stone, who doesn't use rocks in their food while down here.
 
 ### Bethia's Stall
 	Bethia's stall takes up the west edge of the Burrow, where most of the illegal goods of the Burrow are sold to persepcitve customers. She is always accompanied by Ms. Gotsome, her tall, slient bodyguard.
