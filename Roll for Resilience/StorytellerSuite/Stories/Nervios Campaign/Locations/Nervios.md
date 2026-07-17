@@ -13,10 +13,10 @@ entityRefs:
     relationship: associated
   - entityId: "[[Jane Novia]]"
     entityType: character
-    relationship: located
+    relationship: associated
   - entityId: "[[Clara Porter]]"
     entityType: character
-    relationship: located
+    relationship: associated
   - entityId: "[[The Day of Granite Rain]]"
     entityType: event
     relationship: occurred here

@@ -33,7 +33,7 @@ Leon works as a Guard Captain in order to recruit new guards as potential double
 ## Backstory
 When Leon was a young boy, he was indoctrinated into the rebellion by his father. He was taught to hate the guards, the spires, the nobles, and anybody else who worked to suppress the freedoms of the people. One night, his father set sail to sneak illegal goods into the black market and never returned. The next morning Leon was taken in by guards and interrogated with a thought gauntlet about the rebellion and his father. Despite this, Leon remained exceptionally calm. He focused and calmed his mind to such an extent that the thought detector cleared him from any wrong-doings. Satisfied with the boy's perceived ignorance, the guards left him alone and orphaned, boasting that at least he gets to be "free". Deeply enraged, Leon swore his allegiance to the rebellion and worked his way up the ranks until he was assigned the task of becoming a double-agent. Now Leon works for the city guard as a Guard Captain, cautiously recruiting only the most loyal and reliable guards as double-agents for the rebellion.
 
-### Physical Appearance
+## # Physical Appearance
 Leon is a lean and handsome man, with wavy shoulder-length hair the color of deep bronze. His face is clean-shaven and sharp, with seemingly perfect white teeth. He stands at slightly below-average height, yet his intimidating and charismatic presence makes him appear taller. He wears a metal gauntlet on his right hand; his left hand remains bare.
 
 ## Motivations
