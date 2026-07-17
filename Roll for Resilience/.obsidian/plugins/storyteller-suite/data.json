@@ -51,7 +51,7 @@
           "name": "Nervios"
         }
       ],
-      "description": "The smugglers run the Burrow, supplying the city of Nervios with the majority of their illegal goods. They have close ties with the Rebels and Sea Scribes. Both of these groups need the Burrow to avoid the guards, while the Smugglers need the rebels for more man power and the Sea Scribes to help create more advance ships to smuggle more stuff.",
+      "description": "",
       "history": "",
       "structure": "",
       "goals": "",
@@ -139,7 +139,7 @@
           "name": "Merrene Manor"
         }
       ],
-      "description": "Lives on the manor on the small island off the shore of Nervios.\nWealthiest family in the city, controls and regulates trade (formal and underground)\nHeavily influences the government, pays off guards and gov’t officials, takes advantage of citizens and spies on them through corrupt guards\nDon’t control the tower, but utilize its presence to further instill fear and a feeling of surveillance\nOut of direct sightlines of the spire, family referred to as “the unseen” by locals\nDouble-edged sword: while corrupt, the family provides a plethora of jobs to the citizens and acts as the main source of wealth and income for the city.",
+      "description": "",
       "history": "",
       "structure": "",
       "goals": "",
@@ -258,7 +258,7 @@
           "name": "Gunther Stone"
         }
       ],
-      "description": "The everyday people of [[Nervios]]. Not engaged in the lives of guards, rebels, or nobles.",
+      "description": "",
       "history": "",
       "structure": "",
       "goals": "",
@@ -313,6 +313,102 @@
         {
           "groupName": "Rebels",
           "relationshipType": "rival"
+        }
+      ],
+      "description": "",
+      "history": "",
+      "structure": "",
+      "goals": "",
+      "resources": ""
+    },
+    {
+      "id": "mr3tquztlppz9a__sea-scribes-of-umorism",
+      "storyId": "mpwy9kn3o4bhth",
+      "name": "Sea Scribes of Umorism",
+      "color": "#2bb8c2",
+      "groupType": "religious",
+      "tags": [],
+      "members": [
+        {
+          "type": "character",
+          "id": "mq8e8gtilwl7sn",
+          "name": "Gweneth Falzy"
+        }
+      ],
+      "description": "",
+      "history": "",
+      "structure": "",
+      "goals": "They hope to one day reintroduce Umorism back to Nervios and rekindle the passion of challenge into humanity again.",
+      "resources": "Player's that want to play as Sea Scribes can take this background. It isn't required for anyone following the religion, but for the priest\n\nBackground\n - Acolyte of Umorism\n You are a follower of the old faith of Umorism, a Sea Reader, a faith that taught of the endless trials of the ocean, the eternal glorious challenge that spurs humanity forward through tests of nautical navigation and ship building, among many other trials. However, such practices haven't been openly done in the city of Nervios in 150 years as the rising of the guards made the old religion become persecuted in favor of the new religion that simply wished to calm and placate the sea instead of meeting its challenge. You still practice the old rites and techniques in secret till one day such knowledge can again be freely shared in the city. \n - Skill Proficiencies: Acrobatics\n - Tool Proficiencies: Navigator's Tools, Vehicle (Water)\n - Holy Symbol, Dagger, Navigator's Tools, Rope, Traveler’s Clothes, 20 GP\n - Feat: Skilled\n - The Sea Readers teach that one must be well versed in all manner of skills to better adapt to the numerous challenges the sea has to offer."
+    },
+    {
+      "id": "mq9oc68md52oq2__church-of-aequorism",
+      "storyId": "mpwy9kn3o4bhth",
+      "name": "Church of Aequorism",
+      "groupType": "religious",
+      "tags": [],
+      "status": "Active",
+      "subgroups": [
+        "High Trident"
+      ],
+      "members": [
+        {
+          "type": "character",
+          "id": "mq5dvk117wuuml",
+          "name": "Isabella Sol"
+        },
+        {
+          "type": "character",
+          "id": "mq9o5sbjuknoo2",
+          "name": "Caspian Moon"
+        },
+        {
+          "type": "character",
+          "id": "mq9s1sv6wpel6y",
+          "name": "Soren Mar"
+        },
+        {
+          "type": "character",
+          "id": "mqb7uhtsmyyoky",
+          "name": "Iris Thyrsin"
+        },
+        {
+          "type": "event",
+          "id": "StorytellerSuite/Stories/Nervios Campaign/Events/The Festival of Granite Rain",
+          "name": "StorytellerSuite/Stories/Nervios Campaign/Events/The Festival of Granite Rain"
+        }
+      ],
+      "groupRelationships": [
+        {
+          "groupName": "Guards",
+          "relationshipType": "friendly"
+        },
+        {
+          "groupName": "Commonfolk",
+          "relationshipType": "neutral"
+        },
+        {
+          "groupName": "Rebels",
+          "relationshipType": "rival"
+        }
+      ],
+      "description": "",
+      "history": "",
+      "structure": "",
+      "goals": "",
+      "resources": ""
+    },
+    {
+      "id": "mpx9s2hysydka7__merrene-family",
+      "storyId": "mpwy9kn3o4bhth",
+      "name": "Merrene Family",
+      "groupType": "political",
+      "tags": [],
+      "members": [
+        {
+          "type": "location",
+          "id": "mpx9cde4sbneen",
+          "name": "Merrene Manor"
         }
       ],
       "description": "",
@@ -1460,6 +1556,156 @@
       "filesEdited": [
         "StorytellerSuite/Stories/Nervios Campaign/Groups/Guards.md"
       ]
+    },
+    {
+      "id": "writing-1784224793851-6ffrln",
+      "startTime": "2026-07-16T17:59:53.851Z",
+      "endTime": "2026-07-16T18:00:25.146Z",
+      "wordsWritten": 676,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Groups/Church of Aequorism.md"
+      ]
+    },
+    {
+      "id": "writing-1784225513035-fmhg8d",
+      "startTime": "2026-07-16T18:11:53.035Z",
+      "endTime": "2026-07-16T18:18:34.493Z",
+      "wordsWritten": 7,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Groups/Sea Scribes of Umorism.md"
+      ]
+    },
+    {
+      "id": "writing-1784225917129-obe22n",
+      "startTime": "2026-07-16T18:18:37.129Z",
+      "endTime": "2026-07-16T18:50:16.660Z",
+      "wordsWritten": 2,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Groups/Sea Scribes of Umorism.md"
+      ]
+    },
+    {
+      "id": "writing-1784227817200-xwpiuv",
+      "startTime": "2026-07-16T18:50:17.200Z",
+      "endTime": "2026-07-16T18:58:10.452Z",
+      "wordsWritten": 125,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Groups/Commonfolk.md"
+      ]
+    },
+    {
+      "id": "writing-1784228295202-utbt8p",
+      "startTime": "2026-07-16T18:58:15.202Z",
+      "endTime": "2026-07-16T18:58:24.647Z",
+      "wordsWritten": 1,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Groups/Smugglers.md"
+      ]
+    },
+    {
+      "id": "writing-1784228310128-2jlwcl",
+      "startTime": "2026-07-16T18:58:30.128Z",
+      "endTime": "2026-07-16T19:00:57.031Z",
+      "wordsWritten": 38,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Groups/High Trident.md"
+      ]
+    },
+    {
+      "id": "writing-1784228464716-65gtwh",
+      "startTime": "2026-07-16T19:01:04.716Z",
+      "endTime": "2026-07-16T19:02:25.605Z",
+      "wordsWritten": 39,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Groups/High Trident.md"
+      ]
+    },
+    {
+      "id": "writing-1784228560132-whxfai",
+      "startTime": "2026-07-16T19:02:40.132Z",
+      "endTime": "2026-07-16T19:08:10.765Z",
+      "wordsWritten": 0,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Groups/High Trident.md"
+      ]
+    },
+    {
+      "id": "writing-1784228890862-s9yuea",
+      "startTime": "2026-07-16T19:08:10.862Z",
+      "endTime": "2026-07-16T19:09:22.590Z",
+      "wordsWritten": 159,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Groups/Religions/Church of Aequorism.md"
+      ]
+    },
+    {
+      "id": "writing-1784229142119-9lkim1",
+      "startTime": "2026-07-16T19:12:22.119Z",
+      "endTime": "2026-07-16T19:12:24.997Z",
+      "wordsWritten": 832
+    },
+    {
+      "id": "writing-1784229169911-t8daqa",
+      "startTime": "2026-07-16T19:12:49.911Z",
+      "endTime": "2026-07-16T19:36:50.428Z",
+      "wordsWritten": 30,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Groups/Noble Families/Merrene Family.md"
+      ]
+    },
+    {
+      "id": "writing-1784300217948-3uoksz",
+      "startTime": "2026-07-17T14:56:57.948Z",
+      "endTime": "2026-07-17T14:58:03.592Z",
+      "wordsWritten": 142,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Groups/Commonfolk.md"
+      ]
+    },
+    {
+      "id": "writing-1784300296225-xnizoj",
+      "startTime": "2026-07-17T14:58:16.225Z",
+      "endTime": "2026-07-17T14:58:18.412Z",
+      "wordsWritten": 481
+    },
+    {
+      "id": "writing-1784300304790-jsuvwd",
+      "startTime": "2026-07-17T14:58:24.790Z",
+      "endTime": "2026-07-17T14:58:28.092Z",
+      "wordsWritten": 0
+    },
+    {
+      "id": "writing-1784300318123-tbchkk",
+      "startTime": "2026-07-17T14:58:38.123Z",
+      "endTime": "2026-07-17T14:58:40.787Z",
+      "wordsWritten": 31
+    },
+    {
+      "id": "writing-1784300364941-iqqk1x",
+      "startTime": "2026-07-17T14:59:24.941Z",
+      "endTime": "2026-07-17T14:59:45.706Z",
+      "wordsWritten": 878,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Groups/Guards.md"
+      ]
+    },
+    {
+      "id": "writing-1784300385817-x7bks3",
+      "startTime": "2026-07-17T14:59:45.817Z",
+      "endTime": "2026-07-17T15:00:57.581Z",
+      "wordsWritten": 587,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Groups/Rebels.md"
+      ]
+    },
+    {
+      "id": "writing-1784300459282-in4mzs",
+      "startTime": "2026-07-17T15:00:59.282Z",
+      "endTime": "2026-07-17T15:03:22.894Z",
+      "wordsWritten": 65,
+      "filesEdited": [
+        "StorytellerSuite/Stories/Nervios Campaign/Groups/Smugglers.md"
+      ]
     }
   ],
   "trackWritingSessions": false,
@@ -1544,9 +1790,18 @@
     },
     {
       "date": "2026-07-16",
-      "wordsWritten": 2771,
-      "wordsDeleted": 0,
-      "netWords": 2771,
+      "wordsWritten": 4680,
+      "wordsDeleted": 207,
+      "netWords": 4473,
+      "timeSpent": 0,
+      "scenesEdited": [],
+      "goalMet": true
+    },
+    {
+      "date": "2026-07-17",
+      "wordsWritten": 2184,
+      "wordsDeleted": 188,
+      "netWords": 1996,
       "timeSpent": 0,
       "scenesEdited": [],
       "goalMet": true
