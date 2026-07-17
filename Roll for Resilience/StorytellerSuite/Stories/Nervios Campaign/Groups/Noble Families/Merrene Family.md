@@ -11,11 +11,6 @@ members:
 
 # Description
 ___
-The wealthiest family in all of [[Nervios]], the Merrens are known to be extremely powerful and influential. They are responsible for the severe trade restrictions that befall the [[Commonfolk]].
+The wealthiest family in all of [[Nervios]], the Merrenes are known to be extremely powerful and influential. They heavily influence the government through bribes and are responsible for many of the severe trade restrictions that befall the [[Commonfolk]]. While corrupt however, the family employs a large portion of the city. Without them, many would starve or lose access to shelter.
 
-Lives on the manor on the small island off the shore of Nervios.
-Wealthiest family in the city, controls and regulates trade (formal and underground)
-Heavily influences the government, pays off guards and gov’t officials, takes advantage of citizens and spies on them through corrupt guards
-Don’t control the tower, but utilize its presence to further instill fear and a feeling of surveillance
-Out of direct sightlines of the spire, family referred to as “the unseen” by locals
-Double-edged sword: while corrupt, the family provides a plethora of jobs to the citizens and acts as the main source of wealth and income for the city.
+Little is known about the day-to-day life of the Merrene Family as the commonfolk rarely get a chance to see or interact with them. 
