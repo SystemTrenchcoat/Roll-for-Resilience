@@ -58,7 +58,7 @@ ___
 ## NPCS
 ### Key NPCS
 - **[[Gimil Lawman]] - Presiding Judge of Nervios**
-	- Conducts the flow of the trial.
+	- Conducts the trial
 - **[[Iris Thyrsin]] - Divine Prosecutor of the Court**
 - **Armul Onoimer - Secular Prosecutor of the Court**
 ### General NPCS
@@ -74,6 +74,12 @@ ___
 |           |             |
 # Setting
 ___
+## Atmosphere
+Tensions arise all the same for any manner of criminal trial in Nervios, no matter how relatively tame the charges may be. Eyes of onlookers and passersby outside poke through windows near the ground, and the earthy stench of ink along with the  documents it stains wafts through the room.
 ## Key Locations
+- [[The Courthouse]]
+- The scene of the crime of which the party stands accused.
 ## Hiding Spots
+When a player is not actively involved in assisting or creating an argument, they are free to come and go from the court as they please. In fact, this can be beneficial as players separated from the party can return to the scene of a crime to search for more evidence.
+
 ## Motivators
