@@ -11,7 +11,6 @@ members:
 pronunciation:
   - Umorism (OO-MOR-ISM)
 ---
-
 # Description
 ___
 For centuries, Umorism reigned as the core religion of [[Nervios]]. Practitioners of animism, Umorists believe that all things natural possess some spiritual essence. Instead of gods and deities, Umorists worship nature and specifically the sea. They believe that the Sea tests and challenges humanity in order to push them forward and elicit growth. 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StorytellerSuite/Stories/Nervios Campaign/Items/Gauntlet of Truth.md",
+                "file": "StorytellerSuite/Stories/Nervios Campaign/Groups/Guards.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gauntlet of Truth"
+              "title": "Guards"
             }
           },
           {
@@ -164,28 +164,18 @@
             }
           },
           {
-            "id": "2ec9dadcfec6f2d2",
-            "type": "leaf",
-            "state": {
-              "type": "storyteller-dashboard-view",
-              "state": {},
-              "icon": "book-open",
-              "title": "Storyteller suite"
-            }
-          },
-          {
             "id": "6015f5660a0eab5f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Collapse of Central Stage.md",
+                "file": "StorytellerSuite/Stories/Nervios Campaign/Groups/Guards.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Collapse of Central Stage"
+              "title": "Outline of Guards"
             }
           }
         ],
@@ -203,16 +193,20 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "storyteller-suite:Open storyteller dashboard": false,
-      "storyteller-suite:Open campaign view": false,
-      "storyteller-suite:Apply template to story": false
+      "bases:Create new base": false
     }
   },
   "active": "3f4efe8e618075f6",
   "lastOpenFiles": [
-    "StorytellerSuite/Stories/Nervios Campaign/Items/Deception Medallion.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Groups/Rebels.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Groups/Merrene Family.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Groups/Sea Scribes of Umorism.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Groups/Smugglers.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Groups/Commonfolk.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Groups/Church of Aequorism.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Groups/Guards.md",
     "StorytellerSuite/Stories/Nervios Campaign/Items/Gauntlet of Truth.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Items/Deception Medallion.md",
     "StorytellerSuite/Stories/Nervios Campaign/Items/Granite Puzzle Piece.md",
     "StorytellerSuite/Stories/Nervios Campaign/Items/Great Blue Cave Plant.md",
     "StorytellerSuite/Stories/Nervios Campaign/Items/Muscle Milk.md",
@@ -220,17 +214,10 @@
     "StorytellerSuite/Stories/Nervios Campaign/Items/Rebel Coin.md",
     "StorytellerSuite/Stories/Nervios Campaign/Groups/Noble Families/Merrene Family.md",
     "Nervios/The City of Nervios - An Introduction.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Groups/Rebels.md",
     "Nervios/Rolling for Resilience.md",
     "StorytellerSuite/Stories/Nervios Campaign/Events/The Day of Granite Rain.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Groups/Guards.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Groups/Commonfolk.md",
     "StorytellerSuite/Stories/Nervios Campaign/Groups/Religions/Sea Scribes of Umorism.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Groups/Smugglers.md",
     "StorytellerSuite/Stories/Nervios Campaign/Groups/Religions/Church of Aequorism.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Groups/Merrene Family.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Groups/Sea Scribes of Umorism.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Groups/Church of Aequorism.md",
     "StorytellerSuite/Stories/Nervios Campaign/Characters/Nysaphia.md",
     "StorytellerSuite/Stories/Nervios Campaign/Characters/Gunther Stone.md",
     "StorytellerSuite/Stories/Nervios Campaign/Scenes/Peaking in the Burrow.md",
