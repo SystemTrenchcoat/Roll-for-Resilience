@@ -10,14 +10,13 @@ synopsis: The party gets trapped in the Nervios tunnel system, and must find the
 payoffScenes:
   - "[[The Festival of Granite Rain]]"
 ---
-# Content
-
 ## Hook
 ---
 > ***As [[The Wheel of Purity]] is solved and the grand prize is revealed, the stage begins to shift and crack beneath your feet. Suddenly, you plummet downwards as the stage collapses and a thick plume of dust a fills the air. As the dust cloud settles, you find yourself underground in a large cavern with several branching paths. The sinkhole by which you've entered has been sealed by the boulders used to create the stage.***
 
-## Story Beats 
+# Content
 ___
+## Story Beats 
 This mission takes place directly after the events of [[The Festival of Granite Rain]]. Here, players are expected to continue to work as a team and continue forming  interpersonal connections while navigating through puzzles and encounters.
 
 ### 1. The Fall into [[Central Cavern]]
@@ -41,8 +40,8 @@ After opening the hidden door at the [[Rebellion Mural]], a separate series of t
 After completing the puzzle in the [[Eastern Tunnel System]], players can enter into [[The Burrow]]. Please refer to the scene, [[Peaking in the Burrow]] for next steps.
 
 ### 5. **Continued on in** [[Peaking in the Burrow]]...
+
 ## Key Locations
-___
 - [[Flora Tunnels]]
 - [[Rune Tunnels]]
 - [[Rebellion Mural]]
@@ -50,11 +49,9 @@ ___
 - [[The Burrow]]
 
 ## Key NPCS
-___
 This mission takes place underground in secluded tunnels far from any NPCS. The party must work together to escape without external help.
 
 ## Key Items
-___
 
 | Item Name                 | Description                                                                                                                                                                                                                                                                               |
 | ------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -63,12 +60,11 @@ ___
 | [[Yellow Noble Bloom]]    | Their leaves are sharp and slightly sticky, though brushing by them won’t do anything. Touching one bare handed to pull out and eat would first lead to a cut. If a player decides to eat one anyways, it’s slightly sweet but that though would be blocked out by the pain of the leaves |
 | [[Stone Lotus Flower]]    | A stone sculpture made of two parts earned from the [[Flora Tunnels]] and [[Rune Tunnels]]. It acts as the key that unlocks the [[Rebellion Mural]] door.                                                                                                                                 |
 
-### Hiding Spots
 ___
+## Hiding Spots
 There is no temporal pressure to escape the tunnels, nor any social pressure from NPCS in the underground. Many parts of the cavern are large and open, giving players room to relax.
 
-### Motivators
-___
+## Motivators
 In case the party begins to stall or take too long, several motivators can occur:
 - A deep growl is heard in the direction behind them, pushing the party forward
 - The earth around them begins to shake and settle.

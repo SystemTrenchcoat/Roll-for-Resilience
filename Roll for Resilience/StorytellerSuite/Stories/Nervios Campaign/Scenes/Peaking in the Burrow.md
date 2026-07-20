@@ -21,8 +21,7 @@ linkedGroups:
   - "[[Rebels]]"
 locations: "[[The Burrow]]"
 ---
-
-## Content
+# Content
 
 ### Hook
 >After travelling through the tunnels under the city of [[Nervios]], completing strange challenges and besting dangerous creatures. Now with the opening of the mysterious door, the party beholds a strange sight. As the bright crack snakes and grows between the door and the wall, the players are greeted with the sound of many hushed voices, the clinking of many coins exchanging hands, and the shifting and rattling of bottles and boxes being passed about. Bioluminescent plants light up the market from pots hanging from ceilings or nearby gardens, illuminating the various ram shackled stalls and cloaked, masked figures milling about the market. They all speak in whispered, but lax tones. An oddity you’re not quite familiar with.

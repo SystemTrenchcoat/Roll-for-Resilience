@@ -13,7 +13,7 @@ The current list of missions and their descriptions are shown below. The first t
 | [[The Collapse of Central Stage]]*\*\* * | Following the Festival of Granite Rain, the party finds themselves trapped in an underground tunnel system following a massive sinkhole. Can they find their way out while navigating puzzles, darkness, and cryptic symbols? | Beginning | Tense, Eerily comfortable |
 | [[Peaking in the Burrow]]*\*\* *         | Following the events of The Collapse of Central Stage, the players find themselves in The Burrow: an underground marketplace where rebels and criminals prosper alike. This is the key to their return to the surface.        | Beginning | Safe, Mysterious          |
 | Smuggling for the Merrene                | The party's service is requested by the wealthiest noble family in all of Nervios, the Merrenes. Turns out, they need help smuggling illicit goods out.                                                                       | Middle    |                           |
-| The Trial                                | A member of the party is arrested by the Guards and accused of committing a great crime. The party must prove their innocence in the corrupt courts of Nervios.                                                               | Middle    |                           |
+| [[The Trial]]                            | A member of the party is arrested by the Guards and accused of committing a great crime. The party must prove their innocence in the corrupt courts of Nervios.                                                               | Middle    | Tense,                    |
 | We, Sentients                            | While reminiscing on the past, an ancient sentient robot asks the party to help locate an old cache left behind by it's creator.                                                                                              | Middle    |                           |
 | Dead Don't Swim                          | The party is made aware of a necromancer beneath the city. The soul of a victim pleads for the party to defeat the necromancer and free the souls in her possession.                                                          | Middle    |                           |
 | The Forbidden <br>Text                   | The party finds themselves in possession of an ancient religious text, predating even the old Religion of Nervios.                                                                                                            | Middle    |                           |
@@ -23,6 +23,7 @@ The current list of missions and their descriptions are shown below. The first t
 
 # Navigating the Obsidian
 ___
+
 
 # Foundry
 ___

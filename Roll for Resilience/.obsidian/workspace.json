@@ -8,17 +8,31 @@
         "type": "tabs",
         "children": [
           {
+            "id": "184b13ed6b87bbdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Trial.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Trial"
+            }
+          },
+          {
             "id": "3f4efe8e618075f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StorytellerSuite/Stories/Nervios Campaign/Characters/Lili Heartkeep.md",
+                "file": "StorytellerSuite/Stories/Nervios Campaign/Locations/The Courthouse.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lili Heartkeep"
+              "title": "The Courthouse"
             }
           }
         ]
@@ -78,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 283.5
   },
   "right": {
     "id": "59ff323b99e34f60",
@@ -94,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Trial.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for The Trial"
             }
           },
           {
@@ -112,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Collapse of Central Stage.md",
+                "file": "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Trial.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from The Collapse of Central Stage"
+              "title": "Outgoing links from The Trial"
             }
           },
           {
@@ -155,61 +170,122 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StorytellerSuite/Stories/Nervios Campaign/Characters/Lili Heartkeep.md",
+                "file": "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Trial.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lili Heartkeep"
+              "title": "Outline of The Trial"
             }
           }
         ],
         "currentTab": 4
+      },
+      {
+        "id": "c3d3b4d2ccbea03b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04c2d4a42ff6a863",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 395.5
+    "width": 326.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
+      "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false
     }
   },
-  "active": "3f4efe8e618075f6",
+  "floating": {
+    "id": "9f5adc5ebc166345",
+    "type": "floating",
+    "children": [
+      {
+        "id": "2c8f53711dab7be9",
+        "type": "window",
+        "children": [
+          {
+            "id": "9a3d093e080ee421",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "65c5f83fae97bfb3",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Central Cavern.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Central Cavern"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2272,
+        "y": 165,
+        "width": 986,
+        "height": 1038,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "184b13ed6b87bbdf",
   "lastOpenFiles": [
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Lynette Merrene.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Lili Heartkeep.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Nysaphia.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Groups/Guards.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Groups/Rebels.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Groups/Merrene Family.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Groups/Sea Scribes of Umorism.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Groups/Smugglers.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Groups/Commonfolk.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Groups/Church of Aequorism.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Items/Gauntlet of Truth.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Items/Deception Medallion.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Items/Granite Puzzle Piece.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Items/Great Blue Cave Plant.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Items/Muscle Milk.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Items/Oyster and Stone Fruit Salad.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Items/Rebel Coin.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Groups/Noble Families/Merrene Family.md",
-    "Nervios/The City of Nervios - An Introduction.md",
-    "Nervios/Rolling for Resilience.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Events/The Day of Granite Rain.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Groups/Religions/Sea Scribes of Umorism.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Groups/Religions/Church of Aequorism.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Gunther Stone.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Locations/The Courthouse.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Trial.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Scenes/Mission Template.md",
     "StorytellerSuite/Stories/Nervios Campaign/Scenes/Peaking in the Burrow.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Groups/High Trident.md",
+    "Images/Maps/courthouse-holding-cells.png",
+    "Nervios/Module/DM Tools.md",
+    "Nervios/Module/Constraints.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Collapse of Central Stage.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Festival of Granite Rain.md",
+    "Nervios/Rolling for Resilience.md",
+    "Nervios/The City of Nervios - An Introduction.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Central Cavern.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Locations/The Broken Ravine.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Flora Tunnels.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Nervios Tunnels.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Rune Tunnels.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Rebellion Mural.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground/Eastern Tunnel System.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Locations/The Nervios Eye.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Locations/Ivory Bazaar.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Locations/Clara Tea.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Locations/Central Stage.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Locations/Bag Me Up.md",
+    "Images/Maps/courthouse-courtroom.png",
+    "Images/Maps/courthouse-courtroom.png.opdownload",
+    "Images/Maps/courthouse-holding-cell.png.opdownload",
+    "Images/Maps",
+    "Images/New folder",
+    "Images/The Trial",
+    "Nervios/Worldbuilding/Crimes of Nervios.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Groups/Church of Aequorism.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Groups/Smugglers.md",
     "StorytellerSuite/Stories/Nervios Campaign/Groups/Noble Families",
     "StorytellerSuite/Stories/Nervios Campaign/Groups/Religions",
     "Images/The Collapse of Central Stage/Maps/nervios_underground_whole_map.png",
@@ -220,16 +296,9 @@
     "Images/The Collapse of Central Stage/Maps/eastern_tunnel_map.png",
     "Images/The Collapse of Central Stage/Maps/central_cavern.png",
     "Images/rebellionSymbol.png",
-    "Images/The Collapse of Central Stage/Maps/rebellion_mural_map.png",
     "Images/The Collapse of Central Stage/Maps",
     "Images/The Collapse of Central Stage/New folder",
     "Images/rebellionSymbol.png~",
-    "Images/The Collapse of Central Stage/rune_plank_clue.png",
-    "Images/The Collapse of Central Stage/rune_plank_clue.png.opdownload",
-    "Images/The Collapse of Central Stage/Runes",
-    "StorytellerSuite/GalleryUploads",
-    "Images/The Collapse of Central Stage",
-    "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios Underground",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Untitled 2.canvas",
