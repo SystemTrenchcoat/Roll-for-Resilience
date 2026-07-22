@@ -27,7 +27,12 @@ Nysaphia speaks in nasal tones, with all of the bright sounds typical of a "nerd
 - *"What you call 'macabre', I see as necessary. One pair of stained hands, for the living to benefit. That sounds fair to me.*
 - *I intend to be on my way when my work is finished, no sooner. But if you want me gone, then we can discuss terms.*
 
-## Backstory
-In the open waters connected to Nervios lies a settlement of seafolk, its outskirts constantly littered by the corpses of the world above. Nysaphia saw the plethora of bodies and grew curious about the anatomy of "humans", ones different from the elves which she only heard of from the old generation's stories. Against her grandparents wishes, she picked them apart, bringing them back with increasing success each time before she reached a block. No matter how many new dead she brought back, she felt no closer to understanding their organs, nor how they lived. 
+## Motivations
+Curiosity, Nysaphia's fascination with the unknown and the taboo pushes her forward, especially if it means getting her hands dirty in the process. Raising the dead for study was simply the next logical evolution in her curiosity, she simply must understand. But now, her curiosity has evolved into a sense of altruism in the name of arcane science, coldly accepting any cost she incurs for her Utilitarian good.
 
-All this changed once she left home and settled into an abandoned tomb beneath Nervios, with its entrance long since flooded. It wasn't long until she noticed a difference from the dead she was used to working with, documenting more details as her sporadic process slowly shifted to systematic. She felt the burning desire to be organized upon realizing this data was bigger than herself, that her morbid curiosity had to be shared for everyone. During her experiments, she came to the conclusion that a tether exists between body and soul, searching for how to sever this connection and allow the two to be independent by raising more undead at once. 
+## Backstory
+In the open waters connected to Nervios lies a settlement of seafolk, its outskirts constantly littered by the corpses of the world above. Nysaphia saw the plethora of bodies and, against her grandparents wishes, picked them apart to bring them back. They fascinated her so much, being different than the elves she knew of, they were the "humans" from the old generation's stories. 
+
+Once Nysaphia felt herself repeatedly reaching a block, she left home, and settled into an abandoned tomb beneath Nervios with its entrance flooded. It wasn't long until she noticed a difference from the dead there compared to what she was used to, documenting more details as her sporadic process slowly shifted to systematic. Once she started including her steps, she realized this data was bigger than what she ever could be alone, it had to be shared for everyone.
+
+Through her experiments, she came to the conclusion that a tether exists between body and soul, searching for how to sever this connection and allow the two to be independent by raising more undead at once. 

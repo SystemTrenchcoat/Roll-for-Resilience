@@ -24,12 +24,12 @@ Blossoming locks of brown hair falling past her shoulders, decorating the slight
 Players with 13 passive wisdom / perception will notice
 >*Poking through the right end of her top is an ornate dagger sheath, barely visible to the inattentive eye yet hardly obstructed. You sense it would be wise for her to keep it there*
 
-## Vocal Direction
+## Vocal Performance
 Lynette speaks with rather succinct pronunciation, not lingering on the sound of any word, even while thinking on the proper word to use next. She does not use flowery language often, choosing simpler words and adding more for emphasis rather than multiple syllables. 
 
 ## Sample Dialog
 - *I've made myself clear. All that remains is your end*
-- *What, this little trophy? Please, my brothers should be the only one impressed by it*
+- *What, this little trophy? Please, my brothers should be the only ones impressed by it*
 - *Do as I ask, and you will see payment, I swear to it.*
 
 ## Backstory

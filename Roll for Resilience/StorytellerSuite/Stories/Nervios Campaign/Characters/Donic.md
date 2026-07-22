@@ -15,12 +15,12 @@ id: mraw0p3igccyle
 A pair of warm, bright green eyes, now merely decoration, adorn his 6'2" varnished Chestnut body. His rotund belly and sturdy legs serve as upright support, in addition to overall creating a friendlier appearance.
 
 Players with a 12 passive wisdom / perception notice
-> *His right and left eyes occasionally glitch, flickering as if trying to restart. Although, you get the feeling that if you tried to fix Donic, he might not speak with you again.*
+> *Both of his eyes occasionally glitch, independently flickering as if trying to restart. Although, you get the feeling that if you tried to fix Donic, he might not speak with you again.*
 
 Additionally, players with 14 will *also* notice
 > *Mirrored strokes carve initials into the plate of Donic's chest, belonging to the young lass who created him.*
 
-## Vocal direction
+## Vocal Performance
 Donic speaks in semi-deep tones with a slight Australian accent, sprinkling dry humor into casual conversation. Envision the jokes of a newly disabled veteran, or a grizzled miner that's outlived their first crew, and you'll have a starting idea. Continuing this energy, Donic is an energetic, loud individual who uses simple language in conversation, capable of flowery prose but choosing to save it for performance sake. He will interchangeably refer to himself as "it" to acknowledge his machinery and "he" to celebrate the humanity he found, with no preference.
 
 ##  Sample Dialog
@@ -28,10 +28,11 @@ Donic speaks in semi-deep tones with a slight Australian accent, sprinkling dry 
 - *Think what you want about me, bothers me none*
 - *That potion does you no favors, mate. I can still tell you're there*
 
-
 ## Backstory
 On long nights, before the Eye's construction, its creator slaved over another's plans for a war machine. She was desperate to realize a symbol of peace and joy, to strip a machine down to its fundamentals and bless it with a sense of humor.
 
 One evening's insomnia and personal neglect led to the emergence of a breakthrough, new life repurposed from a system of death. Christening her success at this worlds next entertainer, she named her creation Donic, after the sardonic comedy she admired.
 
 However, no good ever comes without its sacrifices, as Donic came to learn. Its strength paled in comparison to his machine kin, and it lost vision early into its existence. But from this, Donic developed a way of seeing without needing eyes, feeling the vital pulses of his surroundings as undetailed masses of energy, including those wanting to stay invisible.
+
+These days, he sleeps at [[The Fluffy Queen Inn]] because of his arrangement to perform in their tavern in exchange for a place to stay. 

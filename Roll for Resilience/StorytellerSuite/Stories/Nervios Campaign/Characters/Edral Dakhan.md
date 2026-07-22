@@ -27,7 +27,7 @@ Players with a passive wisdom / perception of 12 will notice
 > 
 > Edral does not fear being discovered for what he is, he only covers his eyes to maintain his unassuming exterior and blend in. For this same reason, he uses his wings sparingly, and typically under the cover of night.
 
-## Vocal direction
+## Vocal Performance
 To find Edral's voice, release any tension from your shoulders and throat, then let out a low sigh. Take that, and carry the relaxed energy through his dialog, finding a low voice that leans towards darker vowels. Edral tends to speak in a steady tone and volume, lightly accentuating a few of his words as he says them. In terms of language, opt for multisyllabic words instead of modifying simpler ones when possible. 
 
 ## Sample Dialog
