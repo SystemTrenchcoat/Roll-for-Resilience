@@ -18,24 +18,26 @@ The exact crime at hand is determined by the Gamemaster. The accused crime shoul
 # 1. The Arrest
 ___
 ## Scene Description
-Once your party has settled in a public area, they hear a distant sound of rhythmic marching and metal clanking. As the sound grows closer and louder, the crowds nearby begin to part as a group of 10 guards push their way towards the party until they are surrounded on all sides. A guard captain steps forth and declares
->"Under the watchful gaze of The Nervios Eye and Aequorin, you stand accused of a great crime and must stand before the great court of Nervios effective immediately. Any attempts to escape or fight or will be met with violence and forgoes your right to a trial."
+Once your party has settled in a public area, they hear a distant sound of rhythmic marching and metal clanking. As the sound grows closer and louder, the crowds nearby begin to part as a group of 10 guards push their way towards the party until they are surrounded on all sides. A guard captain steps forth from the circle and declares
+>"Under the watchful gaze of The Nervios Eye and Aequorin, you stand accused of a great crime and must stand before the court of Nervios effective immediately. We will act as your escorts and any attempts to escape or fight or will be met with violence and forgoes your right to a trial."
 
 > [!info] Insight Check
 > Players can roll for insight against the guard captains words. Upon a success, you can tell the guard is lying about losing your right to a trial. He is not lying about the violence.
 
-If the party follows with no difficulties, they will be escorted to the [[The Courthouse]] and temporarily stripped of their inventories. If they refuse to follow, the guards will initiate combat against them in an attempt to subdue and capture them, bringing them in by force.
+If the party follows with no difficulties, they will be escorted to the [[The Courthouse]] and temporarily stripped of their inventories. If they refuse to follow, the guards will initiate combat against them in an attempt to subdue and capture them to bring them in by force.
 
 # 2. Collecting Evidence
 ___
 ## Scene Description
-Arriving at the courthouse, your party is brought before a dwarfish man with copper hair and a face of steel. Sitting high above their heads at a podium made of the colossal trunk of an ancient tree, he gazes down with gravitas and a hint of discontent. As your eyes travel down the deep rippling grain of the oak, the shimmer of steel from a large anchor fixed in the center of the stand grasps your attention. At the same time, a shrill voice cracks and frays from a young thin man besides the trunk,
+As you approach the courthouse
+
+Arriving at the courthouse, your party is brought before a dwarfish man with copper hair and a face of steel. Sitting high above your heads at a podium made of the colossal trunk of an ancient tree, he gazes down with a hint of discontent. As your eyes break from his and begin to travel down the deep rippling grain of the oak, the shimmer of steel from a large anchor fixed in the center of the stand grasps your attention. At the same time, a shrill voice cracks and frays from a young thin man besides the trunk,
 > "You appear before [[Gimil Lawman]], Galleon of the court and great judge of Nervios. Sentencer of Aequorin and punisher of the guilty."
 
-Gimil's unbroken gaze burns with a sense of deep wisdom yet ancient impatience. His voice booms with a deep resonance,
-> "You stand guilty before Aequorin and the court for your crimes of *\*insert crime here\**. Before your trial, you are allotted a third of an hour to gather and collect evidence at the scene of your crime in an attempt to prove your innocence. Once your time is up, you shall be back here for your trial. Your time starts now."
+Gimil's unbroken gaze burns with a sense of deep wisdom and ancient impatience. His voice booms with a deep resonance,
+> "You stand guilty before Aequorin and the court for your crimes of *\*INSERT CRIME HERE\**. Before your trial, you are allotted a third of an hour to gather and collect evidence at the scene of your crime in an attempt to prove your innocence. Once your time is up, you shall be escorted back here for your trial where you will use that evidence to argue for your innocence. Your search time starts now."
 
-His body shifts slightly as he pulls an out-of-sight lever and the anchor plummets to the floor with a deafening clang, which echoes around the eerily empty hall of the courtroom. The guards from before heave the massive wooden door open and begin to lead you towards the scene of the accused crime. As you exit, a deep ratchet of metal on metal is heard as the frail man begins tirelessly reeling the anchor in by a large wheel on the side of the podium.
+His body shifts slightly as he pulls an out-of-sight lever, causing the anchor to plummet to the floor with a deafening clang. The sound echoes around the vast walls of the courthouse. The guards from before heave the massive wooden door open and begin to lead you towards the scene of the accused crime. As you exit, a deep ratchet of metal on metal is heard as the frail man begins tirelessly reeling the anchor in by a large wheel on the side of the podium.
 
 ## Gathering The Evidence
 Once arriving at the scene of the crime, the guard captain informs the party that their time has started. They have 20 real-life minutes to investigate the scene of the crime using various skill checks. The party should ideally collect 6 or more pieces of evidence pertaining to the case. The quality of the evidence collected is determined based on the crime at hand, *what* the players are searching for, and how well they are searching based on skill checks. 
@@ -44,7 +46,7 @@ Take turns and spotlight each character and ask what evidence they are searching
 
 Each piece of evidence contains a "Argument Modifier", a value added to skill checks made during a legal argument. Evidence that was found successfully have a guaranteed **+3** Argument Modifier. Poor evidence has variable Argument modifiers and can be found at the [[#Random Poor Evidence Table]].
 
-Continue taking turns searching for evidence until the 20 minutes are up **OR** the party is satisfied. Keep track of all collected evidence and their Argument Modifier.
+Continue taking turns searching for evidence until the 20 minutes are up **OR** the party is satisfied. Keep track of all collected evidence and their respective Argument Modifiers. The party can have more then 6 pieces of evidence, but will only be able to use 6 during the trial.
 
 ## Determining Prosecutor Evidence
 At any point before the trial starts, make a list of evidence collected by the prosecutors. The list should have 6 pieces of evidence varying in quality determine by 6 rolls on the [[#Random Prosecutor Evidence|Random Prosecutor Evidence Table]]. Once they are rolled, the evidence is set and ready for the trial.
@@ -87,9 +89,9 @@ Roll a D20 to pick a random piece of evidence to support the prosecutor. The Gam
 | 4     | Personal belonging           | A personal possession belonging to the guilty party.                                                                           | +3                       |
 | 5     | Hair of the guilty           | A strand of hair matching in color, length, and texture of the guilty party                                                    | +2                       |
 | 6     | Footprint of the guilty      | A footprint that heavily matches the guilty party's                                                                            | +3                       |
-| 9     | Choppy waters                | The tide by the port has become increasingly and apparently choppy. The Divine Prosecutor interprets it as word of God.        | +3                       |
-| 10    | Stormy skies                 | The sky grows dark with storm clouds and thunder booms. The divine prosecutor interprets it as word of God.                    | +2                       |
-| 11    | [[Gauntlet of Truth]]        | A magical glove that is used by the prosecutors on the guilty party to read their thoughts.                                    | +3                       |
+| 7     | Choppy waters                | The tide by the port has become increasingly and apparently choppy. The Divine Prosecutor interprets it as word of God.        | +3                       |
+| 8     | Stormy skies                 | The sky grows dark with storm clouds and thunder booms. The divine prosecutor interprets it as word of God.                    | +2                       |
+| 9     | [[Gauntlet of Truth]]        | A magical glove that is used by the prosecutors on the guilty party to read their thoughts.                                    | +3                       |
 | 10-20 | Poor evidence                | Roll a D20 and refer to [[#Random Poor Evidence]].                                                                             | Depends on Poor Evidence |
 
 # 3. Trial Beginnings -- WIP
@@ -110,29 +112,51 @@ ___
 ## Scene Description
 
 ## Forming Arguments
-When the trial begins, the prosecutor and defense have one real-life hour to make claims, present evidence, and argue innocence/guilt. Up to 6 arguments/counter-arguments can be made in this time, starting with the prosecutor side. The success of an argument is determined by how well it is roleplayed and relevant skill checks.
+When the trial begins, the prosecutor and defense are given one real-life hour to make claims, present evidence, and argue innocence/guilt. Up to 6 rounds can occur in this time. A round begins with a claim from the prosecutor, followed by a counter-argument from the defense. The success of an argument is determined by how well it is roleplayed, the presented evidence, and relevant skill checks.
 ### Turn Order
-At the start of the Arguments phase, the prosecutors make a claim that supports the guilty accusation. The defense will then make a counter-claim and provide evidence to resist the guilty accusation. This pattern repeats until all evidence has been supported or until one real-life hour has passed.
-### Making a Claim
-The prosecutors make a claim consisting of three key parts:
-1. Claim that supports/refutes guilty accusation
-2. Evidence that supports claim in some way
-3. Conclusion of how the evidence supports the claim
+At the start of the Arguments phase, the prosecutors make a claim that supports the guilty accusation. The defense is given a period to deliberate, then they make a counter-claim and provide evidence to resist the guilty accusation. This pattern repeats until all evidence has been presented or until one real-life hour has passed. At the end of each round, keep track of which side won.
+- **Defense Wins**: The number of successful counter-arguments made by the Defense.
+- **Prosecutor Wins**: The number of successful arguments made by the Prosecution.
+### Prosecutor Claim
+On their turn, the divine or secular prosecutor must make an argument consisting of three key parts:
+1. Claim that supports guilty accusation secularly or religiously
+2. Evidence that supports claim in some way and explanation of the evidence.
+	- Can be any one of the 6 evidence collected by the prosecution
+	- Must be presented by the proper prosecutor. (Secular presents physical evidence, Divine presents religious evidence)
+3. Conclusion statement
 
-The success of an argument depends on a few factors:
-1. Roleplay Points: How well was the argument roleplayed? Was the claim clear and cohesive? Did the evidence support the claim?
-2. Skill Checks:
-3. Evidence and Argument Modifiers
+After the claim, calculate the "**Prosecutor Score**": a value that represents how well the prosecution argued. This value should be equal to a skill check relevant to the claim, **PLUS** the Argument Modifier of the evidence used.(A false claim is a deception check, a true claim is persuasion.)
+- **Prosecutor Score** = Skill Check + Argument Modifier from Evidence
 
-The success of the claim 
+### Defense Counter-Claim
+On their turn, the party is given a moment to deliberate privately and form a counter-argument against the Prosecutors claim. The party member who discovered the evidence used in the claim must present the counter-claim. A counter-claim consists of three key parts:
+1. Counter-argument that refutes or denies the guilty accusation and prosecution's claim
+2. Evidence that supports counter-claim and an explanation of the evidence
+	- Can be any one of the 6+ evidence collected by the defense.
+	- Must be presented by the party member who discovered it
+	- History, investigation, or insight checks can reveal additional information about the evidence and how it may prove innocence. 
+3. Conclusion Statement
 
-## Tracking Points
-1. Track Prosecutor Wins
-2. Track Defense Wins
+After the counter-claim, the Gamemaster should calculate **Roleplay Points**: a value depicting how well the presenting character roleplayed the argument. Roleplay Points are calculated as such:
+1. Was the counter-argument logical in response? (+1)
+2. Did the evidence support the counter-argument? (+1)
+3. Did the response seem true-to-character? (+1)
 
+After calculating the roleplay points, calculate the "**Defense Score**": a value that represents how well the defense argued. This value should be equal to a skill check relevant to the claim, **PLUS** the Argument Modifier of the evidence used, **PLUS** the calculated Roleplay Points.
+- **Defense Score**: Skill Check + Argument Modifier from Evidence + Roleplay Points.
+- ex) 15 Persuasion Check + 2 Argument Modifier + 3/3 Roleplay Points = 20 Defense Score.
+
+### Argument Winner
+Compare the **Defense Score** and the **Prosecutor Score**. Whichever value is higher gains a Win. If the values are equal, the Defense gets the Win. Keep track of the total wins of both sides throughout the rounds. 
+
+## Determining Innocence
+After all rounds of claims/counter-claims are finished, tally the number of **Defense Wins** and **Prosecutor Wins**, then for each side, roll a number of D6 equal to the number of wins. Whichever side gets a higher total wins the case. If they tie, the Defense wins the case. 
+- ex) Arguments conclude with 4 Defense Wins and 2 Prosecutor Wins. (4d6) = 9. (2d6) = 7. 9 > 7, so the Defense wins the case and proves their innocence!
 # 5. The Verdict -- WIP
 ___
 /// *Other than stalling to allow for new information to be found, the declaration of a trial being finished comes once all arguments have been made or time expires. A tentative silence falls over the court as Gimil delivers the final verdict, are they to walk free or suffer punishment? The fate of the accused depends on your party’s ability to make compelling arguments, but everyone else is dismissed to return to their normal lives.* ///
+## Scene Description
+
 
 # Trial Proceedings -- WIP
 ___
