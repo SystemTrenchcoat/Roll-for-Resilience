@@ -158,13 +158,14 @@ Compare the **Defense Score** and the **Prosecutor Score**. Whichever value is h
 ## Determining Innocence
 After all rounds of claims/counter-claims are finished, tally the number of **Defense Wins** and **Prosecutor Wins**, then for each side, roll a number of D6 equal to the number of wins. Whichever side gets a higher total wins the case. If they tie, the Defense wins the case. 
 - ex) Arguments conclude with 4 Defense Wins and 2 Prosecutor Wins. (4d6) = 9. (2d6) = 7. 9 > 7, so the Defense wins the case and proves their innocence!
-# 5. The Verdict -- WIP
+# 5. The Verdict -- W.I.P
 ___
-/// *Other than stalling to allow for new information to be found, the declaration of a trial being finished comes once all arguments have been made or time expires. A tentative silence falls over the court as Gimil delivers the final verdict, are they to walk free or suffer punishment? The fate of the accused depends on your party’s ability to make compelling arguments, but everyone else is dismissed to return to their normal lives.* ///
+Depending on the number of arguments won/lost by the party, their guilt is determined and announced. If innocent, they are free to travel the streets once again. If guilty, they face a strict punishment...
+
 ## Scene Description
 
 
-# Trial Proceedings -- WIP
+# *Trial Proceedings -- TEMPORARY/PLACEHOLDER*
 ___
 ## Mission Timer
 Every trial in this city is allotted an hour maximum, no exceptions. Any case you wish to make, any arguments delivered, any evidence - legitimate or forged - must be presented in this time slot.
@@ -177,24 +178,18 @@ Keep track of two values throughout the trial, corresponding to the successes of
 
 # Content -- WIP
 ___
-
 ## NPCS
 ### Key NPCS
 - **[[Gimil Lawman]] - Presiding Galleon(Judge) of Nervios**
 	- Conducts the trial
 - **[[Iris Thyrsin]] - Divine Prosecutor of the Court**
-- **Armul Onoimer - Secular Prosecutor of the Court**
+- **[[Armul Onoimer]] - Secular Prosecutor of the Court**
 ### General NPCS
 - Timekeeper
 - Guards
 - Bystanders
 - Anchor Raiser
-## Key Items
 
-| Item Name | Description |
-| --------- | ----------- |
-|           |             |
-|           |             |
 # Setting -- WIP
 ___
 ## Atmosphere

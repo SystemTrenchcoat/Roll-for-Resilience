@@ -6,8 +6,6 @@ The courthouse is a well known and highly active part of [[Nervios]]. Trials occ
 ## Holding Cells
 ![[courthouse-holding-cells.png|500]]
 
-# Court Trial Mechanics
-___
-
 # History
 ___
+An older building reminiscent of a more architecturally-advanced age.
