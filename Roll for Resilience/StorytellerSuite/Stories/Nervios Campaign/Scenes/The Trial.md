@@ -17,6 +17,8 @@ The exact crime at hand is determined by the Gamemaster. The accused crime shoul
 
 # 1. The Arrest
 ___
+The party gets publicly arrested by the guards and escorted to the courthouse to face accused crimes.
+
 ## Scene Description
 Once your party has settled in a public area, they hear a distant sound of rhythmic marching and metal clanking. As the sound grows closer and louder, the crowds nearby begin to part as a group of 10 guards push their way towards the party until they are surrounded on all sides. A guard captain steps forth from the circle and declares
 >"Under the watchful gaze of The Nervios Eye and Aequorin, you stand accused of a great crime and must stand before the court of Nervios effective immediately. We will act as your escorts and any attempts to escape or fight or will be met with violence and forgoes your right to a trial."
@@ -28,8 +30,9 @@ If the party follows with no difficulties, they will be escorted to the [[The Co
 
 # 2. Collecting Evidence
 ___
+The party gets introduced to [[Gimil Lawman]] in an empty courthouse and are told of their crimes and guilt. Gimil informs them that they will be given 20 minutes to go to the scene of the crime to gather evidence that supports their innocence. 
+
 ## Scene Description
-As you approach the courthouse
 
 Arriving at the courthouse, your party is brought before a dwarfish man with copper hair and a face of steel. Sitting high above your heads at a podium made of the colossal trunk of an ancient tree, he gazes down with a hint of discontent. As your eyes break from his and begin to travel down the deep rippling grain of the oak, the shimmer of steel from a large anchor fixed in the center of the stand grasps your attention. At the same time, a shrill voice cracks and frays from a young thin man besides the trunk,
 > "You appear before [[Gimil Lawman]], Galleon of the court and great judge of Nervios. Sentencer of Aequorin and punisher of the guilty."
@@ -96,6 +99,8 @@ Roll a D20 to pick a random piece of evidence to support the prosecutor. The Gam
 
 # 3. Trial Beginnings -- WIP
 ___
+After collecting their evidence, the party is escorted back to the Courthouse, which is much busier then it was 20 minutes ago. Crowds line the exterior walls trying to peer in through the looking windows, and the interior desks and seats have filled up drastically. The party is introduced to [[Iris Thyrsin]], the Divine Prosecutor of the Court, and Armul Onoimer, the Secular Prosecutor of the Court. Their job is to prove guilt under the law and God.
+
 ## Scene Description
 Making your way back to the courthouse, the streets chatter as the guards weave their way through an ever-growing crowd of commonfolk. As you get close enough to see the gigantic oak doors of the court, you feel the various eyes turn and face you. Dozens of citizens line around the outskirts of the ancient building in an attempt to peer in through the various viewing-glass windows.
 
@@ -106,10 +111,11 @@ Once inside, you notice the vibes have changed significantly since you were last
 > "You sit before Aequorin, before commonfolk, and before the sea to stand guilty of your crime of \**INSERT CRIME HERE*\*. You have been given time to collect any evidence to prove your innocence in this court of law, and we shall now proceed with the arguments.
 
 
-# 4. Arguments -- WIP
+# 4. Arguments -- W.I.P
 ___
-/// *Flexible in length, this is the bulk of the session, where the other members of the party make the case for or against the accused citizen.* ///
-## Scene Description
+The trial begins! A 1 hour timer is started and the prosecutor makes the first argument. The party/defense then makes their counter-argument, and the process repeats until all evidence has been presented or the timer runs out. 
+## Scene Description -- W.I.P
+N/A
 
 ## Forming Arguments
 When the trial begins, the prosecutor and defense are given one real-life hour to make claims, present evidence, and argue innocence/guilt. Up to 6 rounds can occur in this time. A round begins with a claim from the prosecutor, followed by a counter-argument from the defense. The success of an argument is determined by how well it is roleplayed, the presented evidence, and relevant skill checks.
