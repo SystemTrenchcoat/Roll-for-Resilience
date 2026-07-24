@@ -4,6 +4,7 @@ The courthouse is a well known and highly active part of [[Nervios]]. Trials occ
 ## Courtroom
 ![[courthouse-courtroom.png|500]] 
 ## Holding Cells
+The underground basement of the Courthouse, connected through a magical runic elevator at the upper left corner. Here, guilty criminals are temporarily held while awaiting trial. 
 ![[courthouse-holding-cells.png|500]]
 
 

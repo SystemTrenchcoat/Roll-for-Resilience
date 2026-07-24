@@ -8,17 +8,31 @@
         "type": "tabs",
         "children": [
           {
+            "id": "b71909fbd0da508c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "StorytellerSuite/Stories/Nervios Campaign/Locations/The Courthouse.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Courthouse"
+            }
+          },
+          {
             "id": "b5d799cc4f19e691",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StorytellerSuite/Stories/Nervios Campaign/Characters/Kymil Rokian.md",
+                "file": "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Trial.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kymil Rokian"
+              "title": "The Trial"
             }
           }
         ]
@@ -182,10 +196,69 @@
       "bases:Create new base": false
     }
   },
-  "active": "b5d799cc4f19e691",
+  "floating": {
+    "id": "2aaf10d183d642f0",
+    "type": "floating",
+    "children": [
+      {
+        "id": "45eb7f7dd95b1f44",
+        "type": "window",
+        "children": [
+          {
+            "id": "04d264df03dd8972",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d7b8ece4f477d2b4",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "StorytellerSuite/Stories/Nervios Campaign/Characters/Iris Thyrsin.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Iris Thyrsin"
+                }
+              },
+              {
+                "id": "81b57d6cd3f0dac1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "StorytellerSuite/Stories/Nervios Campaign/Characters/Armul Onoimer.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Armul Onoimer"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical",
+        "x": 1875,
+        "y": 453,
+        "width": 979,
+        "height": 691,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "b71909fbd0da508c",
   "lastOpenFiles": [
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Nysaphia.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Trial.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Characters/Armul Onoimer.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Locations/The Courthouse.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Scenes/The Festival of Granite Rain.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Characters/Iris Thyrsin.md",
     "StorytellerSuite/Stories/Nervios Campaign/Characters/Kymil Rokian.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Characters/Nysaphia.md",
     "StorytellerSuite/Stories/Nervios Campaign/Characters/Donic.md",
     "StorytellerSuite/Stories/Nervios Campaign/Characters/Lynette Merrene.md",
     "StorytellerSuite/Stories/Nervios Campaign/Characters/Bethia Tallowwind.md",
@@ -210,11 +283,6 @@
     "Nervios/Worldbuilding/Government.md",
     "Nervios/Worldbuilding/Economy.md",
     "Nervios/Worldbuilding/Culture.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Groups/Commonfolk.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Groups/Church of Aequorism.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Events/The Festival of Granite Rain.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Events/The Day of Granite Rain.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Aurelia Novia.md",
     "Images/Festival of Granite Rain/trident_sliding_puzzle_2.jpg",
     "Images/Festival of Granite Rain/trident_sliding_puzzle.jpg",
     "Images/Festival of Granite Rain/solved_wheelOfTruth.png",

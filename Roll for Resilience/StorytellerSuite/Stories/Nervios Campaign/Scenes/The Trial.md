@@ -124,7 +124,7 @@ The large anchor fixed to his desk drops yet again with a deafening thud. The ch
 ___
 The trial begins! A 1 hour timer is started and the prosecutor makes the first argument. The party/defense then makes their counter-argument, and the process repeats until all evidence has been presented or the timer runs out. 
 ## Scene Description -- W.I.P
-[[Armul Onoimer]] stands first to present his opening argument,
+The courtroom remains eerily silent for a few moments after the anchor crashes into the floor. The silence is then broken with the defeated sigh of the anchor-reeler as the thin man begins to tirelessly crank the anchor back up. [[Armul Onoimer]], ignoring the obnoxious ratcheting, stands first to present his opening argument,
 > "Great Galleon Gimil, I stand before you today to deny these criminals of an innocent sentence and charge them before Aequorin and the City Guard. Their crimes are great and many, but today they stand charged of \**INSERT CRIME HERE*\*."
 
 ## Forming Arguments
@@ -171,9 +171,15 @@ After all rounds of claims/counter-claims are finished, tally the number of **De
 # 5. The Verdict -- W.I.P
 ___
 Depending on the number of arguments won/lost by the party, their guilt is determined and announced. If innocent, they are free to travel the streets once again. If guilty, they face a strict punishment...
-## Scene Description - INNOCENT
+## Scene Description
+As the last argument closes, the courthouse goes quiet. Galleon of the court, [[Gimil Lawman]] stands swiftly behind his podium of oak and steel. He speaks with clarity and gravitas,
+> "I deem you..."
 
-## Scene Description - GUILTY
+### Innocent Verdict
+> "INNOCENT".
+
+### Guilty Verdict
+>"GUILTY."
 
 
 # *Trial Proceedings -- TEMPORARY/PLACEHOLDER*
@@ -201,7 +207,7 @@ ___
 - Bystanders
 - Anchor Raiser
 
-# Setting -- WIP
+# Setting -- W.I.P
 ___
 ## Atmosphere
 Tensions arise all the same for any manner of criminal trial in Nervios, no matter how relatively tame the charges may be. Eyes of onlookers and passersby outside poke through windows near the ground, and the earthy stench of ink along with the  documents it stains wafts through the room.
