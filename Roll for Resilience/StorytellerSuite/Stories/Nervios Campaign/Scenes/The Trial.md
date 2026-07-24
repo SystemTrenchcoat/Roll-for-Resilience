@@ -97,7 +97,7 @@ Roll a D20 to pick a random piece of evidence to support the prosecutor. The Gam
 | 9     | [[Gauntlet of Truth]]        | A magical glove that is used by the prosecutors on the guilty party to read their thoughts.                                    | +3                       |
 | 10-20 | Poor evidence                | Roll a D20 and refer to [[#Random Poor Evidence]].                                                                             | Depends on Poor Evidence |
 
-# 3. Trial Introductions -- WIP
+# 3. Trial Introductions -- W.I.P
 ___
 After collecting their evidence, the party is escorted back to the Courthouse, which is much busier then it was 20 minutes ago. Crowds line the exterior walls trying to peer in through the looking windows, and the interior desks and seats have filled up drastically. The party is introduced to [[Iris Thyrsin]], the Divine Prosecutor of the Court, and [[Armul Onoimer]], the Secular Prosecutor of the Court. Their job is to prove guilt under the law and God.
 
@@ -120,11 +120,12 @@ Armul's features are a stark contrast to Iris. His hair short and black; his fac
 > "The time of trial is upon us. You have one hour to use evidence to argue your innocence against the prosecution, who has brought their own evidence. Your time starts now."
 
 The large anchor fixed to his desk drops yet again with a deafening thud. The chatter and hum of the crowds outside cuts abruptly and [[Armul Onoimer]] stands forward to present his opening argument.
-# The Trial
+# The Trial -- W.I.P
 ___
 The trial begins! A 1 hour timer is started and the prosecutor makes the first argument. The party/defense then makes their counter-argument, and the process repeats until all evidence has been presented or the timer runs out. 
 ## Scene Description -- W.I.P
-
+[[Armul Onoimer]] stands first to present his opening argument,
+> "Great Galleon Gimil, I stand before you today to deny these criminals of an innocent sentence and charge them before Aequorin and the City Guard. Their crimes are great and many, but today they stand charged of \**INSERT CRIME HERE*\*."
 
 ## Forming Arguments
 When the trial begins, the prosecutor and defense are given one real-life hour to make claims, present evidence, and argue innocence/guilt. Up to 6 rounds can occur in this time. A round begins with a claim from the prosecutor, followed by a counter-argument from the defense. The success of an argument is determined by how well it is roleplayed, the presented evidence, and relevant skill checks.
@@ -134,7 +135,7 @@ At the start of the Arguments phase, the prosecutors make a claim that supports 
 - **Prosecutor Wins**: The number of successful arguments made by the Prosecution.
 ### Prosecutor Claim
 On their turn, the divine or secular prosecutor must make an argument consisting of three key parts:
-1. Claim that supports guilty accusation secularly or religiously
+1. Claim that supports the guilty accusation either secularly or religiously.
 2. Evidence that supports claim in some way and explanation of the evidence.
 	- Can be any one of the 6 evidence collected by the prosecution
 	- Must be presented by the proper prosecutor. (Secular presents physical evidence, Divine presents religious evidence)
@@ -170,8 +171,9 @@ After all rounds of claims/counter-claims are finished, tally the number of **De
 # 5. The Verdict -- W.I.P
 ___
 Depending on the number of arguments won/lost by the party, their guilt is determined and announced. If innocent, they are free to travel the streets once again. If guilty, they face a strict punishment...
+## Scene Description - INNOCENT
 
-## Scene Description
+## Scene Description - GUILTY
 
 
 # *Trial Proceedings -- TEMPORARY/PLACEHOLDER*
