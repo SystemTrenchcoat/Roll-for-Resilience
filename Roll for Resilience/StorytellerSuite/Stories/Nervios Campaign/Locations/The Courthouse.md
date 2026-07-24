@@ -6,6 +6,12 @@ The courthouse is a well known and highly active part of [[Nervios]]. Trials occ
 ## Holding Cells
 ![[courthouse-holding-cells.png|500]]
 
+
+# Key NPCS
+___
+- [[Gimil Lawman]] - Judge of the Court. High Galleon.
+- [[Iris Thyrsin]] - Divine Prosecutor of Aequorin 
+- [[Armul Onoimer]] - Secular Prosecutor of Nervios
 # History
 ___
 An older building reminiscent of a more architecturally-advanced age.

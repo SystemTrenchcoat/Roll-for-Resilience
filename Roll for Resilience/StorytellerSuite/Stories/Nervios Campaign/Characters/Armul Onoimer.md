@@ -18,7 +18,7 @@ id: mqb7uhtsmyyoky
 ---
 
 # Description
-The Secular Prosecutor for the Church of Aequorin. He spends the majority of his days in [[The Courthouse]] seeking justice and presenting arguments to prove guilt of charged criminals./
+The Secular Prosecutor for the Church of Aequorin. He spends the majority of his days in [[The Courthouse]] seeking justice and presenting arguments to prove guilt of charged criminals.
 ### Physical Description
 Armul has olive skin and dark features. His sleek black hair waves and curls at chin-length, its unruliness contrasted by his short sharply trimmed beard. His eyes are heavy and tired, devoid of much joy or hope, yet his gaze feels sharp and penetrating. He wears a long black robe adorned with golden embroideries. 
 

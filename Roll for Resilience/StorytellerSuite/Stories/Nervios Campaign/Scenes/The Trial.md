@@ -17,7 +17,7 @@ The exact crime at hand is determined by the Gamemaster. The accused crime shoul
 
 # 1. The Arrest
 ___
-The party gets publicly arrested by the guards and escorted to the courthouse to face accused crimes.
+The party gets suddenly apprehended by the guards and escorted to [[The Courthouse]] to face criminal accusations.
 
 ## Scene Description
 Once your party has settled in a public area, they hear a distant sound of rhythmic marching and metal clanking. As the sound grows closer and louder, the crowds nearby begin to part as a group of 10 guards push their way towards the party until they are surrounded on all sides. A guard captain steps forth from the circle and declares
@@ -30,7 +30,7 @@ If the party follows with no difficulties, they will be escorted to the [[The Co
 
 # 2. Collecting Evidence
 ___
-The party gets introduced to [[Gimil Lawman]] in an empty courthouse and are told of their crimes and guilt. Gimil informs them that they will be given 20 minutes to go to the scene of the crime to gather evidence that supports their innocence. 
+The party gets introduced to [[Gimil Lawman]], the Judge, in an empty courthouse and are told of their crimes and guilt. Gimil informs them that they will be given 20 minutes to go to the scene of the crime to gather evidence that supports their innocence. 
 
 ## Scene Description
 
@@ -97,25 +97,34 @@ Roll a D20 to pick a random piece of evidence to support the prosecutor. The Gam
 | 9     | [[Gauntlet of Truth]]        | A magical glove that is used by the prosecutors on the guilty party to read their thoughts.                                    | +3                       |
 | 10-20 | Poor evidence                | Roll a D20 and refer to [[#Random Poor Evidence]].                                                                             | Depends on Poor Evidence |
 
-# 3. Trial Beginnings -- WIP
+# 3. Trial Introductions -- WIP
 ___
-After collecting their evidence, the party is escorted back to the Courthouse, which is much busier then it was 20 minutes ago. Crowds line the exterior walls trying to peer in through the looking windows, and the interior desks and seats have filled up drastically. The party is introduced to [[Iris Thyrsin]], the Divine Prosecutor of the Court, and Armul Onoimer, the Secular Prosecutor of the Court. Their job is to prove guilt under the law and God.
+After collecting their evidence, the party is escorted back to the Courthouse, which is much busier then it was 20 minutes ago. Crowds line the exterior walls trying to peer in through the looking windows, and the interior desks and seats have filled up drastically. The party is introduced to [[Iris Thyrsin]], the Divine Prosecutor of the Court, and [[Armul Onoimer]], the Secular Prosecutor of the Court. Their job is to prove guilt under the law and God.
 
 ## Scene Description
-Making your way back to the courthouse, the streets chatter as the guards weave their way through an ever-growing crowd of commonfolk. As you get close enough to see the gigantic oak doors of the court, you feel the various eyes turn and face you. Dozens of citizens line around the outskirts of the ancient building in an attempt to peer in through the various viewing-glass windows.
+Making your way back to the courthouse, the streets chatter as the guards weave their way through an ever-growing crowd of commonfolk. As you get close enough to see the gigantic oak doors of the court, you feel the various eyes turn and face you. Dozens of people, rich and poor, line around the outskirts of the ancient building in an attempt to peer in through the various viewing-glass windows.
 
-Once inside, you notice the vibes have changed significantly since you were last here twenty minutes ago. The courtroom is now abuzz with life and energy, and the once empty chairs of the prosecutors and council now sit filled by various prestigious faces. 
+Once inside, you notice the vibes have changed significantly since you were last here twenty minutes ago. The courtroom is now abuzz with life and energy, and the once empty chairs of the prosecutors and council now sit filled with various prestigious faces. Amongst them, two faces stare directly at you, almost as if they are sizing you up. 
 > "ORDER!"
 
 [[Gimil Lawman]] booms, silencing the many whispers and mutterings of the attendees.
-> "You sit before Aequorin, before commonfolk, and before the sea to stand guilty of your crime of \**INSERT CRIME HERE*\*. You have been given time to collect any evidence to prove your innocence in this court of law, and we shall now proceed with the arguments.
+> "You sit before Aequorin, before commonfolk, and before the sea to stand guilty of your crime of \**INSERT CRIME HERE*\*. You have been given just time to collect evidence on your behalf, and must now present it before [[Iris Thyrsin]], Divine Prosecutor of Aequorin, [[Armul Onoimer]], Secular Prosecutor of Nervios, and myself. 
 
+As Gimil wraps up his speech, the two staring faces rise and step forwards. On the left, a beautiful elvish woman of fair skin and blond hair donning a golden tiara and long white robes. She speaks forth with discontent, 
+>"I am [[Iris Thyrsin]], the Divine Prosecutor of Nervios and Aequorin. All sinners pay for their crimes, you shall be no different."
 
-# 4. Arguments -- W.I.P
+To her right, a man exclaims, 
+> "And I am [[Armul Onoimer]], Secular Prosecutor of Nervios. Criminals like you taint our beautiful city, and I will not stand for that."
+
+Armul's features are a stark contrast to Iris. His hair short and black; his face stern and dedicated. He stands permanently hunched, almost as he is carrying a terrible burden on his shoulders. After speaking, they both return to their seats at a table facing you. Gimil speaks once more,
+> "The time of trial is upon us. You have one hour to use evidence to argue your innocence against the prosecution, who has brought their own evidence. Your time starts now."
+
+The large anchor fixed to his desk drops yet again with a deafening thud. The chatter and hum of the crowds outside cuts abruptly and [[Armul Onoimer]] stands forward to present his opening argument.
+# The Trial
 ___
 The trial begins! A 1 hour timer is started and the prosecutor makes the first argument. The party/defense then makes their counter-argument, and the process repeats until all evidence has been presented or the timer runs out. 
 ## Scene Description -- W.I.P
-N/A
+
 
 ## Forming Arguments
 When the trial begins, the prosecutor and defense are given one real-life hour to make claims, present evidence, and argue innocence/guilt. Up to 6 rounds can occur in this time. A round begins with a claim from the prosecutor, followed by a counter-argument from the defense. The success of an argument is determined by how well it is roleplayed, the presented evidence, and relevant skill checks.
