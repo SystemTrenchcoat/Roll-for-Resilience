@@ -6,10 +6,10 @@ traits:
   - Cryptic
   - Helpful
 status: Alive
-gender: "?"
-race: "?"
+gender: Unknown
+race: Unknown
 height: 6'8"
-age: "?"
+age: Unknown
 quirks: They don't wear a mask, but instead a veil of beads that obscures their face. This bead veil lacks many of the facial features that masks usually keep, making them truly faceless.
 id: mr3u6zadotcinu
 groups:
