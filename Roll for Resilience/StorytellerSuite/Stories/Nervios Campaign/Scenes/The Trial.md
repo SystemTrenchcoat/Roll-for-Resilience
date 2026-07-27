@@ -1,6 +1,6 @@
 # Hooks
 ___
-*Your party has been summoned to the courthouse effective immediately to stand accused of a crime. You all must stand before a judge, council, and crowd to prove your innocence in a court where guilt is assumed.*
+*The party has been arrested by the city guard and are being held in cells under the Nervios [[The Courthouse|Courthouse]]. They must stand before a great judge, a council, and crowd to prove their innocence in a court where guilt is assumed.*
 
 The exact crime at hand is determined by the Gamemaster. The accused crime should create tension and make the players uncomfortable without pushing boundaries and remaining "comfortably uncomfortable". Example crimes are shown below.
 ## Example Indictments
@@ -15,26 +15,35 @@ The exact crime at hand is determined by the Gamemaster. The accused crime shoul
 **Character Specific**
 	A member of your party stands accused of a crime that occurred in their backstory before you met.
 
-# 1. The Arrest
+# 1. The Arrest and Holding
 ___
-The party gets suddenly apprehended by the guards and escorted to [[The Courthouse]] to face criminal accusations.
-
+*The party gets apprehended by the guards and escorted to [[The Courthouse#Holding Cells|The Courthouse Holding Cells]] to await trial and face criminal accusations.*
 ## Scene Description
+### The Arrest
 Once your party has settled in a public area, they hear a distant sound of rhythmic marching and metal clanking. As the sound grows closer and louder, the crowds nearby begin to part as a group of 10 guards push their way towards the party until they are surrounded on all sides. A guard captain steps forth from the circle and declares
 >"Under the watchful gaze of The Nervios Eye and Aequorin, you stand accused of a great crime and must stand before the court of Nervios effective immediately. We will act as your escorts and any attempts to escape or fight or will be met with violence and forgoes your right to a trial."
 
 > [!info] Insight Check
 > Players can roll for insight against the guard captains words. Upon a success, you can tell the guard is lying about losing your right to a trial. He is not lying about the violence.
 
-If the party follows with no difficulties, they will be escorted to the [[The Courthouse]] and temporarily stripped of their inventories. If they refuse to follow, the guards will initiate combat against them in an attempt to subdue and capture them to bring them in by force.
+If the party follows with no difficulties, they will be blindfolded and escorted to the [[The Courthouse#Holding Cells|Holding Cells]] and temporarily stripped of their inventories. If they refuse to follow, the guards will initiate combat against them in an attempt to subdue and capture them to bring them in by force.
+### Jail
+With your hands bound and eyes blindfolded, it is hard to track where you are travelling. Loud boos from nearby crowds further disrupt your senses as your iron shackles dig into your wrists as the guards yank and drag you along. The sound of boos dies out as you climb a staircase and feel the still air of a buildings interior. You are led forward a dozen steps before being momentarily held still. Suddenly, the room gets eerily quiet and the air becomes damp and cool. The guards drag you along a few more paces, occasionally stopping to open what sounds like metal gates ahead of you. 
 
+As your blindfold is taken off and your shackles undone, you find yourself standing in front of an open iron door. Inside, a straw bedroll lies alone in the corner. The guard behind you gives a slight shove.
+> "Step forwards criminal."
+
+Entering inside, you hear the heavy iron door slam and latch shut as the room goes dark. A flicker of orange light spills from the bottom edge of the door, illuminating the cracked and broken stone floor beneath it. 
 # 2. Collecting Evidence
 ___
-The party gets introduced to [[Gimil Lawman]], the Judge, in an empty courthouse and are told of their crimes and guilt. Gimil informs them that they will be given 20 minutes to go to the scene of the crime to gather evidence that supports their innocence. 
-
+*The party gets introduced to [[Gimil Lawman]], the Judge, in an empty courthouse and are told of their crimes and guilt. Gimil informs them that they will be given 20 minutes to go to the scene of the crime to gather evidence that supports their innocence.* 
 ## Scene Description
+You spend what feels like days in the dark isolated cell, with any attempts to communicate with your neighboring jail mates being shut down by guards. After what feels like an eternity, a deafening bang echoes as your door is knocked on. At the same time, the feeding/looking slot slides open revealing a pair of indifferent eyes.
+> "Step away from the door and face the wall."
 
-Arriving at the courthouse, your party is brought before a dwarfish man with copper hair and a face of steel. Sitting high above your heads at a podium made of the colossal trunk of an ancient tree, he gazes down with a hint of discontent. As your eyes break from his and begin to travel down the deep rippling grain of the oak, the shimmer of steel from a large anchor fixed in the center of the stand grasps your attention. At the same time, a shrill voice cracks and frays from a young thin man besides the trunk,
+A guard demands impatiently as your eyes adjust to the influx of light spilling from the slot. If you listen, the door opens and your wrists are clasped with the familiar cool iron shackles. The guard then drags you out of your cell, through two iron gates and past a clerk, and into the bounds of a magical rune. Once each member of your party has been dragged into the rune, the guards step away and leave you alone with no explanation. If you try to leave the circular rune, you notice some sort of invisible wall blocking your path. 
+
+Suddenly, your eyes feel extremely heavy and are forced shut for only a moment. Upon reopening them, you find yourself before a dwarfish man with copper hair and a face of steel. He sits high above your head behind a desk made of the colossal trunk of an ancient tree, gazing down with a hint of discontent. As your eyes break from his and begin to travel down the deep rippling grain of the oak, the shimmer of steel from a large anchor fixed in the center of the stand grasps your attention. At the same time, a shrill voice cracks and frays from a young thin man besides the trunk,
 > "You appear before [[Gimil Lawman]], Galleon of the court and great judge of Nervios. Sentencer of Aequorin and punisher of the guilty."
 
 Gimil's unbroken gaze burns with a sense of deep wisdom and ancient impatience. His voice booms with a deep resonance,
@@ -51,6 +60,8 @@ Each piece of evidence contains a "Argument Modifier", a value added to skill ch
 
 Continue taking turns searching for evidence until the 20 minutes are up **OR** the party is satisfied. Keep track of all collected evidence and their respective Argument Modifiers. The party can have more then 6 pieces of evidence, but will only be able to use 6 during the trial.
 
+> [!warning] Witness
+> Witnesses should be difficult to gather
 ## Determining Prosecutor Evidence
 At any point before the trial starts, make a list of evidence collected by the prosecutors. The list should have 6 pieces of evidence varying in quality determine by 6 rolls on the [[#Random Prosecutor Evidence|Random Prosecutor Evidence Table]]. Once they are rolled, the evidence is set and ready for the trial.
 
@@ -99,16 +110,18 @@ Roll a D20 to pick a random piece of evidence to support the prosecutor. The Gam
 
 # 3. Trial Introductions -- W.I.P
 ___
-After collecting their evidence, the party is escorted back to the Courthouse, which is much busier then it was 20 minutes ago. Crowds line the exterior walls trying to peer in through the looking windows, and the interior desks and seats have filled up drastically. The party is introduced to [[Iris Thyrsin]], the Divine Prosecutor of the Court, and [[Armul Onoimer]], the Secular Prosecutor of the Court. Their job is to prove guilt under the law and God.
+After collecting their evidence, the party is escorted back to the Courthouse, which is much busier then it was when you left. Crowds line the exterior walls trying to peer in through the looking windows, and the interior desks and seats have filled up drastically. The party is introduced to [[Iris Thyrsin]], the Divine Prosecutor of the Court, and [[Armul Onoimer]], the Secular Prosecutor of the Court. Their job is to prove guilt under the law and God.
 
+>[!info] Jurors
+> Next to the Galleon's Desk sits the Anchors: a group of lesser judges who act as a jury and spend the trial discussing amongst themselves.
 ## Scene Description
 Making your way back to the courthouse, the streets chatter as the guards weave their way through an ever-growing crowd of commonfolk. As you get close enough to see the gigantic oak doors of the court, you feel the various eyes turn and face you. Dozens of people, rich and poor, line around the outskirts of the ancient building in an attempt to peer in through the various viewing-glass windows.
 
-Once inside, you notice the vibes have changed significantly since you were last here twenty minutes ago. The courtroom is now abuzz with life and energy, and the once empty chairs of the prosecutors and council now sit filled with various prestigious faces. Amongst them, two faces stare directly at you, almost as if they are sizing you up. 
+Once inside, you feel the once stagnant air of the courtroom is now abuzz with life and energy. Next to the Galleon's Desk, a dozen chairs filled with prestigious faces glare judgmentally at you. Amongst them, two sets of eyes seem exceptionally fixated upon you.
 > "ORDER!"
 
 [[Gimil Lawman]] booms, silencing the many whispers and mutterings of the attendees.
-> "You sit before Aequorin, before commonfolk, and before the sea to stand guilty of your crime of \**INSERT CRIME HERE*\*. You have been given just time to collect evidence on your behalf, and must now present it before [[Iris Thyrsin]], Divine Prosecutor of Aequorin, [[Armul Onoimer]], Secular Prosecutor of Nervios, and myself. 
+> "You stand before Aequorin, before our anchors, and before the sea to stand guilty of your crime of \**INSERT CRIME HERE*\*. You have been given just time to collect evidence on your behalf, and must now present it before [[Iris Thyrsin]], Divine Prosecutor of Aequorin, [[Armul Onoimer]], Secular Prosecutor of Nervios, and myself. 
 
 As Gimil wraps up his speech, the two staring faces rise and step forwards. On the left, a beautiful elvish woman of fair skin and blond hair donning a golden tiara and long white robes. She speaks forth with discontent, 
 >"I am [[Iris Thyrsin]], the Divine Prosecutor of Nervios and Aequorin. All sinners pay for their crimes, you shall be no different."
@@ -170,17 +183,13 @@ After all rounds of claims/counter-claims are finished, tally the number of **De
 - ex) Arguments conclude with 4 Defense Wins and 2 Prosecutor Wins. (4d6) = 9. (2d6) = 7. 9 > 7, so the Defense wins the case and proves their innocence!
 # 5. The Verdict -- W.I.P
 ___
-Depending on the number of arguments won/lost by the party, their guilt is determined and announced. If innocent, they are free to travel the streets once again. If guilty, they face a strict punishment...
+The trial comes to a close as arguments finish up. Regardless of the innocent or guilty sentence, Gimil is bribed by the Rebels before he declares guilt, and instead deems the party innocent.
 ## Scene Description
 As the last argument closes, the courthouse goes quiet. Galleon of the court, [[Gimil Lawman]] stands swiftly behind his podium of oak and steel. He speaks with clarity and gravitas,
-> "I deem you..."
+> "After hearing your arguments and witnessing your evidence, I judge you..."
 
-### Innocent Verdict
-> "INNOCENT".
-
-### Guilty Verdict
->"GUILTY."
-
+Before he finishes his sentence, the thin man who reels the anchor stands and whispers intently into Gimil's ear. The Galleon's eyes widen, then relax as he gives a slight nod.
+> "INNOCENT"
 
 # *Trial Proceedings -- TEMPORARY/PLACEHOLDER*
 ___
@@ -201,6 +210,9 @@ ___
 	- Conducts the trial
 - **[[Iris Thyrsin]] - Divine Prosecutor of the Court**
 - **[[Armul Onoimer]] - Secular Prosecutor of the Court**
+- TWO MORE JUDGES
+	- "AUNTIE" judge stereotype
+	- Third boomer judge
 ### General NPCS
 - Timekeeper
 - Guards

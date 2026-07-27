@@ -20,8 +20,9 @@ id: mqb93evyhvljoh
 A judge of the Court of Nervios.  He has grown impatient after nearly a century of daily trials and often tries to speed along through them. 
 
 ### Physical Description
-Gimil is short and stocky with hair the color of copper. His beard is braided neatly and extends to his boots, while his hair is beginning to recede from the forehead. Long navy judicial robes wave and flow like water as he walks
+A short dwarf whose stocky frame is obscured by long navy blue judicial robes that sway like a slow tide. His dense auburn beard is woven into an intricate braid that hangs past his knees. Beneath a deeply receding hairline, heavy, stern eyes carry the weary look of someone who has spent a lifetime deciding justice.
+
 ## Backstory
-Gimil has 15 kids and a wife of 140 years. He has been a judge for 93 years and has made a fine living out of it. 
+Gimil has 15 kids and a wife of 120 years. He has been a judge for 93 years and has made a fine living out of it. 
 
 Gimil was a young adult when the spires were erected, and a century of daily inconsequential trials has worn his patience thin.
