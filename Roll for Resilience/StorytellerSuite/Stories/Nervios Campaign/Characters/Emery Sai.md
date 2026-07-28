@@ -1,6 +1,11 @@
 ---
 entityType: character
 name: Emery Sai
+pronunciation:
+  - (EM-AIR-EE) (SIGH)
+pronouns: any
+gender: Male
+race: Human
 groups:
   - "[[Sea Scribes of Umorism]]"
 traits:
@@ -8,22 +13,19 @@ traits:
   - Adaptable
   - Perserverant
 status: Alive
-gender: Male
-race: Human
-height: 5'7"
 age: ??
+height: 5'7"
 id: mrayzmrxsmd0hu
 ---
-(EM-AIR-EE SIGH) - (any)
-As one of the last living members of his family, he carries the long legacy of Umorist scribes upon his shoulders, coming to embody the dimming flame of the faith as a whole. He's determined to enshrine the memory of Umorism somewhere safe, as his final religious undertaking.
+As one of the last living members of his family, he carries the long legacy of [[Sea Scribes of Umorism|Umorist]] scribes upon his shoulders, coming to embody the dimming flame of the faith as a whole. He's determined to enshrine the memory of Umorism somewhere safe, as his final religious undertaking.
 
 ## Description
 A black braid dangles down the slender back of his 5'7" body, his skin devoid of nearly any blemish, except in one area. Dancing down the side length of his neck is a gash of scarred tissue, averting your gaze from his amber eyes.
 
 Players with a passive wisdom / perception of 14 will notice
-> *Emery speaks with the cadence of a man more blessed in years, yet the eerie glow of youth in his skin suggests against this. Your mind draws blank on what age he could possibly be*.
+> *Emery speaks with the cadence of a man more blessed in years, yet the glow of youth in his skin eerily suggests against this. Your mind draws blank on what age he could possibly be*.
 
-## Vocal direction
+## Vocal Performance
 Emery speaks in a drawn out and breathy manner, with most sounds coming from the front of the mouth. Pace your sentences very deliberately, placing emphasis on parts of longer words, or ties to faith.
 
 ## Sample Dialog

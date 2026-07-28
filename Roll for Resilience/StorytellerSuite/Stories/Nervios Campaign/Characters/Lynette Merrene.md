@@ -1,21 +1,22 @@
 ---
 entityType: character
 name: Lynette Merrene
+pronunciation:
+  - (LI-NET) (MURR-REN)
+pronouns: she/her
+gender: Female
+race: Human
+age: "24"
 traits:
   - Ambitious
   - Blunt
   - Respectful
-status: Alive
-gender: Female
-race: Human
-age: "24"
 height: 5'2"
+status: Alive
 id: mrdtjbk38km6bq
 groups:
   - "[[Merrene Family]]"
 ---
-(LI-NET) (she/her)
-
 Strongly advise against calling her Lyn. Only one person who does still lives, because patricide is frowned upon.
 
 ## Physical Description
