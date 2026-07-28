@@ -21,11 +21,17 @@ ___
 
 >[!tip] ## Court Terminology
 > - **Galleon**: The head judge of the court. He is the final arbitrator and ultimately decides the sentence.
-> - **Anchors**: Sub-Judges who sit besides the Galleon and act as a type of jury. They judge the accused, discuss amongst themselves, then inform the Galleon of their ideas. 
+> 	- [[Gimil Lawman]]
+> - **Anchors**: Minor-Judges who sit besides the Galleon and act as a form of Jury. Their role in court is to provide a secondary opinion to the Galleon before he declares his verdict.
+> 	- [[Janice Quaizo]]
+> 	- [[Kennon Statler]]
 > - **The Helm**: A team of two prosecutors who present evidence and arguments to the Galleon against the defense.
 > 	- **Divine Helm**: A religious prosecutor in charge of this case. Their job is to form legal arguments based on religious evidence.
+> 		- [[Iris Thyrsin]]
 > 	- **Secular Helm**: A secular prosecutor in charge of this case. Their job is to form legal arguments based on physical evidence.
+> 		- [[Armul Onoimer]]
 > - **The Mast**: The guilty party who must gather evidence and form legal arguments to prove their innocence.
+> 	- The player party
 
 ## Scene Description
 ### The Arrest
@@ -72,8 +78,8 @@ Each piece of evidence contains a "Argument Modifier", a value added to skill ch
 
 Continue taking turns searching for evidence until the 20 minutes are up **OR** the party is satisfied. Keep track of all collected evidence and their respective Argument Modifiers. The party can have more then 6 pieces of evidence, but will only be able to use 6 during the trial.
 
-> [!warning] Witness
-> Witnesses should be difficult to gather as they believe that anybody appearing in court is already guilty.
+> [!warning] Gathering Witnesses
+> Witnesses should be difficult to gather as they assume that those facing trial are already guilty
 ## Determining Helm Evidence
 At any point before the trial starts, make a list of evidence collected by the helm(the prosecutors). The list should have 6 pieces of evidence varying in quality determine by 6 rolls on the [[#Random Helm Evidence]]. Once they are rolled, the evidence is set and ready for the trial.
 
@@ -122,7 +128,7 @@ Roll a D20 to pick a random piece of evidence to support the helm. The Gamemaste
 
 # 3. Trial Introductions -- W.I.P
 ___
-*After collecting their evidence, the party is escorted back to the Courthouse, which is much busier then it was when you left. Crowds line the exterior walls trying to peer in through the looking windows, and the interior desks and seats have filled up drastically. The party is introduced to [[Iris Thyrsin]], the Divine Helm of the Court, and [[Armul Onoimer]], the Secular Helm of the Court. Their job is to prove guilt under the law and God.*
+*After collecting their evidence, the party is escorted back to the Courthouse, which is much busier then it was when you left. Crowds line the exterior walls trying to peer in through the looking windows, and the interior desks and seats have filled up drastically. The party is introduced to [[Iris Thyrsin]], the Divine Helm of the Court, [[Armul Onoimer]], the Secular Helm of the Court, [[Janice Quaizo]], Anchor of the Court, and [[Kennon Statler]], Anchor of the court. Their job is to prove guilt under the law and God.*
 
 >[!info] Restrictions
 > - During the trial, the players are held within the confines of the magical teleportation rune located in the center of the [[The Courthouse#Courtroom|Courtroom]]. They cannot exit the rune until the trial is over.
@@ -214,8 +220,8 @@ ___
 - **[[Iris Thyrsin]] - Divine Helm of the Court**
 - **[[Armul Onoimer]] - Secular Helm of the Court**
 - Anchors
-	- "AUNTIE" judge stereotype [[Janice Quaizo]]
-	- Third boomer judge [[Gairee Pantia]]
+	- [[Janice Quaizo]]
+	- [[Kennon Statler]]
 ### General NPCS
 - Timekeeper
 - Guards
