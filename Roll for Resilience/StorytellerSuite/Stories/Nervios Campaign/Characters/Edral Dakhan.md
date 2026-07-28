@@ -1,8 +1,11 @@
 ---
 entityType: character
 name: Edral Dakhan
-status: Alive
+pronunciation:
+  - (ED-DRAL) (DAK-HAHN)
+pronouns: he/they
 gender: Male
+status: Alive
 race: Human
 age: "31"
 height: 5'5"
@@ -10,7 +13,7 @@ id: mrcceksb6rwjd2
 groups:
   - "[[Merrene Family]]"
 ---
-(ED-DRAL DAK-HAHN) - (he/they)
+
 ## Physical Description
 Short, well-groomed black hair plays contrast to the broad and defined shoulders of his 5'5" muscular frame. Tinted oval-like goggles obscure the exact direction of his line of sight, contributing to a casual, composed energy. 
 
@@ -39,4 +42,4 @@ To find Edral's voice, release any tension from your shoulders and throat, then 
 ## Backstory
 On a fateful and particularly rainy day, a young [[Lynette Merrene]] found 18 year old Edral sitting outside all alone. His job just found a more inexperienced replacement who stood to benefit more from their mentorship, and he was let go without warning. A still innocent Lynette witnessed this from the shadows, waltzed up to Edral, and asked if he needed someone to work for.
 
-When Lynette's father caught up with her, she plead to give Edral a chance, much to his hesitance. Ever since that day, Edral has been a loyal representative of the Merrene, seeing them as a corrupt but necessary evil. He's stuck with them because despite their flaws, the people of Nervios in their current state would be worse off without the [[Merrene Family]].
+When Lynette's father caught up with her, she plead to give Edral a chance, much to his hesitance. Ever since that day, Edral has been a loyal representative of the Merrene, seeing them as a corrupt but necessary evil. He's stood with them because despite their flaws, the people of Nervios in their current state would be worse off without the [[Merrene Family]].

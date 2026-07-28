@@ -1,15 +1,16 @@
 ---
 entityType: character
+name: Lili Heartkeep
+gender: Female
+pronouns: she/her
+race: Human
+status: Deceased
 traits:
   - Kind-hearted
   - Disciplined
   - Thoughtful
-name: Lili Heartkeep
-status: Deceased
-id: mrtdx6r0m1iw3c
 height: 5'4"
-race: Human
-gender: Female
+id: mrtdx6r0m1iw3c
 ---
 (she/her)
 ## Physical Description
@@ -27,4 +28,4 @@ Mrs. Heartkeep has a slower paced voice, getting out around two to three syllabl
 ## Backstory
 Over several wonderful years, she mothered 4 children, coddling them until they could stand on their own. Her gentle temperament in their early years was hardened by discipline during their growth into adulthood. She died peacefully in her sleep one night, happily awaiting what the next life would bring her. 
 
-Unfortunately, she's been prevented from seeing this because her body is being used by a necromancer. Because of this, she pleads with any who would lend her an ear to assist her. Lili was the first of the "fresher" corpses that [[Nysaphia]] snuck away from the crypts that the city still actively uses. 
+Unfortunately, she's been prevented from seeing this because her body is being used by a necromancer. Because of this, she pleads with any who would lend her an ear to assist her. Lili was the first of the "fresher" corpses that [[Nysaphia]] snuck away from the crypts that [[Nervios]] still actively uses. 

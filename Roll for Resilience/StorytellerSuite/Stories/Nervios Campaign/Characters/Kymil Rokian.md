@@ -1,19 +1,21 @@
 ---
 entityType: character
 name: Kymil Rokian
-height: 6'1"
+pronunciation:
+  - (KIM-ILL) (ROW-KEEON)
+pronouns: he/him
 gender: male
 race: Elf
+height: 6'1"
 age: "312"
 traits:
   - Altruistic
   - Hygenic
   - Dedicated
 ---
-(KIM-ILL ROW-KEEON) (he/him)
 
 ## Description
-A mature elf who serves as keeper for [[The Fluffy Queen Inn]], despite its noticeable lack of business. Especially among repeated customers, he has a reputation for not understanding how sleep works for races besides the Elves, assuming everyone simply enters Trance. 
+A mature elf who serves as keeper for [[The Fluffy Queen Inn]], despite its noticeable lack of business. Especially among repeated customers, he has a reputation for not understanding how sleep works for races besides the Elves, assuming everyone simply enters [Trance](https://roll20.net/compendium/dnd5e/Elf%20Trance#content). Additionally, he has a tendency to come off as rude to races that on average lead shorter lives (150 years or less), such as humans, halflings, and tieflings.
 
 ## Appearance
 Descending down the back and sides of his innocuous frame are braids of honey-blonde fair, with the braid behind reaching his shoulders. In front, his lime green eyes are speckled with flecks of gold.

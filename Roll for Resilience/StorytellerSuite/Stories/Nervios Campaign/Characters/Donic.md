@@ -1,16 +1,16 @@
 ---
 entityType: character
 name: Donic
+pronouns: it/he
 race: Warforged
-status: Alive
 gender: Machine (Masc-presenting)
+status: Alive
 height: 6'2"
 traits:
   - Sardonic
   - Calm
 id: mraw0p3igccyle
 ---
-(it/he)
 ## Physical Description
 A pair of warm, bright green eyes, now merely decoration, adorn his 6'2" varnished Chestnut body. His rotund belly and sturdy legs serve as upright support, in addition to overall creating a friendlier appearance.
 
