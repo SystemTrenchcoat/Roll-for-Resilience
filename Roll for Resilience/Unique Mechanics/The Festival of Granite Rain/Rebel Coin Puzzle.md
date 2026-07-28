@@ -13,4 +13,4 @@ The coin is roughly 1.5 inches in diameter and is made of silver. It has a large
 An inscription on the coin states “All sins must be washed away, in order to see the truth”. 
 
 >[!success]- Solution
->To solve the puzzle, the players must soak the coin in water. Once water fills the crevices within the eye, the iris begins to glow a faint blue and the pupil turns to look in the direction of the rebel recruitment area.**
+>To solve the puzzle, the players must soak the coin in water. Once water fills the crevices within the eye, the iris begins to glow a faint blue and the pupil turns to look in the direction of [[The Burrow]]**

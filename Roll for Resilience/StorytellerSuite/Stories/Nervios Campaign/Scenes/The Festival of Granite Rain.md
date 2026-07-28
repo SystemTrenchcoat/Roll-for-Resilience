@@ -84,7 +84,6 @@ Upon completion of [[The Wheel of Purity]], [[Milo Mandrich|Milo]] climbs off of
 - [[Boulder Climb]] minigame
 - [[Color Cipher]] puzzle
 - [[Hidden Key Puzzle]]
-- [[Rebel Coin Puzzle]]
 - [[The Wheel of Purity]]
 
 ### Hiding Spots

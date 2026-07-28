@@ -23,7 +23,14 @@ The current list of missions and their descriptions are shown below. The first t
 
 # Navigating the Obsidian
 ___
+## Missions
 
+## Characters
+
+## Locations
+
+## Items
 
 # Foundry
 ___
+A foundry compendium is located [[|here]]. It can be moved and installed into foundry and contains multiple maps, characters, and scenes to interact with the world of Nervios.

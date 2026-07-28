@@ -17,7 +17,16 @@ The exact crime at hand is determined by the Gamemaster. The accused crime shoul
 
 # 1. The Arrest and Holding
 ___
-*The party gets apprehended by the guards and escorted to [[The Courthouse#Holding Cells|The Courthouse Holding Cells]] to await trial and face criminal accusations.*
+*The party gets apprehended by the guards and escorted to [[The Courthouse#Holding Cells|The Courthouse Holding Cells]] to await trial and face criminal accusations.
+
+>[!tip] ## Court Terminology
+> - **Galleon**: The head judge of the court. He is the final arbitrator and ultimately decides the sentence.
+> - **Anchors**: Sub-Judges who sit besides the Galleon and act as a type of jury. They judge the accused, discuss amongst themselves, then inform the Galleon of their ideas. 
+> - **The Helm**: A team of two prosecutors who present evidence and arguments to the Galleon against the defense.
+> 	- **Divine Helm**: A religious prosecutor in charge of this case. Their job is to form legal arguments based on religious evidence.
+> 	- **Secular Helm**: A secular prosecutor in charge of this case. Their job is to form legal arguments based on physical evidence.
+> - **The Mast**: The guilty party who must gather evidence and form legal arguments to prove their innocence.
+
 ## Scene Description
 ### The Arrest
 Once your party has settled in a public area, they hear a distant sound of rhythmic marching and metal clanking. As the sound grows closer and louder, the crowds nearby begin to part as a group of 10 guards push their way towards the party until they are surrounded on all sides. A guard captain steps forth from the circle and declares
@@ -28,12 +37,15 @@ Once your party has settled in a public area, they hear a distant sound of rhyth
 
 If the party follows with no difficulties, they will be blindfolded and escorted to the [[The Courthouse#Holding Cells|Holding Cells]] and temporarily stripped of their inventories. If they refuse to follow, the guards will initiate combat against them in an attempt to subdue and capture them to bring them in by force.
 ### Jail
+> [!info] Magic Dampening
+> Any attempts to use magic in the jail or courthouse fails due to magic dampeners.
+
 With your hands bound and eyes blindfolded, it is hard to track where you are travelling. Loud boos from nearby crowds further disrupt your senses as your iron shackles dig into your wrists as the guards yank and drag you along. The sound of boos dies out as you climb a staircase and feel the still air of a buildings interior. You are led forward a dozen steps before being momentarily held still. Suddenly, the room gets eerily quiet and the air becomes damp and cool. The guards drag you along a few more paces, occasionally stopping to open what sounds like metal gates ahead of you. 
 
 As your blindfold is taken off and your shackles undone, you find yourself standing in front of an open iron door. Inside, a straw bedroll lies alone in the corner. The guard behind you gives a slight shove.
 > "Step forwards criminal."
 
-Entering inside, you hear the heavy iron door slam and latch shut as the room goes dark. A flicker of orange light spills from the bottom edge of the door, illuminating the cracked and broken stone floor beneath it. 
+Entering inside, you hear the heavy iron door slam and latch shut as the room goes dark. A flicker of orange light spills from the bottom edge of the door, illuminating the cracked and broken stone floor beneath it.
 # 2. Collecting Evidence
 ___
 *The party gets introduced to [[Gimil Lawman]], the Judge, in an empty courthouse and are told of their crimes and guilt. Gimil informs them that they will be given 20 minutes to go to the scene of the crime to gather evidence that supports their innocence.* 
@@ -43,7 +55,7 @@ You spend what feels like days in the dark isolated cell, with any attempts to c
 
 A guard demands impatiently as your eyes adjust to the influx of light spilling from the slot. If you listen, the door opens and your wrists are clasped with the familiar cool iron shackles. The guard then drags you out of your cell, through two iron gates and past a clerk, and into the bounds of a magical rune. Once each member of your party has been dragged into the rune, the guards step away and leave you alone with no explanation. If you try to leave the circular rune, you notice some sort of invisible wall blocking your path. 
 
-Suddenly, your eyes feel extremely heavy and are forced shut for only a moment. Upon reopening them, you find yourself before a dwarfish man with copper hair and a face of steel. He sits high above your head behind a desk made of the colossal trunk of an ancient tree, gazing down with a hint of discontent. As your eyes break from his and begin to travel down the deep rippling grain of the oak, the shimmer of steel from a large anchor fixed in the center of the stand grasps your attention. At the same time, a shrill voice cracks and frays from a young thin man besides the trunk,
+Suddenly, your eyes feel extremely heavy and are forced shut for only a moment. Upon reopening them, you find yourself in the [[The Courthouse#Courtroom|Courtroom]] standing before a dwarfish man with copper hair and a face of steel. He sits high above your head behind a desk made of the colossal trunk of an ancient tree, gazing down with a hint of discontent. As your eyes break from his and begin to travel down the deep rippling grain of the oak, the shimmer of steel from a large anchor fixed in the center of the stand grasps your attention. At the same time, a shrill voice cracks and frays from a young thin man besides the trunk,
 > "You appear before [[Gimil Lawman]], Galleon of the court and great judge of Nervios. Sentencer of Aequorin and punisher of the guilty."
 
 Gimil's unbroken gaze burns with a sense of deep wisdom and ancient impatience. His voice booms with a deep resonance,
@@ -61,14 +73,14 @@ Each piece of evidence contains a "Argument Modifier", a value added to skill ch
 Continue taking turns searching for evidence until the 20 minutes are up **OR** the party is satisfied. Keep track of all collected evidence and their respective Argument Modifiers. The party can have more then 6 pieces of evidence, but will only be able to use 6 during the trial.
 
 > [!warning] Witness
-> Witnesses should be difficult to gather
-## Determining Prosecutor Evidence
-At any point before the trial starts, make a list of evidence collected by the prosecutors. The list should have 6 pieces of evidence varying in quality determine by 6 rolls on the [[#Random Prosecutor Evidence|Random Prosecutor Evidence Table]]. Once they are rolled, the evidence is set and ready for the trial.
+> Witnesses should be difficult to gather as they believe that anybody appearing in court is already guilty.
+## Determining Helm Evidence
+At any point before the trial starts, make a list of evidence collected by the helm(the prosecutors). The list should have 6 pieces of evidence varying in quality determine by 6 rolls on the [[#Random Helm Evidence]]. Once they are rolled, the evidence is set and ready for the trial.
 
 ## Evidence Tables
-Roll a D20 and mark what piece of evidence you get. Evidence is used during arguments during a trial and may need to be modified or altered to suite the specific case. For example, if the defense finds a hair, it may be the wrong color. If the prosecutor finds a hair, it may be the color and texture of the guilty party's hair.
+Roll a D20 and mark what piece of evidence you get. Evidence is used during arguments during a trial and may need to be modified or altered to suite the specific case. For example, if the Mast finds a hair, it may be the wrong color. If the helm finds a hair, it may be the color and texture of the guilty party's hair.
 ### Random Poor Evidence
-Roll a D20 to pick a random piece of poor evidence to support the defense. The Gamemaster can alter descriptions of evidence to suit the trial at hand.
+Roll a D20 to pick a random piece of poor evidence to support the Mast. The Gamemaster can alter descriptions of evidence to suit the trial at hand.
 
 | Roll D20 | Evidence Name                | Evidence Description                                                                  | Argument Modifier |
 | -------- | ---------------------------- | ------------------------------------------------------------------------------------- | ----------------- |
@@ -92,8 +104,8 @@ Roll a D20 to pick a random piece of poor evidence to support the defense. The G
 | 18       | Scrap of parchment           | A strip of parchment... it's a shopping list                                          | -1                |
 | 19       | Activated mouse trap         | A mouse trap that has been stepped on and activated, but nothing is inside.           | 0                 |
 | 20       | Supporting Evidence          | Evidence that directly supports your case.                                            | +3                |
-### Random Prosecutor Evidence
-Roll a D20 to pick a random piece of evidence to support the prosecutor. The Gamemaster can alter descriptions of evidence to suit the trial at hand.
+### Random Helm Evidence
+Roll a D20 to pick a random piece of evidence to support the helm. The Gamemaster can alter descriptions of evidence to suit the trial at hand.
 
 | Roll  | Evidence Name                | Evidence Description                                                                                                           | Argument Modifier        |
 | ----- | ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------ |
@@ -103,17 +115,18 @@ Roll a D20 to pick a random piece of evidence to support the prosecutor. The Gam
 | 4     | Personal belonging           | A personal possession belonging to the guilty party.                                                                           | +3                       |
 | 5     | Hair of the guilty           | A strand of hair matching in color, length, and texture of the guilty party                                                    | +2                       |
 | 6     | Footprint of the guilty      | A footprint that heavily matches the guilty party's                                                                            | +3                       |
-| 7     | Choppy waters                | The tide by the port has become increasingly and apparently choppy. The Divine Prosecutor interprets it as word of God.        | +3                       |
-| 8     | Stormy skies                 | The sky grows dark with storm clouds and thunder booms. The divine prosecutor interprets it as word of God.                    | +2                       |
-| 9     | [[Gauntlet of Truth]]        | A magical glove that is used by the prosecutors on the guilty party to read their thoughts.                                    | +3                       |
+| 7     | Choppy waters                | The tide by the port has become increasingly and apparently choppy. The Divine Helm interprets it as word of God.              | +3                       |
+| 8     | Stormy skies                 | The sky grows dark with storm clouds and thunder booms. The Divine Helm interprets it as word of God.                          | +2                       |
+| 9     | [[Gauntlet of Truth]]        | A magical glove that is used by the helm on the guilty party to read their thoughts.                                           | +3                       |
 | 10-20 | Poor evidence                | Roll a D20 and refer to [[#Random Poor Evidence]].                                                                             | Depends on Poor Evidence |
 
 # 3. Trial Introductions -- W.I.P
 ___
-After collecting their evidence, the party is escorted back to the Courthouse, which is much busier then it was when you left. Crowds line the exterior walls trying to peer in through the looking windows, and the interior desks and seats have filled up drastically. The party is introduced to [[Iris Thyrsin]], the Divine Prosecutor of the Court, and [[Armul Onoimer]], the Secular Prosecutor of the Court. Their job is to prove guilt under the law and God.
+*After collecting their evidence, the party is escorted back to the Courthouse, which is much busier then it was when you left. Crowds line the exterior walls trying to peer in through the looking windows, and the interior desks and seats have filled up drastically. The party is introduced to [[Iris Thyrsin]], the Divine Helm of the Court, and [[Armul Onoimer]], the Secular Helm of the Court. Their job is to prove guilt under the law and God.*
 
->[!info] Jurors
-> Next to the Galleon's Desk sits the Anchors: a group of lesser judges who act as a jury and spend the trial discussing amongst themselves.
+>[!info] Restrictions
+> - During the trial, the players are held within the confines of the magical teleportation rune located in the center of the [[The Courthouse#Courtroom|Courtroom]]. They cannot exit the rune until the trial is over.
+> - Magic dampeners prevent spells and magic from being used within the confines of [[The Courthouse]]
 ## Scene Description
 Making your way back to the courthouse, the streets chatter as the guards weave their way through an ever-growing crowd of commonfolk. As you get close enough to see the gigantic oak doors of the court, you feel the various eyes turn and face you. Dozens of people, rich and poor, line around the outskirts of the ancient building in an attempt to peer in through the various viewing-glass windows.
 
@@ -121,98 +134,88 @@ Once inside, you feel the once stagnant air of the courtroom is now abuzz with l
 > "ORDER!"
 
 [[Gimil Lawman]] booms, silencing the many whispers and mutterings of the attendees.
-> "You stand before Aequorin, before our anchors, and before the sea to stand guilty of your crime of \**INSERT CRIME HERE*\*. You have been given just time to collect evidence on your behalf, and must now present it before [[Iris Thyrsin]], Divine Prosecutor of Aequorin, [[Armul Onoimer]], Secular Prosecutor of Nervios, and myself. 
+> "You stand before Aequorin, before our anchors, and before the sea to stand guilty of your crime of \**INSERT CRIME HERE*\*. You have been given just time to collect evidence on your behalf, and must now present it before [[Iris Thyrsin]], Divine Helm of Aequorin, [[Armul Onoimer]], Secular Helm of Nervios, and myself. 
 
 As Gimil wraps up his speech, the two staring faces rise and step forwards. On the left, a beautiful elvish woman of fair skin and blond hair donning a golden tiara and long white robes. She speaks forth with discontent, 
->"I am [[Iris Thyrsin]], the Divine Prosecutor of Nervios and Aequorin. All sinners pay for their crimes, you shall be no different."
+>"I am [[Iris Thyrsin]], the Divine Helm of Nervios and Aequorin. All sinners pay for their crimes, you shall be no different."
 
 To her right, a man exclaims, 
-> "And I am [[Armul Onoimer]], Secular Prosecutor of Nervios. Criminals like you taint our beautiful city, and I will not stand for that."
+> "And I am [[Armul Onoimer]], Secular Helm of Nervios. Criminals like you taint our beautiful city, and I will not stand for that."
 
 Armul's features are a stark contrast to Iris. His hair short and black; his face stern and dedicated. He stands permanently hunched, almost as he is carrying a terrible burden on his shoulders. After speaking, they both return to their seats at a table facing you. Gimil speaks once more,
-> "The time of trial is upon us. You have one hour to use evidence to argue your innocence against the prosecution, who has brought their own evidence. Your time starts now."
+> "The time of trial is upon us. You have one hour to use evidence to argue your innocence against the Helm, who has brought their own evidence. Your time starts now."
 
 The large anchor fixed to his desk drops yet again with a deafening thud. The chatter and hum of the crowds outside cuts abruptly and [[Armul Onoimer]] stands forward to present his opening argument.
 # The Trial -- W.I.P
 ___
-The trial begins! A 1 hour timer is started and the prosecutor makes the first argument. The party/defense then makes their counter-argument, and the process repeats until all evidence has been presented or the timer runs out. 
+*The trial begins! A 1 hour timer is started and the helm makes the first argument. The party/Mast then makes their counter-argument, and the process repeats until all evidence has been presented or the timer runs out.* 
 ## Scene Description -- W.I.P
 The courtroom remains eerily silent for a few moments after the anchor crashes into the floor. The silence is then broken with the defeated sigh of the anchor-reeler as the thin man begins to tirelessly crank the anchor back up. [[Armul Onoimer]], ignoring the obnoxious ratcheting, stands first to present his opening argument,
 > "Great Galleon Gimil, I stand before you today to deny these criminals of an innocent sentence and charge them before Aequorin and the City Guard. Their crimes are great and many, but today they stand charged of \**INSERT CRIME HERE*\*."
 
 ## Forming Arguments
-When the trial begins, the prosecutor and defense are given one real-life hour to make claims, present evidence, and argue innocence/guilt. Up to 6 rounds can occur in this time. A round begins with a claim from the prosecutor, followed by a counter-argument from the defense. The success of an argument is determined by how well it is roleplayed, the presented evidence, and relevant skill checks.
+When the trial begins, the Helm and Mast are given one real-life hour to make claims, present evidence, and argue innocence/guilt. Up to 6 rounds can occur in this time. A round begins with a claim from the helm, followed by a counter-argument from the Mast. The success of an argument is determined by how well it is roleplayed, the presented evidence, and relevant skill checks.
 ### Turn Order
-At the start of the Arguments phase, the prosecutors make a claim that supports the guilty accusation. The defense is given a period to deliberate, then they make a counter-claim and provide evidence to resist the guilty accusation. This pattern repeats until all evidence has been presented or until one real-life hour has passed. At the end of each round, keep track of which side won.
-- **Defense Wins**: The number of successful counter-arguments made by the Defense.
-- **Prosecutor Wins**: The number of successful arguments made by the Prosecution.
-### Prosecutor Claim
-On their turn, the divine or secular prosecutor must make an argument consisting of three key parts:
+At the start of the Arguments phase, the helm make a claim that supports the guilty accusation. The Mast is given a period to deliberate, then they make a counter-claim and provide evidence to resist the guilty accusation. This pattern repeats until all evidence has been presented or until one real-life hour has passed. At the end of each round, keep track of which side won.
+- **Mast Wins**: The number of successful counter-arguments made by the Mast.
+- **Helm Wins**: The number of successful arguments made by the Helm.
+### Helm Claim
+On their turn, the divine or secular helm must make an argument consisting of three key parts:
 1. Claim that supports the guilty accusation either secularly or religiously.
 2. Evidence that supports claim in some way and explanation of the evidence.
-	- Can be any one of the 6 evidence collected by the prosecution
-	- Must be presented by the proper prosecutor. (Secular presents physical evidence, Divine presents religious evidence)
+	- Can be any one of the 6 evidence collected by the Helm
+	- Must be presented by the proper Helm. (Secular presents physical evidence, Divine presents religious evidence)
 3. Conclusion statement
 
-After the claim, calculate the "**Prosecutor Score**": a value that represents how well the prosecution argued. This value should be equal to a skill check relevant to the claim, **PLUS** the Argument Modifier of the evidence used.(A false claim is a deception check, a true claim is persuasion.)
-- **Prosecutor Score** = Skill Check + Argument Modifier from Evidence
+After the claim, calculate the "**Helm Score**": a value that represents how well the Helm argued. This value should be equal to a skill check relevant to the claim, **PLUS** the Argument Modifier of the evidence used.(A false claim is a deception check, a true claim is persuasion.)
+- **Helm Score** = Skill Check + Argument Modifier from Evidence
 
-### Defense Counter-Claim
-On their turn, the party is given a moment to deliberate privately and form a counter-argument against the Prosecutors claim. The party member who discovered the evidence used in the claim must present the counter-claim. A counter-claim consists of three key parts:
-1. Counter-argument that refutes or denies the guilty accusation and prosecution's claim
+### Mast Counter-Claim
+On their turn, the party is given a moment to deliberate privately and form a counter-argument against the Helm's claim. The party member who discovered the evidence used in the claim must present the counter-claim. A counter-claim consists of three key parts:
+1. Counter-argument that refutes or denies the guilty accusation and Helm's claim
 2. Evidence that supports counter-claim and an explanation of the evidence
-	- Can be any one of the 6+ evidence collected by the defense.
+	- Can be any one of the 6+ evidence collected by the Mast.
 	- Must be presented by the party member who discovered it
 	- History, investigation, or insight checks can reveal additional information about the evidence and how it may prove innocence. 
 3. Conclusion Statement
 
-After the counter-claim, the Gamemaster should calculate **Roleplay Points**: a value depicting how well the presenting character roleplayed the argument. Roleplay Points are calculated as such:
-1. Was the counter-argument logical in response? (+1)
-2. Did the evidence support the counter-argument? (+1)
-3. Did the response seem true-to-character? (+1)
-
-After calculating the roleplay points, calculate the "**Defense Score**": a value that represents how well the defense argued. This value should be equal to a skill check relevant to the claim, **PLUS** the Argument Modifier of the evidence used, **PLUS** the calculated Roleplay Points.
-- **Defense Score**: Skill Check + Argument Modifier from Evidence + Roleplay Points.
-- ex) 15 Persuasion Check + 2 Argument Modifier + 3/3 Roleplay Points = 20 Defense Score.
+After the counter-claim, calculate the "**Mast Score**": a value that represents how well the Mast argued. This value should be equal to a skill check relevant to the claim, **PLUS** the Argument Modifier of the evidence used.
+- **Mast Score**: Skill Check + Argument Modifier from Evidence
+- ex) 15 Persuasion Check + 2 Argument Modifier = 17 Mast Score.
 
 ### Argument Winner
-Compare the **Defense Score** and the **Prosecutor Score**. Whichever value is higher gains a Win. If the values are equal, the Defense gets the Win. Keep track of the total wins of both sides throughout the rounds. 
+Compare the **Mast Score** and the **Helm Score**. Whichever value is higher gains a Win. If the values are equal, the Mast gets the win. Keep track of the total wins of both sides throughout the rounds. 
 
 ## Determining Innocence
-After all rounds of claims/counter-claims are finished, tally the number of **Defense Wins** and **Prosecutor Wins**, then for each side, roll a number of D6 equal to the number of wins. Whichever side gets a higher total wins the case. If they tie, the Defense wins the case. 
-- ex) Arguments conclude with 4 Defense Wins and 2 Prosecutor Wins. (4d6) = 9. (2d6) = 7. 9 > 7, so the Defense wins the case and proves their innocence!
+After all rounds of claims/counter-claims are finished, tally the number of **Mast Wins** and **Helm Wins**, then for each side, roll a number of D6 equal to the number of wins. Whichever side gets a higher total wins the case. If they tie, the Mast wins the case. 
+- ex) Arguments conclude with 4 Mast Wins and 2 Helm Wins. (4d6) = 9. (2d6) = 7. 9 > 7, so the Mast wins the case and proves their innocence!
 # 5. The Verdict -- W.I.P
 ___
-The trial comes to a close as arguments finish up. Regardless of the innocent or guilty sentence, Gimil is bribed by the Rebels before he declares guilt, and instead deems the party innocent.
+The trial comes to a close as arguments wrap up. Right as Gimil is about to announce the verdict, he is interrupted and convinced of an innocent sentence. The reason for the innocent sentence should be determined by the Gamemaster and teach a lesson in some way. Example reasons include:
+- Gimil is bribed by [[Bethia Tallowwind]], lead Smuggler of [[The Burrow]]. She won't allow the party to be sentenced for a crime they did not commit, especially since they are aware of the presence of The Burrow. Emphasizes the strength of interpersonal connections.
+- A previously encountered NPC feels responsible for getting the party into this mess, and pays a bribe to set them free. For example, [[Leon Asker]] could feel responsible for the party after handing them the [[Rebel Coin]] during [[The Festival of Granite Rain]].
+- The real criminals are caught and brought to the courthouse where they are sentenced instead.
+- As Gimil goes to deal a guilty sentence, a massive rainstorm erupts over the courthouse. Lighting crashes into the roof with a loud BANG, shaking the floor beneath your feet. [[Iris Thyrsin]], Divine Helm for Nervios, takes this as a sign of Aequorin's anger and informs Gimil. To avoid punishment from God, they declare an innocent sentence.
+
 ## Scene Description
 As the last argument closes, the courthouse goes quiet. Galleon of the court, [[Gimil Lawman]] stands swiftly behind his podium of oak and steel. He speaks with clarity and gravitas,
 > "After hearing your arguments and witnessing your evidence, I judge you..."
 
-Before he finishes his sentence, the thin man who reels the anchor stands and whispers intently into Gimil's ear. The Galleon's eyes widen, then relax as he gives a slight nod.
+Before he finishes his sentence, the wooden doors of the courthouse swing open with a bang. Through it walks the key to your innocence: a person who convinces Gimil that your party did nothing wrong. They walk up to the podium, past the Guards, Anchors, and Helm, and lean before Gimil's ear. Gimil's eyes widen, then soften again as he gives a subtle nod.
 > "INNOCENT"
 
-# *Trial Proceedings -- TEMPORARY/PLACEHOLDER*
-___
-## Mission Timer
-Every trial in this city is allotted an hour maximum, no exceptions. Any case you wish to make, any arguments delivered, any evidence - legitimate or forged - must be presented in this time slot.
-## Finding Evidence
-When at the scene of the crime, everyone actively participating rolls a check against a difficulty tied to the amount of people passing through the crime scene. The check for finding evidence while the trial is ongoing will be significantly easier than beforehand, however every individual’s success adds another piece of evidence. Before the trial, it's a medium / average check, and during it's an easy check.
-## Making a Case
-After the opening statement and crimes have been read, the repeating process starts with the prosecution making an argument with premises, evidence, and the conclusion to draw. After this, the defense responds with an argument of their own, providing contradictory evidence, claiming lack of intent, or adding justifications. Regardless of whichever side the party is on, any arguments must be roleplayed out, however skill checks may be performed to gain the information necessary to formulate them. The rules for determining the ending verdict are as follows
-
-Keep track of two values throughout the trial, corresponding to the successes of the prosecution and the defense. When the trial concludes, roll a number of D6 equal to the number of Defense Successes. The total is the innocence score. Then roll a number of D6 equal to the number of Prosecutor Successes. The total is the guilty score. The higher value wins the trial.
-
-# Content -- WIP
+The courthouse erupts into a incoherent mess of joy and anger. Iris and Armul fall back into their chairs, their heads falling into their hands at their failure. Your shackled are undone and you are free to exit the courtroom. No apologies are made your way, but that is a small price to pay for freedom.  
+# Content -- W.I.P
 ___
 ## NPCS
 ### Key NPCS
 - **[[Gimil Lawman]] - Presiding Galleon(Judge) of Nervios**
 	- Conducts the trial
-- **[[Iris Thyrsin]] - Divine Prosecutor of the Court**
-- **[[Armul Onoimer]] - Secular Prosecutor of the Court**
-- TWO MORE JUDGES
-	- "AUNTIE" judge stereotype
-	- Third boomer judge
+- **[[Iris Thyrsin]] - Divine Helm of the Court**
+- **[[Armul Onoimer]] - Secular Helm of the Court**
+- Anchors
+	- "AUNTIE" judge stereotype [[Janice Quaizo]]
+	- Third boomer judge [[Gairee Pantia]]
 ### General NPCS
 - Timekeeper
 - Guards
@@ -222,11 +225,10 @@ ___
 # Setting -- W.I.P
 ___
 ## Atmosphere
-Tensions arise all the same for any manner of criminal trial in Nervios, no matter how relatively tame the charges may be. Eyes of onlookers and passersby outside poke through windows near the ground, and the earthy stench of ink along with the  documents it stains wafts through the room.
+Tensions arise all the same for any manner of criminal trial in Nervios, no matter how relatively tame the charges may be. Eyes of onlookers and passersby outside poke through windows near the ground, and the earthy stench of ink along with the documents it stains wafts through the room.
 ## Key Locations
 - [[The Courthouse]]
 - The scene of the crime of which the party stands accused.
 ## Hiding Spots
-When a player is not actively involved in assisting or creating an argument, they are free to come and go from the court as they please. In fact, this can be beneficial as players separated from the party can return to the scene of a crime to search for more evidence.
+The party is given time to deliberate during their legal arguments. If this time is not enough, they are entitled to 2 recesses: 3 minutes where they can discuss amongst themselves out of the ears and eyes of the court. 
 
-## Motivators
