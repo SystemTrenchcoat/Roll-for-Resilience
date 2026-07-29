@@ -78,7 +78,7 @@ Upon completion of [[The Wheel of Purity]], [[Milo Mandrich|Milo]] climbs off of
 | [[Sven]]          | Runs the [[Boulder Climb]] tent                                                                                                                                                                                                       |
 | [[Mr. Whatzit]]   | Runs the stall [[Bag Me Up]] and proctors the [[Hidden Key Puzzle]]                                                                                                                                                                   |
 | [[Gunther Stone]] | Runs [[Fine Pebbles]], a dwarf-owned food stand that sells [[Oyster and Stone Fruit Salad]].                                                                                                                                          |
-| [[Milo Mandrich]] | An active guard of the city watch and generous host of [[StorytellerSuite/Stories/Nervios Campaign/Scenes/The Festival of Granite Rain\|The Festival of Granite Rain]]. He is in charge of the final puzzle: [[The Wheel of Purity]]. |
+| [[Milo Mandrich]] | An active guard of the city watch and generous host of [[The Festival of Granite Rain\|The Festival of Granite Rain]]. He is in charge of the final puzzle: [[The Wheel of Purity]]. |
 
 ## Core Mechanics
 - [[Boulder Climb]] minigame

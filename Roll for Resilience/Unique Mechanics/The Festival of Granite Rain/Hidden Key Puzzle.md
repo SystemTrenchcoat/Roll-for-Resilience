@@ -1,5 +1,5 @@
 ---
-scenes: "[[StorytellerSuite/Stories/Nervios Campaign/Scenes/The Festival of Granite Rain|The Festival of Granite Rain]]"
+scenes: "[[The Festival of Granite Rain|The Festival of Granite Rain]]"
 location: "[[Bag Me Up]]"
 ---
 

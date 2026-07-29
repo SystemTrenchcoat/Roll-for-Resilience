@@ -76,12 +76,12 @@ Take turns and spotlight each character and ask what evidence they are searching
 
 Each piece of evidence contains a "Argument Modifier", a value added to skill checks made during a legal argument. Evidence that was found successfully have a guaranteed **+3** Argument Modifier. Poor evidence has variable Argument modifiers and can be found at the [[#Random Poor Evidence Table]].
 
-Continue taking turns searching for evidence until the 20 minutes are up **OR** the party is satisfied. Keep track of all collected evidence and their respective Argument Modifiers. The party can have more then 6 pieces of evidence, but will only be able to use 6 during the trial.
+Continue taking turns searching for evidence until the 20 minutes are up **OR** the party is satisfied. Keep track of all collected evidence and their respective Argument Modifiers. The party can have more then 4 pieces of evidence, but will only be able to use 4 during the trial.
 
 > [!warning] Gathering Witnesses
-> Witnesses should be difficult to gather as they assume that those facing trial are already guilty
+> Witnesses should be difficult to gather as they assume that those facing trial and in shackles are already guilty
 ## Determining Helm Evidence
-At any point before the trial starts, make a list of evidence collected by the helm(the prosecutors). The list should have 6 pieces of evidence varying in quality determine by 6 rolls on the [[#Random Helm Evidence]]. Once they are rolled, the evidence is set and ready for the trial.
+At any point before the trial starts, make a list of evidence collected by the helm(the prosecutors). The list should have 4 pieces of evidence varying in quality determined by 4 rolls on the [[#Random Helm Evidence]]. Once they are rolled, the evidence is set and ready for the trial.
 
 ## Evidence Tables
 Roll a D20 and mark what piece of evidence you get. Evidence is used during arguments during a trial and may need to be modified or altered to suite the specific case. For example, if the Mast finds a hair, it may be the wrong color. If the helm finds a hair, it may be the color and texture of the guilty party's hair.
@@ -136,7 +136,7 @@ ___
 ## Scene Description
 Making your way back to the courthouse, the streets chatter as the guards weave their way through an ever-growing crowd of commonfolk. As you get close enough to see the gigantic oak doors of the court, you feel the various eyes turn and face you. Dozens of people, rich and poor, line around the outskirts of the ancient building in an attempt to peer in through the various viewing-glass windows.
 
-Once inside, you feel the once stagnant air of the courtroom is now abuzz with life and energy. Next to the Galleon's Desk, a dozen chairs filled with prestigious faces glare judgmentally at you. Amongst them, two sets of eyes seem exceptionally fixated upon you.
+Once inside, you feel the once stagnant air of the courtroom is now abuzz with life and energy. Onlookers line the benches around the room or push their faces against the cool glass from outside. Next to the Galleon's Desk, a dozen chairs filled with prestigious faces glare judgmentally at you. Amongst them, two sets of eyes seem exceptionally fixated upon you.
 > "ORDER!"
 
 [[Gimil Lawman]] booms, silencing the many whispers and mutterings of the attendees.
@@ -160,16 +160,20 @@ The courtroom remains eerily silent for a few moments after the anchor crashes i
 > "Great Galleon Gimil, I stand before you today to deny these criminals of an innocent sentence and charge them before Aequorin and the City Guard. Their crimes are great and many, but today they stand charged of \**INSERT CRIME HERE*\*."
 
 ## Forming Arguments
-When the trial begins, the Helm and Mast are given one real-life hour to make claims, present evidence, and argue innocence/guilt. Up to 6 rounds can occur in this time. A round begins with a claim from the helm, followed by a counter-argument from the Mast. The success of an argument is determined by how well it is roleplayed, the presented evidence, and relevant skill checks.
+When the trial begins, the Helm and Mast are given one real-life hour to make claims, present evidence, and argue innocence/guilt. Up to 4 rounds can occur in this time. A round begins with a claim from the helm, followed by a counter-argument from the Mast. The success of an argument is determined by how well it is roleplayed, the presented evidence, and relevant skill checks.
 ### Turn Order
 At the start of the Arguments phase, the helm make a claim that supports the guilty accusation. The Mast is given a period to deliberate, then they make a counter-claim and provide evidence to resist the guilty accusation. This pattern repeats until all evidence has been presented or until one real-life hour has passed. At the end of each round, keep track of which side won.
 - **Mast Wins**: The number of successful counter-arguments made by the Mast.
 - **Helm Wins**: The number of successful arguments made by the Helm.
+
+### Crowd Play
+During the trial, have the audience react to the arguments. Depending on the persuasiveness of the argument, the crowd should cheer, boo, comment, question, and react to the various arguments and evidence brought in front of the court. This emphasizes the pressure of the whole town watching and judging the criminals on trial.
+
 ### Helm Claim
 On their turn, the divine or secular helm must make an argument consisting of three key parts:
 1. Claim that supports the guilty accusation either secularly or religiously.
 2. Evidence that supports claim in some way and explanation of the evidence.
-	- Can be any one of the 6 evidence collected by the Helm
+	- Can be any one of the 4 evidence collected by the Helm
 	- Must be presented by the proper Helm. (Secular presents physical evidence, Divine presents religious evidence)
 3. Conclusion statement
 
@@ -180,7 +184,7 @@ After the claim, calculate the "**Helm Score**": a value that represents how wel
 On their turn, the party is given a moment to deliberate privately and form a counter-argument against the Helm's claim. The party member who discovered the evidence used in the claim must present the counter-claim. A counter-claim consists of three key parts:
 1. Counter-argument that refutes or denies the guilty accusation and Helm's claim
 2. Evidence that supports counter-claim and an explanation of the evidence
-	- Can be any one of the 6+ evidence collected by the Mast.
+	- Can be any one of the 4+ evidence collected by the Mast.
 	- Must be presented by the party member who discovered it
 	- History, investigation, or insight checks can reveal additional information about the evidence and how it may prove innocence. 
 3. Conclusion Statement
@@ -211,7 +215,7 @@ Before he finishes his sentence, the wooden doors of the courthouse swing open w
 > "INNOCENT"
 
 The courthouse erupts into a incoherent mess of joy and anger. Iris and Armul fall back into their chairs, their heads falling into their hands at their failure. Your shackled are undone and you are free to exit the courtroom. No apologies are made your way, but that is a small price to pay for freedom.  
-# Content -- W.I.P
+# Content
 ___
 ## NPCS
 ### Key NPCS
@@ -228,7 +232,7 @@ ___
 - Bystanders
 - Anchor Raiser
 
-# Setting -- W.I.P
+# Setting
 ___
 ## Atmosphere
 Tensions arise all the same for any manner of criminal trial in Nervios, no matter how relatively tame the charges may be. Eyes of onlookers and passersby outside poke through windows near the ground, and the earthy stench of ink along with the documents it stains wafts through the room.
