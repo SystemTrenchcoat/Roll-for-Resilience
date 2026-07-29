@@ -31,7 +31,7 @@ pronunciation:
 ---
 # Description
 ___
-The head religion of [[Nervios]]. Worshipping the ocean god and creator of all life, Aequorin. They believe that the ocean is divine and must be appeased through worship and tithes. Those who live properly and within the eye of God will ascend to the heavens once their soul is complete. Those who misfortune others or ignore tenets and God's word will be punished and their soul sunk. These souls are referred to as *[[#Drowned Souls]]*.
+The head religion of [[Nervios]], worshipping the ocean god and creator of all life, [[Aequorin]], at their [[Sanctuary of Aequorin]]. They believe that the ocean is divine and must be appeased through worship and tithes. Those who live properly and within the eye of God will ascend to the heavens once their soul is complete. Those who misfortune others or ignore tenets and God's word will be punished and their soul sunk. These souls are referred to as *[[#Drowned Souls]]*.
 
 # Main Tenets
 ___
