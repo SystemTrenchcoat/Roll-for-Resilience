@@ -33,9 +33,9 @@ The materials won't find themselves
 Whether the party chooses to stick together or separate, they will still need to gather each ingredient from its location. 
 
 - Vial of Sacred water
-	- Since your arrival does not coincide with one of their services or rituals, the church is largely quiet apart from a priest and their attendant softly chatting amongst themselves. Asking for a vial of water is far from an unusual request, so they readily see to getting it, expecting a tithe as payment. 
+	- Since your arrival does not coincide with one of their services or rituals, the [[Sanctuary of Aequorin|Sanctuary]] is largely quiet apart from a priest and their attendant softly chatting amongst themselves. Asking for a vial of water is far from an unusual request, so they readily see to getting it, expecting a tithe as payment. 
 - Tavern Chalk
-	- Although a particular ask, on entering back into the tavern you find plenty of chalk sprawled out in plain sight to take. You only need to pilfer a stick or two, and there's plenty away from the tavernkeeper, as well as some directly behind the bar. If the party gets seen taking some of it, they'll get a confused look from the tavernkeep and questioned why chalk
+	- Although a particular ask, on entering back into [[Loud House Tavern]] you find plenty of chalk sprawled out in plain sight to take. You only need to pilfer a stick or two, and there's plenty away from the tavernkeeper, as well as some directly behind the bar. If the party gets seen taking some of it, they'll get a confused look from the tavernkeep and questioned why chalk
 - Beeswax candles
 	- Overall the most straightforward ingredient to acquire, there will be a candlemaker with a stall down in the market selling a colored variety of candles. She is cheerfully polite, dressed in a faint yellow top and white smock, with a necklace charm in the shape of a bee around her neck.
 
