@@ -9,7 +9,7 @@ members:
   - type: character
     id: "[[Gweneth Falzy]]"
 pronunciation:
-  - Umorism (OO-MOR-ISM)
+  - Umorism (OOMER-IZM)
 ---
 # Description
 ___
