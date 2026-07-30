@@ -20,3 +20,7 @@ _skipSync: true
 Body guard for Bethia, a towering woman that wields a great sword. She’s mostly silent, with a mask that lacks a mouth and eye socks, whose upper bridge slopes downward towards the bridge of the nose, mimicking the eyebrows of a frown.
 
 ## Backstory
+
+
+# Mask
+Her mask is that of a Ram.

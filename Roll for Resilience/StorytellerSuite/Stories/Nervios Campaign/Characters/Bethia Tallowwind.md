@@ -27,3 +27,6 @@ One of the most prominent black market dealers in the Burrow, Bethia sells vario
 
 ## Backstory
 She started out as a minor merchant, till she eventually met a Sea Scribe who taught her ways to better construct her ships. This lead to her being able to develop a great method to help her start smuggling in various goods from aboard, leading to her setting up the Burrow and creating the current smuggling ring.
+
+# Mask
+Her Mask if that of a weasel.

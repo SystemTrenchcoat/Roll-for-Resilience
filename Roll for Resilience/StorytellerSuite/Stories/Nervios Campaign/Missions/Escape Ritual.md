@@ -2,6 +2,19 @@
 entityType: scene
 name: A Dose of Clarity
 status: WIP
+chapterId: "[[End]]"
+synopsis: Players gather materials for a ritual and leave Nervios through another plane of existence.
+linkedCharacters:
+  - "[[Wise Drifter]]"
+  - "[[Aequorin]]"
+linkedGroups:
+  - "[[Commonfolk]]"
+  - "[[Church of Aequorism]]"
+linkedLocations:
+  - "[[Abandoned Building]]"
+  - "[[The Crystal Expanse]]"
+setupScenes:
+  - "[[Epilogue]]"
 ---
 # Hook
 ___
@@ -15,14 +28,14 @@ Being offered the escape
 
 ### 2. Gathering ingredients
 The materials won't find themselves
-	Now that the party has agreed to undergo the ritual from the Drifter, it tells them the ingredients they need to find: a vial of sacred water, a dozen beeswax candles, and a specific type of chalk. Naturally they must head to church for the water, but the candles can be sold to them by a market vendor, and the chalk needed can be found at the local tavern. While they are doing that the Drifter says it will take care of the last ingredient, so they will meet again in an abandoned building in the west end of the city under next moonlight. 
+	Now that the party has agreed to undergo the ritual from the Drifter, it tells them the ingredients they need to find: a vial of sacred water, a dozen beeswax candles, and chalk specifically from the Loud House. Naturally they must head to church for the water, but the candles can be sold to them by a market vendor, and the chalk needed can be found at the local tavern. While they are doing that the Drifter says it will take care of the last ingredient, so they will meet again in an abandoned building in the west end of the city under next moonlight. 
 
 Whether the party chooses to stick together or separate, they will still need to gather each ingredient from its location. 
 
 - Vial of Sacred water
-	- Since your arrival does not coincide with one of their services or rituals, the church is largely quiet apart from a priest and their attendant softly chatting amongst themselves. Asking for a vial of water is far from an unusual request, so they readily see to getting it, expecting a tithe as payment. 
+	- Since your arrival does not coincide with one of their services or rituals, the [[Sanctuary of Aequorin|Sanctuary]] is largely quiet apart from a priest and their attendant softly chatting amongst themselves. Asking for a vial of water is far from an unusual request, so they readily see to getting it, expecting a tithe as payment. 
 - Tavern Chalk
-	- Although a particular ask, on entering back into the tavern you find plenty of chalk sprawled out in plain sight to take. You only need to pilfer a stick or two, and there's plenty away from the tavernkeeper, as well as some directly behind the bar. If the party gets seen taking some of it, they'll get a confused look from the tavernkeep and questioned why chalk
+	- Although a particular ask, on entering back into [[Loud House Tavern]] you find plenty of chalk sprawled out in plain sight to take. You only need to pilfer a stick or two, and there's plenty away from the tavernkeeper, as well as some directly behind the bar. If the party gets seen taking some of it, they'll get a confused look from the tavernkeep and questioned why chalk
 - Beeswax candles
 	- Overall the most straightforward ingredient to acquire, there will be a candlemaker with a stall down in the market selling a colored variety of candles. She is cheerfully polite, dressed in a faint yellow top and white smock, with a necklace charm in the shape of a bee around her neck.
 
@@ -32,7 +45,7 @@ Magic time
 
 ### 4. Ritual Time
 It's ready
-	Now that all of ritual components are in place, the Drifter chants for the heavens to open for those in the circle. For a moment, the suspense of silence creeps in, only to be broken by the crackle of a newly opened portal into a magnificent cavern with stones decorated by the most brilliant of crystals. Once they have stepped over, they now find themselves in [[The Crystal Expanse]], a bright ethereal plane for souls awaiting their next stop in the cycle of life. As the portal closes behind them, the Drifter bids the party farewell.
+	Now that all of ritual components are in place, the Drifter chants for the heavens to open for those in the circle. For a moment, the suspense of silence creeps in, only to be broken by the crackle of a newly opened portal, into a magnificent cavern with stones decorated by the most brilliant of crystals. Once they have stepped over, they now find themselves in [[The Crystal Expanse]], a bright ethereal plane for souls awaiting their next stop in the cycle of life. As the portal closes behind them, the Drifter bids the party farewell.
 
 ### 5. Those at peace
 An otherworldly calm
@@ -40,7 +53,7 @@ An otherworldly calm
 
 ### 6. Face to a name
 You're there, god
-	Having reached that colorful light, a faint smell of lightning wafts through the air. A sonorous voice echoes against the walls, acknowledging the party for who they are. Before anyone can respond, the voice has already created a partial avatar composed of energy for itself to speak with the party. Emanating a vibrant ocean blue, the lone torso towers over the party, where you estimate it would rest for a six foot creature. As a reveal, the avatar claims itself to be who the mortals know as Aequorin, though his true name is Malachi. He understands how the party got here, and although this agitates him he represses it and speaks to them.
+	Having reached that colorful light, a faint smell of lightning wafts through the air. A sonorous voice echoes against the walls, acknowledging the party for who they are. Before anyone can respond, the voice has already created a partial avatar composed of energy for itself to speak with the party. Emanating a vibrant ocean blue, the avatar's torso towers high compared to the party, reaching a smidge or two over six feet. As a reveal, the avatar claims itself to be who the mortals know as Aequorin, though his true name is Malachi. He understands how the party got here, and although this annoys him he represses it to speaks with them.
 
 ### 7. More than an Echo
 Like a mirror you can hug
@@ -48,11 +61,18 @@ Like a mirror you can hug
 
 ### 8. Trial of Resolute Soul
 Anything left to hide
-	Once everyone in the party has finished interacting with their selves, Malachi calls their attention once again. Despite everyone being alive, they are not exempt from the same judgement as the dead. Everyone shall keep their souls, memories, and belongings this time, but they must endure the Trial of Resolute Soul. It's a rather simple ordeal, party members take turns placing their hands upon a stone statue of a human with crystals sprouting from it. Malachi tells everyone there will be no further exceptions, whether they want to face their trial willingly or not.
+	Once everyone in the party has finished interacting with their selves, Malachi calls their attention once again. Despite everyone being alive, they are not exempt from the same judgement as the dead. Everyone can keep their souls, memories, and belongings this time, but they must endure the Trial of Resolute Soul. It's a rather simple ordeal, party members take turns placing their hands upon a stone statue of a human with crystals sprouting from it. Malachi tells everyone there will be no further exceptions, whether they want to face their trial willingly or not.
 
 ### 9. Return to the Material
-Raise a glass to freedom...?
-	As the last party member removes their hand, directly across from everyone a new portal emerges, hazily depicting a view of grass as far as one could see. Malachi ushers everyone on their way, even if they try to stay, fading back into nothingness as they wave goodbye. Crossing back to the other side, everyone awakens to the pastel pink and orange of sunrise, lying in the fields outside Nervios' northern gate with the collapsed stones you know all too well blocking it. Gentle air on the breeze has never smelt fresher, carrying notes of lavender which overpower that signature salt from the Sunderwin. Turning back towards the gate, everyone curiously spots a few of the granite boulders are marked by paint on this side, along with a few gifts and flower bouquets. Honest, friendly people have still been trying to come the city, despite everything, and no one noticed. Wiping away any tears and turning to the horizon, the party realizes nothing can stop them now from journeying into the unknown, or reopening a chapter in their old life. The only question now is, who sticks together?
+As the last party member removes their hand, directly across from everyone the crackle of an emerging portal is heard. Sensing he must soon return to his work, Malachi presents the party with a choice. However, you as the DM can make this choice for them, depending on your intent with creating these characters. 
+
+Option one is for everyone in the party to be transported into the fields north of Nervios, free to live the next chapter of their life. Option two has the characters reborn into the modern world in their player's body, essentially hammering home "embodying the ideal self."
+
+*Option One:* Raise a glass to freedom...?
+	 Gazing into the portal, you can see a hazy depiction of grass as far as one could see, as Malachi ushers you through it. Gently pushing everyone through, even those attempting to stay, he fades back into nothingness as he waves goodbye. Crossing back to the other side, everyone awakens on the ground staring at the pastel pink and orange of sunrise, outside Nervios' northern gate with the collapsed stones you know all too well blocking it. Gentle air on the breeze has never smelt fresher, carrying notes of lavender which overpower that signature salt from the Sunderwin. Turning back towards the gate, everyone curiously spots a few of the granite boulders are marked by paint on this side, along with a few gifts and flower bouquets. Honest, friendly people have still been trying to come the city, despite everything, and no one noticed. Wiping away any tears and turning to the horizon, the party realizes nothing can stop them now from journeying into the unknown, or reopening a chapter in their old life. The only question now is, who sticks together?
+
+*Option Two:* See Me on the other side
+	Acknowledging their desire, he floats himself closer to the portal, reciting a small indecipherable phrase while extending out his palm.  Conjured from Malachi's hand is the grey puff of a storm cloud, and with the strike of lightning it shifts the portal from a hazy projection of grass to one completely obscured by strange azure blue fog. Gliding himself clear of the party's path, Malachi stands proud, assuring everyone that *it's okay to be uncertain. You've already done the hard part* he says, exchanging a final glance at the party, *you've found the love and support of another. All there is to do now is patiently follow through*, as the whirlpool beneath him begins to fade. Malachi gestures everyone through the portal, using a gust of wind to push those hesitant to go willingly, waving goodbye as each character crosses over. Your surroundings are pitch black for a moment, then for another, then slowly you see the light inch back in. You hold out your hands and see them engulfed in a shroud of light, making its way up your arms, eventually moving out of sight as it caresses your face. By now, the sheer luminance of your self and your companions makes it physically impossible to keep your eyes open any longer, as the soft warmth of the light soaks into your core. That feeling of uncertainty quietly dwells inside of you, yet you pay it no mind.  Once the warmth fades, you feel the beckoning to open your eyes, carrying forward that light you became. 
 
 # Content
 ___
@@ -78,11 +98,11 @@ ___
 # Setting
 ___
 ## Key Locations
-- Aequorist Church
-- Tavern
+- [[Sanctuary of Aequorin]]
+- [[Loud House Tavern]]
 - Candlemaker stall
 ## Hiding Spots
-
+Apart from interacting with specific NPCs, players are not required to talk with anyone else during the course of this mission. In keeping with this, the absolute minimum a player must do is place their hand on the Trial of Resolute Soul statue.
 
 ## Motivators
 - Sun close to setting

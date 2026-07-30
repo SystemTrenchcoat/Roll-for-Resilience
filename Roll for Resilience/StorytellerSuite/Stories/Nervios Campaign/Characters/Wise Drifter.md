@@ -14,7 +14,7 @@ age: Unknown
 height: 5'9"
 status: Alive
 ---
-## Description
+### Description
 Someone deliberately left a stranger to the party, coming across as a spirit due to lacking both footsteps and pulse of life. The Drifter uses Mage Hand in place of its own hands to interact with the world around it. 
 
 ### Motivations
@@ -26,4 +26,11 @@ The Wise Drifter withholds its true name, Votiel, from everyone who encounters i
 ### Physical Appearance
 Draped in the mystery of a copper cloak, the entirety of the Drifter is obscured from sight apart from the light blue of the spiral glasses worn beneath its rounded hood. Both the legs and hands of this creature are nowhere to be seen, further lending to its eerie and spiritual presence as it floats above the ground. Each Mage Hand Votiel conjures is bathed in a sky blue glow, boasting five sharpened claw fingers, a compromise between dexterity and defensive capability.
 
-## Backstory
+### Vocal Performance
+Votiel speaks in a light, almost breathy manner, with most sounds coming from the front when possible. His tone of voice can be found somewhere between the middle and high end of your speaking range, wherever you can reasonably sustain words longer. Tying together the voice, Votiel in particular loves to draw out the "eh" vowel sound whenever he can, regardless of its placement at the end or start of a sentence
+
+### Sample Dialog
+- *Forgive the intrusion, but I, the Wise Drifter, have an offer to make you all.*
+- *You keep staring at my glasses. There's genuinely nothing under them, would you rather stare at that?*
+- *Excellent, the ingredients I require are rather simple. I'd collect them myself, were my appearance not so unnerving.*
+- *Fare thee well, may we tread the same waves another sunrise*

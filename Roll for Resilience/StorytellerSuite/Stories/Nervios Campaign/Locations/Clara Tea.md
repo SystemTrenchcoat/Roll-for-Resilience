@@ -21,7 +21,7 @@ A small navy blue tent full of various bags of materials and marine goods. In th
 Any festival goers who enter her tent are challenged to solve her puzzle, the [[Color Cipher]]
 
 ## History
-[[Clara Porter]] opens this tent annually for [[StorytellerSuite/Stories/Nervios Campaign/Scenes/The Festival of Granite Rain|The Festival of Granite Rain]] to make extra scler from various materials she earns from working at the docks. For the last three years, Clara has been put in charge of a festival game. This year is no different.
+[[Clara Porter]] opens this tent annually for [[The Festival of Granite Rain|The Festival of Granite Rain]] to make extra scler from various materials she earns from working at the docks. For the last three years, Clara has been put in charge of a festival game. This year is no different.
 
 ### Goods
 The tent has various goods and materials lying around the tent

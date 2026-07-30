@@ -30,3 +30,7 @@ Sheik comes from a complicated family. He and his two brothers were raised by hi
 
 ### Physical Appearance
 A short and plump man who appears 20 years older than he is. He walks with a limp and brandishes a crooked smile.
+
+
+# Mask
+His mask is half comedy mask, half tragedy.
