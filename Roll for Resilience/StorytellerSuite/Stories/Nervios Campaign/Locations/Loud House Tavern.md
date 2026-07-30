@@ -7,5 +7,5 @@ Furnished by rows of olive-wood tables, matched by 4 to 5 stools, the primarily 
 Unbeknownst to the general public, tucked away behind the bar is a secret entrance to the [[Nervios Tunnels|Tunnel Network]] beneath [[Nervios]]. Ruby and her staff are entrusted with this secret by the [[Rebels|Rebellion]] 
 
 ## History
-Long before the walls rose, and [[The Nervios Eye|The Eye]] with them, Loud House and The Fluffy Queen used to be one complete establishment. However, when the dwarf who ran the tavern passed away, he entrusted the Marsh family with his business. [[Kymil Rokian|Kymil]], riddled with grief, couldn't understand his departed business partner's decision. Why would one of his greatest friends willingly let humans inherit his century and a half hard work? He never bothered to ask the Marsh family if they had the answer. 
+Long before the walls rose, and [[The Nervios Eye|The Eye]] with them, Loud House and The Fluffy Queen used to be one complete establishment. However, when Signoir, the dwarf who ran the tavern, passed away, he entrusted the Marsh family with his business. [[Kymil Rokian|Kymil]], riddled with grief, couldn't understand his departed business partner's decision. Why would one of his greatest friends willingly let humans inherit his century and a half hard work? He never bothered to ask the Marsh family if they had the answer. 
 
