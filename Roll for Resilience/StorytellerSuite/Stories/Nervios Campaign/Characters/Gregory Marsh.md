@@ -35,3 +35,6 @@ Husband to Ruby Marsh and father of two, Gregory works as a blacksmith in the po
 
 ### Physical Description
 Gregory stands at an average height and average build, but his body shows the signs of a man dedicated to his craft. His hands are tough and seasoned and his eyes shimmer while he works.
+
+# Mask
+His mask is a simple mask of a closed mouth man, but with the strange luster of iron. The face of the mask is not his face.

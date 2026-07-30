@@ -29,3 +29,7 @@ Tassos grew up an underdog and the runt of his house. As he matured, he became a
 
 ### Physical Appearance
 Despite his youthful appearance, Tassos' presence commands respect and honor. His emerald green eyes appear wise and knowing and his shimmering white smile brings comfort to those nearby. His golden hair is of medium length and is parted down the middle. He has a full and maintained beard with a scar traveling from his left cheekbone down to the center of his chin.
+
+
+# Mask 
+His Mask is that of a lion.

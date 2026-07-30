@@ -32,3 +32,6 @@ A nearly middle-aged dwarf who enjoys providing healthy meals for his community.
 
 ## Backstory
 Gunther has lived in the city of Nervios his entire life. He has a wife and one daughter. He opened Fine Pebbles so he could provide a healthy dining spot for local dwarves.
+
+# Mask
+His mask is that of a golem.
