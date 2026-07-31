@@ -27,7 +27,7 @@ Aequorin is merely a title name passed down, the current "Aequorin" is named Mal
 From above the torso, Aequorin manifests a form similar to a muscular humanoid with a vibrant blue skin tone that pulsates with energy. Much like the ascended souls who follow his teaching, Aequorin's avatar boasts a whirlpool suspended where legs would normally be.
 
 ### Vocal Performance
-Despite consistently being exhausted, Aequorin puts on a very resonant voice since the majority of the time he must speak down from the skies above.  However, with the party face to face with him now, his volume does soften significantly. His pacing of words is deliberate, and his pronunciation is clear, refusing to speed up past the typical delivery speed of your average sermon. 
+Despite consistently being exhausted, Aequorin projects his lower tones with resonance since the majority of the time he must speak down from above.  However, with the party face to face with him now, his volume does soften significantly. His pacing of words is deliberate, and his pronunciation is clear, refusing to speed up past the typical delivery speed of your average sermon. 
 
 ### Sample Dialog
 - *I know what brings you here, child. But, why not tell me yourself.*
