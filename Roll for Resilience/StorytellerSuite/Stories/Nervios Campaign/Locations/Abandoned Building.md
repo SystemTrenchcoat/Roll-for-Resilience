@@ -1,0 +1,7 @@
+## Description
+Eerily trapped in the stasis of decay on the western end of [[Nervios]], the Abandoned Building has laid uninhabited for generations, as none dare to take up residence here again. Decades worth of dirt cake each window upon its facade, blackened to the point most confuse them for painted, until they notice the ones shattered. Its interior layout has largely remained untouched by disrepair, the stone main room still sits atop the creaky stairs of the entrance, with halls leading to the bed chambers, and combination kitchen-workshop.
+
+## History
+A story circulates that the Abandoned Building was the site of a break-in lead by humans which turned for the worse. As the story goes, several residents knew they could not best the intruders, opting to curse themselves and charge the intruders to induce nightmares in everyone they could. What truth could be gleaned was those involved refused to speak of that night, lest they be reminded of the torments gnawing at them beneath their eyelids.
+
+What has been less etched into its history was that this abandoned building was once a townhouse for around 8 non-humans, such as elves, dwarves, and even a goliath at one point. Though living in close proximity meant they bickered frequently, everyone understood each other. Only one of them wasn't at home that night, and when they returned they were devastated.
