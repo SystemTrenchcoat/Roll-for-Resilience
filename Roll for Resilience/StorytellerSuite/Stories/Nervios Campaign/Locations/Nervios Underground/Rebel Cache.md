@@ -1,0 +1,5 @@
+## Description
+Proudly hanging from the walls inside this trove are several iterations of the [[Rebels|Rebellion]] flag and their iconography. Specific to the creator of this cache, benches dedicated to tinkering, alchemy, and miscellaneous arcane crafts sit coated with dust from years without use. Cementing the scenery typical of a cache, a foot high pile of coins glimmers in the corner, blended into a mixture of currencies that nobody currently living in [[Nervios]] could list off all the names for.
+
+## History
+On a particularly sleepless night, a girl in her early 20s groggily sets herself to work again. She desperately has been trudging through repurposing the plans for a war machine in order to create a robot of joyful peace. That night, her hard labor finally bore fruit. As it sat upon the tinkerer's bench, whirring to life, she dubbed her creation [[Donic]]. Sardonic comedy kept her spirits high and head on straight, so to her sleep-craving mind it was only fair.

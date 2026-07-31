@@ -1,7 +1,7 @@
 ---
 entityType: scene
 name: A Dose of Clarity
-status: WIP
+status: Draft
 chapterId: "[[End]]"
 synopsis: Players gather materials for a ritual and leave Nervios through another plane of existence.
 linkedCharacters:
