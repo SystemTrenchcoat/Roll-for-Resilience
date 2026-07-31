@@ -10,6 +10,7 @@ linkedGroups:
   - "[[Commonfolk]]"
 linkedCharacters:
   - "[[Spandam Collins]]"
+  - "[[Leonard Traco]]"
 ---
 
 # Hook
@@ -20,7 +21,7 @@ ___
 ### 1. Discovery
 ___
 The party is given the notebook.
-	A torn notebook washes up in the port. It was picked up by Leonard Traco on his morning walk. A rumor started spreading throughout the city that someone has picked up an ancient text, and nobody has been able to understand what it is describing. One day, when one of the party members was on a stroll/shopping, Leonard calls them over and shows them the torn notebook.
+	A torn notebook washes up in the port. It was picked up by [[Leonard Traco]] on his morning walk. A rumor started spreading throughout the city that someone has picked up an ancient text, and nobody has been able to understand what it is describing. One day, when one of the party members was on a stroll/shopping, Leonard calls them over and shows them the torn notebook.
 
 ### 2. The search for the notebook
 ___
@@ -33,7 +34,7 @@ There are more priests walking around the city than normal. A note is slid under
 Guards who are patrolling the city now randomly select citizens and question them about the rumor. A guard captain/normal guard stops them and asks the players about the book. Charisma check to determine whether they can fool the guard.
 
 ### 3. Decipher the notebook
-The book containns hidden puzzles which the players can solve to find the history of Nervios. Here is a list of options:
+The book contains hidden puzzles which the players can solve to find the history of Nervios. Here is a list of options:
 - An image or symbol appears on a page when the page is dipped in salt water. 
 - Pages might be written in some unknown language
 - There may be hidden spells inside pictures
@@ -66,9 +67,9 @@ Players need to pass multiple semi difficult deception checks to make the guards
 
 ## Key Items
 
-| Item Name          | Description                                                                                                                                                                                                                                     |
-| ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Forbidden Notebook | A hardcover notebook whichhas clearly been floating in the ocean for a long time, the edges of the pages turned black from the time it has spent floating in the ocean at one point, with a barnacle on the top right corner of the hard cover. |
+| Item Name              | Description                                                                                                                                                                                                                                     |
+| ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [(Forbidden Notebook)] | A hardcover notebook whichhas clearly been floating in the ocean for a long time, the edges of the pages turned black from the time it has spent floating in the ocean at one point, with a barnacle on the top right corner of the hard cover. |
 
 
 # Setting
