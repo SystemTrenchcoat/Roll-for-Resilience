@@ -26,5 +26,5 @@ A fisherman and secret black market exporter who works hard to provide for him a
 ## Backstory
 Abraham and his wife Callie have spent their lives married and working as a fisherman-fish merchant duo. While he spent the majority of his life working within the bounds of the law, he has recently turned to the black market in hopes of earning enough money to retire with his wife.
 
-## # Physical Description
+## Physical Description
 Abe is a stockier man who's face is weathered and wrinkled from a lifetime of hard work at sea. He has a thick gray mustache and sports a fisherman's cap to hide his deeply receding hairline.
