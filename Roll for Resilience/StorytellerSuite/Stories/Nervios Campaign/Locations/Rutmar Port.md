@@ -22,14 +22,10 @@ childLocationIds:
   - "[[Sisyphus Hill]]"
   - "[[Central Stage]]"
 ---
+# Description
+___
+The large and central port of [[Nervios]] located on the Southern edge of [[Nervios#Aequorin's Bay|Aequorin's Bay]]. Blocks of market stalls of various sizes and colored-cloth roofs sit near the port and docks. Dozens of guards patrol the port at all hours of the day: they ensure all commerce is within the strict confines of the law. 
 
-## Description
-- Main large port in the city, located on the east
-    
-- Rests in a gulf that occurs within the larger continental mass
-    
-- Merchant ships and other commercial vessels dock here
-    
-- Large amount of guards and strict surveillance to keep track on money dealings
-
-## History
+# History
+___
+Rutmar Port became the economic hub of [[Nervios]] after [[The Day of Granite Rain]] when 

@@ -45,11 +45,18 @@ status: Active
 groups:
   - "[[Smugglers]]"
 ---
-
-## Description
+# Description
+___
 A Kingdom set on a peninsula, with a large wall separating the city from the rest of the land, and water surrounding the other sides. A large watching eye looms over the city as a form of surveillance and protection, for both outside and inside.
 
+## Aequorin's Bay
+A large bay in the Northern face of the Nervios Peninsula. Jutting from the center of the briny waters, [[The Nervios Eye|The Eye of Nervios]] towers over the surrounding city and passing ships.
+
+## [[Rutmar Port]]
+The main port of Nervios located on the Southern edge of [[#Aequorin's Bay]]. The economic hub of Nervios.
+
 ## History
+___
 After a period of turmoil, a group of elite wizards/militants rise to power and enforce the spire in the middle of town to help maintain fear and control.
 
 ![[city_of_Nervios_map.png]]
