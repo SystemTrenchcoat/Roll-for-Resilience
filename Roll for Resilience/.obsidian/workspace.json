@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StorytellerSuite/Stories/Nervios Campaign/Missions/Peaking in the Burrow.md",
+                "file": "StorytellerSuite/Stories/Nervios Campaign/Characters/The Mask Seller.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Peaking in the Burrow"
+              "title": "The Mask Seller"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -184,8 +186,8 @@
   },
   "active": "b71909fbd0da508c",
   "lastOpenFiles": [
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/Gunther Stone.md",
     "StorytellerSuite/Stories/Nervios Campaign/Missions/Peaking in the Burrow.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Characters/Gunther Stone.md",
     "StorytellerSuite/Stories/Nervios Campaign/Characters/Gweneth Falzy.md",
     "StorytellerSuite/Stories/Nervios Campaign/Characters/Gregory Marsh.md",
     "StorytellerSuite/Stories/Nervios Campaign/Characters/Tassos Buros.md",

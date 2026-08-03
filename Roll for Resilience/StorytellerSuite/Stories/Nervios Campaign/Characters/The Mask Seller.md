@@ -32,3 +32,6 @@ Not much is known about the mask seller, they've been a long standing member for
 
 >[!faq]- Secret
 >Though the players may be warry of the Mask Seller, they are a genuine nice person that just likes to play the role of a cryptic elder. Whether or not they are an elder is up for debate.
+
+# Mask
+The Mask Seller's mask is that of a veil of beads that always hides their face.
