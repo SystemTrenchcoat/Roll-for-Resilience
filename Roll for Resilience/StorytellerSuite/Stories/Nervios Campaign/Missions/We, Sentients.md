@@ -22,16 +22,24 @@ ___
 Once filled with the cheers of merriment, the stone brick walls of the Loud House sit in quiet candlelight, with [[Ruby Marsh]], buried in preparations, to keeping the furniture company. Each step, light or heavy, emphasizes how strangely barren it currently is. The party catches Ruby's eye for a second, giving them a quick once over with a knowing nod before she returns to her work. However as everyone finally reaches the stairs, the voice of Donic beckons behind them, startling everyone for a moment. Chuckling to himself, he explains that he's the Loud House's entertainer, and he was lost in daydreams reminiscing the past, but the party brought him back to reality. Between a few witty remarks, Donic mentions he wants the party to help him find a [[Rebel Cache|cache]] of goodies his creator left behind. If they're interested, they're to meet him out by his creator's old home in the southwest of the city, past the [[Abandoned Building]].
 
 ## 2. Unlocking the entrance
-Once they’re all back together outside the previous home of its creator, Donic detaches his hand and unlocks a secret passageway down into the tunnels. Gesturing everyone else to take the lead as he reattaches his hand, Donic tags along, since the party is gonna need him again.
+Beneath the clarity of midday skies, the party spots Donic leaned against the cobblestone walls of an unassuming home. As their feet clamor against the roads, Donic spins his head and catches the party's trace, gesturing with a carefree wave that could pierce the heavens. With everyone back togther, Donic detaches his hand, pushing it against the wall and feeling grooves in the texture. A few moments pass, and he finds a secret panel etched to fit his fingers which unlocks a passageway down into the tunnels. Gesturing everyone else to take the lead, Donic says he isn't missing this chance to go back, reattaching his hand as he tags along at the rear of the party. 
 
 ## 3. Tunnels Journey
-Everyone makes their way down the tunnels, encountering a small creature or two coming in from another side. Donic makes conversation with the party on the journey, whether it’s picking one person in particular or everyone.
+An all too familiar aroma of stagnant air accompanies the dim lighting journeying down the tunnel. Pitter-patters of critters scurrying away through puddles are mostly muffled by the soil. Clearing his metaphorical throat, Donic starts making idle chatter, singling a few of the party members out as he recounts what he's heard everyone go through. Because of his position at the Loud House, he's afforded the luxury of hearing the city's commotion through word of mouth, and people couldn't shut up about the "spectacle" of this year's [[The Festival of Granite Rain|Festival of Granite Rain]]. 
+
+Donic knows they're innocent, but holds no physical proof, so if he's called on for [[The Trial]] he won't be much help other than vouching for integrity since he refuses to identify the one responsible. In the meantime, Donic knows your characters have rumors about themselves and others, so he's willing to trade the truth about yours for what he's heard around. Use this opportunity to nudge players towards other Hooks, letting them feel a sense of agency.
+
+Examples:
+- "Regular comes in, ain't much for superstition, saying he remembers a ghost in his face and needed a pint to fix that"
+- "Overheard Callie's husband talkin with Ruby, asking if he could hang a contract from her walls. She told Abe no, but knew she'd find people willing since it's him."
 
 ## 4. At the cache
-Finally reaching the creator’s cache, the party is greeted by the [[Rotating Hand Puzzle]], a locking system embedded into the walls with 4 covers and a central ring.  Donic remembers the riddle his creator told him as a clue, speaking it aloud as he passes along his detached hand and a written note version to the nearest character.
+Weaving their way around the last corner, a metal gate blocks the end of the corridor, illuminated by the powerful crackle of a single torch. Running hands and eyes alike across the tunnel walls, the party spots the [[Rotating Hand Puzzle]], an embedded locking system with 4 covers and a central ring. As Donic pats his hand against the stone, he asks someone to stand near the locks. Naturally, one of you obliges, and Donic remembers the riddle his creator told him as a clue, speaking it aloud. Taking his hand and removing it once more, he produces a written note version of the clue, passing it along to the nearest character.
 
 ## 5. Puzzle Solved
 With 4 clicks the cache opens up, so the party returns Donic’s hand and steps inside. Plastered across the walls are forms of rebellion iconography, even older prototype variations nobody has seen. Neatly rolled into tubes and stacked on a shelf are dozens of failed schematics, accompanying the dust-ridden tinkering workbench, arcane table and alchemical equipment. Though Donic cannot fully see any of these, he tenderly taps and slides his hand across them, remarking that he remembers sitting upon them when he burst to life. In the corner, a foot high pile of coins glimmers, catching the party's eye. 
+
+If anyone asks about the rebellion or Donic's connection to them, he'll go on about his creator. Greatest damned "rebel" there ever was, a girl who wanted peace for the world she loved and had brains the guard could only dream of. He says he's not officially with them, but seeing as how Ruby trusts him enough to know about their tunnel he imagines they flash a smile or two at him.
 
 
 # Content
@@ -40,6 +48,7 @@ ___
 - Donic
 
 ## Mechanics
+- Rumor trading
 - [[Rotating Hand Puzzle]]
 ## Key Items
 
