@@ -29,6 +29,8 @@ On the Western face at the base of the tower, two parallel ropes extend from eit
 - Velvet red rug with gold trim
 - High ceiling
 - Spiral Staircase curve along the walls
+	- Thin metal guardrail
+	- Red carpet drapes over the center of the staircase
 - Paintings hang on walls along stairs
 	- Show history of Nervios as you climb higher
 - Secret hatch under red rug
