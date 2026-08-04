@@ -8,34 +8,84 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b71909fbd0da508c",
+            "id": "a387fed65d929437",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StorytellerSuite/Stories/Nervios Campaign/Missions/Peaking in the Burrow.md",
+                "file": "StorytellerSuite/Stories/Nervios Campaign/Missions/We, Sentients.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Peaking in the Burrow"
+              "title": "We, Sentients"
             }
           },
           {
-            "id": "c847ede770d60df8",
+            "id": "ab42121bdcfce0ed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StorytellerSuite/Stories/Nervios Campaign/Characters/The Mask Seller.md",
+                "file": "StorytellerSuite/Stories/Nervios Campaign/Missions/Dead Don't Swim.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Mask Seller"
+              "title": "Dead Don't Swim"
             }
           }
-        ]
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "32657b36cb91719f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a2c3cb215eb76037",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "StorytellerSuite/Stories/Nervios Campaign/Characters/Lili Heartkeep.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lili Heartkeep"
+            }
+          },
+          {
+            "id": "04c964aa945e0f2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unique Mechanics/Dead dont Swim/Crypt puzzle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Crypt puzzle"
+            }
+          },
+          {
+            "id": "8a8a4eb0f47b4398",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Unique Mechanics/We Sentients/Rotating Hand Puzzle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rotating Hand Puzzle"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,10 +248,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "b71909fbd0da508c",
+  "active": "04c964aa945e0f2d",
   "lastOpenFiles": [
-    "StorytellerSuite/Stories/Nervios Campaign/Characters/The Mask Seller.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Missions/Dead Don't Swim.md",
+    "Unique Mechanics/Dead dont Swim/Crypt puzzle.md",
+    "Unique Mechanics/We Sentients/Rotating Hand Puzzle.md",
+    "Unique Mechanics/Dead dont Swim/Divergent rooms puzzle.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Characters/Nysaphia.md",
+    "Unique Mechanics/Dead dont Swim",
+    "StorytellerSuite/Stories/Nervios Campaign/Characters/Lili Heartkeep.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Missions/We, Sentients.md",
+    "Nervios/Rolling for Resilience.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Locations/The Crystal Expanse.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Locations/Abandoned Building.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Locations/The Fluffy Queen Inn.md",
     "StorytellerSuite/Stories/Nervios Campaign/Missions/Peaking in the Burrow.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Characters/The Mask Seller.md",
     "StorytellerSuite/Stories/Nervios Campaign/Characters/Gunther Stone.md",
     "StorytellerSuite/Stories/Nervios Campaign/Characters/Gweneth Falzy.md",
     "StorytellerSuite/Stories/Nervios Campaign/Characters/Gregory Marsh.md",
@@ -211,22 +273,11 @@
     "StorytellerSuite/Stories/Nervios Campaign/Characters/Ms. Gotsome.md",
     "StorytellerSuite/Stories/Nervios Campaign/Characters/Bethia Tallowwind.md",
     "StorytellerSuite/Stories/Nervios Campaign/Missions/Mission Template.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Locations/The Crystal Expanse.md",
     "StorytellerSuite/Stories/Nervios Campaign/Locations/Sanctuary of Aequorin.md",
     "StorytellerSuite/Stories/Nervios Campaign/Locations/Loud House Tavern.md",
     "StorytellerSuite/Stories/Nervios Campaign/Groups/Church of Aequorism.md",
     "StorytellerSuite/Stories/Nervios Campaign/Characters/Aequorin.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Missions/The Trial.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Missions/The Festival of Granite Rain.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Missions/The Collapse of Central Stage.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Missions/Escape Ritual - A Dose of Clarity.md",
     "StorytellerSuite/Stories/Nervios Campaign/Missions",
-    "StorytellerSuite/Stories/Nervios Campaign/Groups/Guards.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Locations/Fine Pebbles.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Locations/Ivory Bazaar.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Locations/Merrene Manor.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Locations/Rutmar Port.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Locations/Nervios.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "Session Notes",
@@ -242,7 +293,6 @@
     "StorytellerSuite/Stories/Nervios Campaign/Economies",
     "StorytellerSuite/Stories/Nervios Campaign/Cultures",
     "StorytellerSuite/Templates/Notes/CampaignSessions",
-    "StorytellerSuite/Templates/Notes/Books",
     "Images/Festival of Granite Rain/trident_sliding_puzzle_1.jpg",
     "Images/Festival of Granite Rain/trident_sliding_puzzle_8.jpg",
     "Images/Festival of Granite Rain/wheelOfTruth.png",
