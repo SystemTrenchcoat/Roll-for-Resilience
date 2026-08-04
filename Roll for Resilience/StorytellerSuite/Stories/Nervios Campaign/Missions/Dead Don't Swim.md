@@ -12,23 +12,32 @@ linkedLocations:
 ---
 Hook
 ___
-An engaging introduction/description of the session.
+*Beneath the streets of [[Nervios]], a necromancer tampers with the dead in the Crypt sectors inundated by the [[Sunderwin]]'s waters. Characters learn of this through a rumor from [[Donic]], talking around with [[Church of Aequorism|Aequorist]] priests, or by random chance.*
 # Story Beats
 ___
 ## 1. Spirit Visit
+Tears streaking down her face, a ghost hysterically floats without any aim of where she's going. Between shielding her eyes to clean away fresh tears, wipes her other hand across the front of her pink tunic. She dejectedly introduces herself, [[Lili Heartkeep]], once she realizes you haven't ran away. She tells the party of a necromancer beneath the city, belonging to the seafolk. Sniffling back to composure, she wants herself freed, afraid she'll miss her chance to be reincarnated.
 
 ## 2. Down we go
+Journeying towards the [[Sanctuary of Aequorin]], together everyone finds the [[Crypts]] entrance, searching for any trail left by the necromancer. If someone has a passive investigation higher than 13, or a tracking equivalent, have them latch onto the lead. Following this trail pulls into a corner tucked away from everyone else, complete with a torch illuminating the embedded skull sigil beside it. Examining the skull closer, it appears to have a pair of notched hexagonal eyes separate from the eye sockets. This is the Crypt puzzle, detailed in the mechanics section. Once the puzzle has been solved, the wall towards the puzzle's right opens, revealing the continued trail via passageway.
+
 
 ## 3. A dry detour
+Chatting with Lili as she follows along, she lets the party know she wasn't the only one reanimated, apologizing for calling on everyone for her sake instead of theirs. As they feared, the party discovers that the necromancer accessed this part of the crypts through a submerged tunnel, which they cannot. In hopes it eventually reconnects, they redirect themselves through a gate off to the side. 
 
 ## 4. Divergent rooms
+Once again with their way forward blocked, their hope remains as they notice a turning wheel at the center of the otherwise empty room. As a few volunteer to spin the wheel, expecting the gate forward to open, they instead hear the clamoring of steel gates rising behind them. When inevitably the wheel is stopped, the gates slam shut, and everyone gathers to formulate a plan. The party splits into smaller groups to solve the larger [[Divergent rooms puzzle]].
+
+As both adjacent rooms switches are activated, the wide metal gate once blocking their path grinds upwards, screeching with each inch it rises until it fully disappears. 
 
 ## 5. Wandering corpse
+One of the corpses that Nysaphia reanimated has wandered away from her workshop, peacefully shambling through the passage and into the party’s way. Treat this creature as a Zombie, or system appropriate low challenge undead
 
 ## 6. At the workshop
+Arriving at the necromancer’s workshop, the party is greeted by the sea-dweller experimenting with her most recent work. Cautiously casual, Nysaphia introduces herself and the two sides hold a chat amongst themselves in the hopes of reaching an understanding. She will have a small number (1d4) of reanimated corpses by her side.
 
 ## 7. Return to rest
-
+With Nysaphia dealt with, Mrs. Heartkeep peacefully returns to the afterlife, awaiting to be reborn anew. If Nysaphia dies, have her body rapidly decompose and any reanimations remaining fall. If Nysaphia is alive, she will turn back to her notes, mumbling aloud to herself about “remarkable preservation” and “severing the tether”
 
 
 # Content
@@ -41,6 +50,8 @@ ___
 ## Mechanics
 - [[Crypt puzzle]]
 - [[Divergent rooms puzzle]]
+- Zombie/Undead encounter
+- Nysaphia encounter
 ## Key Items
 
 | Item Name | Description |
@@ -51,5 +62,7 @@ ___
 # Setting
 ___
 ## Key Locations
+- [[Crypts]]
+- [[Flooded sector]]
 ## Hiding Spots
 ## Motivators

@@ -1,0 +1,10 @@
+Sealing the passageway in the [[Crypts]] down into the [[Flooded sector]] is a simple rotational puzzle resembling a skull with two notched hexagonal eyes. Inside the left eye specifically is a series of three numerals on every other notch: II, IIII, VI. Independent rotations can only be achieved by the right eye, as rotating the left eye also rotates the right by two notches in the same direction. 
+
+
+> [!faq] Clues
+> - (Easy passive investigation) Immediate signs of wear leave one part of the answer rather clear, with one notch scratched further down towards the center of the right eye. 
+> - Etched on a nearby stone: “Left to the furthest seen, not a single more”
+
+
+>[!success] Solution
+Align the scratch on the right with the top of the skull, and with six on top of the left.
