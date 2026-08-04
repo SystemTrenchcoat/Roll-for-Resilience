@@ -1,3 +1,7 @@
+
+> [!warning] ## Prerequisites
+> ### Setup
+>**Before** the session, the GM should confer with each member of the party in private. The GM should have them come up with major insecurities and negative beliefs their character may have, as well as a safe-space their character feels most relaxed and comfortable in. The GM should then prepare a unique caricature for each player that serves as an "alter-ego" of themselves, reflecting all their unhelpful or distorted thinking patterns. This can be done with the information the player provides, as well as specific information gathered throughout the entire campaign. Track these for later use during [[#4. Leaps of Faith - W.I.P|Leap of Faith]].
 # Hook
 ___
 ***Late in the dark of night the party is summoned to [[The Nervios Eye|The Spire]] through a mysterious light that beckons from the Eye of Nervios: an intricate gold and silver wire-structure of a human eye that sits at the top of the Great Spire.***
@@ -10,6 +14,7 @@ Late one night while Nervios sleeps, your party wanders the streets awake and ai
 
 >[!info] Religion Check
 >A passive religion check can reveal the sense of comfort and familiarity is of a Divine Origin. A major success reveals the origin as [[Aequorin]], who welcomes the party into The Spire.
+
 # 2. Finding a way in
 ___
 *The party must find a way into The Spire through either the main entrance, or a secret hatch. The main entrance is accessible via a rope-bridge that is sparsely guarded. The hatch is accessible via a hidden underground tunnel known by [[Rebels|The Rebels]].* 
@@ -49,7 +54,7 @@ The ladder creaks and wobbles unnervingly as you climb down into the darkness, t
 
 # 3. Stairway to Heaven
 ___
-*The party enters the first floor of [[The Spire]] and is greeted with a massive spiral staircase that stretches far above their heads. Distinct paintings portraying the history of Nervios run along the walls above the steps, sorted chronologically* 
+*The party enters the first floor of [[The Nervios Eye|The Spire]] and is greeted with a massive spiral staircase that stretches far above their heads. Distinct paintings portraying the history of Nervios run along the walls above the steps, sorted chronologically* 
 
 ## Scene Description
 Entering the ground floor of the Spire, an endless stream of dark wooden steps begin at your feet and curve around the inner walls, stretching to a distant ceiling. Hundreds of paintings of various scales and aspect ratios hang along the stairway against the white limestone walls, each lined with a ornate gold frame. As you climb higher, the artworks seem to depict the visual history of a city. Your city. Below the paintings, a deep red carpet drapes over the center of the steps, flowing like a current of blood and meeting a massive red rug in the center of the floor. A thin metal guardrail lines the edge of the stairwell, flimsily separating climbers from a lethal drop. At the very top of the staircase, a small amount of light seeps through various cracks and seams in a hatch door. 
@@ -79,15 +84,36 @@ As the party climbs, they can recognize the paintings depict the history of [[Ne
 
 # 4. Leaps of Faith - W.I.P
 ___
-The staircase comes to an end at a large open floor. In the center of the floor, a familiar magical rune made of illusionary and transportation magic. As the last player enters, a stone door shuts and locks over the staircase. A tremble shoots up your spine as the rune begins resonating a deep whirling hum. Lightning strikes frantically around the room and your hairs stick on end as the walls and surroundings begin to morph and change to a new scene. The last lighting strike settles with a bang as your environment settles into its new form. From the center rune, a ball of light rises from the floor and begins to twist and shape itself into a creature that petrifies you to the core. After facing the creature/fear, the rune in the floor glows brightly as you are transported to the next floor where you face an identical scene. Each member of the party must face a fear to reach the top of the spire.
-Ideas for the environment/creature
-- The environment and creature depend on what a person’s specific fear is and the GM’s discretion. If a player is scared of public speaking, the room could change into a large stage in front of a judgmental audience. If a player is scared of the dark, the room could become dark and the creature could be a scary monster. To “beat” the room, the player must face their fears in some way. For example, giving a speech in front of the audience or standing up to the monster, since the dark itself can’t hurt you.
-- The environment becomes a safe place for the character, but the creature becomes a dark reflection of themselves. This reflection would be a caricature of all their negative beliefs and insecurities. The character would have to help walk the caricature through their issues to move to the next floor
+*The party reaches a large empty room with a massive magical rune in the center. The entrance hatch slams shut and the rune begins to activate. Suddenly the room is transformed and one player must face an alter ego of themselves. The players are transported through as many rooms as their are players, and each room has an dark-mirror of one of the characters.*
+## Alter-Ego & Shifting Scene
+**Before** the session, the GM should confer with each member of the party in private. The GM should have them come up with major insecurities and negative beliefs their character may have, as well as a safe-space their character feels most relaxed and comfortable in. The GM should then prepare a unique caricature for each player that serves as an "alter-ego" of themselves, reflecting all their unhelpful or distorted thinking patterns. This can be done with the information the player provides, as well as specific information gathered throughout the entire campaign.
+
+When reaching a new floor, the GM should pick one of the alter-egos for the player to encounter. A magic rune in the center of the room expels a jumbled shape of balls of light, which morph into the alter-ego. At the same time, the walls around the room begin to shape and morph into their safe space, as large or small as it may be. 
+
+The alter-egos are holographic and created via illusionary magic, therefore they cannot be physically interacted with or harmed. Combat is not a solution here. Instead, the players should verbally
+
+The alter-ego speaks as though they are the player. Examples include:
+- "Come on, we both know you are to timid to be climbing this Spire"
+## Scene Description
+The winding staircase comes to an abrupt end as you push open the ceiling hatch and enter a wide empty room. The walls are smooth and cool to the touch; their white limestone walls contrasts the rich orange wood flooring. In the center of the room, the familiar etchings of a large magic rune is inscribed on the floor.
+
+After the last of your party enters, the hatch slams closed and a thick stone slab extend from the wall, sealing the staircase entirely. A tremble shoots up your spine as a magic rune in the center of the room begins resonating a deep whirling hum. Lighting strikes frantically around the room and your hair sticks on end as the walls and surroundings begin to morph and change into a new, yet eerily recognizable scene. The last lighting strike settles with a bang as your environment settles into its new form: your safe space. After settling, a jumbled shape made of several balls of light rises from the center of the rune and begins to twist and shape itself into a creature that petrifies you to the core: 
+
+After facing the creature/fear, the rune in the floor glows brightly as your are transported to the next floor where you face an identical scene of an empty room with a central rune. Each member of your party must face a version of themselves to reach the top of the spire.
+
+>[!info] Arcane Check
+> A moderate-arcane check can reveal information about the magical rune.
+> - A minor success reveals the rune is made of transportation and illusionary magic.
+> - A major/critical success reveals the rune is made only of strong illusionary magic. The transportation parts of the spell are an illusion themselves. 
+
 # 5. The Discovery - W.I.P
-Your party each faces a fear and reaches the second to last floor of the spire. In front of you, a large staircase leads up to a bolted door. Etched into the wood, it reads “STAY OUT, OR DIE” (probably something more poetic). Breaking down the door, the party reaches a small room  with a large central mirror atop a hefty turntable. The center of the mirror contains another magic rune, much smaller than the ones seen previously. It appears to magnify/enhance light. Above you, a large glass lens is obstructed by some kind of sliding dome door made of thick copper panels. Hanging from the ceiling and support beams, the familiar silver-gold Nervios Eye loops over the steep drop into the choppy waters of the port.
+%%Your party each faces a fear and reaches the second to last floor of the spire. In front of you, a large staircase leads up to a bolted door. Etched into the wood, it reads “STAY OUT, OR DIE” (probably something more poetic). Breaking down the door, the party reaches a small room  with a large central mirror atop a hefty turntable. The center of the mirror contains another magic rune, much smaller than the ones seen previously. It appears to magnify/enhance light. Above you, a large glass lens is obstructed by some kind of sliding dome door made of thick copper panels. Hanging from the ceiling and support beams, the familiar silver-gold Nervios Eye loops over the steep drop into the choppy waters of the port.
 
 A substantial hand hand-crank lever juts from the side beams supporting the lens-roof. Cranking the lever opens the sliding door slowly. As the panels move to the side and open the glass to the night sky, the moonlight converges to a tight beam through the lens. The beam projects downwards towards an angled mirror. A small magic rune painted on the surface of the reflective-glass burns bright blue as the light beam is enhanced and grows 10 times the size, being projected through the Nervios Eye and towards the town. 
 - Yep. It’s a lighthouse. The lens roof converges light into a mirror, which is then amplified with magic to create a large beam of light. The lens is covered by a segment-style observatory door that was used in the past to turn off the light in the day.
+
+The beam pours through the pupil towards the town as a uniform spotlight; the intricate wiring of the eye fails to cast a shadow amongst the powerful glow. The room around you brightens from the ambient light, revealing the eye itself is held in place through a series of small bolts that glisten against the tarnished metal backing of the support beams. Seeing the design of the eye in full light, you notice how the weaving gold-silver wire traces a familiar pattern of illusionary magic warped into the shape of an eye. The rune, made of precious metals and powered through the town’s anxiety, hangs loosely over the 500 foot plummet into the cold shifting waters of Rutmar Port. Dropping the eye into the water breaks an ancient spell, one of which casts an illusion over the 230-foot lighthouse to make it appear as a 500-foot gothic goliath. Climbing down the tower, you meet the room with the central rune, only this time there is a staircase leading straight down to the entrance of the tower. 
+- Maybe the party can chat with Aequorin in this ending as well. He could thank them for what they’ve done to restore his City.%%
 # Content
 ___
 ## Key NPCS
@@ -96,7 +122,6 @@ ___
 | Item Name | Description |
 | --------- | ----------- |
 |           |             |
-
 
 # Setting
 ___
