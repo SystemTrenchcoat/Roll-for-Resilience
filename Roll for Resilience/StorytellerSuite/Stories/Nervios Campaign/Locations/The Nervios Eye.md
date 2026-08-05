@@ -40,17 +40,23 @@ On the Western face at the base of the tower, two parallel ropes extend from eit
 	- When activated, the room transforms and a creature spawns
 - After floor is complete, the transportation spell activates and goes to the next identical room
 	- The transportation part is actually a part of the illusion. The party feels as though they tp to next room, but the room just resets
+
 ## Final Floor
-- Lighthouse Mechanics
-	- Glass lens dome-roof covered by a copper dome shutter-door. There is a small crack in one of the doors, allowing a small amount of moonlight to pass in during certain times of the year. 
-	- Lens concentrates the moonlight into a beam of white light that shoots downwards into an angled mirror
-	- An angled mirror sits atop a hefty turntable. A magic rune is painted into the center of the mirror. When the beam of light hits the mirror and rune, it is amplified and grows much larger in size.
-- Wire Eye
-	- Intricate structure made of gold and silver wire that creates an image of an eye. 
-	- Pupil is made of gold, the iris is an empty space, and the sclera is made of silver
-	- The eye hangs from the roof by bolts, suspended over the steep drop into the bay. 
-	- The ornate pattern and weaving of wire casts powerful illusionary magic. The magic makes the Spire appear significantly larger to those inside and out. It also drastically alters the physical appearance of the spire, replacing a bold white and black lighthouse with a brutalist-gothic tower made of dark blacks and greys.
-- 
+A circular metal platform at the top of the spire looking over the steep drop into the bay. Thick steel guardrails rim the edge of the platform and connect to large copper support beams. A dome glass lens looms over your head; the night sky obstructed by a copper shuttle-door that covers the lens in distinct sliding segments. The smell of fresh saltwater wafts from the bay as a gentle breeze caresses your hair.
+### Wire Eye
+The view of the city is obstructed by an intricate structure made of gold and silver that hang from the roof and support beams by a dozen metal bolts. The weaving web of wire creates the image of a human eye: its pupil formed by a rich gold, the sclera silver, and the iris left empty. The eye wraps around the entire top platform, concealing it completely to outsiders.
+
+> [!info] Passive Perception
+> Succeeding on a passive perception check can reveal a few pieces of information:
+> - The ornate pattern and weaving of wire seems to mimic the various magical runes encountered throughout the city.
+> - The eye is suspended over the steep drop into the bay and held up via a dozen metal bolts. If the bolts are removed, the eye will drop into the water below.
+
+> [!info] Arcana Check
+> A normal-difficulty arcane check can reveal the spell casts powerful illusion magic which makes the spire appear significantly larger to those inside and out. The spell also drastically alters the physical outward appearance of the spire, replacing a bold white and black lighthouse with a brutalist-gothic tower made of dark blacks and greys.
+### Lighthouse Components
+The roof of the tower is made of a dome glass lens that condenses and directs moonlight straight down. A angled mirror sits below the beam of light, with a magic spell that dramatically amplifies the size of the beam. Below the mirror, a large wooden turntable can be used to spin the beam of light 360°. A bulky hand crank juts from a supporting beam of the roof. Spinning the crank opens/closes the copper dome shutter-door roof that covers the lens during the day or times of inactivity.
+### View of City
+Looking out into the city, [[Nervios]] rests peacefully under the night sky. The streets are dark and desolate, minus the torchlight from the occasional patrol of Guards. The distant sound of crashing waves and the gentle whistle of the breeze are the only sounds you hear from this high in the air. 
 
 # History
 ___

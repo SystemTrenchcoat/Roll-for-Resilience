@@ -113,16 +113,39 @@ After overcoming the alter-ego, the rune in the floor glows brightly as your are
 >[!info] Arcane Check
 > A moderate-arcane check can reveal information about the magical rune.
 > - A minor success reveals the rune is made of transportation and illusionary magic.
-> - A major/critical success reveals the rune is made only of strong illusionary magic. The transportation parts of the spell are an illusion themselves. Instead of transporting the players to the next floor, they remain on the same floor, just feelin like they were transported.
+> - A major/critical success reveals the rune is made only of strong illusionary magic. The transportation parts of the spell are an illusion themselves. Instead of transporting the players to the next floor, they remain on the same floor, just feeling like they were teleported.
 
 # 5. The Discovery - W.I.P
-%%Your party each faces a fear and reaches the second to last floor of the spire. In front of you, a large staircase leads up to a bolted door. Etched into the wood, it reads “STAY OUT, OR DIE” (probably something more poetic). Breaking down the door, the party reaches a small room  with a large central mirror atop a hefty turntable. The center of the mirror contains another magic rune, much smaller than the ones seen previously. It appears to magnify/enhance light. Above you, a large glass lens is obstructed by some kind of sliding dome door made of thick copper panels. Hanging from the ceiling and support beams, the familiar silver-gold Nervios Eye loops over the steep drop into the choppy waters of the port.
+___
+*The party reaches the top of the spire and makes two major discoveries. One, the spire's top platform functions as a lighthouse. Two, the size and gothic appearance of the spire is an illusion cast by a spell intertwined in the design of the Nervios Eye wire-structure.*
+## Scene Description - Entering the [[The Nervios Eye#Final Floor|Final Floor]]
+After conquering each alter-ego, the room begins to morph back into its original state: a bland room with white wall and wooden floor. This time however, a wide metal ladder shoots from the center of the room to a ceiling hatch boarded loosely with 2 planks. Etched into the wood, the planks read "STAY OUT, OR DIE".
 
-A substantial hand hand-crank lever juts from the side beams supporting the lens-roof. Cranking the lever opens the sliding door slowly. As the panels move to the side and open the glass to the night sky, the moonlight converges to a tight beam through the lens. The beam projects downwards towards an angled mirror. A small magic rune painted on the surface of the reflective-glass burns bright blue as the light beam is enhanced and grows 10 times the size, being projected through the Nervios Eye and towards the town. 
-- Yep. It’s a lighthouse. The lens roof converges light into a mirror, which is then amplified with magic to create a large beam of light. The lens is covered by a segment-style observatory door that was used in the past to turn off the light in the day.
+> [!info] Insight Check
+> A normal-difficulty insight check can reveal the message is a facade and last ditch effort to keep people away from the top of the Spire
 
-The beam pours through the pupil towards the town as a uniform spotlight; the intricate wiring of the eye fails to cast a shadow amongst the powerful glow. The room around you brightens from the ambient light, revealing the eye itself is held in place through a series of small bolts that glisten against the tarnished metal backing of the support beams. Seeing the design of the eye in full light, you notice how the weaving gold-silver wire traces a familiar pattern of illusionary magic warped into the shape of an eye. The rune, made of precious metals and powered through the town’s anxiety, hangs loosely over the 500 foot plummet into the cold shifting waters of Rutmar Port. Dropping the eye into the water breaks an ancient spell, one of which casts an illusion over the 230-foot lighthouse to make it appear as a 500-foot gothic goliath. Climbing down the tower, you meet the room with the central rune, only this time there is a staircase leading straight down to the entrance of the tower. 
-- Maybe the party can chat with Aequorin in this ending as well. He could thank them for what they’ve done to restore his City.%%
+Removing the planks and climbing through the hatch, your face tenses from the cold draft of salty air from the bay. You enter a small circular room with a large central mirror atop a hefty wooden turntable. A compact ancient rune sits in the middle of the mirror, its archaic inscription difficult to comprehend. Above your head, a glass dome connects to two copper support beams. It's view of the night sky obstructed by a copper shuttle-door that wraps around the glass in sliding segments. A bulky hand crank juts from the side of one of the supports and connects to the copper-roof. Hanging from the ceiling and support beams, the familiar silver-gold Nervios Eye looms over the steep drop into the choppy waters of the port, obstructing your view of the sleeping city.
+
+ [!info] Passive Perception
+> Succeeding on a passive perception check can reveal a few pieces of information:
+> - The ornate pattern and weaving of wire seems to mimic the various magical runes encountered throughout the city.
+> - The eye is suspended over the steep drop into the bay and held up via a dozen metal bolts. If the bolts are removed, the eye will drop into the water below.
+## Lighthouse Mechanics
+Cranking the hand lever reels the sliding door slowly open. As the panels shift to the side and open the glass to the night sky, the moonlight converges to a tight beam through the lens. The beam projects downwards towards an angled mirror. A small magic rune painted on the surface of the reflective-glass burns bright blue as the light beam is enhanced and grows 10 times the size, being projected through the Nervios Eye and towards the town. 
+
+## Scene Description - Opening the Cover
+The beam pours through the pupil towards the town in a uniform spotlight; the intricate wiring of the eye fails to cast a shadow amongst the powerful glow. The room around you brightens from the ambient light, revealing the eye is held in place through a series of small bolts that glisten against the tarnished copper backing of the support beams. Seeing the design of the eye in full light, you notice how the weaving gold-silver wire traces the familiar pattern of illusionary magic experienced throughout your climb. The rune, made of precious metals and powered through the town’s anxiety, hangs loosely over the 500 foot plummet into the cold shifting waters of Rutmar Port.
+
+## Dropping the eye
+Disconnecting and dropping the eye into the water shatters the ancient illusionary spell. As the eye falls and passes, you suddenly feel half as high in the air as you did before. Instantaneously your surroundings grew closer, the noises of the water grew louder, and the brutalist black and grey architecture has disappeared to uncover a smooth white-limestone lighthouse. The shift of appearance was mundane and happened before you noticed as you now sit a short 230 feet above the water, compared to the 500-foot plummet of before.
+
+## Scene Description - Exiting the Tower
+Climbing down through the hatch, you meet the bland room with the central rune, only this time the rune sits dormant and the spiral staircase is open in the floor.
+
+
+one of which casts an illusion over the 230-foot original lighthouse to make it appear as a 500-foot gothic goliath. Climbing down the tower, you meet the room with the central rune, only this time there is a staircase leading straight down to the entrance of the tower. 
+
+# 5. The Discovery
 # Content
 ___
 ## Key NPCS
