@@ -57,7 +57,7 @@ ___
 *The party enters the first floor of [[The Nervios Eye|The Spire]] and is greeted with a massive spiral staircase that stretches far above their heads. Distinct paintings portraying the history of Nervios run along the walls above the steps, sorted chronologically* 
 
 ## Scene Description
-Entering the ground floor of the Spire, an endless stream of dark wooden steps begin at your feet and curve around the inner walls, stretching to a distant ceiling. Hundreds of paintings of various scales and aspect ratios hang along the stairway against the white limestone walls, each lined with a ornate gold frame. As you climb higher, the artworks seem to depict the visual history of a city. Your city. Below the paintings, a deep red carpet drapes over the center of the steps, flowing like a current of blood and meeting a massive red rug in the center of the floor. A thin metal guardrail lines the edge of the stairwell, flimsily separating climbers from a lethal drop. At the very top of the staircase, a small amount of light seeps through various cracks and seams in a hatch door. 
+Entering the ground floor of the Spire, an endless stream of dark wooden steps begin at your feet and curve around the inner walls, stretching to a distant ceiling. Hundreds of paintings of various scales and aspect ratios hang along the stairway against the white limestone walls, each lined with a ornate gold frame. As you climb higher, the artworks seem to depict the visual history of a city. Your city. Below the paintings, a deep red carpet spills over the center of the steps, flowing like a current of blood and meeting a massive red rug in the center of the floor. A thin metal guardrail lines the edge of the stairwell, flimsily separating climbers from a lethal drop. At the very top of the staircase, a small amount of light seeps through various cracks and seams in a hatch door. 
 
 ## Traps
 While climbing the steps, each player should make a passive/active perception check. If they pass, they recognize a step in front of them has unusual wear and is inset slightly. If they fail, they step on the step, triggering a pressure plate. Roll on the trap table below for the trap effect. 
@@ -78,36 +78,42 @@ As the party climbs, they can recognize the paintings depict the history of [[Ne
 | ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 10%                       | A small town on the water with no recognizable landmarks.                                                                                                            |
 | 30%                       | A ship at sea with the Symbol of [[Sea Scribes of Umorism\|Umorism]] inscribed on it's sail.                                                                         |
-| 50%                       | A bustling city on the Nervios peninsula. A few landmarks stand out, such as the cathedral and Rutmar Port.                                                          |
-| 70%                       | A painting of a small white tower with a copper-dome roof set against a bright blue sky.                                                                             |
+| 50%                       | A painting of a small white tower with a copper-dome roof set against a bright blue sky.                                                                             |
+| 70%                       | A bustling city on the iconic Nervios peninsula. A few landmarks stand out, such as the cathedral and Rutmar Port.                                                   |
 | 90%                       | The recognizable city of Nervios. Thick stone walls surround the outskirts of the peninsula, and a menacing and towering spire sits in the center of Aequorin's bay. |
 
-# 4. Leaps of Faith - W.I.P
+# 4. Leaps of Faith
 ___
-*The party reaches a large empty room with a massive magical rune in the center. The entrance hatch slams shut and the rune begins to activate. Suddenly the room is transformed and one player must face an alter ego of themselves. The players are transported through as many rooms as their are players, and each room has an dark-mirror of one of the characters.*
+*The party reaches a large empty room with a massive magical rune in the center. The entrance hatch slams shut and the rune begins to activate. The room is magically transformed and one player must face an alter-ego version of themselves who wishes to trap the player in their distorted beliefs. The players are transported through as many rooms as there are players, and each room contains an encounter with an alter-ego of one of the characters.*
 ## Alter-Ego & Shifting Scene
-**Before** the session, the GM should confer with each member of the party in private. The GM should have them come up with major insecurities and negative beliefs their character may have, as well as a safe-space their character feels most relaxed and comfortable in. The GM should then prepare a unique caricature for each player that serves as an "alter-ego" of themselves, reflecting all their unhelpful or distorted thinking patterns. This can be done with the information the player provides, as well as specific information gathered throughout the entire campaign.
+**Before** the session, the GM should confer with each member of the party in private. The GM should have them come up with any distorted thoughts and negative beliefs their character may have, as well as a safe-space that their character feels the most relaxed and comfortable in. The GM should then prepare a unique caricature for each player that serves as an "alter-ego" of themselves, reflecting all their unhelpful or distorted thinking patterns. This can be done with the information the player provides, as well as specific information gathered throughout the entire campaign.
 
-When reaching a new floor, the GM should pick one of the alter-egos for the player to encounter. A magic rune in the center of the room expels a jumbled shape of balls of light, which morph into the alter-ego. At the same time, the walls around the room begin to shape and morph into their safe space, as large or small as it may be. 
+When reaching a new floor, the GM should pick one of the alter-egos for the player to encounter. A magic rune in the center of the room expels a jumbled shape of balls of light, which morph into the alter-ego: an exact reflection of the player character. At the same time, the walls around the room begin to shape and morph into their designated safe space, as large or small as it may be. 
 
-The alter-egos are holographic and created via illusionary magic, therefore they cannot be physically interacted with or harmed. Combat is not a solution here. Instead, the players should verbally
-
-The alter-ego speaks as though they are the player. Examples include:
+The alter-ego doesn't see itself as another person, it truly believes it's the player character. Every memory, success, failure, and regret belongs to the alter-ego as much as the player. It is simply a version of the character who interprets every experience through distorted beliefs. They speak to the player character as a distorted thinking pattern. Examples include:
 - "Come on, we both know you are to timid to be climbing this Spire"
 - "You're only pretending to be brave because they're here"
-- 
+- "They don't like you. They're only here because they pity you."
+
+The alter-egos are holographic and created via illusionary magic, therefore they cannot be physically interacted with or harmed. Combat is not a solution here. The alter-ego's goal is to keep the player trapped within their distorted beliefs. It will reinterpret evidence and twist the player's words to reinforce its worldview. The encounter ends once the player has demonstrated genuine engagement with the belief without avoiding, suppressing, or blindly accepting it. It is up to relevant skill checks and the GM's discretion to decide when the player has successfully confronted the belief. A few ways to confront the alter-ego/belief include:
+- Challenging the belief
+- Admitting they don't know if its true
+- Ask another player for help
+- Comfort their alter ego instead of themselves
+
+Once the alter-ego has been overcame, they vanish with a smile back to the rune whence they came. Suddenly lighting strikes around the room once more, and the party is transported to the next floor to face the  alter-ego of the next player character.
 
 ## Scene Description
 The winding staircase comes to an abrupt end as you push open the ceiling hatch and enter a wide empty room. The walls are smooth and cool to the touch; their white limestone walls contrasts the rich orange wood flooring. In the center of the room, the familiar etchings of a large magic rune is inscribed on the floor.
 
-After the last of your party enters, the hatch slams closed and a thick stone slab extend from the wall, sealing the staircase entirely. A tremble shoots up your spine as a magic rune in the center of the room begins resonating a deep whirling hum. Lighting strikes frantically around the room and your hair sticks on end as the walls and surroundings begin to morph and change into a new, yet eerily recognizable scene. The last lighting strike settles with a bang as your environment settles into its new form: your safe space. After settling, a jumbled shape made of several balls of light rises from the center of the rune and begins to twist and shape itself into a creature that petrifies you to the core: 
+After the last of your party enters, the hatch slams closed and a thick stone slab extends from the wall, sealing the staircase entirely. A tremble shoots up your spine as a magic rune in the center of the room begins resonating a deep whirling hum. Lighting strikes frantically around the room and your hair sticks on end as the walls and surroundings begin to morph and change into a new, yet eerily recognizable scene. The last lighting strike settles with a bang as your environment settles into its new form: your safe space. After the room settles, a jumbled shape made of several balls of light rises from the center of the rune and begins to twist and shape itself into a creature that shocks you to the core: its you. 
 
-After facing the creature/fear, the rune in the floor glows brightly as your are transported to the next floor where you face an identical scene of an empty room with a central rune. Each member of your party must face a version of themselves to reach the top of the spire.
+After overcoming the alter-ego, the rune in the floor glows brightly as your are transported to the next floor where you face an identical scene of an empty room with a central rune. Each member of your party must face a version of themselves to reach the top of the spire.
 
 >[!info] Arcane Check
 > A moderate-arcane check can reveal information about the magical rune.
 > - A minor success reveals the rune is made of transportation and illusionary magic.
-> - A major/critical success reveals the rune is made only of strong illusionary magic. The transportation parts of the spell are an illusion themselves. 
+> - A major/critical success reveals the rune is made only of strong illusionary magic. The transportation parts of the spell are an illusion themselves. Instead of transporting the players to the next floor, they remain on the same floor, just feelin like they were transported.
 
 # 5. The Discovery - W.I.P
 %%Your party each faces a fear and reaches the second to last floor of the spire. In front of you, a large staircase leads up to a bolted door. Etched into the wood, it reads “STAY OUT, OR DIE” (probably something more poetic). Breaking down the door, the party reaches a small room  with a large central mirror atop a hefty turntable. The center of the mirror contains another magic rune, much smaller than the ones seen previously. It appears to magnify/enhance light. Above you, a large glass lens is obstructed by some kind of sliding dome door made of thick copper panels. Hanging from the ceiling and support beams, the familiar silver-gold Nervios Eye loops over the steep drop into the choppy waters of the port.
