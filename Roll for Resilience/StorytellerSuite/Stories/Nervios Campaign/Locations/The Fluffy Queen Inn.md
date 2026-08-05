@@ -1,3 +1,10 @@
+---
+entityType: location
+name: Fluffy Queen Inn
+region: Nervios
+status: Vacant
+type: building
+---
 ## Description
 A rather vacant residence for rent, The Fluffy Queen is ran by [[Kymil Rokian]], its Elf innkeeper. Apart from the spots of dust, the inn's two stories are kept rather clean as Kymil has little else to do with his time besides finding a new hobby. Sharing the grounds with the [[Loud House Tavern|Loud House]], Kymil regrettably has the tavern to thank for him being able to keep the place running. 
 

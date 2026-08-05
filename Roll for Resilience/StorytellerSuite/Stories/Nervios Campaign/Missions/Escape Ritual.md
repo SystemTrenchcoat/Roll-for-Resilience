@@ -23,7 +23,8 @@ ___
 ___
 This mission is one of the endings to your party's adventures in Nervios, following a path that largely doesn't involve the two main factions controlling the city's future. There is no one specific mission that precedes this one.
 ### 1. A deal by no name
-With the air falling silent and still, the party's eyes catch a cloaked figure floating towards them and effortlessly sliding past any obstacles. This is Votiel, the [[Wise Drifter]], and it comes to offer the party freedom from [[Nervios]], for the magnificent Soul Moon is set to shine upon the city. If its predictions are right, it could tear open a portal using a simple ritual, allowing the party to leave the city. 
+With the air falling silent and still, the party's eyes catch a cloaked figure floating towards them and effortlessly sliding past any obstacles. 
+> *"Forgive the intrusion, but I, the[[Wise Drifter]], have an offer to make you all. Tonight the magnificence of the Soul Moon shines upon us. Should my predictions prove right, I could tear open a portal for you all to escape through, if you so desire*
 
 Votiel is withholding telling them exactly why he needs them as test subjects. Unless they persuade him, he will continue saying he'll be satisfied knowing he's achieved perfection. 
 
@@ -55,18 +56,20 @@ Whether the party chooses to stick together or separate, they will still need to
 	- Despite her cheerful appearance, Keira overcharges the goods she personally worked so hard for and will not haggle below 15 SCL for the dozen candles.
 
 ### 3. Preparing the Ritual
-Reunited and reaching the exterior threshold, you spot several of the windows are broken and blackened by dirt. Turning the handle, the door weakly cracks open, with the stairs creaking beneath you as you step inside. In the main room, hovering above the sparsely cleaned stone is Votiel, delighted to see you've succeeded. 
+Reunited and reaching the exterior threshold, you spot several of the windows are broken and blackened by dirt. Turning the handle, the door weakly cracks open, with the stairs creaking beneath you as you step inside. In the main room, hovering above the sparsely cleaned stone is Votiel
+> *"Splendid, you all have done well. Fret not, I've handled my share of the work. See for yourself.*
 
 Outshining the columns of moonlight from holes in the ceiling is the brilliance of a [[Fallen Star]] in the palm of its Mage Hand. Producing a tome from nearby, Votiel instructs the party to start drawing a circle on the floor, to which he will add the candle emplacements. 
 
 With the circle and candles placed, a central line is drawn from each candle towards the larger circle's center, and where they intersect the star is set. While one of you goes around lighting the candles, another douses the star with the sacred water
 
 ### 4. Ritual Time
-Now that all of ritual components are in place, raising hands high and chanting:
+Now that all of ritual components are in place, raising hands high the Drifter chants:
 
-*"By the potent child of night sky, and Soul Moon sublime, I command you grant passage to these bold souls"*
+>*"By the potent child of night sky, and Soul Moon sublime, I command you grant passage to these bold souls!"*
 
 For a moment, the suspense of silence creeps in, broken by the crackle of a newly opened portal, into a magnificent cavern with stones decorated by the most brilliant of crystals. Votiel erupts into a cacophony of cackling, unable to contain his elation.
+> "*Haha! This is most wondrous, friends. You've done a great feat for me, I assure you. Fare thee well, may we tread the same waves another sunrise."
 
 Once they have stepped over, they are separated at the edges of [[The Crystal Expanse]], a bright ethereal plane for souls awaiting their next stop in the cycle of life.
 
@@ -107,9 +110,8 @@ Option one is for everyone in the party to be transported into the fields north 
  The only question now is, who sticks together?
 
 #### *Option Two:* See Me on the other side
-Malachi floats himself closer to the portal, reciting a small indecipherable phrase while extending out his palm.  Conjured from his hand is the grey puff of a storm cloud, and with the strike of lightning it shifts the portal from a hazy projection of grass to one completely obscured by strange azure blue fog. 
-
-Gliding himself clear of the party's path, Malachi stands proud, assuring everyone that *it's okay to be uncertain. You've already done the hard part*, exchanging a final glance at the party, *you've found the love and support of another. All there is to do now is patiently follow through*, as the whirlpool beneath him begins to fade. 
+Malachi floats himself closer to the portal, reciting a small indecipherable phrase while extending out his palm.  Conjured from his hand is the grey puff of a storm cloud, and with the strike of lightning it shifts the portal from a hazy projection of grass to one completely obscured by strange azure blue fog. Gliding himself clear of the party's path, Malachi stands proud as the whirlpool beneath him begins to fade.
+>*It's okay to be uncertain. You've already done the hard part, you've found the love and support of another. All there is to do now is patiently follow through.* 
 
 Malachi gestures everyone through the portal, using a gust of wind to push those hesitant to go willingly, waving goodbye as each character crosses over. For a moment, your surroundings are pitch black, then another, then slowly you see the light inch back in. You hold out your hands and see them engulfed in a shroud of light, making its way up your arms, eventually moving out of sight as it caresses your face. 
 
