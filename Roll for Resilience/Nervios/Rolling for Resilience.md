@@ -21,6 +21,9 @@ The current list of missions and their descriptions are shown below. The first t
 | Ending Mission (Final Showdown / [[Escape Ritual\|Dose of Clarity]])*\*\* * | One last chapter written in the party's tales from Nervios, deciding how they wish to close this book.                                                                                                                        | End       |                           |
 *"\*\*" is plot critical*
 
+## Foreshadowing
+
+
 # Navigating the Obsidian
 ___
 ## Missions

@@ -88,7 +88,6 @@ ___
 - [[Trial of Resolute Soul]]
 - Fetching ritual ingredients
 
-
 ## Key Items
 
 | Item Name        | Description                                                                                                                                                                                                                                                                                                                                                            |

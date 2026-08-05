@@ -94,6 +94,9 @@ The alter-egos are holographic and created via illusionary magic, therefore they
 
 The alter-ego speaks as though they are the player. Examples include:
 - "Come on, we both know you are to timid to be climbing this Spire"
+- "You're only pretending to be brave because they're here"
+- 
+
 ## Scene Description
 The winding staircase comes to an abrupt end as you push open the ceiling hatch and enter a wide empty room. The walls are smooth and cool to the touch; their white limestone walls contrasts the rich orange wood flooring. In the center of the room, the familiar etchings of a large magic rune is inscribed on the floor.
 
