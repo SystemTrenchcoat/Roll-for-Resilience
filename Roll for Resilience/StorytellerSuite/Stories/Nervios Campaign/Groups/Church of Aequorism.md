@@ -89,3 +89,8 @@ There are many cultural expectations and norms that have been shaped through the
 4. Sea Soothers expect tithes when blessing ships and vessels. This helps pay them for their service to Aequorin
 5. Goods and ships are expected to be blessed before setting sail in order to avoid divine punishment and tragedy.
 6. Sea Soothers use a magic ritual to desalinate water. This provides the common people with a near infinite supply of freshwater. The act is seen as a holy and religious process.
+7. To cleanse ones soul of sin during life, a priest performs a process called Drenching. 
+	1. Being worthy of Drenching means confessing to sin and regret
+	2. Your head is held beneath sacred water for 3 minutes minimum
+	3. Upon reemergence, the drenched is told "Aequorin's mercy molds you anew"
+	4. To struggle free before one is lifted back up, even to avoid passing out, is failure

@@ -32,7 +32,7 @@ While Umorism was the head religion of Nervios for centuries, it became banned a
 ## Resources
 Player's that want to play as Sea Scribes can take this background. It isn't required for anyone following the religion, but for the priest
 
-Background
+## Background
  - Acolyte of Umorism
  You are a follower of the old faith of Umorism, a Sea Reader, a faith that taught of the endless trials of the ocean, the eternal glorious challenge that spurs humanity forward through tests of nautical navigation and ship building, among many other trials. However, such practices haven't been openly done in the city of Nervios in 150 years as the rising of the guards made the old religion become persecuted in favor of the new religion that simply wished to calm and placate the sea instead of meeting its challenge. You still practice the old rites and techniques in secret till one day such knowledge can again be freely shared in the city. 
  - Skill Proficiencies: Acrobatics

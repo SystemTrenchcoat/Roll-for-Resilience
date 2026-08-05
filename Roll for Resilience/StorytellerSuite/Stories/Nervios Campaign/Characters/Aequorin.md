@@ -21,7 +21,7 @@ According to the [[Church of Aequorism]], Aequorin is the creator of life and go
 With his godly powers, Aequorin acts divine caretaker for [[Nervios]], seeing to the blessing and punishment of the city's people. His undying love for his children to help them reach enlightenment guides his every action.
 
 ### Secrets
-Aequorin is merely a title name passed down, the current "Aequorin" is named Malachi. He is the latest celestial entity chosen to watch over Nervios and her people. Numerous generations have came before him, such as those responsible for creating life within the city and its surroundings. He has come to love the people he is to care for, especially because it is tiresome work. 
+Aequorin is merely a title name passed down, the current "Aequorin" is named Malachi. He is the latest celestial entity chosen to watch over Nervios and her people. Numerous generations have came before him, such as those responsible for creating life within the city and its surroundings. He came to love the people he must care for, especially because it is tiresome work. 
 
 ### Physical Appearance
 From above the torso, Aequorin manifests a form similar to a muscular humanoid with a vibrant blue skin tone that pulsates with energy. Much like the ascended souls who follow his teaching, Aequorin's avatar boasts a whirlpool suspended where legs would normally be.
