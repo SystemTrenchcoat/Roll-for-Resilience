@@ -5,8 +5,6 @@ status: WIP
 chapterId: "[[Beginning]]"
 linkedGroups:
   - "[[Church of Aequorism]]"
-  - "[[Guards]]"
-  - "[[Commonfolk]]"
 linkedCharacters:
 ---
 
