@@ -23,6 +23,27 @@ The current list of missions and their descriptions are shown below. The first t
 
 ## Foreshadowing
 
+### [[The Nervios Eye|The Spire]] Finale Foreshadowing
+
+|     |     |
+| --- | --- |
+|     |     |
+
+
+### [[Escape Ritual]] Finale Foreshadowing
+
+|     |     |
+| --- | --- |
+|     |     |
+## Lore Tables
+
+### General Lore
+
+### Rebel Lore
+
+### Guard Lore
+
+### Religion Lore
 
 # Navigating the Obsidian
 ___

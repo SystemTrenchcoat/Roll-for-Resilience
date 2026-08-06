@@ -32,12 +32,14 @@ This missions takes place after [[The Collapse of Central Stage]] scene, where t
 
 ### 1. The Mask Seller
 Introductions to [[The Burrow]]
-	As the players enter, they see many hanging bioluminescent plants casting a soft glow on the various dubious looking stalls and people in various different kinds of masks milling around them. A small tent set up in a nearby corner catches their eye as its owner waves them over. The owner doesn’t wear a mask, but instead they wear a veil of beads.
+	As the players enter, they see many hanging bioluminescent plants casting a soft glow on the various dubious looking stalls and people in various different kinds of masks milling around them. A small tent set up in a nearby corner catches their eye as its owner waves them over. The owner is a tall mysterious figure, their features obscured by a veil of beads, making it impossible to determine their gender or race.
 	As the players approach the tent, [[The Mask Seller]] inquires about their day and what brings them to [[The Burrow]]. If they said that they fell down here and need a way back up, they will inform them that [[Bethia Tallowwind]] might be able to help them with getting back to the surface. They also give them a little bits and pieces about [[The Burrow]], saying that it’s been here for quite some time, and that they’ve been here since it first came to be. They say that this space is a nice space for people to find things not normally found in [[Nervios]] proper, while also allowing others to breath away from [[The Nervios Eye]].  
 	They also say that masks are quite popular down here, as it allows people to stay "Anonymous " while also showing a side to themselves not normally seen.
 	The masks the players can get can then be personalized, which can be a nice way for the players to further personalize and define their characters (maybe a good option for the therapist to ask about the decisions behind them). 
 	If the players ask about getting back to the surface, the mask seller say their best bet is to talk to [[Bethia Tallowwind]], the leader of the smugglers about getting back up to the surface, especially if they want less attention from the guards.
 	Their opinion on Bethia is that she is a shrewd business woman and a facilitator of many of the deals that go down in the Burrow, with the Burrow not likely to exist without her.
+	Their opinion on the rebellion is that it is a natural part of the tide of civilization to strain against the rulers when their chains become too tight. 
+	Gunther and Gweneth are both viewed as members of the burrow making the most out of their situations in the world, with the mask seller making special note that Gweneth 
 
 As the party walks through the Burrow, they notice the denizens of the Burrow, while being masked to hide their identity, they talk in whispers that are lax and unconcerned with saying the wrong thing.
 

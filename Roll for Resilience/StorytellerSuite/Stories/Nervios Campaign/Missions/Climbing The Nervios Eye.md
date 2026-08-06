@@ -10,7 +10,7 @@ ___
 ___
 *The party is suddenly caught in a mysterious spotlight originating from the top of [[The Nervios Eye|The Eye of Nervios]]. The light casts a welcoming feeling over the party, as if it is inviting them in.*
 ## Scene Description
-Late one night while Nervios sleeps, your party wanders the streets awake and aimless. As you follow the white limestone path of the Noble District, the ground beneath your feet is suddenly spotlighted by a bright white beam of shimmering light. A strange sense of comfort and familiarity washes over you as your eyes adjust to the stream of blinding light that pours from the center pupil of the Eye of Nervios. The beam breaths in and out gently for a few minutes before dimming out completely. 
+Late one night while Nervios sleeps, your party wanders the streets awake and aimless. As you follow the white limestone path of the Noble District, the ground beneath your feet is suddenly spotlighted by a bright white beam of shimmering light. A strange sense of comfort and familiarity washes over you as your eyes adjust to the stream of blinding light that pours from the center pupil of [[The Nervios Eye|The Eye of Nervios]]. The beam breaths in and out gently for a few minutes before dimming out completely. 
 
 >[!info] Religion Check
 >A passive religion check can reveal the sense of comfort and familiarity is of a Divine Origin. A major success reveals the origin as [[Aequorin]], who welcomes the party into The Spire.
@@ -18,6 +18,7 @@ Late one night while Nervios sleeps, your party wanders the streets awake and ai
 # 2. Finding a way in
 ___
 *The party must find a way into The Spire through either the main entrance, or a secret hatch. The main entrance is accessible via a rope-bridge that is sparsely guarded. The hatch is accessible via a hidden underground tunnel known by [[Rebels|The Rebels]].* 
+
 ## ---Rope Bridge---
 A public entrance into the Spire, a rope-bridge extends from the city walls, deep into the water, then back up towards the front door of the Spire. The entrance is watched over by two [[Guards#2. Senior|Senior Guards]].
 ### Scene Description
@@ -29,7 +30,7 @@ Players must sneak, fight, or persuade their way past the two senior guards. Com
 - They will raise the bridge and let the party cross for a steep price.
 - Nobody besides [[Guards#3. Captain|Guard Captains]] and high-ranking clergy members have ever crossed the bridge and entered the spire.
 - There are normally more Guards at the bridge, but the number of available guards is stretched thin due to recent events in the city.
-- To raise the bride, one person **must** stay behind to hold the crank and bridge up as the rest cross, otherwise the rope bridge automatically begins unreeling and descending. 
+- To raise the bride, one person **must** stay behind to hold the crank and bridge up as the rest cross, otherwise the rope bridge automatically begins unreeling and descending.  (this encourages persuading/bribing the guards rather than fighting them)
 ### Crossing the Bridge
 Once players have raised the bridge, they should cross over the choppy water and reach the base of The Spire. Here they can open the massive oak door and enter into the [[The Nervios Eye#First Floor|First Floor of the Spire]].
 
@@ -58,6 +59,8 @@ ___
 
 ## Scene Description
 Entering the ground floor of the Spire, an endless stream of dark wooden steps begin at your feet and curve around the inner walls, stretching to a distant ceiling. Hundreds of paintings of various scales and aspect ratios hang along the stairway against the white limestone walls, each lined with a ornate gold frame. As you climb higher, the artworks seem to depict the visual history of a city. Your city. Below the paintings, a deep red carpet spills over the center of the steps, flowing like a current of blood and meeting a massive red rug in the center of the floor. A thin metal guardrail lines the edge of the stairwell, flimsily separating climbers from a lethal drop. At the very top of the staircase, a small amount of light seeps through various cracks and seams in a hatch door. 
+### Center Table
+An ornate light-purple tablecloth drapes over a round stone table atop the rug in the center of the room. The table is empty, without even a single chair sat around it.
 
 ## Traps
 While climbing the steps, each player should make a passive/active perception check. If they pass, they recognize a step in front of them has unusual wear and is inset slightly. If they fail, they step on the step, triggering a pressure plate. Roll on the trap table below for the trap effect. 
@@ -115,10 +118,10 @@ After overcoming the alter-ego, the rune in the floor glows brightly as your are
 > - A minor success reveals the rune is made of transportation and illusionary magic.
 > - A major/critical success reveals the rune is made only of strong illusionary magic. The transportation parts of the spell are an illusion themselves. Instead of transporting the players to the next floor, they remain on the same floor, just feeling like they were teleported.
 
-# 5. The Discovery - W.I.P
+# 5. The Discovery
 ___
 *The party reaches the top of the spire and makes two major discoveries. One, the spire's top platform functions as a lighthouse. Two, the size and gothic appearance of the spire is an illusion cast by a spell intertwined in the design of the Nervios Eye wire-structure.*
-## Scene Description - Entering the [[The Nervios Eye#Final Floor|Final Floor]]
+## ***Scene Description*** - Entering the [[The Nervios Eye#Final Floor|Final Floor]]
 After conquering each alter-ego, the room begins to morph back into its original state: a bland room with white wall and wooden floor. This time however, a wide metal ladder shoots from the center of the room to a ceiling hatch boarded loosely with 2 planks. Etched into the wood, the planks read "STAY OUT, OR DIE".
 
 > [!info] Insight Check
@@ -126,7 +129,7 @@ After conquering each alter-ego, the room begins to morph back into its original
 
 Removing the planks and climbing through the hatch, your face tenses from the cold draft of salty air from the bay. You enter a small circular room with a large central mirror atop a hefty wooden turntable. A compact ancient rune sits in the middle of the mirror, its archaic inscription difficult to comprehend. Above your head, a glass dome connects to two copper support beams. It's view of the night sky obstructed by a copper shuttle-door that wraps around the glass in sliding segments. A bulky hand crank juts from the side of one of the supports and connects to the copper-roof. Hanging from the ceiling and support beams, the familiar silver-gold Nervios Eye looms over the steep drop into the choppy waters of the port, obstructing your view of the sleeping city.
 
- [!info] Passive Perception
+> [!info] Passive Perception
 > Succeeding on a passive perception check can reveal a few pieces of information:
 > - The ornate pattern and weaving of wire seems to mimic the various magical runes encountered throughout the city.
 > - The eye is suspended over the steep drop into the bay and held up via a dozen metal bolts. If the bolts are removed, the eye will drop into the water below.
@@ -140,23 +143,55 @@ The beam pours through the pupil towards the town in a uniform spotlight; the in
 Disconnecting and dropping the eye into the water shatters the ancient illusionary spell. As the eye falls and passes, you suddenly feel half as high in the air as you did before. Instantaneously your surroundings grew closer, the noises of the water grew louder, and the brutalist black and grey architecture has disappeared to uncover a smooth white-limestone lighthouse. The shift of appearance was mundane and happened before you noticed as you now sit a short 230 feet above the water, compared to the 500-foot plummet of before.
 
 ## Scene Description - Exiting the Tower
-Climbing down through the hatch, you meet the bland room with the central rune, only this time the rune sits dormant and the spiral staircase is open in the floor.
+Climbing down through the hatch, you meet the bland room with the central rune which lies dormant and depowered. An open hatch sits in the floor near the edge of the room, with the carpeted steps cascading down from the opening. 
 
+>[!info] Passive History Check
+> An easy passive history check can reveal that there were several identical floors you were supposed to pass before reaching the staircase. 
 
-one of which casts an illusion over the 230-foot original lighthouse to make it appear as a 500-foot gothic goliath. Climbing down the tower, you meet the room with the central rune, only this time there is a staircase leading straight down to the entrance of the tower. 
+The first floor and staircase remain largely the same, albeit a bit closer together with the scaling illusion worn off. 
 
-# 5. The Discovery
+### Central Table
+A ornate light-purple tablecloth drapes over a round stone table in the center of the room. A book now sits in the middle of the table, it's golden embroidered title contrasting the deep blue leather cover backing; it reads "*[[Malachi's Memoir]]*".
+> [!info] Investigating the Book
+> A moderate investigation check can reveal the book is written by "Malachi", the former tender of the lighthouse. 
+> - He speaks of the purpose of the lighthouse: to guide ships safely to and from the choppy shores of the bay. 
+> - He reveals the City Guard had taken forceful control of Nervios, sealing the city walls from the outside. 
+> - The last page explains that the city guard wished to gain control of the lighthouse and have Malachi bend to their whims. He righteously refused, and locked himself and his family away in the tower. With the guard's threat increasing by the day, he snuck his family out through a secret escape hatch in the center of the room. Despite their best efforts for Malachi to join them, he chose to stand his ground and die protecting his home.
+
+### Secret Hatch
+A small wooden hatch hides discretely under the central red rug of the room, right next to the stone table. The hatch opens up into a dark drop, with a thin metal ladder fading into the void. At the bottom of the ladder, a long winding tunnel leads to a dead end. A lever hangs on the wall to the right of the dead end; pulling the lever opens a hidden door before you. You enter into the [[Eastern Tunnel System]], which runs under Nervios and connects to [[The Burrow]], the rebellion hideout. 
+
+### Stepping Outside
+Pushing open the vast wooden front door, the cool misty air wafts across your face as waves pound against the jagged rock base of the lighthouse. Looking up from the bottom, it becomes clear how different the Spire now is. Its overwhelming presence has vanished, as well as its brutal and dark architecture. The walls are now white limestone brick which tapers softly as they travel upwards. The beam of white light pours from the lantern room with a distinct dome lens roof. The light gleams across the billowing water, making it clear that the rope-bridge has been lowered back into the bay.
+
+# 5. The Epilogue
+___
+*The party manages to successfully and stealthily escape after revealing the true form of the spire. Where will they go? Who will they talk to?*
+## Next Steps
+The party is free to do whatever they wish after escaping [[The Nervios Eye|The Spire]]. If they grabbed [[Malachi's Memoir]], they can keep it or give it to the Rebellion. They have a short period of time for the last interactions with each other or the city before the mission comes to a close. Characters that the party interacts with have mixed emotions about the reveal of the Spire. Many are angered by the actions and control of the guard, while others are fearful, seeing it as an act of god.
+
+## Scene Description - The Day of Faro
+One year after the "Fall of the Spire", a festival is held in honor of the day when the illusion of the Spire came to an abrupt end, as well as the illusion of the guard's and noble's control over the city. Today, the Great Gate of Nervios sits open once more, clear of even a single loose pebble. Furthermore, the corrupt-systems of the old government have been getting steadily replaced, with the lead restoration effort being led by [[Rebels|The Rebellion]]. For the first time in a long time, Nervios is hopeful again. Regardless, the city still has a long way to go until it reaches it's former glory.
+
+## Character endings
+Spotlight each player character. Give them a moment to explain where their character is during this point in time, how they are doing, and where they could be going. 
+
 # Content
 ___
 ## Key NPCS
+- Senior Guard (2x)
+	- Only if players try to enter the spire through the front
+- [[Bethia Tallowwind]]
+	- Only if the players try to enter the spire through the rebels
 ## Key Items
 
-| Item Name | Description |
-| --------- | ----------- |
-|           |             |
-
+| Item Name            | Description                                                                        |
+| -------------------- | ---------------------------------------------------------------------------------- |
+| [[Malachi's Memoir]] | A blue book with a golden embroidered title written by a former lighthouse keeper. |
 # Setting
 ___
+The spire is a dominating and intimidating structure. It's immense size looms over [[Nervios]], dividing the city with it's shadow.
 ## Key Locations
+-[[The Nervios Eye|The Spire]]
 ## Hiding Spots
 ## Motivators

@@ -16,16 +16,25 @@ ___
 # Story Beats
 ___
 ## 1. Spirit Visit
-Tears streaking down her face, a ghost hysterically floats without any aim of where she's going. Between shielding her eyes to clean away fresh tears, she wipes her other hand across the front of her pink tunic. 
+Tears streaking down her face, a hysterical ghost drifts aimlessly, shielding her eyes to clean away fresh tears then wiping off her hand with her pink tunic. Her pale complexion is complemented by silver hair, with laughter lines and crow's feet melding into her cheeks.
 
 >"*My name- my name is [[Lili Heartkeep]]. Please, dearie, don't run. I need your help.*"
 
->*"Somewhere down in the crypts, one of the seafolk has defiled my corpse and risen it for her own 'study'*"
+>*"Somewhere down in the crypts, one of the seafolk has defiled my corpse and risen it for her own 'study'.*"
 
  Sniveling back to composure, she wants herself freed, afraid she'll miss her chance to be reincarnated.
 
 ## 2. Down we go
-Journeying towards the [[Sanctuary of Aequorin]], together everyone finds the [[Crypts]] entrance, searching for any trail left by the necromancer. If someone has a passive investigation higher than 13, or a tracking equivalent, have them latch onto the lead. Following this trail pulls into a corner tucked away from everyone else, complete with a torch illuminating the embedded skull sigil beside it. Examining the skull closer, it appears to have a pair of notched hexagonal eyes separate from the eye sockets. This is the Crypt puzzle, detailed in the mechanics section. Once the puzzle has been solved, the wall towards the puzzle's right opens, revealing the continued trail via passageway.
+Journeying towards the [[Sanctuary of Aequorin]], together everyone finds the [[Crypts]] entrance, searching for any trail left by the necromancer. 
+
+If someone has a passive investigation higher than 13, or a tracking equivalent, spotlight them to lead the way. On multiple, highest wins, and on a tie let players decide how they handle it.
+
+Following this trail pulls into a corner tucked away from everyone else, complete with a torch illuminating the embedded skull sigil beside it. Examining the skull closer, it appears to have a pair of notched hexagonal eyes separate from the eye sockets. 
+
+### [[Crypt puzzle]] rundown
+Players must spin the eyes, similar to a safe lock, to find the combination which unlocks the wall. The right eye can turn independently, but turning the left eye makes the right turn two notches in the same direction. Each notch in the left eye implicitly matches a roman numeral (I - VI), however only two, four, and six are visibly written.
+
+Clues and the solution are attached to the specific page for the puzzle. Once the puzzle has been solved, the wall towards the puzzle's right opens, revealing the continued trail via passageway.
 
 
 ## 3. A dry detour
@@ -35,21 +44,43 @@ Following the newly opened passage, the rocks around you shift from darker shade
 
  As they feared, the party discovers that the necromancer accessed this part of the crypts through a submerged tunnel, which they cannot. In hopes it eventually reconnects, they redirect themselves through a gate off to the side. 
 
-## 4. Divergent rooms
-Once again with their way forward blocked, their hope remains as they notice a turning wheel at the center of the otherwise empty room. As a few volunteer to spin the wheel, expecting the gate forward to open, they instead hear the clamoring of steel gates rising behind them. When inevitably the wheel is stopped, the gates slam shut, and everyone gathers to formulate a plan. The party splits into smaller groups to solve the larger [[Divergent rooms puzzle]].
+## 4. [[Divergent rooms puzzle]]
+Once again with their way forward blocked, their hope remains as they notice a turning wheel at the center of the otherwise empty room. As a few volunteer to spin the wheel, expecting the gate forward to open, they instead hear the clamoring of steel gates rising behind them. When inevitably the wheel is stopped, the gates slam shut, and everyone gathers to formulate a plan. At the party's discretion, they split into smaller groups to handle each room.
 
 As both adjacent rooms switches are activated, the wide metal gate once blocking their path grinds upwards, screeching with each inch it rises until it fully disappears. 
 
 ## 5. Wandering corpse
-One of the corpses that [[Nysaphia]] reanimated has wandered away from her workshop, peacefully shambling through the passage and into the party’s way. Treat this creature as a Zombie, or system appropriate low challenge undead
+Glimmers inside the dim lighting dot the rock walls, with tiny pieces of crystal dust broken up by larger shards. Around the corner, one of the corpses that [[Nysaphia]] reanimated has wandered away from her workshop, peacefully shambling through the passage and into the party’s way. Treat this creature as a Zombie, or system appropriate low challenge undead.
 
 ## 6. At the workshop
-Arriving at the necromancer’s workshop, the party is greeted by the sea-dweller experimenting with her most recent work. Cautiously casual, Nysaphia introduces herself and the two sides hold a chat amongst themselves in the hopes of reaching an understanding. 
+Arriving at the necromancer’s workshop, the party sees piles of books and loose papers sprawled across tables used to prepare the dead. Along the top of one sits a small flame, melting what you presume to be batch of ink or wax, accompanied by assorted crystals and clouded vials.
 
-She will have a small number (1d4) of reanimated corpses by her side, ready to defend against a hostile party.
+Fixed in place and keeping watch over her, Nysaphia has a small number (1d4) of the undead previously chosen, ready to defend against a hostile party.
+
+Leisurely pulling her head out of an experiment, Nysaphia turns towards everyone. 
+> "*Huh? Oh. Hey. I wasn't expecting to get any company down here...or at least any like you.*"
+> "*Can you...understand me? Everything suggests you should. My name is Nysaphia, you humans should have names as well, right?*"
+
+Cautiously casual, the two sides nervously laugh and chat with each other for a moment
+
+>*I can't dance around this any longer. Your faces tell the entire reason you're here, it's hard not to notice that first. I intend to be on my way when my work is finished, no sooner. But, if you truly want me gone, then we can discuss terms*
+
+### Bartering with Nysaphia
+Nysaphia is here to research, observe, and report the characteristics of dry corpses, only planning to leave once she has finished. Players with a passive insight or observation of 13 will notice her sincerity when she says she'll leave. 
+
+Since she does not know which connection would free Lili specifically, not that she knows her name, she would have to go through each undead individually again. In order to convince her, the party is offered to perform one random favor. 
+
+| 1   | Temporarily possess the body of one party member (preferably a human) |
+| --- | --------------------------------------------------------------------- |
+| 2   | Provide food rations, a girl's gotta eat after all                    |
+| 3   | A sample of fresh blood (1d6 damage)                                  |
+| 4   | A gem or fist-sized crystal                                           |
+
+Alternatively, if the party succeeds at a hard persuasion check she can also be convinced. Attempting to intimidate her will cause her to begin combat as the first in turn order. 
 
 ## 7. Return to rest
-With Nysaphia dealt with, Mrs. Heartkeep peacefully returns to the afterlife, awaiting to be reborn anew. 
+With Nysaphia dealt with, Mrs. Heartkeep says
+>"*Back into the cold darkness, at last....bless you, children.*"
 
 If Nysaphia dies, have her body rapidly decompose and any reanimations remaining fall. If Nysaphia is alive, she will turn back to her notes, mumbling aloud to herself 
 
@@ -67,7 +98,7 @@ ___
 - [[Crypt puzzle]]
 - [[Divergent rooms puzzle]]
 - Zombie/Undead encounter
-- Nysaphia encounter
+- [[Nysaphia#Stats|Nysaphia Encounter]]
 ## Key Items
 
 | Item Name | Description |
