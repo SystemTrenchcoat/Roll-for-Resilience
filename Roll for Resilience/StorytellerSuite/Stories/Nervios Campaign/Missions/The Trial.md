@@ -65,7 +65,7 @@ Suddenly, your eyes feel extremely heavy and are forced shut for only a moment. 
 > "You appear before [[Gimil Lawman]], Galleon of the court and great judge of Nervios. Sentencer of Aequorin and punisher of the guilty."
 
 Gimil's unbroken gaze burns with a sense of deep wisdom and ancient impatience. His voice booms with a deep resonance,
-> "You stand guilty before Aequorin and the court for your crimes of *\*INSERT CRIME HERE\**. Before your trial, you are allotted a third of an hour to gather and collect evidence at the scene of your crime in an attempt to prove your innocence. Once your time is up, you shall be escorted back here for your trial where you will use that evidence to argue for your innocence. Your search time starts now."
+> "You stand guilty before [[Aequorin]] and the court for your crimes of *\*INSERT CRIME HERE\**. Before your trial, you are allotted a third of an hour to gather and collect evidence at the scene of your crime in an attempt to prove your innocence. Once your time is up, you shall be escorted back here for your trial where you will use that evidence to argue for your innocence. Your search time starts now."
 
 His body shifts slightly as he pulls an out-of-sight lever, causing the anchor to plummet to the floor with a deafening clang. The sound echoes around the vast walls of the courthouse. The guards from before heave the massive wooden door open and begin to lead you towards the scene of the accused crime. As you exit, a deep ratchet of metal on metal is heard as the frail man begins tirelessly reeling the anchor in by a large wheel on the side of the podium.
 
