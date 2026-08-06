@@ -1,0 +1,76 @@
+# Introduction
+___
+## [[The City of Nervios - An Introduction]]
+# Missions
+___
+This campaign focuses on creating a modular and fine-tuned experience for the players. While certain missions are necessary for getting the group together and getting the party started, the rest of the campaign can and should be tailored to suit the needs/wants of the players.
+
+The current list of missions and their descriptions are shown below. The first three missions are integral to the story and worldbuilding and must occur before other missions. 
+
+| Mission Title                                                                                   | Description                                                                                                                                                                                                                   | Timeline  | Mood/Vibe                 |
+| ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ------------------------- |
+| [[The Festival of Granite Rain]]*\*\* *                                                         | The intro to the campaign. The party meets during the annual Festival of Granite Rain: a celebration of the day the [[Nervios]] guards sealed the city gate to protect the citizens from the outside world.<br>               | Beginning | Lighthearted              |
+| [[The Collapse of Central Stage]]*\*\* *                                                        | Following the Festival of Granite Rain, the party finds themselves trapped in an underground tunnel system following a massive sinkhole. Can they find their way out while navigating puzzles, darkness, and cryptic symbols? | Beginning | Tense, Eerily comfortable |
+| [[Peaking in the Burrow]]*\*\* *                                                                | Following the events of The Collapse of Central Stage, the players find themselves in The Burrow: an underground marketplace where rebels and criminals prosper alike. This is the key to their return to the surface.        | Beginning | Safe, Mysterious          |
+| [[We, Sentients]]                                                                               | While reminiscing on the past, an older sentient robot asks the party to help locate an old cache left behind by its creator.                                                                                                 | Middle    |                           |
+| [[The Trial]]                                                                                   | Your party is arrested by the Guards and accused of committing a great crime. The party must prove their innocence in the corrupt courts of Nervios where guilt is the assumption.                                            | Middle    | Tense,                    |
+| Smuggling for the Merrene                                                                       | The party's service is requested by the wealthiest noble family in all of Nervios, the Merrene. Turns out, they need help smuggling illicit goods out.                                                                        | Middle    |                           |
+| Dead Don't Swim                                                                                 | The party is made aware of a necromancer beneath the city. The soul of a victim pleads for the party to defeat the necromancer and free the souls in her possession.                                                          | Middle    |                           |
+| The Forbidden <br>Text                                                                          | The party finds themselves in possession of an ancient religious text, predating even the old Religion of Nervios.                                                                                                            | Middle    |                           |
+|                                                                                                 |                                                                                                                                                                                                                               | End       |                           |
+| Ending Mission: ([[Climbing The Nervios Eye]] **OR** [[Escape Ritual\|Dose of Clarity]])*\*\* * | One last chapter written in the party's tales from Nervios, deciding how they wish to close this book.                                                                                                                        | End       |                           |
+*"\*\*" is plot critical*
+
+## Foreshadowing
+There are two different missions that can end the campaign. The GM should choose a campaign that best fits the party's playstyle and vibes. The endings are as followed:
+	1. [[Escape Ritual]]: The party is approached by a mysterious figure offering an escape from the city. 
+	2. [[Climbing The Nervios Eye]]: The party climbs [[The Nervios Eye|The Spire]] and uncovers an earthshattering discovery.
+
+These endings have elements that can be referenced throughout the campaign within various missions. Ensure you are familiar with the two endings *before* running the campaign, so necessary elements can be adequately foreshadowed.  Throughout missions, feel free to pick any piece of foreshadowing below to reference.
+### [[Escape Ritual]] Finale Foreshadowing
+
+| #   | Foreshadowing Element                                                                                                                                                                                                               | Restriction                                                                                                                                                        |
+| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1   | Out of the corner of your eye, you see a copper cloak moving intently through a crowd. As the crowd parts, you notice that the hooded figure seems to almost glide along the floor; it's head remaining eerily still as it travels. | This can occur at any time the party is near a large crowd                                                                                                         |
+| 2   | Whispers circulate of the existence of a [[Fallen Star]], an elusive magical artifact whose purpose is unknown. Apparently, a cloaked figure has been trying to obtain it.                                                          | This rumor can be overheard at any point, but the party is more likely to hear it in [[The Burrow]] or around the [[Rebels]].                                      |
+| 3   | Staff at the [[Loud House Tavern]] mention that their chalk has been going missing.                                                                                                                                                 | This can occur at the [[Loud House Tavern]] or [[The Fluffy Queen Inn]].                                                                                           |
+| 4   | Under the clear night sky, a deafening clap of thunder can be heard throughout the city, followed by a distinct lack of lightning.                                                                                                  | This can occur at any point during the night when players are above ground and outside.                                                                            |
+| 5   | After [[The Festival of Granite Rain]], a party member senses the penetrating glare of curious eyes from behind. When they turn around, nobody is there.                                                                            | This can occur at any point after [[The Festival of Granite Rain]], and a passive perception check determines if a player can feel the eyes. (Passive 14+ or roll) |
+| 6   | A sky-blue mage hand bearing claws comes to the party's rescue, reviving 1 incapacitated character(True Resurrection), or repelling creatures.                                                                                      | This can occur in times of need once or twice throughout the campaign.                                                                                             |
+| 7   | [[Nysaphia]] or another character well attuned to magic(proficiency or 3+ points in arcana) can detect the existence of a powerful mage within the city.                                                                            | This can occur at any point the party (or relevant NPCs) make arcane checks throughout the campaign.                                                               |
+| 8   | Strolling past the eerie facade of the [[Abandoned Building]], the party overhears the ramblings of a voice through a broken window. If they check inside, nobody is there.                                                         | The party must be travelling through the streets of [[Nervios]].                                                                                                   |
+### [[The Nervios Eye|The Spire]] Finale Foreshadowing
+
+| #   | Foreshadowing Element                                                                                                                                                                                                                                                                                                                                                                                           | Restriction                                                                                                               |
+| --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Ships only dock/depart during the day. It’s known as bad luck and irresponsible to go out to sea during the night.                                                                                                                                                                                                                                                                                              | This information is common knowledge in [[Nervios]]. It could be frequently referenced near the docks of [[Rutmar Port]]. |
+| 2   | Ships frequently crash along the peninsula cliff walls during foggy days or in poor visibility                                                                                                                                                                                                                                                                                                                  | This information can be witnessed during a mission, or overhead at any moment                                             |
+| 3   | Rumor has it, a beam of light shines through the pupil of [[The Nervios Eye\|The Eye of Nervios]] for a few minutes a night during a specific time of year.                                                                                                                                                                                                                                                     | This information can be overheard at any moment.                                                                          |
+| 4   | Older members of long-living races refer to the spire as Ol' Faro, but refuse to go into further detail as to not face punishment from the guards.                                                                                                                                                                                                                                                              | This information can only be gathered by word of mouth from ancient species. Could occur at [[The Fluffy Queen Inn]]      |
+| 5   | [[The Nervios Eye\|The Spire]] looms high over the city and sits in the center of Rutmar Port. Inspecting the architecture of the tower, you notice how the brutalist black-and-white architecture of the shaft contrasts the intricate ornate eye structure made of silver and gold wire that sits at the peak of The Spire. A large copper-dome sits atop the eye, further contrasting the rest of the tower. | The Spire can only be seen while outside and facing towards the Northern bay,                                             |
+| 6   | Old paintings depicting Nervios showcase a tower half the height of The Spire located in the center of [[Nervios#Aequorin's Bay\|The Bay]]. The tower is short and made of smooth white limestone brick that tapers as it rises in height. A black platform rests at the top, covered by a large copper-dome roof.                                                                                              | These paintings should only exist amongst the [[Rebels]], or in older buildings such as [[The Fluffy Queen Inn]].         |
+| 7   | An old notebook contains illegible diagrams and descriptions of a tower with a strange mechanism. "The Spire is a Lie" is written in bold across the last two pages                                                                                                                                                                                                                                             | Could be found in [[The Burrow]] or amongst [[Sea Scribes of Umorism#Sea Scribes\|Umorist Sea Scribes]]                   |
+## Lore Tables
+
+### General Lore
+
+### Rebel Lore
+
+### Guard Lore
+
+### Religion Lore
+
+# Navigating the Obsidian
+___
+## Missions
+Missions and their descriptions are located in the Missions folder located in StorytellerSuite/Stories/Nervios Campaign/Missions.
+
+## Characters
+
+## Locations
+
+## Items
+
+# Foundry
+___
+A foundry compendium is located [[|here]]. It can be moved and installed into foundry and contains multiple maps, characters, and scenes to interact with the world of Nervios.
