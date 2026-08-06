@@ -1,8 +1,8 @@
 ---
 entityType: scene
-name: Forbidden Text
+name: Aequorin's Desalination
 status: WIP
-chapterId: Middle
+chapterId: "[[Beginning]]"
 linkedGroups:
   - "[[Church of Aequorism]]"
   - "[[Guards]]"
@@ -27,26 +27,18 @@ Everyone gathers together at the Aequorist church, few others are present aside 
 ### 2. Filling the pot
 ___
 Party members in pairs casually take trips getting a bucket full of water and dumping it into the large central pot. Wave wardens are assisting in gathering water, and the pot is over halfway full when you arrive, so the party only needs to gather about 2-3 more buckets worth of seawater. Party members can choose to split off in their pairs or choose to all move together
-
-
 ### 3. Igniting the flames
 ___
 Now that it's full, the task of igniting the pile of coals underneath the great pot falls to the party. Many of the wardens have stepped outside or otherwise moved away to recover, leaving Isabelle alone to guide you.
-  
 ### 4. Pieces Together
 ___
 Flames steadily roar beneath the pot, with the spout from the lid channeled into a separate basin. Isabella gathers small stones chiseled with a phrase of a larger chant and hands them to the party, with one containing a riddle for the uninitiated on what the order of phrases is. She will tend to the flames so as to maintain them until the party solves the order.
-
 ### 5. Reciting the solution
 ___
-With the solution worked out, the riddleholder directs the chant and pure water flows from the pot into the basin.
-
+With the solution worked out, the riddle holder directs the chant and pure water flows from the pot into the basin.
 ### 6. The Grateful Sun
 ___
 Isabella expresses her gratitude for the party and sends them on their way with a small blessing if they did really well.
-
-**
-
 ## Core Mechanics
 
 ### Boiling the Pot
