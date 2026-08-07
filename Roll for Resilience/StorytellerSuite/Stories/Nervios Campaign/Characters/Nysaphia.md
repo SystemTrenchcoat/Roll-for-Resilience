@@ -15,7 +15,7 @@ age: "27"
 height: 5'2"
 id: mrnz3b09mcg83z
 ---
-Necromancer who set up a workshop beneath Nervios in order to perform research on dry corpses
+Necromancer who set up a workshop beneath [[Nervios]] in order to perform research on dry corpses
 ## Physical Description
 Dressed in the garb of a sleeveless mauve robe, her emerald locks reach over its hood, nearly stretching down to her shoulders. Her sapphire eyes compliment the blessed beauty in the cultural markings sprawling down the length of her entire skin.
 
@@ -37,6 +37,6 @@ Curiosity, Nysaphia's fascination with the unknown and the taboo pushes her forw
 ## Backstory
 Beneath the waves of the [[Sunderwin]] lies a settlement of seafolk with its outskirts constantly littered by the corpses of the world above. Nysaphia saw the plethora of bodies and, against her grandparents wishes, picked them apart to bring them back. They fascinated her so much, being different than the elves she knew of, they were the "humans" from the old generation's stories. 
 
-Once Nysaphia felt herself repeatedly reaching a block, she left home, and settled into an abandoned tomb beneath [[Nervios]] with its entrance flooded. It wasn't long until she noticed a difference from the dead there compared to what she was used to, documenting more details as her sporadic process slowly shifted to systematic. Once she started including her steps, she realized this data was bigger than what she ever could be alone, it had to be shared for everyone.
+Once Nysaphia felt herself repeatedly reaching a block, she left home, and settled into the [[Nervios Crypts#Flooded Sector|Flooded sector]] of the Crypts. It wasn't long until she noticed a difference from the dead there compared to what she was used to, documenting more details as her sporadic process slowly shifted to systematic. Once she started including her steps, she realized this data was bigger than what she ever could be alone, it had to be shared for everyone.
 
 Through her experiments, she came to the conclusion that a tether exists between body and soul, searching for how to sever this connection and allow the two to be independent by raising more undead at once. 

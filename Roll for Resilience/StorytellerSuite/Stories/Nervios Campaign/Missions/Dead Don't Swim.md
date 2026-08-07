@@ -8,7 +8,7 @@ linkedCharacters:
   - "[[Nysaphia]]"
   - "[[Lili Heartkeep]]"
 linkedLocations:
-  - "[[Flooded sector]]"
+  - "[[Nervios Crypts]]"
 ---
 Hook
 ___
@@ -20,16 +20,16 @@ Tears streaking down her face, a hysterical ghost drifts aimlessly, shielding he
 
 >"*My name- my name is [[Lili Heartkeep]]. Please, dearie, don't run. I need your help.*"
 
->*"Somewhere down in the crypts, one of the seafolk has defiled my corpse and risen it for her own 'study'.*"
+Sniveling back to composure, she continues.
 
- Sniveling back to composure, she wants herself freed, afraid she'll miss her chance to be reincarnated.
+>*"Somewhere down in the crypts, one of the seafolk has defiled my corpse and risen it for her own 'study'. Please, free me. [[Aequorin]] may pass over my time of rebirth and then I- I shudder to think what will become of me.*"
 
 ## 2. Down we go
-Journeying towards the [[Sanctuary of Aequorin]], together everyone finds the [[Crypts]] entrance, searching for any trail left by the necromancer. 
+Journeying towards the [[Sanctuary of Aequorin]], together everyone finds the [[Nervios Crypts|Crypts]] entrance, searching for any trail left by the necromancer. 
 
-If someone has a passive investigation higher than 13, or a tracking equivalent, spotlight them to lead the way. On multiple, highest wins, and on a tie let players decide how they handle it.
+If someone has a passive investigation higher than 13, or a tracking equivalent, spotlight them to lead the way. On multiple, the highest wins, and on a tie let the players decide how they handle it.
 
-Following this trail pulls into a corner tucked away from everyone else, complete with a torch illuminating the embedded skull sigil beside it. Examining the skull closer, it appears to have a pair of notched hexagonal eyes separate from the eye sockets. 
+Following this trail pulls the party into a corner tucked away from everyone else, complete with a torch illuminating the skull sigil embedded beside it. Examining the skull closer, it appears to have a pair of notched hexagonal eyes separate from the eye sockets. 
 
 ### [[Crypt puzzle]] rundown
 Players must spin the eyes, similar to a safe lock, to find the combination which unlocks the wall. The right eye can turn independently, but turning the left eye makes the right turn two notches in the same direction. Each notch in the left eye implicitly matches a roman numeral (I - VI), however only two, four, and six are visibly written.
@@ -42,15 +42,14 @@ Following the newly opened passage, the rocks around you shift from darker shade
 
 >*"Before I was forced out, I saw others. Whatever that girl is 'studying', she needed more than just me. Oh, gracious [[Aequorin]], I know we should aspire to your selflessness but- who am I fooling, I'm no better than the Drowned. I didn't come here for them...*"
 
- As they feared, the party discovers that the necromancer accessed this part of the crypts through a submerged tunnel, which they cannot. In hopes it eventually reconnects, they redirect themselves through a gate off to the side. 
-
+ As they feared, the party discovers that the necromancer accessed this part of the crypts through a submerged tunnel, which they cannot. However, off to the side, a swinging iron gate sits unlocked. With hope restored, the party presses onwards.
 ## 4. [[Divergent rooms puzzle]]
 Once again with their way forward blocked, their hope remains as they notice a turning wheel at the center of the otherwise empty room. As a few volunteer to spin the wheel, expecting the gate forward to open, they instead hear the clamoring of steel gates rising behind them. When inevitably the wheel is stopped, the gates slam shut, and everyone gathers to formulate a plan. At the party's discretion, they split into smaller groups to handle each room.
 
 As both adjacent rooms switches are activated, the wide metal gate once blocking their path grinds upwards, screeching with each inch it rises until it fully disappears. 
 
 ## 5. Wandering corpse
-Glimmers inside the dim lighting dot the rock walls, with tiny pieces of crystal dust broken up by larger shards. Around the corner, one of the corpses that [[Nysaphia]] reanimated has wandered away from her workshop, peacefully shambling through the passage and into the party’s way. Treat this creature as a Zombie, or system appropriate low challenge undead.
+Glimmers inside the dim lighting dot the rock walls, with tiny pieces of crystal dust broken up by larger shards. Around the corner, one of the corpses that [[Nysaphia]] reanimated has wandered away from her workshop, peacefully shambling through the passage and into the party’s way. Treat this creature as a [Zombie](https://www.dndbeyond.com/monsters/4775851-zombie), or system appropriate low challenge undead.
 
 ## 6. At the workshop
 Familiar tan rocks desaturate into the grey of stone tiles as the party reaches the crypt. Passing by the emptied indents where bodies should lay, you spot the necromancer's workshop off to the right. Shelves are lined with books, with loose notes sprawled across tables used to prepare the dead. Along the top of one sits a small flame, heating what you presume to be ink or wax, accompanied by assorted crystals and clouded vials. Tucked closely into the far corner is a bedroll left partly undone, across from the other side of the flooded tunnel seen earlier.
@@ -109,7 +108,6 @@ ___
 # Setting
 ___
 ## Key Locations
-- [[Crypts]]
-- [[Flooded sector]]
+- [[Nervios Crypts]]
 ## Hiding Spots
 ## Motivators
