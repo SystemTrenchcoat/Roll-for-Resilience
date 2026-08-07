@@ -20,7 +20,7 @@ Necromancer who set up a workshop beneath Nervios in order to perform research o
 Dressed in the garb of a sleeveless mauve robe, her emerald locks reach over its hood, nearly stretching down to her shoulders. Her sapphire eyes compliment the blessed beauty in the cultural markings sprawling down the length of her entire skin.
 
 ## Stats
-Nysaphia has the stats of a level 6 Necromancy school wizard, with spells such as Sapping Sting, Acid Splash, Animate Dead, and Possession. She prefers to stick with ranged magic, and avoids using fire or ice because of her background underwater.
+Nysaphia has the stats of a level 6 Necromancy school wizard, with spells such as Sapping Sting, Acid Splash, Animate Dead, and Possession. She prefers to stick with ranged magic, and avoids using fire or ice because of her background underwater. Her intelligence is above average, which contrasts her general lack of physical prowess and awkward sense of balance.
 
 ## Vocal Performance
 Nysaphia speaks in nasal tones, with all of the bright sounds typical of a "nerdy" character type. Envision the stereotypical nerd who adores correcting people, and then tone that back, lowering the pitch and intensity. You will more than likely need to scrunch up your face to convey her vocal quality correctly, but don't do it so tight as to limit your pronunciation.
@@ -35,7 +35,7 @@ Nysaphia speaks in nasal tones, with all of the bright sounds typical of a "nerd
 Curiosity, Nysaphia's fascination with the unknown and the taboo pushes her forward, especially if it means getting her hands dirty in the process. Raising the dead for study was simply the next logical evolution in her curiosity, she simply must understand. But now, her curiosity has evolved into a sense of altruism in the name of arcane science, coldly accepting any cost she incurs for her [Utilitarian](https://ethicsunwrapped.utexas.edu/glossary/utilitarianism) good.
 
 ## Backstory
-In the open waters of the [[Sunderwin]] lies a settlement of seafolk with its outskirts constantly littered by the corpses of the world above. Nysaphia saw the plethora of bodies and, against her grandparents wishes, picked them apart to bring them back. They fascinated her so much, being different than the elves she knew of, they were the "humans" from the old generation's stories. 
+Beneath the waves of the [[Sunderwin]] lies a settlement of seafolk with its outskirts constantly littered by the corpses of the world above. Nysaphia saw the plethora of bodies and, against her grandparents wishes, picked them apart to bring them back. They fascinated her so much, being different than the elves she knew of, they were the "humans" from the old generation's stories. 
 
 Once Nysaphia felt herself repeatedly reaching a block, she left home, and settled into an abandoned tomb beneath [[Nervios]] with its entrance flooded. It wasn't long until she noticed a difference from the dead there compared to what she was used to, documenting more details as her sporadic process slowly shifted to systematic. Once she started including her steps, she realized this data was bigger than what she ever could be alone, it had to be shared for everyone.
 

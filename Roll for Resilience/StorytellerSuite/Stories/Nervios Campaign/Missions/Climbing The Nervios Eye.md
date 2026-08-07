@@ -168,13 +168,13 @@ Pushing open the vast wooden front door, the cool misty air wafts across your fa
 ___
 *The party manages to successfully and stealthily escape after revealing the true form of the spire. Where will they go? Who will they talk to?*
 ## Next Steps
-The party is free to do whatever they wish after escaping [[The Nervios Eye|The Spire]]. If they grabbed [[Malachi's Memoir]], they can keep it or give it to the Rebellion. They have a short period of time for the last interactions with each other or the city before the mission comes to a close. Characters that the party interacts with have mixed emotions about the reveal of the Spire. Many are angered by the actions and control of the guard, while others are fearful, seeing it as an act of god.
+The party is free to do whatever they wish after escaping [[The Nervios Eye|The Spire]]. If they grabbed [[Malachi's Memoir]], they can keep it or give it to the Rebellion. They have a short period of time for the last interactions with each other or the city before the mission comes to a close. Characters that the party interacts with have mixed emotions about the reveal of the Spire. Many are angered by the actions and control of the guard, while others are fearful, seeing the collapse of the illusion as an act of god.
 
 ## Scene Description - The Day of Faro
 One year after the "Fall of the Spire", a festival is held in honor of the day when the illusion of the Spire came to an abrupt end, as well as the illusion of the guard's and noble's control over the city. Today, the Great Gate of Nervios sits open once more, clear of even a single loose pebble. Furthermore, the corrupt-systems of the old government have been getting steadily replaced, with the lead restoration effort being led by [[Rebels|The Rebellion]]. For the first time in a long time, Nervios is hopeful again. Regardless, the city still has a long way to go until it reaches it's former glory.
 
 ## Character endings
-Spotlight each player character. Give them a moment to explain where their character is during this point in time, how they are doing, and where they could be going. 
+Spotlight each player character. Give them a moment to explain where their character is during this point in time, what they are doing, and where they could be going. 
 
 # Content
 ___
@@ -190,8 +190,18 @@ ___
 | [[Malachi's Memoir]] | A blue book with a golden embroidered title written by a former lighthouse keeper. |
 # Setting
 ___
-The spire is a dominating and intimidating structure. It's immense size looms over [[Nervios]], dividing the city with it's shadow.
+The spire is a dominating and intimidating structure. In the day, it's immense size looms over [[Nervios]], swallowing a strip of the city in it's vast shadow. At night, the dark silhouette of the tower creates a void of stars against the shimmering sky.
+
 ## Key Locations
--[[The Nervios Eye|The Spire]]
+- [[The Nervios Eye|The Spire]]
+
 ## Hiding Spots
+Throughout the mission, players can take their time climbing the tower. If a player gets overwhelmed or struggles while facing their alter-ego during [[#4. Leaps of Faith]], their party mates can assist them in the confrontation and allow them to step back for a moment.
+
 ## Motivators
+If the party refuses to investigate The Spire after the [[#Hook]], [[Bethia Tallowwind]] will try to reach out to them after hearing from a spy that they were spotlighted. 
+
+If the party is slow climbing the Spire, a few events can occur to motivate the party forwards:
+- The base of the tower shakes and creaks as waves billow and crash against the foundation walls.
+- A cold chill runs up your spine, creating the feeling of danger growing ever-closer.
+- The room rattles violently as the muffled sound of a nearby lightning strike resonates through the thick stone walls.
