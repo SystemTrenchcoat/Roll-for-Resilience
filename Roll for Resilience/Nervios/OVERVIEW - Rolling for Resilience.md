@@ -54,7 +54,16 @@ These endings have elements that can be referenced throughout the campaign withi
 
 ### General Lore
 
-### Rebel Lore
+### [[Rebels]] Lore
+Roll on this table for general pieces of Rebellion lore
+
+| #   | Lore Description                                                                                                       |
+| --- | ---------------------------------------------------------------------------------------------------------------------- |
+| 1   | You overhear mentions of a potential "mole" working for the [[Rebels]] within the ranks of the [[Guards]].             |
+| 2   | You hear a rumor that the Rebels have been smuggling citizens out through hidden compartments within shipping vessels. |
+| 3   | You hear that merchants and certain noble families work with the [[Rebels]] in a hidden black market.                  |
+| 4   | You hear rumors of an underground fight club far from the sight of the [[Guards]].                                     |
+
 
 ### Guard Lore
 
