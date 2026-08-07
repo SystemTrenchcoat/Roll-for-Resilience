@@ -53,22 +53,22 @@ As both adjacent rooms switches are activated, the wide metal gate once blocking
 Glimmers inside the dim lighting dot the rock walls, with tiny pieces of crystal dust broken up by larger shards. Around the corner, one of the corpses that [[Nysaphia]] reanimated has wandered away from her workshop, peacefully shambling through the passage and into the party’s way. Treat this creature as a Zombie, or system appropriate low challenge undead.
 
 ## 6. At the workshop
-Arriving at the necromancer’s workshop, the party sees piles of books and loose papers sprawled across tables used to prepare the dead. Along the top of one sits a small flame, melting what you presume to be batch of ink or wax, accompanied by assorted crystals and clouded vials.
+Familiar tan rocks desaturate into the grey of stone tiles as the party reaches the crypt. Passing by the emptied indents where bodies should lay, you spot the necromancer's workshop off to the right. Shelves are lined with books, with loose notes sprawled across tables used to prepare the dead. Along the top of one sits a small flame, heating what you presume to be ink or wax, accompanied by assorted crystals and clouded vials. Tucked closely into the far corner is a bedroll left partly undone, across from the other side of the flooded tunnel seen earlier.
 
-Fixed in place and keeping watch over her, Nysaphia has a small number (1d4) of the undead previously chosen, ready to defend against a hostile party.
+Fixed in place and keeping watch over her, Nysaphia has a small number (1d4) of the previously chosen undead, ready to defend against a hostile party.
 
 Leisurely pulling her head out of an experiment, Nysaphia turns towards everyone. 
 > "*Huh? Oh. Hey. I wasn't expecting to get any company down here...or at least any like you.*"
-> "*Can you...understand me? Everything suggests you should. My name is Nysaphia, you humans should have names as well, right?*"
+> "*Can you...understand me? Everything suggests you should. My name is Nysaphia, you humans have names as well, right?*"
 
 Cautiously casual, the two sides nervously laugh and chat with each other for a moment
 
->*I can't dance around this any longer. Your faces tell the entire reason you're here, it's hard not to notice that first. I intend to be on my way when my work is finished, no sooner. But, if you truly want me gone, then we can discuss terms*
+>*I can't dance around this any longer. Your faces tell the entire reason you're here, it's hard not to notice that first. I intend to be on my way when my work is finished, and no sooner. But, if you truly want me gone, then we can discuss terms*
 
 ### Bartering with Nysaphia
 Nysaphia is here to research, observe, and report the characteristics of dry corpses, only planning to leave once she has finished. Players with a passive insight or observation of 13 will notice her sincerity when she says she'll leave. 
 
-Since she does not know which connection would free Lili specifically, not that she knows her name, she would have to go through each undead individually again. In order to convince her, the party is offered to perform one random favor. 
+Since she does not know which connection would only free Lili, not that she knows her name, she would have to go through each undead individually again. In order to convince her to leave, the party is offered to perform one random favor. 
 
 | 1   | Temporarily possess the body of one party member (preferably a human) |
 | --- | --------------------------------------------------------------------- |
@@ -84,7 +84,7 @@ With Nysaphia dealt with, Mrs. Heartkeep says
 
 If Nysaphia dies, have her body rapidly decompose and any reanimations remaining fall. If Nysaphia is alive, she will turn back to her notes, mumbling aloud to herself 
 
->"Still astounded by such remarkable preservation.... now, where was I on severing that infernal tether...?”
+>"Such remarkable preservation still astounds me.... now, where was I on severing that infernal tether...?”
 
 
 # Content
