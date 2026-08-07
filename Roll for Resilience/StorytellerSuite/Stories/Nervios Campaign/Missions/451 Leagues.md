@@ -33,9 +33,21 @@ Deciding to help out, the party gathers the volumes from the scribe’s library 
 Characters need to move Emery’s tomes into each of the crates, which fit about 16 comfortably. Characters only need to perform checks to pick up the crates or carry books down a ladder without dropping them. Failing a check to pick up a crate twice in a row or critically failing destroys the crate, and Emery only has the ones he gave you plus the ones he’s already filling. Players get a number of crates equal to the amount of party members to fill.
 ### 5. Persuasion
 With the physical labor done, the party now needs to convince a ship belonging to one of the smugglers or various captains to bring the crates to a neighboring city, Visangor.
+### Convincing a captain
+Since it's safe to assume nobody in the party owns a ship of their own, or could afford to part ways with everyone for the open sea right now, you all need to convince someone to do that for you. Plenty of smugglers are willing to take the chance, for the right price. Alternatively, you could convince one of the more traditionally honest folk to lend their hand with this.
+
+Among the smuggler crews will be Iniza Brada, though she won’t fully introduce herself if they haven’t met yet. The general smugglers will ask for about 20 SCL upfront to take on the crates, while the ship captains will ask for 10. Here the tradeoff is the certainty of all the crates making it to their destination. Lawbenders they may be, smugglers are known for their dependability, while other ship captains aren’t. 
+
+If players choose the normal ship captains, roll a d20 as the ship departs at medium difficulty to determine the fate of the ship. On failure, the ship is captured or wrecked before reaching the open water.
 
 ### 6. Loading Up
 Having secured a vessel for their volumes, now all the party needs to do is bring the crates aboard the ship and the rest will be taken care of.
+### Loading the ship
+Functionally this will act the same as before, players need to perform a series of successes with however many crates they achieved before, with an additional 3 more that Emery managed to pack himself. Players will want to assist each other to safely move these crates as quickly as they can, since assisting another player increases the number of fails required to break a crate from 2 in a row to 3. 
+
+Guards will be able to spot the party after a number of checks have been made, determined by the amount of crates times a modifier to control the difficulty. For a more lenient balancing, multiply the number of crates by 2, and for more tension multiply the crates by 1.5 and round it down to a whole number. As an example, 7 crates with a modifier of 2 would give your party 14 checks before the guards patrol through here. 
+
+It is ultimately up to you to determine what guards catching up with the party means. Whether their pockets are heavier for a foggy memory, or are itching for a fight.
 
 ### 7. Departure
 Players are rewarded and thanked for their efforts, with the scribe now hopeful at the chance of their life’s work being preserved.
@@ -50,18 +62,8 @@ ___
 - Ship captain C
 
 ## Mechanics
-### Convincing a captain
-Since it's safe to assume nobody in the party owns a ship of their own, or could afford to part ways with everyone for the open sea right now, you all need to convince someone to do that for you. Plenty of smugglers are willing to take the chance, for the right price. Alternatively, you could convince one of the more traditionally honest folk to lend their hand with this.
 
-Among the smuggler crews will be Iniza Brada, though she won’t fully introduce herself if they haven’t met yet. The general smugglers will ask for about 20 SCL upfront to take on the crates, while the ship captains will ask for 10. Here the tradeoff is the certainty of all the crates making it to their destination. Lawbenders they may be, smugglers are known for their dependability, while other ship captains aren’t. 
 
-If players choose the normal ship captains, roll a d20 as the ship departs at medium difficulty to determine the fate of the ship. On failure, the ship is captured or wrecked before reaching the open water.
-### Loading the ship
-Functionally this will act the same as before, players need to perform a series of successes with however many crates they achieved before, with an additional 3 more that Emery managed to pack himself. Players will want to assist each other to safely move these crates as quickly as they can, since assisting another player increases the number of fails required to break a crate from 2 in a row to 3. 
-
-Guards will be able to spot the party after a number of checks have been made, determined by the amount of crates times a modifier to control the difficulty. For a more lenient balancing, multiply the number of crates by 2, and for more tension multiply the crates by 1.5 and round it down to a whole number. As an example, 7 crates with a modifier of 2 would give your party 14 checks before the guards patrol through here. 
-
-It is ultimately up to you to determine what guards catching up with the party means. Whether their pockets are heavier for a foggy memory, or are itching for a fight.
 ## Key Items
 
 # Setting
