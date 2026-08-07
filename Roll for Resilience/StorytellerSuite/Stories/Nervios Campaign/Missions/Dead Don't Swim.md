@@ -62,10 +62,14 @@ Leisurely pulling her head out of an experiment, Nysaphia turns towards everyone
 
 Cautiously casual, the two sides nervously laugh and chat with each other for a moment
 
->*I can't dance around this any longer. Your faces tell the entire reason you're here, it's hard not to notice that first. I intend to be on my way when my work is finished, and no sooner. But, if you truly want me gone, then we can discuss terms*
+>*"I can't dance around this any longer. Your faces tell the entire reason you're here, it's hard not to notice that first. I intend to be on my way when my work is finished, and no sooner. But, if you truly want me gone, then we can discuss terms"*
 
 ### Bartering with Nysaphia
 Nysaphia is here to research, observe, and report the characteristics of dry corpses, only planning to leave once she has finished. Players with a passive insight or observation of 13 will notice her sincerity when she says she'll leave. 
+
+>*"I should've foreseen that humans wouldn't understand my work before it was finished. What you call 'macabre', I see as necessary. One pair of stained hands, for the living to benefit. That sounds fair to me."*
+
+>*"Once my notes are complete, I'll compile them and publish them for the entire realm to see. Even if they despise my process, they'll have to understand the results. They must, I've only scratched the surface and I see the benefit."*
 
 Since she does not know which connection would only free Lili, not that she knows her name, she would have to go through each undead individually again. In order to convince her to leave, the party is offered to perform one random favor. 
 
@@ -79,11 +83,12 @@ Alternatively, if the party succeeds at a hard persuasion check she can also be 
 
 ## 7. Return to rest
 With Nysaphia dealt with, Mrs. Heartkeep says
+
 >"*Back into the cold darkness, at last....bless you, children.*"
 
 If Nysaphia dies, have her body rapidly decompose and any reanimations remaining fall. If Nysaphia is alive, she will turn back to her notes, mumbling aloud to herself 
 
->"Such remarkable preservation still astounds me.... now, where was I on severing that infernal tether...?”
+>*"Such remarkable preservation still astounds me.... now, where was I on severing that infernal tether...?”*
 
 
 # Content
