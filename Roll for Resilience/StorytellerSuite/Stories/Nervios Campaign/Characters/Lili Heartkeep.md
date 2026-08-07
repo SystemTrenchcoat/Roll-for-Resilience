@@ -12,7 +12,6 @@ traits:
 height: 5'4"
 id: mrtdx6r0m1iw3c
 ---
-(she/her)
 ## Physical Description
 Her spiritual form is draped in the pink tunic she favored during life, which tenderly hugs at her pudgy belly and stout arms. Gracefully flowing down her back are strands of silver hair, the well-kept pride of her appearance parted down the center.
 

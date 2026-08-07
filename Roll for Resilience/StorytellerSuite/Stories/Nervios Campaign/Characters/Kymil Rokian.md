@@ -15,7 +15,9 @@ traits:
 ---
 
 ## Description
-A mature elf who serves as keeper for [[The Fluffy Queen Inn]], despite its noticeable lack of business. Especially among repeated customers, he has a reputation for not understanding how sleep works for races besides the Elves, assuming everyone simply enters [Trance](https://roll20.net/compendium/dnd5e/Elf%20Trance#content). Additionally, he has a tendency to come off as rude to races that on average lead shorter lives (150 years or less), such as humans, halflings, and tieflings.
+A mature elf who serves as keeper for [[The Fluffy Queen Inn]], despite its noticeable lack of business. Especially among repeated customers, he has a reputation for not understanding how sleep works for races besides the Elves, assuming everyone simply enters [Trance](https://roll20.net/compendium/dnd5e/Elf%20Trance#content). 
+
+Additionally, he has a tendency to come off as rude to races that lead shorter average lives (150 years or less), such as humans, halflings, and tieflings. The exact reasoning behind this is explained in the [[The Fluffy Queen Inn#History|Fluffy Queen History]]
 
 ## Appearance
 Descending down the back and sides of his innocuous frame are braids of honey-blonde fair, with the braid behind reaching his shoulders. In front, his lime green eyes are speckled with flecks of gold.

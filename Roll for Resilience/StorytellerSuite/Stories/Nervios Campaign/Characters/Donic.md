@@ -29,7 +29,7 @@ Donic speaks in semi-deep tones with a slight Australian accent, sprinkling dry 
 - *That potion does you no favors, mate. I can still tell you're there*
 
 ## Backstory
-On long nights, before the Eye's construction, its creator slaved over another's plans for a war machine. She was desperate to realize a symbol of peace and joy, to strip a machine down to its fundamentals and bless it with a sense of humor.
+On long nights, before the [[The Nervios Eye|Eye]]'s construction, its creator slaved over another's plans for a war machine. She was desperate to realize a symbol of peace and joy, to strip a machine down to its fundamentals and bless it with a sense of humor.
 
 One evening's insomnia and personal neglect led to the emergence of a breakthrough, new life repurposed from a system of death. Christening her success at this worlds next entertainer, she named her creation Donic, after the sardonic comedy she admired.
 
