@@ -20,6 +20,9 @@ Various NPCS live in the city of [[Nervios]]. A list of all characters is in [[N
 ## Items
 Various unique items exist throughout the city and can be found throughout various missions. An extensive list of all items is in [[Items]]
 
+## Music
+[[Music]]
+
 # Missions
 ___
 This campaign focuses on creating a modular and fine-tuned experience for the players. While certain missions are necessary for getting the group together and getting the party started, the rest of the campaign can and should be tailored to suit the needs/wants of the players.

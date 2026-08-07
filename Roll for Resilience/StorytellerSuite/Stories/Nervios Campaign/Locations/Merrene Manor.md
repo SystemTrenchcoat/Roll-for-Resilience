@@ -8,13 +8,10 @@ groups:
   - "[[Merrene Family]]"
 ---
 
-## Description
-The home of the [Merrene Family], located on the small island directly south of the peninsula. The island exists outside the peering eyes of the government, and is guarded by a small group of elite soldiers dedicated to protecting the family. 
+# Description
+___
+The home of the [[Merrene Family]], located on the small island directly south of the peninsula. The island exists outside the peering eyes of the government, and is guarded by a small group of elite soldiers dedicated to protecting the family. 
 
-- Ports for personal shipping vessels
-    
-- Vault full of jewelry/wealth
-    
-- Hidden rooms for conducting secret meetings or overseeing illicit operations
-
-## History
+# History
+___
+The family has owned the island for nearly two centuries. Their privacy and lifestyle free-of-guards is one only possible due to their extreme wealth and influence

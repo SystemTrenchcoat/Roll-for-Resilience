@@ -8,8 +8,6 @@ status: Ruins
 ---
 
 ## Description
-Ruins of the previous monarchy that used to rule Nervios before they were overthrown
-A crumbling castle in the back of the poor side of town – the rich nobles purposely moved away from it to back the guards that emerged from the rebellion
-
+Ruins of the previous monarchy that used to rule Nervios before they were overthrown. A crumbling and ruined castle sits in the back of the poor side of town. When the [[Guards]] took control of [[Nervios]], Noble families moved to the opposite side of the peninsula, far from the broken ruins of the old castle.
 ## History
-It is a remnant of the monarchy of Nervios after the old monarchy was overthrown by the guards and nobles a century and a half ago.
+It is a remnant of the previous monarchy of Nervios. Little is known about the history of the castle, or it's crown monarch. 
