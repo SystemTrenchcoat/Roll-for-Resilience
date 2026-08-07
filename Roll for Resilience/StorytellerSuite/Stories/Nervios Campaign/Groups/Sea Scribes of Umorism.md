@@ -10,6 +10,9 @@ members:
     id: "[[Gweneth Falzy]]"
 pronunciation:
   - Umorism (OOMER-IZM)
+aliases:
+  - Umorism
+  - Umorists
 ---
 # Description
 ___

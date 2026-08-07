@@ -53,21 +53,54 @@ These endings have elements that can be referenced throughout the campaign withi
 ## Lore Tables
 
 ### General Lore
+Roll on this table for general lore about the history of [[Nervios]].
 
+| #   | Lore Snippet |
+| --- | ------------ |
+|     |              |
 ### [[Rebels]] Lore
 Roll on this table for general pieces of Rebellion lore
 
-| #   | Lore Description                                                                                                       |
-| --- | ---------------------------------------------------------------------------------------------------------------------- |
-| 1   | You overhear mentions of a potential "mole" working for the [[Rebels]] within the ranks of the [[Guards]].             |
-| 2   | You hear a rumor that the Rebels have been smuggling citizens out through hidden compartments within shipping vessels. |
-| 3   | You hear that merchants and certain noble families work with the [[Rebels]] in a hidden black market.                  |
-| 4   | You hear rumors of an underground fight club far from the sight of the [[Guards]].                                     |
+| #   | Lore Snippet                                                                                               |
+| --- | ---------------------------------------------------------------------------------------------------------- |
+| 1   | You overhear mentions of a potential "mole" working for the [[Rebels]] within the ranks of the [[Guards]]. |
+| 2   | You hear a rumor that the Rebels have been covertly smuggling citizens out of the city.                    |
+| 3   | You hear that merchants and certain noble families work with the [[Rebels]] in a hidden black market.      |
+| 4   | You hear rumors of an underground fight club far from the sight of the [[Guards]].                         |
+| 5   | A person complains that a group Rebels robbed and trashed his store.                                       |
+| 6   | You overhear that The Rebellion has close ties to the criminal underbelly of Nervios                       |
+| 7   | You hear rumors of a secret Rebellion group working right under the noses of the City Guard.               |
+| 8   | You see a small painting of the [[Rebellion Symbol]]                                                       |
+|     |                                                                                                            |
+### [[Guards]] Lore
+Roll on this table for general snippets of lore pertaining to the [[Guards|City Guard]].
 
-
-### Guard Lore
-
+| #   | Lore Snippet                                                                                                                                                          |
+| --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1.  | You hear rumors of a "mind reading" device owned and used by the [[Guards]]                                                                                           |
+| 2.  | A guard watchtower looms over the surrounding buildings. No matter what you do, you cannot see into the looking room.                                                 |
+| 3.  | You hear a rumor of an underground tunnel system that connects the several watchtowers throughout the city.                                                           |
+| 4.  | A commoner complains about the corrupt nature of the guards.                                                                                                          |
+| 5.  | You see a group of guards escorting a shackled prisoner through a crowd. "GUILTY!", the mob shouts.                                                                   |
+| 6.  | A shady figure tells a story of how he snuck into a restricted area of the city by bribing some guards with coin.                                                     |
+| 7.  | You hear a story of how a group of [[Guards#2. Senior\|Senior Guards]] ransacked and trashed a local bakery since "they couldn't afford the protection of the Guard". |
+| 8.  | An ex-guard claims the [[Guards\|City Guard]] is in shambles. He drunkenly exclaims that they're stretched too thin and should never have discharged him.             |
+|     |                                                                                                                                                                       |
+|     |                                                                                                                                                                       |
+|     |                                                                                                                                                                       |
 ### Religion Lore
+Roll on this table for lore pertaining to [[Church of Aequorism]] or [[Sea Scribes of Umorism]].
+
+| #   | Lore Snippet |
+| --- | ------------ |
+| 1   |              |
+| 2   |              |
+| 3   |              |
+| 4   |              |
+| 5   |              |
+| 6   |              |
+| 7   |              |
+| 8   |              |
 
 # Navigating the Obsidian
 ___

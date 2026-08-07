@@ -25,6 +25,10 @@ members:
     id: "[[Jaime Pole]]"
   - type: character
     id: "[[Milo Mandrich]]"
+aliases:
+  - The Guard
+  - City Guard
+  - The Eyes
 ---
 # Description
 ___ 
