@@ -1,6 +1,7 @@
 # Introduction
 ___
-This note explains how to run the campaign, as well how to navigate this Obsidian Vault. 
+This note explains how to run the campaign and provided information about the various missions, characters, items, and locations that exist within the campaign. This note also explains how to navigate this Obsidian Vault. 
+
 ## [[The City of Nervios - An Introduction]]
 The note above explains the general lore and history of [[Nervios]], as well as descriptions of the various groups within the city.
 
@@ -17,27 +18,27 @@ Various NPCS live in the city of [[Nervios]]. A list of all characters is in [[N
 [[Nervios]] is a bustling city with many unique locations. Different missions are generally set at different places. An extensive list of all locations is in [[Locations]].
 
 ## Items
-Nervios is a 
-[[Items]]
+Various unique items exist throughout the city and can be found throughout various missions. An extensive list of all items is in [[Items]]
+
 # Missions
 ___
 This campaign focuses on creating a modular and fine-tuned experience for the players. While certain missions are necessary for getting the group together and getting the party started, the rest of the campaign can and should be tailored to suit the needs/wants of the players.
 
 The current list of missions and their descriptions are shown below. The first three missions are integral to the story and worldbuilding and must occur before other missions. The final mission is interchangeable between [[Escape Ritual]] and [[Climbing The Nervios Eye]]. Both missions have [[#Foreshadowing]] elements that can be referenced at any point throughout the campaign.
 
-| Mission Title                                                                                   | Description                                                                                                                                                                                                                   | Timeline         | Mood/Vibe                 |
-| ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ------------------------- |
-| [[The Festival of Granite Rain]]*\*\* *                                                         | The intro to the campaign. The party meets during the annual Festival of Granite Rain: a celebration of the day the [[Nervios]] guards sealed the city gate to protect the citizens from the outside world.<br>               | Beginning        | Lighthearted              |
-| [[The Collapse of Central Stage]]*\*\* *                                                        | Following the Festival of Granite Rain, the party finds themselves trapped in an underground tunnel system following a massive sinkhole. Can they find their way out while navigating puzzles, darkness, and cryptic symbols? | Beginning        | Tense, Eerily comfortable |
-| [[Peaking in the Burrow]]*\*\* *                                                                | Following the events of The Collapse of Central Stage, the players find themselves in The Burrow: an underground marketplace where rebels and criminals prosper alike. This is the key to their return to the surface.        | Beginning        | Safe, Mysterious          |
-| [[We, Sentients]]                                                                               | While reminiscing on the past, an older sentient robot asks the party to help locate an old cache left behind by its creator.                                                                                                 | Middle           |                           |
-| [[The Trial]]                                                                                   | Your party is arrested by the Guards and accused of committing a great crime. The party must prove their innocence in the corrupt courts of Nervios where guilt is the assumption.                                            | Middle           | Tense,                    |
-| [[Aequorin’s Desalination]]                                                                     | The [[Church of Aequorism]] requires assistance performing a holy ritual<br>                                                                                                                                                  | Middle           |                           |
-| [[Costa Business]]                                                                              | A reputable fisherman requests extra hands on deck for a day of fishing.                                                                                                                                                      | Beginning/Middle | Relaxed                   |
-| [[Dead Don't Swim]]                                                                             | The party learns of a necromancer beneath the city. The soul of a victim pleads for the party to defeat the necromancer and free the souls in her possession.                                                                 | Middle           |                           |
-| [[Forbidden Text]]                                                                              | The party finds themselves in possession of an ancient religious text, predating even the old Religion of Nervios.                                                                                                            | Middle           | Mysterious                |
-| [[451 Leagues]]                                                                                 | Whispers of [[Sea Scribes of Umorism\|Umorism]] bubbles to the surface and the party meets an old [[Sea Scribes of Umorism#Sea Scribes\|Sea Scribe]] who needs help preserving the legacy of his religion.                    | Middle           |                           |
-| Ending Mission: ([[Climbing The Nervios Eye]] **OR** [[Escape Ritual\|Dose of Clarity]])*\*\* * | One last chapter written in the party's tales from Nervios, deciding how they wish to close this book.                                                                                                                        | End              | tense, mysterious         |
+| Mission Title                                                                                   | Description                                                                                                                                                                                                                   | Timeline   | Mood/Vibe                 |
+| ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------- |
+| [[The Festival of Granite Rain]]*\*\* *                                                         | The intro to the campaign. The party meets during the annual Festival of Granite Rain: a celebration of the day the [[Nervios]] guards sealed the city gate to protect the citizens from the outside world.<br>               | Beginning  | Lighthearted              |
+| [[The Collapse of Central Stage]]*\*\* *                                                        | Following the Festival of Granite Rain, the party finds themselves trapped in an underground tunnel system following a massive sinkhole. Can they find their way out while navigating puzzles, darkness, and cryptic symbols? | Beginning  | Tense, Eerily comfortable |
+| [[Peaking in the Burrow]]*\*\* *                                                                | Following the events of The Collapse of Central Stage, the players find themselves in The Burrow: an underground marketplace where rebels and criminals prosper alike. This is the key to their return to the surface.        | Beginning  | Safe, Mysterious          |
+| [[We, Sentients]]                                                                               | While reminiscing on the past, an older sentient robot asks the party to help locate an old cache left behind by its creator.                                                                                                 | Middle     | Whimsical                 |
+| [[Costa Business]]                                                                              | A reputable fisherman requests extra hands on deck for a day of fishing.                                                                                                                                                      | Middle     | Relaxed                   |
+| [[451 Leagues]]                                                                                 | Whispers of [[Sea Scribes of Umorism\|Umorism]] bubbles to the surface and the party meets an old [[Sea Scribes of Umorism#Sea Scribes\|Sea Scribe]] who needs help preserving the legacy of his religion.                    | Middle     | Lighthearted, Melancholy  |
+| [[Aequorin’s Desalination]]                                                                     | The [[Church of Aequorism]] requires assistance performing a holy ritual<br>                                                                                                                                                  | Middle     | Relaxed                   |
+| [[Dead Don't Swim]]                                                                             | The party learns of a necromancer beneath the city. The soul of a victim pleads for the party to defeat the necromancer and free the souls in her possession.                                                                 | Middle     | Spooky, Mysterious        |
+| [[Forbidden Text]]                                                                              | The party finds themselves in possession of an ancient religious text, predating even the old Religion of Nervios.                                                                                                            | Middle     | Mysterious                |
+| [[The Trial]]                                                                                   | Your party is arrested by the Guards and accused of committing a great crime. The party must prove their innocence in the corrupt courts of Nervios where guilt is the assumption.                                            | Middle/End | Tense                     |
+| Ending Mission: ([[Climbing The Nervios Eye]] **OR** [[Escape Ritual\|Dose of Clarity]])*\*\* * | One last chapter written in the party's tales from Nervios, deciding how they wish to close this book.                                                                                                                        | End        | Tense, Mysterious         |
 *"\*\*" is plot critical*
 
 ## Foreshadowing
@@ -141,3 +142,14 @@ To install the module, follow the instructions at [Installing a Module](https://
 
 Copy and paste this URL into the "Manifest URL" input at the bottom of the "Install Module" window. Then press "Install". 
 
+# Contributors
+___ 
+- Jeremiah Knowles - Project Director
+- Asteros Irons - Sound Designer
+- Aaron Kaltman - Cartographer
+- Briar Reass - Game Designer / Writer
+- Jesse Matyasovszky - Game Designer 
+- Ryan Luo - Game Designer
+- Savaan Tandon - Game Designer / Artist
+- Thomas Beardsley - Game Designer / Writer
+- Walker Chak - Game Designer / Writer

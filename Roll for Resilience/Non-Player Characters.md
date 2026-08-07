@@ -1,4 +1,4 @@
-Below is a list of all premade NPC's
+Below is a list of all premade NPC's that the players can encounter throughout various missions in [[Nervios]].
 - [[Abraham Costa]]
 - [[Adam Atkin]]
 - [[Aequorin]]
