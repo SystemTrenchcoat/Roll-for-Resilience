@@ -19,6 +19,9 @@ members:
     id: "[[Rebel Coin]]"
   - type: location
     id: "[[Nervios Tunnels]]"
+aliases:
+  - The Rebels
+  - The Rebellion
 ---
 # Description
 ___

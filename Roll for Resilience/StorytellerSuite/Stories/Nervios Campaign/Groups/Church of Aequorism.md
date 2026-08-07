@@ -28,6 +28,8 @@ group-relationships:
 pronunciation:
   - Aequorism (AE-KWOR-ISM)
   - Aequorin (AE-KWOR-IN)
+aliases:
+  - Aequorism
 ---
 # Description
 ___
