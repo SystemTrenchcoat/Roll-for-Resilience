@@ -11,7 +11,7 @@ Mourn the joys they were robbed of
 And scour the night sky for what our plights need
 
 >[!success] Solution
-> Each sentence of the clue has a word tied to a symbol on the wheel, indicating where in the sequence it needs to be activated. Ordering the clues should give the players the following sequence: 
+> Each line of the clue has a word tied to a symbol on the wheel, indicating where in the sequence it needs to be activated. Ordering the clues should give the players the following sequence: 
 > 
 > Eye, Hand, Tear, Crescent. 
 
