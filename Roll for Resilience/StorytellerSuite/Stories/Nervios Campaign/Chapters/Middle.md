@@ -6,3 +6,4 @@ id: mqgs4vujcnokpe
 ---
 
 ## Summary
+Players explore Nervios and learn the inner-mechanisms of the city.

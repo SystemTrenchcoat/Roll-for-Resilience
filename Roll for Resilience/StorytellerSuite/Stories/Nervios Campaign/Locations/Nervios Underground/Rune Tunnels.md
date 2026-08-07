@@ -29,7 +29,7 @@ In the center of the chamber, a broken piece of a wooden plank hums and glows si
 ## Chambers
 7 distinct chambers are connected by exceptionally dark and narrow tunnels. Each chamber appears visually similar: a dark room with a series of rune-door pairs that line the walls. Refer to [[#Chamber Paths]] for descriptions and solutions to each chamber. In order to progress to the next chamber, the players must use the [[#Plank of Wood]] to determine which rune/door is correct. If the party travels down an incorrect path, they are met with a trap. Refer to [[#Traps]] for determining trap outcomes. 
 
-![[StorytellerSuite/GalleryUploads/1783013420200_Tunnels_runePuzzle.png|800]]
+![[rune-tunnels-map.png|800]]
 
 # Puzzle
 ___
