@@ -28,4 +28,4 @@ The large and central port of [[Nervios]] located on the Southern edge of [[Nerv
 
 # History
 ___
-Rutmar Port became the economic hub of [[Nervios]] after [[The Day of Granite Rain]] when 
+Rutmar Port became the economic hub of [[Nervios]] after [[The Day of Granite Rain]] when all trade into and out of the city could only occur through the shipments through the ports.

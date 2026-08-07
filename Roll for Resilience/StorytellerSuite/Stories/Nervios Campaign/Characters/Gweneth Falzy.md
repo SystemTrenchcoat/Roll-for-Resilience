@@ -26,8 +26,5 @@ Gweneth is a Sea Scribe of Umorism, one of the oldest in the city. She spends mo
 - "If you're ever stuck out on the sea in a storm, make sure to tie up your sails and down your cargo and hold onto your mates. It's the Sea's test of your resilience and the bound of your ship."
 - "Every day on the sea is a new test; whether it be fair weather or storming, each one is important to your crews' survival."
 
-## Backstory
-
-
 # Mask
 Her mask is that or a swirling whirlpool, with no facial features besides the opening for her eyes. 

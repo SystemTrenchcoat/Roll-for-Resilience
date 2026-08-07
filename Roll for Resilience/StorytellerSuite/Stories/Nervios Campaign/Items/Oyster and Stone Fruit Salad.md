@@ -19,5 +19,3 @@ The dish is often served with a side or drizzle of "Gunther's special sauce", wh
 
 ## Cultural Significance
 A healthy dish for the small dwarf community within the walls of [[Nervios]].
-
-## Magic Properties
