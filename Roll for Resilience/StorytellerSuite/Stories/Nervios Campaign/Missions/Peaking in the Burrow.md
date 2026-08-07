@@ -107,13 +107,13 @@ The players each have one minute to decide what they do for their turn.
 
 If the players win the encounter, Gunther is grateful and gives them 15 gold a person, along with the food that Gweneth ordered. If they fail, Gunther only gives 3 gold a person This allows them to complete the chain of favors needed to get the package from the Rebels. 
 
-Gunther also doens't have many diverse opinions about people, mostly seeing every one as a customer and acts friendly towards them. He'll at best comment on how they 
+Gunther also doesn't have many diverse opinions about people, mostly seeing every one as a customer and acts friendly towards them. He'll at best comment on how they 
 
 # 4. The Fulfillment of the Chain
 As the players return all the orders and fulfill the chain, they can get some minor chatter between them and the player characters, thanking them for retrieving their requested items
 
 Once they get the package and return it to Bethia, she unwraps it and it’s a small music box that when unwrapped plays an eerie yet beautiful song. Then she goes, thanks *tosses it onto a nearby bin* (but not in a way that destroys it) it seems that y’all are trust worthy. I’ll help y’all get back top side, and if y’all ever want to come back, you can use this to open the path all easy like. Just make sure to drop some water in its eye first. *and it’s just the coin they got at the festival*
 
-If the players decide to peek into the box before giving it to Bethia, it starts playing a loud musical chime that reveals to her that the players aren’t trustworthy and she’ll only help them get back to the surface if they can win the fight pit. The enemies should be humanoid thugs and a medium challenge to the part. Bethia doesn't offer the party to come back after they win, stating they are band and any attempts to come back or tell the guards won't work.
+If the players decide to peek into the box before giving it to Bethia, it starts playing a loud musical chime that reveals to her that the players aren’t trustworthy and she’ll only help them get back to the surface if they can win the fight pit. The enemies should be humanoid thugs and a medium challenge to the part. Bethia doesn't offer the party to come back after they win, stating they are banned and any attempts to come back or tell the guards won't work.
 
 The path back to the surface leads the party up to the tavern, which has been emptied so that they can sneak out without being seen.

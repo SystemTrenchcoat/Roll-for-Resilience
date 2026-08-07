@@ -199,7 +199,7 @@ Compare the **Mast Score** and the **Helm Score**. Whichever value is higher gai
 ## Determining Innocence
 After all rounds of claims/counter-claims are finished, tally the number of **Mast Wins** and **Helm Wins**, then for each side, roll a number of D6 equal to the number of wins. Whichever side gets a higher total wins the case. If they tie, the Mast wins the case. 
 - ex) Arguments conclude with 4 Mast Wins and 2 Helm Wins. (4d6) = 9. (2d6) = 7. 9 > 7, so the Mast wins the case and proves their innocence!
-# 5. The Verdict -- W.I.P
+# 4. The Verdict -- W.I.P
 ___
 The trial comes to a close as arguments wrap up. Right as Gimil is about to announce the verdict, he is interrupted and convinced of an innocent sentence. The reason for the innocent sentence should be determined by the Gamemaster and teach a lesson in some way. Example reasons include:
 - Gimil is bribed by [[Bethia Tallowwind]], lead Smuggler of [[The Burrow]]. She won't allow the party to be sentenced for a crime they did not commit, especially since they are aware of the presence of The Burrow. Emphasizes the strength of interpersonal connections.
