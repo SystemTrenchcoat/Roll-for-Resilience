@@ -10,7 +10,7 @@ linkedCharacters:
 
 # Hook
 ___
-The church performs a ritual using the water granted to them graciously by Aequorin. Both parts of his bounty are to be enjoyed separately, and so they perform this dual-stage ritual for mortal bodies to handle the splendor of his seas.
+The [[Church of Aequorism]] performs a ritual using the water granted to them graciously by Aequorin. Both parts of his bounty are to be enjoyed separately, and so they perform this dual-stage ritual for mortal bodies to handle the splendor of his seas.
 
 - Players are ‘voluntold’ to help with the desalination ritual by being close to the church during the day when its not busy
 - A listing posted at Town Hall by Isabella reminds everyone that the church needs volunteers to help with another desalinization ritual

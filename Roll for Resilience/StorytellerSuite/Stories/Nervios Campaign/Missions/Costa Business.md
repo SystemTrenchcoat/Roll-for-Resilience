@@ -11,7 +11,7 @@ setupScenes:
 ---
 # Hook
 ___
-Abraham Costa, one of the reputable fishers in Nervios, needs more hands to help him with the day's work, despite usually having enough people to fill his boat.
+[[Abraham Costa]], one of the reputable fishers in Nervios, needs more hands to help him with the day's work, despite usually having enough people to fill his boat.
 # Story Beats
 ___
 ### 1. Learning the details

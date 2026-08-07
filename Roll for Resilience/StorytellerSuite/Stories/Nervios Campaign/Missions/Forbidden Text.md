@@ -15,7 +15,7 @@ linkedCharacters:
 
 # Hook
 ___
-A rumor started spreading throughout the city that someone has picked up an ancient text that washed ashore. Nobody  seems to know who started the rumor or who currently possesses the notebook. Somewhere, somehow, the party now has possession of the notebook.
+*A rumor started spreading throughout the city that someone has picked up an ancient text that washed ashore. Nobody  seems to know who started the rumor or who currently possesses the notebook. Somewhere, somehow, the party now has possession of the notebook.*
 # Story Beats
 ___
 ### 1. Discovery
