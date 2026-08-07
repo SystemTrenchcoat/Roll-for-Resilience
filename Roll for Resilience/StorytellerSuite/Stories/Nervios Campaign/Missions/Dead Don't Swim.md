@@ -94,7 +94,6 @@ If Nysaphia dies, have her body rapidly decompose and any reanimations remaining
 # Content
 ___
 ## Key NPCS
-
 - [[Lili Heartkeep]]
 - [[Nysaphia]]
 
