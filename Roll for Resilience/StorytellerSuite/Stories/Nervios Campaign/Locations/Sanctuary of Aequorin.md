@@ -1,3 +1,10 @@
+---
+aliases:
+  - The Cathedral
+  - Cathedral
+  - The Sanctuary
+---
+
 ## Description
 Gracing the cliff's edge of the eastern end of [[Nervios]], the Sanctuary of [[Aequorin]] is the magnificent house of worship for the [[Church of Aequorism]]. Its exterior covered in wonderous shades of blue, gray, and white, with the side lengths of the roof dotted by stained glass windows. Above the altars at sanctuary's center lies the ventilation, from which the impurities in the Desalination Ritual are returned to the clouds, and the blessed scent of the ocean wafts through for their sermons. Inside the sanctuary, half a dozen rows of pews furnish the main room, along with the aforementioned altars, pulpit platform, and columns.
 

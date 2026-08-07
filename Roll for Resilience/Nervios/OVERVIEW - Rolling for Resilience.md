@@ -3,6 +3,21 @@ ___
 This note explains how to run the campaign, as well how to navigate this Obsidian Vault. 
 ## [[The City of Nervios - An Introduction]]
 The note above explains the general lore and history of [[Nervios]], as well as descriptions of the various groups within the city.
+
+# Navigating the Obsidian
+___
+## Missions
+The various missions are linked and shown below in [[#Missions]]. The majority of the missions are modular and can fit at any point in the campaign, depending on the will of the Gamemaster.
+
+A mission note begins with a narrative hook that can be used to connect the previous mission to the current one, and build a foundation for the events of the mission. The hook is followed by a variable number of Story Beats: chapters of the mission with different locations, encounters, or specific descriptions. The bottom of the note lists the Key NPCs, Key Items, Key Locations, and core mechanics of the mission.
+## Characters
+Various NPCS live in the city of [[Nervios]]. A list of all characters is in [[Non-Player Characters]].
+
+## Locations
+[[Nervios]] is a bustling city with many unique locations. Different missions are generally set at different places. An extensive list of all locations is in [[Locations]].
+
+## Items
+
 # Missions
 ___
 This campaign focuses on creating a modular and fine-tuned experience for the players. While certain missions are necessary for getting the group together and getting the party started, the rest of the campaign can and should be tailored to suit the needs/wants of the players.
@@ -116,19 +131,12 @@ Roll on this table for lore pertaining to [[Church of Aequorism]] or [[Sea Scrib
 | 9   | You see a child ask a [[Church of Aequorism#*Sea Soother*\|Sea Soother]] to desalinate and purify some water for them. The clergyman performs a small ritual in the name of Aequorin and the child leaves with a bright smile. |
 | 10  | A man walks past you, sopping wet and coughing. He was recently cleansed by [[Church of Aequorism#Drenching\|Drenching]] by the [[Church of Aequorism#The Spear of Divinity\|The Spear of Divinity]] at the great Cathedral.   |
 
-# Navigating the Obsidian
-___
-## Missions
-The various missions are linked and shown above in [[#Missions]]. The majority of the missions are modular and can fit at any point in the campaign, depending on the will of the Gamemaster.
-
-A mission note begins with a narrative hook that can be used to connect the previous mission to the current one, and build a foundation for the events of the mission. The hook is followed by a variable number of Story Beats: chapters of the mission with different locations, encounters, or specific descriptions. The bottom of the note lists the Key NPCs, Key Items, Key Locations, and core mechanics of the mission.
-## Characters
-Various NPCS live in the city of [[Nervios]]. A list of all characters is in [[Non-Player Characters]].
-
-## Locations
-
-## Items
-
 # Foundry
 ___
-A foundry compendium is located [[|here]]. It can be moved and installed into foundry and contains multiple maps, characters, and scenes to interact with the world of Nervios.
+If you have access or purchased [FoundryVTT](https://foundryvtt.com), you can import a custom module containing premade scenes that allow for immersive and interactive digital environments throughout Nervios. 
+
+To install the module, follow the instructions at [Installing a Module](https://foundryvtt.com/article/modules/#:~:text=Installing%20New%20Modules) for installing via a **manifest url**. The Manifest URL for this campaign is: 
+> https://github.com/PenguinFlames/dev-rfr-s/releases/download/1.3.0-beta/module.json
+
+Copy and paste this URL into the "Manifest URL" input at the bottom of the "Install Module" window. Then press "Install". 
+
