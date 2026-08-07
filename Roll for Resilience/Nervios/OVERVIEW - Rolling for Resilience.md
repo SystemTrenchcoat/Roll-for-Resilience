@@ -17,7 +17,8 @@ Various NPCS live in the city of [[Nervios]]. A list of all characters is in [[N
 [[Nervios]] is a bustling city with many unique locations. Different missions are generally set at different places. An extensive list of all locations is in [[Locations]].
 
 ## Items
-
+Nervios is a 
+[[Items]]
 # Missions
 ___
 This campaign focuses on creating a modular and fine-tuned experience for the players. While certain missions are necessary for getting the group together and getting the party started, the rest of the campaign can and should be tailored to suit the needs/wants of the players.

@@ -2,6 +2,8 @@
 entityType: item
 name: Malachi's Memoir
 isPlotCritical: true
+location:
+  - "[[The Nervios Eye|The Spire]]"
 ---
 
 # Description
