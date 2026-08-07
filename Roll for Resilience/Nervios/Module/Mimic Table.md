@@ -1,7 +1,6 @@
 
 Mimics can be more than simple chests. If you are ever in a position to send you party an unpleasant surprise, please feel free to use this chart:
 
-
 | 1d8 | Mimic Form       |
 | --- | ---------------- |
 | 1   | A treasure chest |

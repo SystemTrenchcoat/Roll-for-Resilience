@@ -8,20 +8,63 @@
         "type": "tabs",
         "children": [
           {
-            "id": "04c964aa945e0f2d",
+            "id": "8d01699c781bdb17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sunderwin.md",
+                "file": "The City of Nervios - An Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sunderwin"
+              "title": "The City of Nervios - An Introduction"
+            }
+          },
+          {
+            "id": "92dbb2cb06bc42a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nervios/Items.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Items"
+            }
+          },
+          {
+            "id": "f843d5f9877cd371",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nervios/Items.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Items"
+            }
+          },
+          {
+            "id": "be825a98d7bb6d92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "--README--.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "--README--"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -96,6 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "--README--.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "--README--.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -156,22 +201,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "StorytellerSuite/Stories/Nervios Campaign/Characters/Kymil Rokian.md",
+                "file": "--README--.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Kymil Rokian"
+              "title": "Outline"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 600.5,
-    "collapsed": true
+    "width": 294.1666259765625
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,42 +224,39 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "04c964aa945e0f2d",
+  "active": "646e895bc4fb2fe0",
   "lastOpenFiles": [
-    "Non-Player Characters.md",
-    "Unique Mechanics/We Sentients/Rotating Hand Puzzle.md",
-    "Unique Mechanics/The Festival of Granite Rain/The Wheel of Purity - Interactive.md",
-    "Unique Mechanics/The Festival of Granite Rain/The Wheel of Purity.md",
-    "Unique Mechanics/The Festival of Granite Rain/Hidden Key Puzzle.md",
-    "Unique Mechanics/The Festival of Granite Rain/Rebel Coin Puzzle.md",
-    "Unique Mechanics/The Festival of Granite Rain/Color Cipher.md",
-    "Unique Mechanics/The Festival of Granite Rain/Boulder Climb.md",
-    "Unique Mechanics/HTMLInteractables/README.md",
-    "Unique Mechanics/HTMLInteractables/WheelOfPurityHTML/index.html",
-    "Unique Mechanics/HTMLInteractables/WheelOfPurityHTML/imgs/wheelOfPurity_outside.png",
-    "Unique Mechanics/HTMLInteractables/WheelOfPurityHTML/imgs/wheelOfPurity_redArrow.png",
-    "Unique Mechanics/HTMLInteractables/WheelOfPurityHTML/imgs/wheelOfPurity_middle.png",
-    "Unique Mechanics/HTMLInteractables/WheelOfPurityHTML/imgs/wheelOfPurity_inside.png",
-    "Unique Mechanics/Escape Ritual/Trial of Resolute Soul.md",
-    "Unique Mechanics/Dead dont Swim/Divergent rooms puzzle.md",
-    "Unique Mechanics/Dead dont Swim/Crypt puzzle.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Missions/We, Sentients.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Missions/The Trial.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Missions/The Festival of Granite Rain.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Missions/The Collapse of Central Stage.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Missions/Peaking in the Burrow.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Missions/Mission Template.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Missions/Forbidden Text.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Missions/Dead Don't Swim.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Missions/Escape Ritual.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Missions/Costa Business.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Missions/Climbing The Nervios Eye.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Missions/Aequorin’s Desalination.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Missions/451 Leagues.md",
-    "StorytellerSuite/Stories/Nervios Campaign/Locations/Wavecrest Market.md",
+    "The City of Nervios - An Introduction.md",
+    "OVERVIEW - Rolling for Resilience.md",
+    "--README--.md",
+    "Nervios/Items.md",
+    "Nervios/Locations.md",
+    "Nervios/Module/Mimic Table.md",
+    "Nervios/Module/Narrative.md",
+    "Nervios/Module/DM Tools.md",
+    "Nervios/Module/Mechanics.md",
+    "Nervios/Module/Factions.md",
+    "Nervios/Module/Constraints.md",
+    "Nervios/Module/Backgrounds.md",
+    "Nervios/Worldbuilding/Spore Blight.md",
+    "Nervios/Worldbuilding/Rebellion Symbol.md",
+    "Nervios/Worldbuilding/Setting.md",
+    "Nervios/Worldbuilding/Economy.md",
+    "Nervios/Worldbuilding/History.md",
+    "Nervios/Worldbuilding/Government.md",
+    "Nervios/Worldbuilding/Crimes of Nervios.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Locations/Sunderwin.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Locations/Serenetti Castle.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Locations/Sanctuary of Aequorin.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Locations/Merrene Manor.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Groups/Merrene Family.md",
+    "StorytellerSuite/Stories/Nervios Campaign/Characters/Spandam Collins.md",
+    "Nervios/Non-Player Characters.md",
+    "Untitled",
     "Unique Mechanics/Dead dont Swim",
     "StorytellerSuite/Stories/Nervios Campaign/Missions",
     "Untitled.canvas",
@@ -233,6 +273,9 @@
     "StorytellerSuite/Stories/Nervios Campaign/MagicSystems",
     "StorytellerSuite/Stories/Nervios Campaign/Economies",
     "StorytellerSuite/Stories/Nervios Campaign/Cultures",
-    "Images/Festival of Granite Rain/trident_sliding_puzzle_1.jpg"
+    "Images/Festival of Granite Rain/trident_sliding_puzzle_1.jpg",
+    "Images/Festival of Granite Rain/trident_sliding_puzzle_8.jpg",
+    "Images/Festival of Granite Rain/wheelOfTruth.png",
+    "Pasted image 20260615132431.png"
   ]
 }
